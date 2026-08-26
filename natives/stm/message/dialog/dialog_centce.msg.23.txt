@@ -1,0 +1,234 @@
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>OK, Sherry, I've hit the barricade.
+<string>Looks like someone else was here first...
+<string>And they were planning on busting their way in.
+<string>Know a way around?
+<string>The Army Corps of Engineers<lf>erected it to seal the city.
+<string>It goes on for miles.
+<string>Guess the only way in is through then.
+<string>
+<string>Now whose camp is this?
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Sherry, there's an old BSAA camp here.
+<string>Place is trashed.
+<string>Looks like they left in a hurry.
+<string>What were the BSAA doing in Raccoon City?
+<string>Interesting.
+<string>What is it?
+<string>The computer's not locked.
+<string>And they were also headed<lf>to the center of Raccoon City.
+<string>Interesting too...
+<string>That reminds me.
+<string>I dug a little deeper in the Pentagon's<lf>database, and I noticed...
+<string>something's missing.
+<string>What's that?
+<string>There's no record of anyone ordering<lf>the missile strike on Raccoon City.
+<string>Well if not them, then who?
+<string>Leon triggered the alarm.
+<string>Looks like your campaign to make the DSO<lf>stand down really didn't work, Zeno.
+<string>I'll leave this matter to you, then.
+<string>
+<string>I should check the camp some more.
+<string>
+<string>Strange. Where are all the bodies?
+<string>
+<string>Busted. I'll have to shoot it down.
+<string>
+<string>Bad news, Sherry, this place<lf>is overrun with zombies.
+<string>What? That's impossible. They should've<lf>all been wiped out by the missile.
+<string>Yeah. They should've.
+<string>
+<string>There should be a part for the detonator<lf>somewhere around here.
+<string>
+<string>I should check around here first.
+<string>
+<string>Sherry, found the distributor. Two more parts<lf>and I can jerry-rig the detonator for that gate.
+<string>Great. Can you see any more from your position?
+<string>
+<string>Another BSAA camp... That should<lf>have the signal receiver.
+<string>
+<string>The relay's over there, huh?<lf>That should be a fun trip.
+<string>
+<string>Got the location for those parts.<lf>Going to collect them now.
+<string>OK. I'll look into the BSAA in the meantime.
+<string>
+<string>The battery should be in this room.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>I'll need some kind of bridge to get over there.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>We encountered three infected<lf>and eliminated them.
+<string>That's correct, sir. Do we proceed?
+<string>So the rumors were true.
+<string>What rumors?
+<string>The missile wasn't just<lf>about stopping the spread.
+<string>Don't be ridiculous.
+<string>Affirmative.
+<string>Listen up!
+<string>Our objective hasn't changed.
+<string>We rendezvous with the advance party in<lf>the center of Raccoon City, then head for ARK.
+<string>Our mission is to retrieve Elpis.
+<string>Move out!
+<string>Man down! Man down!
+<string>Return fi—
+<string>Contact left! Contact left!
+<string>Ah! Jesus fuck!
+<string>
+<string>Where is he? I'm fucking blind here!
+<string>Oh god! Oh, my fucking leg!
+<string>Fuck! Get cover! Get cover!
+<string>Please, help me!
+<string>Holy shit.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>I thought I had a short fuse.
+<string>What are we doing here?
+<string>All in good time. You'll see.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Sent some footage your way, Sherry.
+<string>What the hell?
+<string>The guy at the end. White suit.<lf>Can you find anything on him?
+<string>Yeah, hold on.
+<string>The database is coming up empty.
+<string>So there are ghosts involved with Elpis, too.
+<string>
+<string>Gotta fill this up.
+<string>
+<string>Let me guess, you must be the town lumberjack.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Don't mind if I do.
+<string>
+<string>Alright.
+<string>
+<string>Damn, they brought in the big guns.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>One of the parts should be just up here.
+<string>
+<string>Alright, I can use that.
+<string>
+<string>Beautiful. Just need to get through that gate.
+<string>
+<string>Found the signal receiver...<lf>or at least what's left of it.
+<string>OK. One component left.<lf>By the way...
+<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
+<string>It appears the North American branch<lf>has been moving independently.
+<string>Heard they had an internal dispute...<lf>Think it's related?
+<string>That's all I've got. There's been an increase<lf>in government surveillance.
+<string>Looks like my fan base is growing.
+<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>
+<string>Found the signal receiver...<lf>Shit, it's broken.
+<string>Can you fix it?
+<string>I'll see what I can do.
+<string>
+<string>Sherry, got the signal receiver.
+<string>OK. One component left.<lf>By the way...
+<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
+<string>It appears the North American branch<lf>has been moving independently.
+<string>Heard they had an internal dispute...<lf>Think it's related?
+<string>That's all I've got. There's been an increase<lf>in government surveillance.
+<string>Looks like my fan base is growing.
+<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>
+<string>Sherry, got the signal receiver.
+<string>Great work. Time to head back to the gate<lf>and put it all together.
+<string>That's the plan.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Need to figure out how to get over there.
+<string>
+<string>Damn it.
+<string>
+<string>Oh fuck.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Time to find a way up.
+<string>
+<string>OK, let's find those detonator parts.
+<string>
+<string>Picked up the relay.
+<string>OK. One component left.<lf>By the way...
+<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
+<string>It appears the North American branch<lf>has been moving independently.
+<string>Heard they had an internal dispute...<lf>Think it's related?
+<string>That's all I've got. There's been an increase<lf>in government surveillance.
+<string>Looks like my fan base is growing.
+<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>
+<string>Picked up the relay.
+<string>Great job. Now to get through that gate.
+<string>Yeah. Just gotta figure out how to get<lf>down from here first.
+<string>
+<string>Picked up the relay.
+<string>Were you able to fix that broken part?
+<string>Not yet. I need a tool or something for it.
+<string>
+<string>That'll get me down.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Now for the other side.
+<string>
+<string>Hopefully this thing still works.
+<string>
+<string>Now what?
+<string>
+<string>You'll have to take the next one.
+<string><Sound Team ID>
+<string>
+<string>Oh no.
+<string>
+<string>This is my lucky day.
+<string>
+<string>That took longer than planned.
+<string>Luckily I found a bike—it should<lf>make up for lost time.
+<string>Great, you'll need it. It's 15 miles<lf>to the city center on the 419.
+<string>
+<string>Hey, Leon. Do you still think<lf>about what happened there?
+<string>Every day.
+<string>That night, I was just a kid.<lf>Scared and confused...
+<string>I imagine Grace must feel the same right now.
+<string>Sherry...
+<string>Sorry. This isn't the time, we need to focus.
+<string><Sound Team ID>
+<string>
+<string>

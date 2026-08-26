@@ -1,0 +1,310 @@
+<string>Initial Settings
+<string>OPTIONS
+<string>This option cannot currently be changed.
+<string>This option can only be changed from the main menu.
+<string>Keyboard and mouse controls<lf>are not supported in this demo.
+<string>(Keyboard and mouse controls are not supported in this demo.)
+<string>Basic Settings
+<string>Character Controls
+<string>Movement Type
+<string>Change the default movement.<lf><lf>Walk: Basic input will be to walk.<lf>Run: Basic input will be to run.<lf><lf>(Default: Walk)
+<string>Walk
+<string>Run Type
+<string>Change the run control settings.<lf><lf>Toggle: Press the button to run/stop running.<lf>Hold: Hold the button to run.<lf><lf>(Default: Toggle)
+<string>Change the run control settings.<lf><lf>Toggle: Press the button to run/stop running.<lf>Hold: Hold the button to run.<lf><lf>(Default: Toggle)
+<string>Change the run control settings.<lf><lf>Toggle: Press the button to run/stop running.<lf>Hold: Hold the button to run.<lf><lf>(Default: Toggle)
+<string>Walk Type
+<string>Change the walk control settings.<lf><lf>Toggle: Press the button to walk/stop walking.<lf>Hold: Hold the button to walk.<lf><lf>(Default: Toggle)
+<string>Change the walk control settings.<lf><lf>Toggle: Press the button to walk/stop walking.<lf>Hold: Hold the button to walk.<lf><lf>(Default: Toggle)
+<string>Change the walk control settings.<lf><lf>Toggle: Press the button to walk/stop walking.<lf>Hold: Hold the button to walk.<lf><lf>(Default: Toggle)
+<string>Repeated Input Type
+<string>Change the method for repeated input actions.<lf><lf>Tap Repeatedly: Tap the button.<lf>Hold: Hold the button.<lf><lf>(Default: Tap Repeatedly)
+<string>Change the method for repeated input actions.<lf><lf>Tap Repeatedly: Tap the button.<lf>Hold: Hold the button.<lf><lf>(Default: Tap Repeatedly)
+<string>Change the method for repeated input actions.<lf><lf>Tap Repeatedly: Tap the button.<lf>Hold: Hold the button.<lf><lf>(Default: Tap Repeatedly)
+<string>When Aiming
+<string>Set the aim assist type.<lf><lf>When starting a new game, Casual mode will be set<lf>to "Aim Follow." Standard (Modern) and Standard (Classic)<lf>modes will be set to "Off." You can change these settings<lf>after starting the main story.<lf><lf>Note: Certain parts of the game have fixed settings.
+<string>Aim Snap
+<string>Aim Follow
+<string>Reticle Deceleration
+<string>Adjust how much the reticle slows down<lf>when it's over a target.
+<string>Assist Level
+<string>Adjust the level of aim assist.
+<string>Reset Scope Magnification
+<string>Turn the scope magnification reset after<lf>aiming on/off.<lf><lf>(Default: Off)
+<string>Dot Sight Perspective
+<string>Turn on/off the function that switches from third-<lf>to first-person perspective when aiming a weapon<lf>with a dot sight attached.<lf><lf>(Default: On)
+<string>Infinite Weapons
+<string>Infinite Hatchet Durability
+<string>Set hatchet durability to infinite.<lf><lf>(Default: Off)
+<string>Infinite Gun Ammo
+<string>Set gun ammo to infinite.<lf><lf>(Default: Off)
+<string>Infinite RPG-7 Ammo
+<string>Set RPG-7 ammo to infinite.<lf><lf>(Default: Off)
+<string>Controller
+<string>Controller
+<string>Controller
+<string>Button Settings
+<string>Button Settings
+<string>Button Settings
+<string>Controller Configuration
+<string>Check the controller configuration.<lf>A dedicated screen will open when selected.
+<string>Button Configuration
+<string>Button Configuration
+<string>Button Configuration
+<string>Change the controller's button assignments.<lf>A dedicated screen will open when selected.
+<string>Change the controller's button assignments.<lf>A dedicated screen will open when selected.
+<string>Change the controller button assignments.<lf>A dedicated screen will open when selected.
+<string>Function Settings
+<string>Controller Vibration
+<string>Controller Vibration
+<string>Rumble
+<string>Turn controller vibration on/off.<lf><lf>(Default: On)
+<string>Set the controller vibration intensity.<lf><lf>(Default: Normal)
+<string>Set the controller rumble intensity.<lf><lf>(Default: Normal)
+<string>Turn the trigger effect function while attacking on/off.<lf><lf>(Default: On)<lf>
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS>
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW>
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B><lf><lf>These icons may differ from those shown in the game<lf>depending on your Steam controller settings.
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS><lf><lf>These icons may differ from those shown in the game<lf>depending on your Steam controller settings.
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW><lf><lf>These icons may differ from those shown in the game<lf>depending on your Steam controller settings.
+<string>Stick Input
+<string>Stick Input
+<string>Stick Input
+<string>Deadzone and Sensitivity
+<string>Set the tilt range (deadzone) that disables<lf>stick operation and the reaction speed of the<lf>tilt (sensitivity curve).
+<string>Set the tilt range (deadzone) that disables<lf>stick operation and the reaction speed of the<lf>tilt (sensitivity curve).
+<string>Set the tilt range (deadzone) that disables<lf>control stick operation and the reaction speed<lf>of the tilt (sensitivity curve).
+<string><ICON LS_FIX> Deadzone
+<string>Set the tilt range (deadzone) that disables<lf>left stick operation.<lf><lf>The larger the value, the more the stick must<lf>be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string>Set the tilt range (deadzone) that disables<lf>left stick operation.<lf><lf>The larger the value, the more the stick must<lf>be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string>Set the tilt range (deadzone) that disables<lf>Left Stick operation.<lf><lf>The larger the value, the more the control stick<lf>must be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string><ICON RS_FIX> Deadzone
+<string>Set the tilt range (deadzone) that disables<lf>right stick operation.<lf><lf>The larger the value, the more the stick must<lf>be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string>Set the tilt range (deadzone) that disables<lf>right stick operation.<lf><lf>The larger the value, the more the stick must<lf>be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string>Set the tilt range (deadzone) that disables<lf>Right Stick operation.<lf><lf>The larger the value, the more the control stick<lf>must be tilted to react. The smaller the value,<lf>the less tilt is needed for the stick to react.<lf><lf>Check the input sensitivity using the figures<lf>on the right.
+<string><ICON RS_FIX> Sensitivity Curve Type
+<string>Set the reaction speed pattern for the tilt<lf>of the right stick.
+<string>Set the reaction speed pattern for the tilt<lf>of the right stick.
+<string>Set the reaction speed pattern for the tilt<lf>of the Right Stick.
+<string>Linear
+<string>Standard
+<string>Smooth
+<string>Original
+<string>Analogue
+<string>Stick Input
+<string>Stick Input
+<string>Stick Input
+<string>Modified Sensitivity
+<string>Keyboard Settings
+<string>Key Configuration
+<string>Change the keyboard and mouse button assignments.<lf>A dedicated screen will open when selected.
+<string>Keyboard Type
+<string>Set the type of keyboard that will be reflected<lf>in operation guides and other displays. Select<lf>the one that matches your keyboard, or the<lf>closest option.
+<string>JIS (Japanese)
+<string>QWERTY (English)
+<string>AZERTY (French)
+<string>QWERTZ (German)
+<string>Mouse Settings
+<string>Keyboard and Mouse Settings
+<string><ICON R_D>
+<string><ICON R_R>
+<string><ICON R_L>
+<string><ICON R_U>
+<string><ICON LT_T>
+<string><ICON LT_B>
+<string><ICON RT_T>
+<string><ICON RT_B>
+<string><ICON LS>
+<string><ICON LS_P>
+<string><ICON RS>
+<string><ICON RS_P>
+<string><ICON C_L>
+<string><ICON POV>
+<string><ICON LS_D><ICON PLUS><ICON R_D>
+<string><ICON LS_D><ICON PLUS><ICON R_R>
+<string><ICON C_R>
+<string><ICON POV_U>
+<string><ICON POV_DLR>
+<string><ICON LS_D>
+<string><ICON PLUS>
+<string><ICON TP_CLICK>
+<string><ICON LSL>
+<string><ICON LSR>
+<string><ICON RSL>
+<string><ICON RSR>
+<string>Perspective and Camera
+<string>Leon's Camera
+<string>Change Leon's camera perspective.<lf>A dedicated screen will open when selected.<lf><lf>(Default: Third-person)
+<string>Grace's Camera
+<string>Change Grace's camera perspective.<lf>A dedicated screen will open when selected.<lf><lf>(Default: First-person)
+<string>Chloe's Camera
+<string>Change Chloe's camera perspective.<lf>A dedicated screen will open when selected.<lf><lf>(Default: First-person)
+<string>Perspective
+<string>Change the character's perspective.<lf>A dedicated screen will open when selected.<lf><lf>(Default: First-person)
+<string>First-person
+<string>Third-person
+<string>Camera Wobble
+<string>Adjust the camera wobble intensity (the amount<lf>the screen shakes).<lf><lf>Adjusting this setting may help reduce motion sickness.<lf><lf>Note: This setting only applies to first-person perspective.<lf><lf>(Default: 10)
+<string>Camerawork
+<string>Normal Gameplay
+<string>When Aiming
+<string>Camera Inversion
+<string>Change the direction the camera moves<lf>in normal gameplay.<lf><lf>None: Move the camera in the direction you input.<lf>Invert Y-axis: Only vertical movements are inverted.<lf>Invert X-axis: Only horizontal movements are inverted.<lf>Invert X and Y axes: All movements are inverted.<lf><lf>(Default: None)
+<string>Change the direction the camera moves<lf>when aiming.<lf><lf>None: Move the camera in the direction you input.<lf>Invert Y-axis: Only vertical movements are inverted.<lf>Invert X-axis: Only horizontal movements are inverted.<lf>Invert X and Y axes: All movements are inverted.<lf><lf>(Default: None)
+<string>None
+<string>Y-axis Camera Speed
+<string>Adjust the vertical camera speed for normal<lf>gameplay. The higher the value, the faster<lf>it moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the vertical camera speed for normal gameplay.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting is the same for mouse and controller.
+<string>Adjust the vertical camera speed when aiming.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the vertical camera speed when aiming.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting is the same for mouse and controller.
+<string>X-axis Camera Speed
+<string>Adjust the horizontal camera speed for normal<lf>gameplay. The higher the value, the faster<lf>it moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the horizontal camera speed for normal gameplay.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting is the same for mouse and controller.
+<string>Adjust the horizontal camera speed when aiming.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the horizontal camera speed when aiming.<lf>The higher the value, the faster the camera moves.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting is the same for mouse and controller.
+<string>Camera Acceleration
+<string>Adjust the camera acceleration for normal<lf>gameplay. The higher the value, the faster<lf>the acceleration.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the camera acceleration for normal gameplay.<lf>The higher the value, the faster the acceleration.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting does not affect camera settings when<lf>using a mouse.
+<string>Adjust the camera acceleration when aiming.<lf>The higher the value, the faster the acceleration.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the camera acceleration when aiming.<lf>The higher the value, the faster the acceleration.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting does not affect camera settings when<lf>using a mouse.
+<string>Camera Deceleration
+<string>Adjust the camera deceleration for normal<lf>gameplay. The higher the value, the faster<lf>the camera stops.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the camera deceleration for normal gameplay.<lf>The higher the value, the faster the camera stops.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting does not affect camera settings when<lf>using a mouse.
+<string>Adjust the camera deceleration when aiming.<lf>The higher the value, the faster the camera stops.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.
+<string>Adjust the camera deceleration when aiming.<lf>The higher the value, the faster the camera stops.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>This setting does not affect camera settings when<lf>using a mouse.
+<string>Motion Sensor Function
+<string>Motion Controls
+<string>The camera when aiming will move based<lf>on the controller's motion sensor function.<lf><lf>(Default: Off)
+<string>The camera when aiming will move based<lf>on the motion controls of the controller.<lf><lf>(Default: Off)
+<string>Horizontal Sensitivity
+<string>Adjust the horizontal sensitivity<lf>for the motion sensor function.<lf><lf>The farther right the cursor is,<lf>the higher the sensitivity.<lf><lf>The leftmost position reduces<lf>the sensitivity to zero.
+<string>Adjust the horizontal sensitivity<lf>for motion controls.<lf><lf>The farther right the cursor is,<lf>the higher the sensitivity.<lf><lf>The leftmost position reduces<lf>the sensitivity to zero.
+<string>Vertical Sensitivity
+<string>Adjust the vertical sensitivity<lf>for the motion sensor function.<lf><lf>The farther right the cursor is,<lf>the higher the sensitivity.<lf><lf>The leftmost position reduces<lf>the sensitivity to zero.
+<string>Adjust the vertical sensitivity<lf>for motion controls.<lf><lf>The farther right the cursor is,<lf>the higher the sensitivity.<lf><lf>The leftmost position reduces<lf>the sensitivity to zero.
+<string>HUD
+<string>HUD
+<string>HUD Size
+<string>Change the HUD size when controlling<lf>the character.<lf><lf>(Default: Standard)
+<string>Menu Text Size
+<string>Change the size of the text and icons found<lf>on menu screens.<lf><lf>(Default: Standard)
+<string>Health Gauge
+<string>Turn the health gauge display on/off.<lf><lf>(Default: On)
+<string>Notification Display
+<string>Turn the notification display on/off.<lf><lf>(Default: On)
+<string>Tutorial Messages
+<string>Turn the tutorial display on/off.<lf><lf>(Default: On)
+<string>Item Pop-up
+<string>Change whether items will show a pop-up<lf>when acquiring them for the first time.<lf><lf>(Default: All Items)
+<string>All Items
+<string>Important Items Only
+<string>Turn the reticle display on/off.<lf><lf>(Default: On)
+<string>Turn the dot on the center of the screen on/off.<lf>(Hidden during cutscenes and while aiming.)<lf>Note: Adjusting this setting may help reduce<lf>motion sickness.<lf><lf>(Default: Off)
+<string>Reticle/Center Dot Color
+<string>Change the color of the reticle and center dot.<lf><lf>(Default: White)
+<string>Scope/Dot Sight Center Color
+<string>Change the center color of the scope or dot sight.<lf><lf>(Default: Red)
+<string>Set the screen filter.<lf><lf>(Default: No Filter)
+<string>No Filter
+<string>Film Noir
+<string>Apocalypse
+<string>Display
+<string>Image
+<string>Action (Frame Rate)
+<string>Visuals (Resolution)
+<string>Adjust the brightness of the screen.<lf>A dedicated screen will open when selected.
+<string>Max Brightness
+<string>Min Brightness
+<string>Brightness
+<string>Max Brightness (HDR)
+<string>Brightness (HDR)
+<string>Min Brightness (HDR)
+<string>Adjust until the pattern is no longer visible.
+<string>Adjust while facing the screen head-on.
+<string>Darker
+<string>Brighter
+<string>Adjust until the left pattern is just barely visible and<lf>the right pattern is no longer visible.
+<string>Adjust the screen to your preferred brightness.
+<string>Barely Visible
+<string>Not Visible
+<string>HDR Mode is currently enabled.
+<string>SDR Mode is currently enabled.
+<string>Adjust the size of your screen's display area.<lf>A dedicated screen will open when selected.
+<string>Adjust the rectangle to match the size of your screen.
+<string><ICON CURSOR_UP>Increase
+<string><ICON CURSOR_DOWN>Decrease
+<string>Motion Blur
+<string>Turn motion blur on/off.<lf><lf>Note: Adjusting this setting may help reduce<lf>motion sickness. Motion blur is only utilized<lf>in cutscenes and certain parts of the game.<lf><lf>(Default: On)
+<string>Volume
+<string>Adjust the overall volume.<lf><lf>(Default: 10)
+<string>Adjust the sound effects volume.<lf><lf>(Default: 10)
+<string>Adjust the music volume.<lf><lf>(Default: 10)
+<string>Adjust the menu sound volume.<lf><lf>(Default: 10)
+<string>Adjust the voice volume.<lf><lf>(Default: 10)
+<string>Output
+<string>Audio Device
+<string>Adjust the combination of dynamic range<lf>and speaker angles to suit your audio device.<lf>You can also change each item individually.
+<string>Surround Sound Headphones
+<string>Dynamic Range
+<string>Change the dynamic range (difference between minimum<lf>and maximum volume). A narrow range makes it easier to<lf>hear all sounds (even quiet ones), while a wide range offers<lf>more accurate depictions of all sounds.<lf><lf>Night Mode → Narrow → Normal → Wide
+<string>Narrow
+<string>Normal
+<string>Wide
+<string>Night Mode
+<string>Speaker Orientation
+<string>Front (FL/FR)
+<string>Adjust the orientation of the front speakers.
+<string>Surround (SL/SR)
+<string>Adjust the orientation of the surround speakers.
+<string>Surround Back (SBL/SBR)
+<string>Adjust the orientation of the surround back speakers.
+<string>3D Audio
+<string>Shows if 3D audio is turned on/off.<lf><lf>This setting changes automatically<lf>depending on your environment.
+<string>Object-based Audio
+<string>Shows if object-based audio is turned on/off.<lf>This setting changes automatically<lf>depending on your environment.
+<string>Sound Reverberation
+<string>Turn sound reverberation on/off.<lf><lf>Note: Turning this setting on can make it easier<lf>to get a sense of distance and space.<lf><lf>(Turn this setting off if you experience issues<lf>such as static or sound cutting out.)<lf><lf>(Default: Off)
+<string>Controller Speaker
+<string>Turn controller speaker sound on/off.<lf><lf>(Default: On)
+<string>Turn controller speaker sound on/off.
+<string>Language
+<string>Subtitles
+<string>Turn subtitles on/off.<lf><lf>(Default: On)
+<string>Turn closed captions on/off.<lf><lf>(Default: Off)
+<string>Closed Captions Subtitle Color
+<string>Change the color of closed caption subtitles.<lf><lf>(Default: White)
+<string>Change the size of subtitles.<lf><lf>(Default: Standard)
+<string>Turn the background for subtitles on/off.<lf><lf>(Default: Off)
+<string>Change the color of subtitles.<lf><lf>(Default: White)
+<string>Turn the speaker's name in subtitles on/off.<lf><lf>(Default: Off)
+<string>Change the color of speaker names.<lf><lf>(Default: White)
+<string>Presets
+<string>Visual Accessibility
+<string>Selecting the visual accessibility preset<lf>will change the following settings:<lf><lf><BOLD>HUD</BOLD><lf>- HUD Size: Large<lf>- Menu Text Size: Large<lf><lf><BOLD>Language</BOLD><lf>- Subtitle Size: Large<lf>- Subtitle Background: On<lf><lf>The following options are also available:<lf><lf><BOLD>HUD</BOLD><lf>- Dot Display<lf>- Reticle/Center Dot Color<lf>- Scope/Dot Sight Center Color
+<string>Auditory Accessibility
+<string>Selecting the auditory accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Language</BOLD><lf>- Subtitles: On<lf>- Closed Captions: On<lf>- Speaker Name Display: On<lf><lf>The following options are also available:<lf><lf><BOLD>Language</BOLD><lf>- Subtitle Size<lf>- Closed Captions Subtitle Color<lf>- Subtitle Background<lf><lf><BOLD>Audio</BOLD><lf>- Volume Settings
+<string>Motion Sickness
+<string>Selecting the motion sickness preset<lf>will change the following settings:<lf><lf><BOLD>HUD</BOLD><lf>- Dot Display: On<lf><lf><BOLD>Camera</BOLD><lf>- Camera Wobble: 0<lf><lf><BOLD>Graphics</BOLD><lf>- Motion Blur: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Camera</BOLD><lf>- Various customizable settings<lf><lf><BOLD>HUD</BOLD><lf>- Reticle/Center Dot Color<lf>- Scope/Dot Sight Center Color
+<string>Physical Accessibility
+<string>Adjust settings to those recommended for<lf>players who require physical assistance.
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf>- Adaptive Triggers: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Button Configuration<lf>- Deadzone and Sensitivity<lf><lf><BOLD>Camera</BOLD><lf>- Motion Sensor Function
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf>- Adaptive Triggers: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Deadzone and Sensitivity<lf><lf><BOLD>Camera</BOLD><lf>- Motion Sensor Function
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Rumble: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Button Configuration<lf>- Deadzone and Sensitivity<lf><lf><BOLD>Camera</BOLD><lf>- Motion Controls
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Rumble: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Deadzone and Sensitivity<lf><lf><BOLD>Camera</BOLD><lf>- Motion Controls
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Button Configuration<lf>- Key Configuration<lf>- Deadzone and Sensitivity
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Button Configuration<lf>- Deadzone and Sensitivity
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Deadzone and Sensitivity
+<string>Selecting the physical accessibility preset<lf>will change the following settings:<lf><lf><BOLD>Controls</BOLD><lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf><lf>The following options are also available:<lf><lf><BOLD>Controls</BOLD><lf>- Button Configuration<lf>- Key Configuration<lf>- Deadzone and Sensitivity
+<string>
+<string>
+<string>
+<string>Default
+<string>None
+<string>Lowest
+<string>Low
+<string>Normal
+<string>High
+<string>Max
+<string>Variable
+<string>Yellow
+<string>0

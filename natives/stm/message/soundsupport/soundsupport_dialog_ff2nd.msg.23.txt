@@ -1,0 +1,44 @@
+<string>
+<string>[running footsteps]
+<string>[glass shatters, researcher screams]
+<string>
+<string>
+<string>[banging]
+<string>[screaming]
+<string>
+<string>
+<string>[giggling]
+<string>[gunshot]
+<string>[flesh squelches]
+<string>[gunshot]
+<string>
+<string>[gunshot]
+<string>
+<string>
+<string>[giggling]
+<string>[screaming in agony]
+<string>[neck snaps]
+<string>
+<string>[shaky breathing]
+<string>
+<string>
+<string>[Chloe gasps]
+<string>
+<string>[coffin lids thump, Chloe screams]
+<string>
+<string>[Chloe screams]
+<string>
+<string>
+<string>[metallic thudding]
+<string>[giggling]
+<string>
+<string>[panicked breathing]
+<string>
+<string>
+<string>[giggling]
+<string>[clang]
+<string>
+<string>[projector humming]
+<string>
+<string>
+<string>

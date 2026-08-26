@@ -1,0 +1,78 @@
+<string>
+<string>That did it!
+<string>
+<string>Thanks. Uh...thank you.
+<string>
+<string>D-Don't worry, it's OK.
+<string>
+<string>Alright!
+<string>
+<string>I'm here. I'm here.
+<string>
+<string>Remember your training, Grace.
+<string>
+<string>That did it!
+<string>
+<string>Just a sec.
+<string>
+<string>Oh, I see.
+<string>
+<string>I, uh... I-I think so.
+<string>
+<string>This looks important...maybe.
+<string>
+<string>What is this?
+<string>
+<string>Stay calm, Grace...
+<string>
+<string>Think...
+<string>
+<string>What? I, um, I—
+<string>
+<string>Maybe I'm missing something...
+<string>
+<string>Where have I seen this...?
+<string>
+<string>Oh no!
+<string>
+<string>What is this?
+<string>
+<string>Alright, I can use that.
+<string>
+<string>I don't give up that easy.
+<string>
+<string>Look, I get it. Trust me, I get it.
+<string>
+<string>Story of my life.
+<string>
+<string>Heh... Never a dull day.
+<string>
+<string>This is my lucky day.
+<string>
+<string>Alright, I can use that.
+<string>
+<string>Alright, now what?
+<string>
+<string>Every single time.
+<string>
+<string>No, not this way.
+<string>
+<string>Well, that went well.
+<string>
+<string>I don't have time to deal with this.
+<string>
+<string>Seriously.
+<string>
+<string>No... No, this is different.
+<string>
+<string>What is this?
+<string>
+<string>It's tough being popular.
+<string>
+<string>Hello, gorgeous.
+<string>
+<string>I remember you.
+<string>
+<string>This day just keeps getting better and better.
+<string>
+<string>Don't mind if I do.

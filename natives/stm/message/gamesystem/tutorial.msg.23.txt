@@ -1,0 +1,182 @@
+<string>Run
+<string><ICON RUN>
+<string>Use Ladder
+<string><ICON MOVE_U>
+<string>Squeeze Through
+<string><ICON MOVE_U>
+<string>Open Map
+<string><ICON SUBMENU>
+<string>Aim + Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Reload
+<string><ICON RELOAD>
+<string>Equip Requiem
+<string><ICON EQUIP_RIGHT>
+<string>Examine items in more detail and<lf>you might find some new clues.
+<string>Crouch
+<string><ICON CROUCH>
+<string>Crouch
+<string><ICON CROUCH>
+<string>Read files can be viewed again in the Files menu via <ICON INVENTORY>.
+<string>Stand Up
+<string><ICON CROUCH>
+<string>Light/Extinguish Lighter
+<string><ICON FLASHLIGHT>
+<string>Parry
+<string><ICON GUARD> when the enemy attacks
+<string><REF TutorialList_001_Description_00>
+<string><REF TutorialList_001_Description_01>
+<string><REF TutorialList_001_Title>
+<string>Open Map
+<string><ICON SUBMENU>
+<string>Extinguish Lighter
+<string><ICON FLASHLIGHT>
+<string>Ready + Throw
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Swing Chainsaw
+<string><ICON MELEE_WEAPON>
+<string>Move
+<string><ICON MOVE>
+<string>Let go
+<string><ICON CANCEL_ACTION>
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Close Combat Attack
+<string><ICON MELEE_WEAPON>
+<string>Powerful Attack
+<string><ICON GUARD_ATTACK>
+<string>Look Around
+<string><ICON CAMERA>
+<string>Move
+<string><ICON MOVE>
+<string>Turn Flashlight On/Off
+<string><ICON FLASHLIGHT>
+<string>Close Door
+<string><ICON INTERACT>
+<string>Move
+<string><ICON MOVE_UD>
+<string>Let Go
+<string><ICON CANCEL_ACTION>
+<string><REF TutorialList_002_Description_00>
+<string><REF TutorialList_002_Description_01>
+<string><REF TutorialList_002_Title>
+<string><REF TutorialList_003_Description>
+<string><REF TutorialList_003_Title>
+<string><REF TutorialList_004_Description_00>
+<string><REF TutorialList_004_Title>
+<string><REF TutorialList_005_Description>
+<string><REF TutorialList_005_Title>
+<string>Aim + Spray
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Use Scope + Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string><REF TutorialList_008_Description_00>
+<string><REF TutorialList_008_Title>
+<string>Descend
+<string><ICON MOVE_DOWN>
+<string>Evade
+<string><ICON MOVE_LR>
+<string>Resist
+<string><ICON ATTACK>
+<string>Sharpen
+<string><ICON SHARPEN>
+<string>Crouch
+<string><ICON CROUCH>
+<string>Equip Requiem
+<string><ICON EQUIP_DOWN>
+<string>Equip Requiem
+<string><ICON EQUIP_LEFT>
+<string>Open Map
+<string><ICON SUBMENU>
+<string>Switch Weapons
+<string><ICON EQUIP>
+<string>Turn On Flashlight
+<string><ICON FLASHLIGHT>
+<string>Turn On Flashlight
+<string><ICON FLASHLIGHT>
+<string>Obtained craft recipes can be viewed<lf>in the Crafting menu via <ICON INVENTORY>.
+<string>You can create new items in the Crafting<lf>menu by combining items together.<lf><lf>Obtain new recipes by analyzing blood<lf>specimens with the laser microscope.
+<string>Recipes and Crafting
+<string>Some actions and attacks are impossible<lf>when you're carrying Emily. You can set her<lf>down on the sofa in the guard office, while<lf>you do what you need to.
+<string>Carrying Emily
+<string>Read the Investigation Report
+<string><ICON INVENTORY>
+<string>Obtained craft recipes can be viewed<lf>in the Crafting menu via <ICON INVENTORY>.
+<string>
+<string>
+<string>Look Around
+<string><ICON CAMERA>
+<string><REF TutorialList_011_Description>
+<string><REF TutorialList_011_Title>
+<string>Slash Web
+<string><ICON MELEE_WEAPON>
+<string>Maximum health increased.
+<string>Select items to keep.
+<string>Read files can be viewed again in the Files menu via <ICON INVENTORY>.
+<string><REF TutorialList_019_Description>
+<string><REF TutorialList_019_Title>
+<string><REF TutorialList_020_Description>
+<string><REF TutorialList_020_Title>
+<string><REF TutorialList_021_Description>
+<string><REF TutorialList_021_Title>
+<string>Tutorials can be viewed again<lf>from the pause menu.
+<string>Close Combat Attacks
+<string><ICON ATTACK>
+<string>Powerful Attack
+<string><ICON GUARD_ATTACK>
+<string><REF TutorialList_035_Description>
+<string><REF TutorialList_035_Title>
+<string>Crouch
+<string><ICON CROUCH>
+<string><REF TutorialList_038_Description>
+<string><REF TutorialList_038_Title>
+<string><REF TutorialList_039_Description>
+<string><REF TutorialList_039_Title>
+<string>Aim
+<string><ICON CAMERA>
+<string>Use typewriters to save your progress.
+<string><REF TutorialList_066_Title>
+<string><REF TutorialList_063_Description>
+<string><REF TutorialList_063_Title>
+<string>Crouch
+<string><ICON CROUCH>
+<string>Shooting ability increased.
+<string>Stealth Kills
+<string><ICON INTERACT_MELEE_WEAPON> to take out unsuspecting enemies
+<string>Parry
+<string><ICON GUARD> when the enemy attacks
+<string><REF TutorialList_067_Description>
+<string><REF TutorialList_067_Title>
+<string><REF TutorialList_028_Description_00>
+<string><REF TutorialList_028_Description_01>
+<string><REF TutorialList_028_Title>
+<string><REF TutorialList_052_Description>
+<string><REF TutorialList_052_Title>
+<string><REF TutorialList_057_Description>
+<string><REF TutorialList_057_Title>
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string>Cancel Reload
+<string><ICON HOLD> while reloading
+<string>Shoot
+<string><ICON HOLD> + <ICON ATTACK>
+<string><REF TutorialList_011_Description>
+<string><REF TutorialList_011_Title>
+<string>Close Combat Attack
+<string><ICON MELEE_WEAPON>
+<string>Powerful Attack
+<string><ICON GUARD_ATTACK>
+<string>The dot sight perspective can be changed in Options.
+<string>
+<string>
+<string><REF TutorialList_083_Description>
+<string><REF TutorialList_083_Title>
+<string>Inventory space is required for purchase.
+<string>Run
+<string><ICON RUN> while moving

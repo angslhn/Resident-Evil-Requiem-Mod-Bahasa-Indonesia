@@ -1,0 +1,881 @@
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Jesus!
+<string>
+<string>That's too effective.
+<string>
+<string>Shit... 
+<string>
+<string>Oh god, what?
+<string>
+<string>What was that!?
+<string>
+<string>I hate this place.
+<string>What if I can't get out?
+<string>
+<string>I-I don't want to die here...
+<string>
+<string>Why is this happening?
+<string>
+<string>I have to keep going.
+<string>
+<string>Shit... Was that not enough?
+<string>
+<string>What the fuck!?
+<string>
+<string>
+<string>Well, at least it's easier to walk around now.
+<string>
+<string>
+<string>Oh, what the fuck!?
+<string>
+<string>This looks like it leads outside.
+<string>
+<string>Gotta hide.
+<string>
+<string>Oh shit!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>No bullets.
+<string><Sound Team ID>
+<string>
+<string>Damn it.
+<string>
+<string>
+<string>
+<string>What is this?
+<string>
+<string>Maybe I'm missing something...
+<string>
+<string>
+<string>
+<string>A perfect fit. Guess I need two more.
+<string>
+<string>A perfect fit. Only one left.
+<string>
+<string>
+<string>Shit...
+<string>
+<string>Weird. How do people normally get in here?
+<string>
+<string>Wait, this is mine.
+<string>
+<string>Ugh, sorry about this.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey...
+<string>A-Are you all right?
+<string>You're the lady from before.
+<string>...Yeah.
+<string>This is, um... You're, um...
+<string>Did anyone hurt you?
+<string>Because I can't see?
+<string>Oh, no. No. Th-That's...um...<lf>th-that's not what I meant. Uh...
+<string>It's not my fault.
+<string>The doctors gave us both medicine.
+<string>It made our eyes go bad.
+<string>So... So there was someone in there?
+<string>There's another bed in this, uh...
+<string>My friend, Marie.
+<string>One day she just...disappeared.
+<string>Oh...
+<string>I-I'm sorry.
+<string>When it happened, I was happy it wasn't me.
+<string>Is that bad?
+<string>I'm just gonna...keep looking around.
+<string>
+<string>Oh god.
+<string>
+<string>This might be useful.
+<string>
+<string>Locked tight.
+<string>
+<string>Huh. What...is this?
+<string>
+<string>I wonder if they wrote the<lf>combination somewhere...
+<string>
+<string>O-Oh shit!
+<string>
+<string>What the fuck was that!?
+<string>
+<string>This'll do!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Ah, Miss Ashcroft. Come in. I won't harm you.
+<string>I was just looking for Dr. Richardson.
+<string>Wh-Why did you kidnap me?
+<string>Kidnap you?
+<string>I liberated you.
+<string>Who are you?
+<string>Oh, forgive me.
+<string>Dr. Victor Gideon.
+<string>I run this center.
+<string>It took forever to find you.
+<string>You're not like other people, you know.
+<string>You're quite...unique.
+<string>Through you, Elpis can finally be...set free.
+<string>Wh-Why me?
+<string>Because my master made you who you are.
+<string>Ah, phase two is about to begin.
+<string>Would you like to see what's hidden<lf>under the hood?
+<string>Grace!
+<string>Wait! Grace!
+<string>Grace?
+<string>Grace!
+<string>There's no escaping your destiny!
+<string>
+<string>Wh-Wh-What the fuck does<lf>he mean, "destiny"!?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>What the fuck!?
+<string>
+<string>Why's it still moving!?
+<string>
+<string>
+<string>
+<string>Give me a fucking break!
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Ah, fuck.
+<string>
+<string>Of course it gets up.
+<string>
+<string>I can't tell which button's which...
+<string>
+<string>This must be it.
+<string><Sound Team ID>
+<string>
+<string>Braille...
+<string>These girls... They look just like...
+<string>You're the one that locked her up.
+<string>I'm gonna borrow this.
+<string>I bet she can read that.
+<string>
+<string>I have to keep it together.
+<string>
+<string>What do you want me to read?
+<string>Umm... There's some buttons with,<lf>uh, braille on them.
+<string>Can you read them and then, um, push the buttons<lf>in this order? Star, star, moon, sun.
+<string>Um...sure.
+<string>Thanks. Uh...thank you.
+<string>
+<string>Here, uh... Sit.
+<string>I'll be right back.
+<string>
+<string>I'm just gonna...
+<string>
+<string>Thank god...
+<string>
+<string>
+<string>
+<string>D-Don't worry, it's OK.
+<string>
+<string>We're uh... We're close now.
+<string>
+<string>Grace! I did it!
+<string>
+<string>Emily said she was finished.
+<string>
+<string>I thought that thing was dead!
+<string>
+<string>Dinner...at siiix...
+<string>Aaat six...
+<string>Right...awaaay.
+<string>Nooot enough...ingredients...
+<string>Not...enough.
+<string>Main...diiisssh...
+<string>
+<string>Dinnnner...at siiix...
+<string>Aaat six...
+<string>Right...away!
+<string>Not...enough...ingredients.
+<string>Not...enough.
+<string>Main...disssh...
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3002_0000
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3002_0010_ch4300
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3003_0000
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3003_0010_ch4300
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3004_0000
+<string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3004_0010_ch4300
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>M-Meat...
+<string>
+<string>Priiiime...
+<string>
+<string>Tonight...is...shoulder...roassst.
+<string>
+<string>Slice...along the...spine.
+<string>
+<string>Oven's...piping...ngh...hot!
+<string>
+<string>Grrround meat! Todaaay...
+<string>
+<string>Grooound meat to-day!
+<string>
+<string>Chooop it uuup!
+<string>
+<string>Chop it...uuup!
+<string>
+<string>Chop...chop!
+<string>
+<string>Chop...chop!
+<string>
+<string>In...Ingredients aaare!
+<string>
+<string>Today's ingredients!
+<string>
+<string>Aaall fresh!
+<string>
+<string>All...fresh!
+<string>
+<string>Stilllll...moving!
+<string>
+<string>Stilllll moving...
+<string>
+<string>So boney!
+<string>
+<string>So boney!
+<string>
+<string>Pluck...it clean!
+<string>
+<string>Pluck it cleeean!
+<string>
+<string>Wrong...wrong...wrooong.
+<string>
+<string>W-Wrong...wrooong.
+<string>
+<string>Wrong...wro...wrooong.
+<string>
+<string>Nnn...Nex...t.
+<string>
+<string>Next.
+<string>
+<string>Neeext.
+<string>
+<string>Next iiis...
+<string>
+<string>Neeext is...
+<string>
+<string>Next is...
+<string>
+<string>A m-mess...
+<string>So messssy!
+<string>
+<string>Damn spot.
+<string>Damn spot.
+<string>Damn spot...
+<string>
+<string>Wooon't come ouuut.
+<string>Won't come ouuut!
+<string>
+<string>A messss.
+<string>A...mess.
+<string>So me...ssy!
+<string>
+<string>Damn spottt!
+<string>Damn ssspot.
+<string>
+<string>It-It's ruined.
+<string>It's ruuuined!
+<string>Ruin...ruined!
+<string>
+<string>Ruuuinnn...
+<string>It's...ruuuined...
+<string>
+<string>Blood! Blood!
+<string>
+<string>Nevvver ends.
+<string>Never ends...
+<string>
+<string>Come...out.
+<string>Come out, come out...come out!
+<string>Come o-o-out!
+<string>
+<string>Blood...
+<string>Blood...ev...ery...where...
+<string>
+<string>Blood every...where.
+<string>
+<string>Come out, come...out.
+<string>
+<string>It never en...ds!
+<string>
+<string>Muuust...clean...
+<string>
+<string>Must clean.
+<string>
+<string>Muuust...clean.
+<string>
+<string>Who made a mess?
+<string>
+<string>Who made...mess?
+<string>
+<string>Who...made a...mess?
+<string>
+<string>Why the mess!?
+<string>
+<string>Why the mess!?
+<string>
+<string>Whyyy the messss!?
+<string>
+<string>Come ooout!
+<string>
+<string>What a...messss.
+<string>
+<string>It s...mells.
+<string>
+<string>Smells.
+<string>
+<string>Smells.
+<string>
+<string>Come out, come ouuuttt!
+<string>
+<string>Trasssh!
+<string>
+<string>Thisss trasssh!
+<string>
+<string>Must clean!
+<string>
+<string>Come out...come out!
+<string>
+<string>It's ruined! It's r-ruined!
+<string>
+<string>A messss! A messss!
+<string>
+<string>Lights out...
+<string>
+<string>Lights...o-out...
+<string>
+<string>Turn off ligh...ts.
+<string>
+<string>T-Turn off...lights...
+<string>
+<string>Follow r-rules.
+<string>
+<string>Follow the-the rules.
+<string>
+<string>L-Lights...ou-out...
+<string>
+<string>Too briiight.
+<string>
+<string>T-Too b-bright.
+<string>
+<string>Too b-briiight...
+<string>
+<string>Ligh...Light's on.
+<string>
+<string>L-Light...is onnn.
+<string>
+<string>Liiight's on...
+<string>
+<string>L-L...Light's...o-on.
+<string>
+<string>Too briiight!
+<string>
+<string>Too briiight!
+<string>
+<string>Too b-bright!
+<string>
+<string>Quieeet...
+<string>
+<string>Sooo loooud...
+<string>
+<string>Stop it...
+<string>
+<string>God...damn it.
+<string>
+<string>Shaddap...
+<string>
+<string>Quiet...
+<string>
+<string>My...head...
+<string>
+<string>Shut! Up! Uh!
+<string>
+<string>Quiet!!!
+<string>
+<string>Quiet!!!
+<string>
+<string>Keep it dooown!!!
+<string>
+<string>Keep it dooown!
+<string>
+<string>Keep it dooown!
+<string>
+<string>Theeere!
+<string>
+<string>Where is it!?
+<string>
+<string>O-Ooover there!?
+<string>
+<string>Over there!?
+<string>
+<string>That way!?
+<string>
+<string>Kill-il-il-il! Kill iiit!
+<string>
+<string>Kill iiit! Killll ittt.
+<string>
+<string>I'll kill it!
+<string>
+<string>Kill it! Kiiill ittt.
+<string>
+<string>I'LL! Kill. Kill, kill, kill. I'll kill!
+<string>
+<string>I'll kill! I'll kill! I'll kill!
+<string>
+<string>I'll...kill! I'll kill...I'll killll!
+<string>
+<string>Kill! Kill! Kill...
+<string>
+<string>III'll...Kiiill!
+<string>
+<string>Diiie!
+<string>
+<string>Die, die, DIE!
+<string>
+<string>Shut UP!
+<string>
+<string>Stooop iiit!
+<string>
+<string>Diiie!
+<string>
+<string>Shut up!
+<string>
+<string>God damn it!
+<string>
+<string>Filthy animal!
+<string>
+<string>Filthy animaaal!!!
+<string>
+<string>Filthy aaanimaaal!!!
+<string>
+<string>Filthy! Filthy animal!!!
+<string>
+<string>I'mmm sooorrrry.
+<string>
+<string>I'mmm s...sorrrry.
+<string>
+<string>A mistaaake...
+<string>
+<string>I'm s...orrrry.
+<string>
+<string>I'llll dooo be...tttter.
+<string>
+<string>A missstaaake...
+<string>
+<string>I'mmm soorrrry!
+<string>
+<string>A...missstaaaake.
+<string>
+<string>I'mm s...orry.
+<string>
+<string>I'm sorry.
+<string>
+<string>The liver is more marvelous than the brain...
+<string>
+<string>The pancreas moves parallel on the shelf...
+<string>
+<string>The cavities of the spine are beautifully empty!
+<string>
+<string>Cannot deny how fine the gastrointestinal tract is.
+<string>
+<string>Cranium is not a cloud by any means.
+<string>
+<string>It is time to...rotate the pelvis.
+<string>
+<string>The front teeth go deep in the heart, perhaps?
+<string>
+<string>Go straight up, passing the thyroid.
+<string>
+<string>Fetch your bladder and...go home!
+<string>
+<string>The right lung has lost all common sense.
+<string>
+<string>The gallbladder naturally improves the disposition.
+<string>
+<string>Light can be...heeeard from the small intestine.
+<string>
+<string>Today's...experiment...
+<string>
+<string>Worthwhile!
+<string>
+<string>Today's...experiment...
+<string>
+<string>Patients, form...line.
+<string>
+<string>Five...seven...
+<string>
+<string>Administer...at once...
+<string>
+<string>Patients...form...liiine.
+<string>
+<string>Today's...is.
+<string>
+<string>Deranged...
+<string>
+<string>Worthwhile...
+<string>
+<string>Seven...
+<string>
+<string>De...ranged...state.
+<string>
+<string>Ad...minister...
+<string>
+<string>Proceeeeed...
+<string>
+<string>Keep an eye onnn...
+<string>
+<string>Keep an eeeyyye...
+<string>
+<string>Five mili...
+<string>
+<string>Two...weeeeks...
+<string>
+<string>Give...psychostimuuu...
+<string>
+<string>Don't leave me.
+<string>
+<string>Don't leeeave me.
+<string>
+<string>Pleeease...
+<string>
+<string>Dooon't...gooo.
+<string>
+<string>Heeey.
+<string>
+<string>Pleeease.
+<string>
+<string>Don't leeeave me...
+<string>
+<string>Don't gooo...
+<string>
+<string>Don't leave me.
+<string>
+<string>Y-You're fired.
+<string>
+<string>Yooou're fired...
+<string>
+<string>Listen heeere...
+<string>
+<string>Y-You stuuupiiid?
+<string>
+<string>U...Useless worm.
+<string>
+<string>Lazy-ass shiiit...
+<string>
+<string>Comin' throoough! Outta the waaay!
+<string>
+<string>Watch ooout!
+<string>
+<string>Watch ooout!
+<string>
+<string>Helmet...ooon!
+<string>
+<string>Heeelmet...ooon!
+<string>
+<string>No...o-on-site...accidents!
+<string>
+<string>No on-site accideeents!
+<string>
+<string>Waaatch ooout!
+<string>
+<string>Comiiin' throoough!
+<string>
+<string>Emergency!
+<string>
+<string>They're...i-infected!
+<string>
+<string>Evacuate!
+<string>
+<string>Code siiix...
+<string>
+<string>'Fected...
+<string>
+<string>Outbreeeak!
+<string>
+<string>Emergency...
+<string>
+<string>Evacuate!
+<string>
+<string>Ooout...breeeak.
+<string>
+<string>Eva-a...cuate...
+<string>
+<string>Infected.
+<string>
+<string>Light...out...
+<string>
+<string>Lights out...
+<string>
+<string>Turn off lights...
+<string>
+<string>Turn oooff...lights.
+<string>
+<string>Follow the rule...
+<string>
+<string>Follow...the...rule...
+<string>
+<string>Light...out.
+<string>
+<string>T-Too...briiight...
+<string>
+<string>Too...briiight...
+<string>
+<string>Briiigh...
+<string>
+<string>Liiigh...ooon...
+<string>
+<string>Liiigh...ooon...
+<string>
+<string>Liiight...on...
+<string>
+<string>Light's ooon...
+<string>
+<string>Too briiight...
+<string>
+<string>Too bright!
+<string>
+<string>Too...bright!
+<string>
+<string>Damn spot.
+<string>...mmh...ot...
+<string>
+<string>Ruuuined!
+<string>It's ruuuined!!!
+<string>Ruuuined...
+<string>
+<string>M...mess...
+<string>What a...mmmess!
+<string>
+<string>Blood... Blood...
+<string>
+<string>Never...ends!
+<string>Never ennnds.
+<string>
+<string>Come out!
+<string>Come out... Come out...
+<string>Come out, out!
+<string>
+<string>Won't come out!
+<string>O...out...
+<string>
+<string>Blood...everywhere...
+<string>
+<string>Come...out! Come...out!!!
+<string>
+<string>Neverrr ends...
+<string>
+<string>Muuust cleeean...
+<string>
+<string>Mussst cleeean...
+<string>
+<string>...Cleaaan... Must...
+<string>
+<string>...Who made a messss?
+<string>
+<string>Who...made...a mess...?
+<string>
+<string>Who made a messss!?
+<string>
+<string>Whyyy the messss!?
+<string>
+<string>Mo...why the messss!?
+<string>
+<string>Whyyyy the messss!?
+<string>
+<string>Come...ouuut!
+<string>
+<string>A m...messss...
+<string>
+<string>It...smeeelllls.
+<string>
+<string>Smelllls...
+<string>
+<string>Come out!
+<string>
+<string>C-Commme ouuut!
+<string>
+<string>This traaasssh!
+<string>
+<string>...Thisss traaasssh!!!
+<string>
+<string>Muuust...cleeean!
+<string>
+<string>Come out! Come ouu...come out!
+<string>
+<string>...R-Ruined! RUINED!
+<string>
+<string>A mess! A messss!
+<string>
+<string>G...Good...i-idea...
+<string>
+<string>Not! B-Baaad...
+<string>
+<string>C-Caaare...ful now...
+<string>
+<string>Easy-y d-does iiit...
+<string>
+<string>Change...o-optic nerve.
+<string>
+<string>Abnormal pattern.
+<string>
+<string>Dosage!
+<string>
+<string>Epilepsy...
+<string>
+<string>Not conscious!
+<string>
+<string>React to light!
+<string>
+<string>Irre...gu...lar...
+<string>
+<string>Irre...gu...lar...
+<string>
+<string>Quiet!
+<string>
+<string>So loud...
+<string>
+<string>Stooop iiit.
+<string>
+<string>Oh m' god...
+<string>
+<string>Shut up!
+<string>
+<string>Quieeet!
+<string>
+<string>My heeead...
+<string>
+<string>Shut...up!!!
+<string>
+<string>So loooud!!!
+<string>
+<string>So loooud!!!
+<string>
+<string>Keep it dooown!!!
+<string>
+<string>Keep...it...dooown!!!
+<string>
+<string>Keeeep it...dooown!!!
+<string>
+<string>There!
+<string>
+<string>Where...Where is iiit!?
+<string>
+<string>Theeere!!!
+<string>
+<string>Over there!
+<string>
+<string>That way!
+<string>
+<string>Kill! Kill, kill, kill, kill! Kill!
+<string>
+<string>I'll...kill iiit!!! Kill it!
+<string>
+<string>I'll KIIILL it!!!
+<string>
+<string>Kill! Kill! Killlll!
+<string>
+<string>Kill! Kill it!!! Kill!
+<string>
+<string>Kill, kill, kill it! Kill it! Kill iiiit!
+<string>
+<string>Fffuckin' kiiill!!!
+<string>
+<string>I'll...kill...it!
+<string>
+<string>I'll...kill IT!
+<string>
+<string>Filthyyy...ANIMAAAL!
+<string>
+<string>Filthyyy...animaaal!
+<string>
+<string>Filthy animal!!!
+<string>
+<string>DIIIE!!!
+<string>
+<string>Die! Diiie!!!
+<string>
+<string>Shut uuup!
+<string>
+<string>Stop it!!!
+<string>
+<string>D-Diiie!!!
+<string>
+<string>Shut uuup!!!
+<string>
+<string>God damn it!!!
+<string>
+<string>Theeere!!!
+<string>
+<string>Don...fuck...with me.
+<string>
+<string>...Don't...fuck with me!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>I said stop ittt!
+<string>
+<string>I said...STTTOP ITTT!
+<string>
+<string>It's your fucking faauuult!
+<string>
+<string>It's your...fucking fauuult!
+<string>
+<string>Won't forgive yooou!
+<string>
+<string>Won't forgive...yooou!
+<string>
+<string>Leave me alooonnne!
+<string>
+<string>Leave...me alooone!
+<string>
+<string>Yours! It's your fauuult!
+<string>
+<string>Stop...lauughiiing!
+<string>
+<string>Stop laughiiing!
+<string>
+<string>Eat...shiiit!
+<string>
+<string>Eat shiii...!
+<string>
+<string>D-Deseeerve it!
+<string>
+<string>You deseeerve it!
+<string>
+<string>Won't...forgiiii...
+<string>
+<string>
+<string>...Your fuuucking fauuult...
+<string>
+<string>Eat...shit! Eat shit! Eat shit!
+<string>You laugh... Laughed at me!
+<string>Don't...fuck with...me!

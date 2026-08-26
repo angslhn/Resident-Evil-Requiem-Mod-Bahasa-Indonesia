@@ -1,0 +1,109 @@
+<string>Wrenwood
+<string>The Wrenwood Hotel
+<string>Chronic Care Center
+<string>Research Facility
+<string>Water Treatment
+<string>Raccoon City
+<string>Orphanage
+<string>R.P.D.
+<string>ARK
+<string>Main Street
+<string>Employee Entrance
+<string>Room 204
+<string>Lobby
+<string>Lounge & Bar
+<string>Room 203
+<string>Room 201
+<string>Central Hall
+<string>Rehabilitation Ward
+<string>Central Hall
+<string>Guard Office
+<string>Custodian's Office
+<string>Medical Supply Room
+<string>Attic
+<string>Lounge
+<string>Processing
+<string>Chairman's Office
+<string>Blood Lab
+<string>Office
+<string>Lead Researcher's Office
+<string>Garage
+<string>Security Manager's Office
+<string>Medication Room
+<string>Kitchenette
+<string>Pantry
+<string>Holding Cells
+<string>Inspection
+<string>Collection Pool
+<string>Courtyard
+<string>Underground
+<string>Security Room
+<string>Elevator Hallway
+<string>Director's Office
+<string>Chapel
+<string>Roof
+<string>Courtyard
+<string>Helipad
+<string>Emergency Exit
+<string>Reception
+<string>Elevator
+<string>Control Room
+<string>Emergency Route
+<string>Storage Bay
+<string>Plant Entrance
+<string>Roof Hatch Controls
+<string>B1
+<string>NF Building
+<string>Ridgewood Station
+<string>Central Camp
+<string>Logistics Warehouse
+<string>Logistics Warehouse 2F
+<string>Underground Parking Garage
+<string>Gas Station
+<string>Cedarbrook Apartments
+<string>Cedarbrook Apartments Roof
+<string>Willis Tower
+<string>West Point
+<string>Grimstone Building Rooftop
+<string>Sewage Facility
+<string>Grimstone Building Basement
+<string>Gun Shop Kendo
+<string>Main Street
+<string>Subway Station
+<string>Highway
+<string>Raccoon City Center
+<string>East Raccoon City
+<string>Main Hall
+<string>East Wing
+<string>Side Street
+<string>
+<string>Bedroom
+<string>Main Hall
+<string>Director's Room
+<string>Underground Chapel
+<string>Research Lab
+<string>Blackthorn Station
+<string>Blackthorn Station Platform
+<string>Service Entrance
+<string>Tunnel
+<string>Tunnel
+<string>Loading Dock
+<string>Staff Room
+<string>Server Room
+<string>Service Corridor
+<string>Entrance
+<string>Archives
+<string>Lobby
+<string>Bioweapon Repository 11
+<string>Dump
+<string>Lab Entrance
+<string>Operations Room
+<string>Bioweapon Repository 12
+<string>Systems Management
+<string>B4 Staff Room
+<string>Central Portal
+<string>Central Refining System: PANDORA Bottom Floor
+<string>Dump Control Room
+<string>Gene Vault
+<string>Central Portal
+<string>Central Refining: Lowest Level

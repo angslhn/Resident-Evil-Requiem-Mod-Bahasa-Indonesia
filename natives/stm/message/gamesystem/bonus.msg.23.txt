@@ -1,0 +1,435 @@
+<string><REF Item_Name_it10_00_000> (Leon)
+<string><REF Item_Caption_it10_00_000>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_00_004> (Leon)
+<string><REF Item_Caption_it10_00_004>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_00_005> (Leon)
+<string><REF Item_Caption_it10_00_005>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_05_002> (Leon)
+<string><REF Item_Caption_it10_05_002>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_20_006> (Leon)
+<string><REF Item_Caption_it10_20_006>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_04_000> (Leon)
+<string><REF Item_Caption_it10_04_000>
+<string>This item can be collected from the supply box.
+<string>{0} CP
+<string><REF Item_Name_it10_03_003> (Grace)
+<string><REF Item_Caption_it10_03_003>
+<string>This item can be collected from the item box.
+<string>{0} CP
+<string><REF Item_Name_it30_00_701> (Leon)
+<string><REF Item_Caption_it30_00_701>
+<string>This item can be collected from the supply box.
+<string>Defeat {0} enemies
+<string><REF Item_Name_it99_50_009> (Leon)
+<string><REF Item_Caption_it99_50_009>
+<string>The Tactical Tracker will upgrade after purchase.
+<string>{0} CP
+<string><REF Item_Name_it99_07_002> (Grace)
+<string><REF Item_Caption_it99_07_002>
+<string>This item can be collected from the item box.
+<string>{0} CP
+<string><REF Item_Name_it99_50_010> (Grace)
+<string><REF Item_Caption_it99_50_010>
+<string>This item can be collected from the item box.
+<string>Complete the main story by releasing<lf>Elpis within {0} hours.
+<string><REF Item_Name_it10_20_008> (Grace)
+<string><REF Item_Caption_it10_20_008>
+<string>This item can be collected from the item box.
+<string>{0} CP
+<string>Matsuoka Master Manual (Grace)
+<string>A manual that allows you to permanently<lf>increase the capacity of the blood collector<lf>by 50.
+<string>Effects are automatically applied.
+<string>{0} CP
+<string><REF Item_Name_it99_00_008>
+<string><REF Item_Caption_it99_00_008>
+<string>Also obtainable in the main story.
+<string>{0} CP
+<string><REF Item_Name_it99_00_009>
+<string><REF Item_Caption_it99_00_009>
+<string>{0} CP
+<string>Infinite Ammo (Guns)
+<string>Unlocks infinite ammo for guns.
+<string>You can turn this feature on/off via Options.
+<string>{0} CP
+<string>Infinite Ammo (RPG-7)
+<string>Unlocks infinite ammo for the RPG-7.<lf>(<COLOR preset="TextColor3">Recommended to purchase <REF Item_Name_it10_04_000> (Leon) first</COLOR>.)
+<string>You can turn this feature on/off via Options.
+<string>{0} CP
+<string>Acquire Infinite Ammo (Guns).
+<string>Infinite Durability (Hatchets)
+<string>Unlocks infinite durability for hatchets.
+<string>You can turn this feature on/off via Options.
+<string>{0} CP
+<string>Advanced Tuning
+<string>Unlocks an extra level of tuning<lf>for weapon parts.
+<string>Destroy every Mr. Raccoon memoriam.
+<string>R.P.D. Uniform (Leon)
+<string>A costume for Leon.
+<string>You can change costumes via Bonus Settings.
+<string>{0} CP
+<string>FBI Attire (Grace)
+<string>A costume for Grace.
+<string>You can change costumes via Bonus Settings.
+<string>{0} CP
+<string>{0} CP
+<string>Defeat {0} enemies
+<string>Complete the main story by releasing<lf>Elpis within {0} hours.
+<string>This item can be collected from the item box.
+<string>This item can be collected from the supply box.
+<string>Leon (Jacket)
+<string>{0} CP
+<string>Leon (Harness)
+<string>{0} CP
+<string>Leon (R.P.D.)
+<string>{0} CP
+<string>Leon (Mechacop)
+<string>{0} CP
+<string>Leon's Wheels
+<string>{0} CP
+<string>Grace (Jacket)
+<string>{0} CP
+<string>Grace (T-shirt)
+<string>{0} CP
+<string>Grace (Teenager)
+<string>{0} CP
+<string>Grace (FBI)
+<string>{0} CP
+<string>Grace (Grace Prime)
+<string>{0} CP
+<string>Nathan Dempsy
+<string>{0} CP
+<string>Alyssa Ashcroft
+<string>{0} CP
+<string>The Hooded Man
+<string>{0} CP
+<string>Sherry Birkin
+<string>{0} CP
+<string>Victor Gideon
+<string>{0} CP
+<string>Emily
+<string>{0} CP
+<string>Emily (Mutated)
+<string>{0} CP
+<string>Harry Reed
+<string>{0} CP
+<string>Zeno
+<string>{0} CP
+<string>Elite Guards
+<string>{0} CP
+<string>The Commander
+<string>{0} CP
+<string>Hound Wolf Squad
+<string>{0} CP
+<string>Norman Cole
+<string>{0} CP
+<string>Wrenwood Zombies
+<string>{0} CP
+<string>The Girl
+<string>{0} CP
+<string>Zombie Doctors
+<string>{0} CP
+<string>Zombie Patients
+<string>{0} CP
+<string>Zombie Staff
+<string>{0} CP
+<string>Zombie Cleaners
+<string>{0} CP
+<string>Zombie Chef
+<string>{0} CP
+<string>Zombie Singers
+<string>{0} CP
+<string>Zombie Surgeon
+<string>{0} CP
+<string>Chunk
+<string>{0} CP
+<string>Blister Head
+<string>{0} CP
+<string>Blister Borne
+<string>{0} CP
+<string>Titan Spinner
+<string>{0} CP
+<string>Raccoon City Zombies
+<string>{0} CP
+<string>Garmr
+<string>{0} CP
+<string>R.P.D. Zombie
+<string>{0} CP
+<string>The Children
+<string>{0} CP
+<string>Tyrant T-501
+<string>{0} CP
+<string>Super Tyrant (T-501)
+<string>{0} CP
+<string>Plant 43
+<string>{0} CP
+<string>ARK Zombies
+<string>{0} CP
+<string>Licker β2
+<string>{0} CP
+<string>Victor (Mutated)
+<string>{0} CP
+<string><COLOR FF0000>#Rejected#</COLOR> bo20_00_052_Title
+<string><COLOR FF0000>#Rejected#</COLOR> bo20_00_052_Condition0
+<string>Grace Ashcroft
+<string>{0} CP
+<string>Leon S. Kennedy
+<string>{0} CP
+<string>Alyssa Ashcroft
+<string>{0} CP
+<string>Sherry Birkin
+<string>{0} CP
+<string>Victor Gideon
+<string>{0} CP
+<string>Zeno
+<string>{0} CP
+<string>Main Street
+<string>{0} CP
+<string>The Wrenwood Hotel
+<string>{0} CP
+<string>Elbridge
+<string>{0} CP
+<string>Chaos on the Streets of Wrenwood
+<string>{0} CP
+<string>Rhodes Hill Chronic Care Center
+<string>{0} CP
+<string>The Girl
+<string>{0} CP
+<string>A Child Named Emily
+<string>{0} CP
+<string>Inside the Care Center
+<string>{0} CP
+<string>Blister Head
+<string>{0} CP
+<string>Chunk
+<string>{0} CP
+<string>Blister Borne
+<string>{0} CP
+<string>Emily (Mutated) 1
+<string>{0} CP
+<string>Emily (Mutated) 2
+<string>{0} CP
+<string>Raccoon City
+<string>{0} CP
+<string>Titan Spinner Battle
+<string>{0} CP
+<string>East Raccoon City
+<string>{0} CP
+<string>Raccoon City Zombies
+<string>{0} CP
+<string>BSAA Camps
+<string>{0} CP
+<string>The Highway
+<string>{0} CP
+<string>Motorcycle Battle 1
+<string>{0} CP
+<string>Motorcycle Battle 2
+<string>{0} CP
+<string>Garmr
+<string>{0} CP
+<string>R.P.D.
+<string>{0} CP
+<string>R.P.D. and the Orphanage
+<string>{0} CP
+<string>Tyrant T-501
+<string>{0} CP
+<string>Plant 43 Battle
+<string>{0} CP
+<string>Plant 43 (Adult)
+<string>{0} CP
+<string>ARK Service Entrance
+<string>{0} CP
+<string>ARK Service Entrance Details
+<string>{0} CP
+<string>Inside ARK
+<string>{0} CP
+<string>ARK Entrance 1
+<string>{0} CP
+<string>ARK Entrance 2
+<string>{0} CP
+<string>ARK Entrance 3
+<string>{0} CP
+<string>ARK Staff Room
+<string>{0} CP
+<string>Supply Box (ARK)
+<string>{0} CP
+<string>Bioweapon Pod
+<string>{0} CP
+<string>Bioweapon Pod Details 1
+<string>{0} CP
+<string>Bioweapon Pod Details 2
+<string>{0} CP
+<string>Central Refining System: PANDORA
+<string>{0} CP
+<string>Facing Zeno 1
+<string>{0} CP
+<string>Facing Zeno 2
+<string>{0} CP
+<string>ARK Lobby
+<string>{0} CP
+<string>ARK Lobby Details
+<string>{0} CP
+<string>Archives
+<string>{0} CP
+<string>Central Portal
+<string>{0} CP
+<string>Central Refining System: PANDORA Bottom Floor
+<string>{0} CP
+<string>Requiem
+<string>{0} CP
+<string>Weapon Designs 1
+<string>{0} CP
+<string>Weapon Designs 2
+<string>{0} CP
+<string>Item Designs
+<string>{0} CP
+<string>Requiem
+<string>Obtain all Trophies.
+<string>Remarkable Agent
+<string>Complete the main story on Insanity difficulty.
+<string>Resolute Agent
+<string>Complete the main story on at least<lf>Standard (Classic) difficulty.
+<string>Rising Agent
+<string>Complete the main story on at least<lf>Standard (Modern) difficulty.
+<string>Rookie Agent
+<string>Complete the main story on at least<lf>Casual difficulty.
+<string>Never Touch the Stuff
+<string>Complete the main story without<lf>using herbs or med injectors.
+<string>Minimalist
+<string>Complete the main story without Grace<lf>using the blood collector.
+<string>Speed Demon
+<string>Complete the main story by releasing<lf>Elpis within four hours.
+<string>Credit Where Credit Is Due
+<string>Earn 200,000 credits.
+<string>Bloodlust
+<string>Collect 5000 microsamples of infected<lf>blood with the blood collector.
+<string>Model Mania
+<string>View all models.
+<string>Curator
+<string>View all concept art.
+<string>Déjà vu
+<string>Encounter an outbreak in Wrenwood.
+<string>Descent Into Darkness
+<string>Reach the basement of the care center.
+<string>It's Been a Long Night
+<string>Reach the courtyard of the care center.
+<string>A Harsh Reality
+<string>Escape the care center.
+<string>Going Down?
+<string>Reach the ground using the suspended platform.
+<string>The Hero Returns
+<string>Arrive at R.P.D.
+<string>I Remember That, Too
+<string>Defeat the Super Tyrant.
+<string>Umbrella's Legacy
+<string>Find ARK.
+<string>The Final Mission
+<string>Start exploring the lower levels of ARK.
+<string>The Ol' Fashioned Way
+<string>Use an ink ribbon to save at a typewriter.
+<string>Hope and Requiem
+<string>Complete the main story by releasing Elpis.
+<string>Case Closed
+<string>Read all the files in the main story.
+<string>The Power of Blood
+<string>Craft an item using the blood collector.
+<string>Blood! More Blood!
+<string>Use 300 microsamples of infected blood.
+<string>Fatal Dose
+<string>Defeat a zombie using the hemolytic injector.
+<string>Like Mother, Like Daughter
+<string>Unlock a drawer with a lockpick.
+<string>Out of Sight, Out of Mind
+<string>Store an item in the item box as Grace.
+<string>No Safe is Safe
+<string>Open every safe in the main story.
+<string>Science!
+<string>Unlock a crafting recipe using analysis.
+<string>Order Up!
+<string>Defeat the chef in the care center<lf>in the main story.
+<string>Deadly Duet
+<string>Defeat the two singers in the main story.
+<string>Grace and Goliath
+<string>Defeat a Chunk as Grace.
+<string>Internal Dispute
+<string>Make a zombie attack another zombie in the hospital wards.
+<string>Bring Out the Big Guns
+<string>Stun the Girl with Requiem.
+<string>Master Craftsman
+<string>Craft every possible item with Leon.
+<string>Bang For Your Buck
+<string>Defeat at least three enemies with a single Requiem shot.
+<string>Can I Borrow This?
+<string>Throw a weapon dropped by an enemy.
+<string>Untouchable
+<string>Parry an enemy attack.
+<string>Seasoned Pro
+<string>Defeat 300 enemies.
+<string>Chop Chop
+<string>Defeat three zombies with a hatchet<lf>finishing attack.
+<string>Retail Therapy
+<string>Purchase an item from the supply box.
+<string>Tailor Made
+<string>Upgrade a weapon.
+<string>Crate Expectations
+<string>Open all BSAA containers.
+<string>Road Rage
+<string>Stop one of Victor's attacks on the highway.
+<string>Not Today, Buds!
+<string>Defeat all the Plant 43 seedlings.
+<string>Cat Got Your Tongue?
+<string>Cut the tongue off a Licker β2 using the hatchet.
+<string>The Hunt Begins
+<string>Destroy one Mr. Raccoon memoriam.
+<string>You Little Rascal!
+<string>Destroy every Mr. Raccoon memoriam.
+<string>The Final Puzzle
+<string>Let the sweet pair hear the voice.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Default
+<string>Jacket
+<string>R.P.D.
+<string>Mechacop
+<string>Default
+<string>Jacket
+<string>FBI
+<string>Grace Prime
+<string>Default
+<string>Tactical Light
+<string>None
+<string>Default
+<string>Default
+<string>Default
+<string>Neon
+<string>Default
+<string>Neon

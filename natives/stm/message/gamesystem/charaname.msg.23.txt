@@ -1,0 +1,73 @@
+<string>
+<string>
+<string>Leon
+<string>Grace
+<string>Chloe
+<string>Sherry
+<string>???
+<string>The Girl
+<string>Emily
+<string>Nathan
+<string>Harry
+<string>Alyssa
+<string>Hooded Man
+<string>Cole
+<string>Doctor
+<string>Nurse
+<string>Hotel Manager
+<string>Victor
+<string>Spencer
+<string>Harry
+<string>Zeno
+<string>Radio
+<string>Announcement
+<string>Announcement
+<string>Announcement
+<string>Researcher C
+<string>Announcement
+<string>BSAA Radio
+<string>Announcement
+<string>Researcher A
+<string>Researcher B
+<string>Researcher C
+<string>Researcher A
+<string>Researcher B
+<string>Operator
+<string>Reporter
+<string>Newscaster A
+<string>Newscaster B
+<string>BSAA Radio
+<string>Unknown Soldier
+<string>Kendo
+<string>Woman
+<string>Man
+<string>Umber Eyes
+<string>Squad Leader
+<string>Commando A
+<string>Commando B
+<string>Commando C
+<string>FBI Agent
+<string>Marvin
+<string>Investigator
+<string>???
+<string>Victor (Mutated)
+<string>Mission Coordinator
+<string>Girl
+<string>Unknown Man
+<string>Old Man
+<string>Woman
+<string>Man
+<string>Injured Doctor
+<string>Pilot
+<string>Woman
+<string>Man
+<string>Alyssa
+<string>Leon
+<string>Spencer
+<string>Zombie
+<string>Zombie
+<string>Chef
+<string>Chunk
+<string>Zombie
+<string>Zombie Cleaner
+<string>Noisy Zombie

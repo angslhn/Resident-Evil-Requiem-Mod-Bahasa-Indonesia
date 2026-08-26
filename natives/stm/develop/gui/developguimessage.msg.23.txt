@@ -1,0 +1,11 @@
+<string>
+<string>
+<string>
+<string><ICON R_L> 
+<string><ICON DECIDE> 
+<string><ICON LT_T> / <ICON RT_T>
+<string><ICON LT_B> / <ICON RT_B>
+<string><ICON R_U>
+<string><ICON RS_P> 
+<string>
+<string>

@@ -1,0 +1,71 @@
+<string>
+<string>[water dripping]
+<string>[sniffles]
+<string>[coughing]
+<string>
+<string>[coughing]
+<string>
+<string>
+<string>[coughing]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[grunting]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[coughing]
+<string>
+<string>
+<string>
+<string>[metallic scraping]
+<string>[lock clicks open]
+<string>
+<string>[button clicks]
+<string>[beeping]
+<string>
+<string>
+<string>
+<string>[beep]
+<string>[button click]
+<string>[static]
+<string>[static]
+<string>[metal straining, dirt trickling]
+<string>[grunt]
+<string>
+<string>
+<string>[grunts]
+<string>[coughs]
+<string>
+<string>[button clicks]
+<string>[cane tapping]
+<string>[door clicks open]
+<string>
+<string>[Spencer chortles]
+<string>
+<string>[door clicks shut]
+<string>
+<string>
+<string>[sharp beeping]
+<string>[blood splattering]
+<string>[wet coughing]
+<string>
+<string>[soft groan]
+<string>
+<string>
+<string>[coughing]
+<string>
+<string>
+<string>
+<string>
+<string>[coughing]
+<string>
+<string>[Leon coughing]
+<string>

@@ -1,0 +1,65 @@
+<string>
+<string>
+<string>[pained whimpering]
+<string>
+<string>
+<string>
+<string>[loud clanking]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[hatch clanking open]
+<string>[hatch stops and power cuts]
+<string>
+<string>
+<string>[shrieks]
+<string>
+<string>[melting]
+<string>
+<string>
+<string>
+<string>[door scrapes open]
+<string>
+<string>[counting compressions]
+<string>[sobbing]
+<string>[hand clanks against metal]
+<string>[gasping scream]
+<string>
+<string>[struggling screams]
+<string>[bubbling and cracking]
+<string>
+<string>
+<string>[gunshot]
+<string>
+<string>
+<string>[fading screech]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[thunk]
+<string>
+<string>[sigh]
+<string>[wet cough]
+<string>
+<string>[spits]
+<string>
+<string>
+<string>[sniffling]
+<string>
+<string>[chuckles]
+<string>
+<string>
+<string>[shutter glides open]
+<string>
+<string>[helicopter blades whirring]
+<string>
+<string>
+<string>
+<string>
+<string>[metallic bang]

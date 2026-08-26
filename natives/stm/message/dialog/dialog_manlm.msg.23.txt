@@ -1,0 +1,188 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Why are you here?
+<string>Is it for me?
+<string>Or for her?
+<string>We can talk.
+<string>Right.
+<string>Or we can begin your "treatment."
+<string>The silent treatment, I hope.
+<string>You're an investigator, right?
+<string>Well, investigate.
+<string>What do you wanna know?
+<string>Is this where I conduct my research?
+<string>Yes.
+<string>Are the answers to your disease here?
+<string>...Yes.
+<string>You know, I do have a question.
+<string>When was the last time you brushed<lf>your teeth?
+<string>You...
+<string>are an ignorant...fool.
+<string>Do you believe in human evolution?
+<string>I have devoted my life to studying it.
+<string>While you have devoted your life...
+<string>to failure.
+<string>You're a dead man walking!
+<string>Hey, can you hear me?
+<string>Leon? I've been trying to reach you.
+<string>Sorry, I was a little tied up.
+<string>Did you get what I asked for?
+<string>The floor plan? Yeah, sending it now.
+<string>I had a talk with Victor.
+<string>He is batshit crazy.
+<string>Gonna make my way to his office.
+<string>
+<string>Glad that FBI agent got away.
+<string>FBI?
+<string>Yeah, Grace Ashcroft. Victor kidnapped her.
+<string>What? Why?
+<string>I don't know. But I intend to find out.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Hope I'm not next.
+<string><Sound Team ID>
+<string>
+<string>Stay still.
+<string>You felt that one, huh?
+<string><Sound Team ID>
+<string>
+<string>You felt that one, huh?
+<string>
+<string>Sorry, but I'm not on the menu.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>His office should be upstairs.
+<string>
+<string>What a fuckin' shame.
+<string>
+<string>One thing after another...
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Every single time.
+<string>
+<string>Well, that's my cardio for the week.
+<string>
+<string>OK...door's open now.
+<string>
+<string>I should get going.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Pretty sure I found Victor's private office.
+<string>Nice work. Lock it up.
+<string>Yes, ma'am.
+<string>Bingo. I have the IP address.
+<string>Just give me a minute...and...
+<string>I'm in.
+<string>OK, hit me.
+<string>"...T-Virus within the body mutates..."
+<string>Sherry, you're killing me.
+<string>I found some information about our illness.
+<string>Our symptoms confirm a T-Virus infection.
+<string>Well, fuck.
+<string>Well, hey. At least we're in it together, right?
+<string>Alright, what've we got?
+<string>Elpis?
+<string>Grace?
+<string>What's she got to do with this?
+<string>
+<string>This place is infested.
+<string>
+<string>Sorry to cut your act short.
+<string>
+<string>What the fuck are you cutting<lf>with that thing? Elephants?
+<string>
+<string>You know, happy people live longer.
+<string>
+<string>Jeez, someone needs to work on their parking.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Moorrrre! Moooorrreee!
+<string>
+<string>My fooood!
+<string>
+<string>My food...!
+<string>
+<string>My food!
+<string>
+<string>My food!
+<string>
+<string>My food!
+<string>
+<string>Neeeed...ittt.
+<string>
+<string>Need it...
+<string>
+<string>More...!
+<string>
+<string>Mooorrree!
+<string>
+<string>Gimme!
+<string>
+<string>Gimme.
+<string>
+<string>Neeeed...moorree.
+<string>
+<string>Neeeed...mooreee.
+<string>
+<string>Still huunngrry...
+<string>
+<string>Still hungry...
+<string>
+<string>Gimme...it! Gimme!
+<string>
+<string>Gimme! Gimmmeee!
+<string>
+<string>Whyyy!? Whyyy!?
+<string>
+<string>Why!? Whyyy!?
+<string>
+<string>Fooood... Foooo...!
+<string>
+<string>Fooood! Fooood!
+<string>
+<string>All mine!
+<string>Mine, mine, mine, mine!
+<string>Food, food, food, food! Food!
+<string>
+<string>All mine!
+<string>Eat! Eat! Eat! Eat!
+<string>Mine! Mine! Mine! Mine!
+<string>
+<string>Food! Food! Food!
+<string>
+<string>Food! Food! Food! Food!
+<string>
+<string>Eat! Eat! Eat! Eat!
+<string>
+<string>Eat! Eat! Eat!
+<string>
+<string>Mine! Mine! Mine! Mine!
+<string>
+<string>Mine! Mine! Mine!
+<string>
+<string>More, more.
+<string>Mine! Mine!

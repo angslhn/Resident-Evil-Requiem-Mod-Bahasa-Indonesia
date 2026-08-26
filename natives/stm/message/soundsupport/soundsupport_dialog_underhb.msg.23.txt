@@ -1,0 +1,41 @@
+<string>
+<string>[keyboard clicks]
+<string>
+<string>[heavy running footsteps]
+<string>
+<string>
+<string>
+<string>[gunshots]
+<string>[weapons twang]
+<string>
+<string>[glass shatters]
+<string>
+<string>[heavy clank]
+<string>[cough]
+<string>
+<string>
+<string>
+<string>[mechanical whirring]
+<string>
+<string>
+<string>[skin cracking]
+<string>[gunshots]
+<string>
+<string>[thwack]
+<string>[gasping]
+<string>[muscles squelch]
+<string>
+<string>
+<string>
+<string>[groaning]
+<string>[blood splattering]
+<string>
+<string>
+<string>
+<string>[gunshot]
+<string>[metal groaning]
+<string>[scream]
+<string>
+<string>[coughing]
+<string>
+<string>

@@ -1,0 +1,288 @@
+<string><Sound Team ID>
+<string>
+<string>Come on.
+<string>Hang on, Emily. I'm coming.
+<string>
+<string>Why is this under the hospital?
+<string>
+<string>Is that Emily?
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Emily!
+<string>
+<string>Oh, thank goodness.
+<string>Emily!
+<string>It collects things.
+<string>
+<string>No good.
+<string>
+<string>You can do this.
+<string>
+<string>
+<string>
+<string>Not again...
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Barely made it.
+<string>
+<string>That's two.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Oh, fuck...
+<string>
+<string>
+<string>
+<string>Hold on, Emily.
+<string>
+<string>Oh my god, those are...
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>Oh god, I really don't wanna go in there.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Stay calm, Grace...
+<string>
+<string>
+<string>
+<string>The smell...
+<string>
+<string>
+<string>
+<string>
+<string>Oh fuck...
+<string>
+<string>Wait, what?
+<string>
+<string>Fluid drainage complete.<lf>Processing will now begin.
+<string>
+<string>
+<string>
+<string>Processing!? Shit, no. No, no!
+<string>
+<string>
+<string>
+<string>Processing is almost complete.
+<string>
+<string>Processing complete in 10 seconds.
+<string>
+<string>Processing complete.
+<string>
+<string>It stopped... It finally stopped. Thank god.
+<string>
+<string>The last one!
+<string>Now to free Emily and get out of this place.
+<string>
+<string>
+<string>
+<string>
+<string>Ugh, it got in my mouth...
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey, hey!
+<string>It's me! It's me. It's Grace, it's Grace!
+<string>Calm down.
+<string>Grace?
+<string>Yeah. We gotta get out of here.
+<string>
+<string>Hold on tight!
+<string>I'm scared... Why's it so loud?
+<string>U-Um... It's going to be OK. J-Just don't let go.
+<string>
+<string>Come on! Come on!
+<string>
+<string>
+<string>
+<string>Just putting you down.
+<string>
+<string>Why won't they close?
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Ahh, stay away!
+<string>
+<string>
+<string>Come on! Go faster!
+<string>
+<string>
+<string>
+<string>
+<string>Grace?
+<string>Are you hurt?
+<string>No... I'm OK.
+<string>Th-That's good. Good, Emily.
+<string>
+<string>
+<string>
+<string>What's going on?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>We gotta get outta here!
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hurry! Go!
+<string>Oh shit...
+<string>Let's...plaaay.
+<string>Grace?
+<string>Grace, are you OK?
+<string>Yeah.
+<string>How about you?
+<string>You OK?
+<string>Here, I...I kept this safe for you.
+<string>Thank you.
+<string>OK.
+<string>Let's go.
+<string>
+<string>Nnnooow?
+<string>
+<string>Under...s-stood...
+<string>
+<string>Understood...
+<string>
+<string>Nooow?
+<string>
+<string>Yesss...yes...
+<string>
+<string>I'm...doing it...
+<string>
+<string>Riiight...
+<string>
+<string>Right, right...
+<string>
+<string>Riiight...
+<string>
+<string>Nooow?
+<string>
+<string>Why's...happening?
+<string>
+<string>Can't...see.
+<string>
+<string>Wh-Whyyy...
+<string>
+<string>So...dark.
+<string>
+<string>Whyyy is this...
+<string>
+<string>Whyyy, whyyy?
+<string>
+<string>Can't see...
+<string>
+<string>Run...away...
+<string>
+<string>Shit. Ssshit.
+<string>
+<string>Get out! Get out.
+<string>
+<string>Wherrre am III?
+<string>
+<string>Get awaaay...
+<string>
+<string>Why me!?
+<string>
+<string>Let's go...
+<string>
+<string>Together...
+<string>
+<string>Let's...go...
+<string>
+<string>Don't...leave...
+<string>
+<string>You...don't...get it...
+<string>
+<string>Together...
+<string>
+<string>L-Let's...gooo...
+<string>
+<string>Don't go... Don't—
+<string>
+<string>Let's...gooo.
+<string>
+<string>Forgive meee...
+<string>
+<string>Punish. Punish.
+<string>
+<string>Bastards...
+<string>
+<string>That's bullshiiit...
+<string>
+<string>Grifteeers...
+<string>
+<string>Baaassstards...
+<string>
+<string>Baaack alley shitstaaains...
+<string>
+<string>The hell!?
+<string>
+<string>Damn it...
+<string>
+<string>Where you looking!?
+<string>
+<string>Garbaaage.
+<string>
+<string>Fuckin' hell...
+<string>
+<string>All bullshit!
+<string>
+<string>Bullllshit...
+<string>
+<string>That's bullshit...
+<string>
+<string>Back-alley shitstain...
+<string>
+<string>Garbaaage.
+<string>
+<string>Wait, dooon...
+<string>
+<string>Thaaat way...
+<string>
+<string>Follow...
+<string>
+<string>That way...
+<string>
+<string>Wai...Waaait...
+<string>
+<string>Waaait...
+<string>
+<string>Fooollow.
+<string>
+<string>Follooow.
+<string>
+<string>Heeelp!! Meee!!
+<string>
+<string>P-Pleeease, help meee...
+<string>
+<string>R-R...un...
+<string>
+<string>Go... Get ooout.
+<string>

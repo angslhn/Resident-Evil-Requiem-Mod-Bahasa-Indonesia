@@ -1,0 +1,11 @@
+<string>Compiling shaders...
+<string>On
+<string>Off
+<string>Type A
+<string>Type B
+<string>Type C
+<string>0%
+<string>50%
+<string>100%
+<string>200%
+<string>Close the game.

@@ -1,0 +1,19 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>And Sherry's OK?
+<string>Good, I'm so glad.
+<string>Emily?
+<string>Yeah, uh, she's doing great.
+<string>I'm actually teaching her how to read.
+<string>Grace!
+<string>Grace!
+<string>Where's that report?
+<string>Sorry.
+<string>Leon, gotta go. Catch up soon.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey! Respond! What's your status!?
+<string>Remaining BSAA forces have been neutralized.
+<string>Retrieving the objective before<lf>they send in the "wolves."

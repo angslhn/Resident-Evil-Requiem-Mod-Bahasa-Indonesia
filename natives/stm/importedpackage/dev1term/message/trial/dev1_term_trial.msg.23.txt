@@ -1,0 +1,2 @@
+<string>This game is currently in development.<lf>Some functionality or aspects of the game may not be working as intended.<lf>Customer Support is also unavailable at this time. Thank you for your cooperation.
+<string>Stop the game and return to the main menu?

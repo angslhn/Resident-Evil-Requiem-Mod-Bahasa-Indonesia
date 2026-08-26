@@ -1,0 +1,48 @@
+<string>
+<string>[light clicks on harshly]
+<string>
+<string>
+<string>
+<string>[grunt]
+<string>
+<string>[Leon grunts]
+<string>
+<string>
+<string>
+<string>[Leon clicks tongue]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[mechanical whirring]
+<string>[Leon chuckles]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[gunshots]
+<string>
+<string>[earpiece beeps]
+<string>
+<string>
+<string>[deep breath]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[error alert]
+<string>[lock alert]
+<string>
+<string>[beeping as text appears]
+<string>[sigh]
+<string>
+<string>[sigh]
+<string>[sigh]
+<string>

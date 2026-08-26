@@ -1,0 +1,79 @@
+<string>
+<string>Licker!
+<string><Sound Team ID>
+<string>
+<string>Where is that?
+<string>OK.
+<string>Huh?
+<string>
+<string>I'm gettin' the feeling I'm not<lf>wanted around here.
+<string>
+<string>
+<string>
+<string>Here at ARK, your movements<lf>will be constantly monitored.
+<string>Do not leave the designated areas without<lf>authorization.
+<string>The recording and transmitting of information<lf>is strictly prohibited.
+<string>
+<string>Grace should be just up ahead.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Backup is on the way.
+<string>Not necessary.<lf>I'll neutralize the target myself.
+<string>Leon Kennedy.
+<string>We finally meet.
+<string>
+<string>Didn't realize I had such a big fan.<lf>How about an autograph?
+<string>I heard you were a smart-ass.
+<string>
+<string>Not bad for someone at death's door.
+<string>Worried about me? How sweet.
+<string>
+<string>Sneaky bastard.
+<string>
+<string>Getting a little handsy, aren't we?
+<string>Make no mistake. Nothing will stand in my way.<lf>I will complete this mission.
+<string>
+<string>Ran into trouble. This guy was one tough bastard.
+<string>Coming from you, that's quite the compliment.
+<string>
+<string>Grace should be nearby.<lf>Time to finally get some answers.
+<string>
+<string>Target neutralized. Mission accomplished.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Grace, this is where we are.
+<string>The world is under threat.
+<string>The technology to control<lf>another's will already exists.
+<string>But it's not efficient at infecting others.
+<string>I believe Spencer solved that with Elpis.
+<string>The Connections sealed Raccoon<lf>City to save it for themselves.
+<string>And it's been waiting here ever since.
+<string>"What does the creator desire?"
+<string>This is as far as we could get.
+<string>If the wrong password is entered, the ARK will<lf>be destroyed, and Elpis will be lost forever.
+<string>So tell me, Grace.
+<string>What's the password?
+<string>I-I don't know.
+<string>Of course you do. You're the—
+<string>Leon!
+<string>Don't embarrass yourself, Mr. Kennedy.
+<string>You can't beat me.
+<string>Aren't we fancy?
+<string>Don't move!
+<string>W-Wait!
+<string>You still need me, right?
+<string>Come on!
+<string>Grab tight!
+<string>I got you.
+<string>Are you OK?
+<string>Me?
+<string>Feel like a million bucks.
+<string>Where does this take us?
+<string>Your guess is as good as mine.
+<string>Time to get off. Come on.
+<string>What now?
+<string>Leon?
+<string>Leon!

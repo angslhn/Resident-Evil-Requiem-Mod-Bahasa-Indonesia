@@ -1,0 +1,2 @@
+<string>Mr. Raccoon Charm
+<string>A mysterious charm that works just<lf>by holding it. <COLOR preset="TextColor3">Increases precision<lf>and critical hit rate</COLOR>.

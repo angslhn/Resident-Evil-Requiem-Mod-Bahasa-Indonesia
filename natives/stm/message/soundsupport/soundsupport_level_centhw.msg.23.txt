@@ -1,0 +1,7 @@
+<string>[growling]
+<string>[growling]
+<string>[growling]
+<string>[large explosion]
+<string>[large explosion]
+<string>[building crumbles]
+<string>[explosion]

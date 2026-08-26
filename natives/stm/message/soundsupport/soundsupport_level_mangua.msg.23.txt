@@ -1,0 +1,4 @@
+<string>[mechanical click]
+<string>[crickets chirping]
+<string>[metallic sliding]
+<string>[door clicks shut]

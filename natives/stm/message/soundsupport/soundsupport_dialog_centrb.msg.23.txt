@@ -1,0 +1,96 @@
+<string>
+<string>
+<string>
+<string>
+<string>[engine stops]
+<string>
+<string>
+<string>
+<string>
+<string>[screaming]
+<string>
+<string>
+<string>[earpiece beeps]
+<string>
+<string>[silence]
+<string>
+<string>
+<string>
+<string>
+<string>[monitor pings faintly]
+<string>
+<string>
+<string>[ping]
+<string>[earpiece beeps]
+<string>
+<string>
+<string>[earpiece beeps]
+<string>
+<string>[silence]
+<string>
+<string>
+<string>
+<string>
+<string>[computer pings faintly]
+<string>
+<string>
+<string>[computer pings]
+<string>[earpiece beeps]
+<string>
+<string>
+<string>
+<string>[keyboard clicks]
+<string>
+<string>[Grace exhales]
+<string>
+<string>[keyboard clicks]
+<string>
+<string>
+<string>
+<string>
+<string>[keyboard clicks]
+<string>
+<string>
+<string>
+<string>[ragged breathing]
+<string>
+<string>[gunshots]
+<string>[huge crash]
+<string>
+<string>[gunshots]
+<string>
+<string>
+<string>[groans]
+<string>
+<string>[gunshot]
+<string>[ceiling crumbles]
+<string>
+<string>
+<string>[rumbling]
+<string>
+<string>[helicopter blades whirring]
+<string>
+<string>[rain pouring]
+<string>
+<string>[metal door squeaks]
+<string>
+<string>
+<string>
+<string>
+<string>[large impact thud]
+<string>
+<string>
+<string>
+<string>
+<string>[missile whooshes through the air]
+<string>[explosion]
+<string>
+<string>[groans]
+<string>[heavy thud]
+<string>[gunshot]
+<string>
+<string>[explosion]
+<string>[muscles and sinew squelch]
+<string>
+<string>[blood spurts violently]
+<string>

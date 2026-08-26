@@ -1,0 +1,5 @@
+<string>[loud blast]
+<string>[creaking]
+<string>[doors creaking open]
+<string>[debris collapsing]
+<string>[elevator gears whirring]

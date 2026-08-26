@@ -1,0 +1,62 @@
+<string>Tutorials can be viewed again via <ICON PAUSE>.<lf><lf>New tutorials and tips are added as<lf>you progress through the game.
+<string>Grace's health status can be determined<lf>by the amount of blood on the screen,<lf>or the health indicator in the Items menu.<lf><lf>Green denotes "Fine" and at full health,<lf>while red denotes "Danger" and near death.
+<string><REF TutorialList_040_Description>
+<string><REF TutorialList_041_Description>
+<string><REF TutorialList_026_Description_01>
+<string><REF TutorialList_046_Description>
+<string><REF TutorialList_019_Description>
+<string><REF TutorialList_025_Description>
+<string><REF TutorialList_042_Description>
+<string><REF TutorialList_047_Description>
+<string><REF TutorialList_030_Description>
+<string><REF TutorialList_017_Description>
+<string>Zombie corpses will mutate if left alone.<lf>Corpses with their heads intact can be<lf>stopped from mutating by injecting<lf>them with a hemolytic injector.
+<string>New crafting recipes can be discovered<lf>by analyzing blood specimens with<lf>the laser microscope.
+<string><REF TutorialList_048_Description>
+<string>Make sure you're well prepared before<lf>entering an area with a swarm of enemies.
+<string><REF TutorialList_004_Description_00>
+<string><REF TutorialList_049_Description>
+<string><REF TutorialList_011_Description>
+<string><REF TutorialList_050_Description>
+<string><REF TutorialList_018_Description_00>
+<string><REF TutorialList_018_Description_01>
+<string>If you're overrun by enemies, try to<lf>create some space to avoid getting<lf>boxed in.
+<string><REF TutorialList_013_Description>
+<string><REF TutorialList_022_Description>
+<string><REF TutorialList_051_Description>
+<string>You can parry certain enemy attacks<lf>with <ICON GUARD>. But be careful, you can't parry<lf>with a blunt hatchet. Time the action just<lf>right, and you can perform a perfect parry<lf>that will stagger your enemies.
+<string><REF TutorialList_027_Description>
+<string>If the attaché case is full, you can sell<lf>weapons to make room, or purchase<lf>a case upgrade from the supply box.
+<string>Scopes are detachable. They can<lf>be equipped or removed as needed.
+<string><REF TutorialList_043_Description>
+<string><REF TutorialList_053_Description>
+<string>If you're struggling with a particularly<lf>tough enemy, try tuning up your weapon<lf>and purchasing body armor.<lf><lf>Defeat enemies and pick up tracking modules<lf>to build up credits for the supply box.
+<string><REF TutorialList_057_Description>
+<string><REF TutorialList_035_Description>
+<string>Some zombies are fixated with the habits they<lf>had when they were human. Observing their<lf>movements can make it easier to avoid them.
+<string>Dropped chainsaws can be picked up.<lf>Be careful when picking up a running<lf>chainsaw, contact with the chain will<lf>inflict damage.
+<string>If you haven't been spotted by the Girl,<lf>you can distract her by throwing an<lf>empty bottle.
+<string><REF TutorialList_023_Description>
+<string>Close doors to stop enemies from<lf>spotting you and prevent detection.
+<string>Gas canisters can be thrown near enemies.<lf>They will explode after a short while,<lf>or can be shot for immediate effect.
+<string>Reloading individual cartridges can be time<lf>consuming. Press <ICON HOLD> to quickly cancel<lf>a reload.
+<string><REF TutorialList_068_Description>
+<string>After a game over, you will return to your<lf>most recent save location. Save frequently<lf>at typewriters so you don't lose<lf>your progress.
+<string>A zombie corpse that sits around too long<lf>will mutate into a Blister Head. Faced with<lf>these strong foes, escape may be your best<lf>option. If you decide to stick around,<lf>the powerful Requiem may be your best friend.
+<string>Zombie corpses mutate into Blister Heads.<lf>The best way to put them down is to aim<lf>finishing attacks at their heads. You can<lf>also slow them down by targeting their legs.
+<string>Blister Heads have instant-death attacks.<lf>Pay attention to their movements and sounds.
+<string>Stay away from zombies holding grenades<lf>if you don't want to get blown sky-high. Move<lf>a safe distance away and shoot the grenade<lf>to deal with the situation.
+<string><REF TutorialList_054_Description>
+<string><REF TutorialList_055_Description>
+<string>When a shotgun is out of ammo, a single shell<lf>can be loaded and fired immediately.<lf>Fully reloading takes time, so decide whether to fire<lf>until empty or reload with ammo remaining.
+<string>To survive Insanity mode, head to Special Content<lf>to obtain new weapons and unlock advanced<lf>tuning for weapon parts. The necessary<lf>Completion Points (CP) can be obtained<lf>by completing challenges.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

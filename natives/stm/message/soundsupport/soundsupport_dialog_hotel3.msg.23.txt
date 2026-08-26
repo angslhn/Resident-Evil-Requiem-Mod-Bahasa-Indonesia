@@ -1,0 +1,162 @@
+<string>
+<string>
+<string>
+<string>[keyboard clicking]
+<string>
+<string>
+<string>[mouse clicks]
+<string>
+<string>[rapid knocking]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[rain pouring]
+<string>
+<string>
+<string>
+<string>[grumbles]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[rustling]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[creaking]
+<string>
+<string>[creaking]
+<string>[shaky breathing]
+<string>
+<string>[door slams]
+<string>[gasps]
+<string>
+<string>
+<string>[frantic rustling]
+<string>
+<string>[thump]
+<string>
+<string>
+<string>
+<string>
+<string>[keyboard clicking]
+<string>[door opens and shuts]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[Grace scoffs]
+<string>
+<string>
+<string>[phone ringing]
+<string>
+<string>
+<string>[call disconnects]
+<string>
+<string>
+<string>[loud click]
+<string>
+<string>[frantic rustling]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[gun barrel clicks]
+<string>
+<string>
+<string>
+<string>[shuffling and gasping]
+<string>
+<string>[manager choking]
+<string>
+<string>
+<string>[gunshots]
+<string>[body falls]
+<string>
+<string>[hyperventilating]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[gasping breaths]
+<string>[metal clinking]
+<string>
+<string>
+<string>[screaming in horror]
+<string>
+<string>[blood spurting]
+<string>
+<string>
+<string>[flames hiss and spread]
+<string>[wailing]
+<string>[flames crackling]
+<string>
+<string>
+<string>[sniffling]
+<string>[phone ringing]
+<string>
+<string>
+<string>[ringing continues]
+<string>
+<string>
+<string>[click]
+<string>[silence]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[SFX screech]
+<string>
+<string>[pained choking]
+<string>[blood splatters]
+<string>
+<string>[fabric straining]
+<string>
+<string>
+<string>[gunshot]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[window shatters]
+<string>
+<string>[glass clattering]
+<string>
+<string>[groaning]
+<string>[♪ classical music]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[thunder]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[lock clicks]
+<string>
+<string>
+<string>
+<string>[choking]
+<string>[chuckle]

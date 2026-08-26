@@ -1,0 +1,114 @@
+<string>Standard
+<string>Invert Y-axis
+<string>Invert X-axis
+<string>Invert X and Y Axes
+<string>Weak
+<string>Strong
+<string>Normal
+<string>Hold
+<string>Tap Repeatedly
+<string>Small
+<string>Large
+<string>CONTROLS
+<string>Controller Vibration
+<string>Toggle
+<string>Hold
+<string>Adaptive Triggers
+<string>Cursor Lock
+<string>Turn the cursor lock (constraining the mouse to the game screen) on/off.
+<string>Mouse Buttons Inversion
+<string>Invert the left/right mouse button functionality.
+<string>Mouse Scroll Wheel Inversion
+<string>Invert the up/down mouse scroll wheel functionality.
+<string>Button Icon Type
+<string>Button icons will be changed to the following:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B>
+<string>CAMERA
+<string>Aim Assist
+<string>GRAPHICS
+<string>Texture Quality
+<string>Ray Tracing
+<string>Upscaling Sharpness
+<string>Adjust the upscaling function to improve<lf>visual clarity.
+<string>Configure settings to optimize upscaling<lf>and maintain high image quality at high<lf>frame rates.
+<string>FidelityFX Super Resolution 1
+<string>FidelityFX Super Resolution 2
+<string>FidelityFX Super Resolution 3
+<string>DLSS SUPER RESOLUTION
+<string>Configure settings to improve frame rate by<lf>displaying higher resolution with lower<lf>rendering loads.
+<string>Configure settings to improve frame rate<lf>by generating interpolated frames.
+<string>Configure the function to reduce input latency.
+<string>DISPLAY
+<string>Display Mode
+<string>Change the screen display mode.
+<string>Full Screen
+<string>Window
+<string>Borderless Window
+<string>Output Display Settings
+<string>Select the output display.
+<string>HDR Mode
+<string>Turn HDR Mode on/off.
+<string>Brightness
+<string>Display Area
+<string>Color Space
+<string>Adjust the color to suit your monitor setup.
+<string>sRGB
+<string>Rec. 709
+<string>Rec. 2020
+<string>Screen Resolution
+<string>Change the screen resolution.
+<string>Select whether to prioritize frame rate or resolution.
+<string>Action/Visuals Priority
+<string>Select whether to prioritize frame rate or resolution.
+<string>Reticle Display
+<string>Reticle Color
+<string>White
+<string>Red
+<string>Blue
+<string>Green
+<string>LANGUAGE
+<string>Subtitles
+<string>Turn subtitles on/off.
+<string>Voice Language
+<string>Change the voice playback language.
+<string>Display Language
+<string>Change the text and menu display language.
+<string>Japanese
+<string>English
+<string>French
+<string>Italian
+<string>German
+<string>European Spanish
+<string>Russian
+<string>Polish
+<string>Brazilian Portuguese
+<string>Traditional Chinese
+<string>Simplified Chinese
+<string>Korean
+<string>Arabic
+<string>Latin American Spanish
+<string>Mandarin Chinese
+<string>AUDIO
+<string>Master Volume
+<string>Dialogue Voices
+<string>Background Music
+<string>Sound Effects
+<string>Menu Sound Effects
+<string>Change the audio output device.
+<string>TV
+<string>Headphones
+<string>Home Theater
+<string>Change the volume range to match your surroundings.
+<string>ACCESSIBILITY
+<string>Subtitle Size
+<string>Subtitle Color
+<string>Yellow
+<string>White
+<string>Red
+<string>Blue
+<string>Green
+<string>Subtitle Background
+<string>Speaker Name Display
+<string>Speaker Name Color
+<string>Closed Captions
+<string>Dot Display
+<string>NETWORK

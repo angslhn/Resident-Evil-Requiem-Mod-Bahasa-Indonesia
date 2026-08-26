@@ -1,0 +1,402 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Grace!
+<string>Grace!
+<string>Grace Ashcroft.
+<string>Uh, yes?
+<string>My office.
+<string>Oh... Umm...
+<string>Coming!
+<string>Oh, shit.
+<string>I-If this is about the report<lf>you asked for yesterday,
+<string>it'll be ready in three—
+<string>no, no, two days, tops.
+<string>Put a hold on that for now.
+<string>We found another body.
+<string>One that exhibits the same pathology as<lf>the others we've been investigating.
+<string>Now I need a good technical analyst on this.
+<string>OK.
+<string>I need your eyes on the crime scene.
+<string>The Wrenwood Hotel.
+<string>Look...
+<string>I know that's where your<lf>mother was murdered...
+<string>and I know it'll be upsetting for you.
+<string>Alyssa died eight years ago.
+<string>Perhaps it's time for you to face the past?
+<string>Confront that fear head-on.
+<string>Grace...
+<string>I won't force you to go,
+<string>but do you think you can do this for me?
+<string>Investigate that crime scene and report<lf>back to me with your findings.
+<string>That's all for now.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Sorry.
+<string>
+<string>
+<string>I need to head to the hotel.
+<string>
+<string>It should be around here.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey, miss?
+<string>Hey, that's a restricted area.
+<string>You can't go in there.
+<string>A-Ah, oh, um...
+<string>Wh-Why?
+<string>It's an active crime scene.
+<string>Oh! Right, sorry. Um...
+<string>Just a sec.
+<string>Oh, you're FBI?
+<string>I am.
+<string>Investigating all these<lf>strange deaths, huh?
+<string>Mm-hmm.
+<string>This the fifth one, now, right?
+<string>I heard they all have the same weird bruises.
+<string>So you think it's something infectious,<lf>or terrorism, or...?
+<string>Why else would the FBI<lf>be investigating, right?
+<string>Hey, are you with me?
+<string>Oh, um. Uh...
+<string>There might be answers inside.
+<string>Yeah. Sure. Right.
+<string>Be careful in there.
+<string>Whole building's condemned—word is they're<lf>finally gonna bring the whole place down.
+<string>Yeah. Thanks.
+<string>
+<string>Why am I even here?
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>I can't...
+<string>It's too much.
+<string>Come on, Grace.
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Wh-Who's there!?
+<string>Oh my god.
+<string>Wh-What do I do?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>The body of a man...Elbridge this...
+<string>The police...string of mysterious deaths...
+<string>
+<string>Shit...
+<string>
+<string>What? Who...?
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey, hun.
+<string>Hi, Mom.
+<string>You have been on that thing all day.
+<string>Well, if you're gonna work so late...
+<string>Get some sleep, eh?
+<string>I'm almost done. Just a sec.
+<string>What am I going to do with you?
+<string>What you always do.<lf>Nag at me until I go to bed.
+<string>It's really coming down hard.
+<string>Mom, phone.
+<string>Mom.
+<string>It's right beside you.
+<string>Ugh, fine!
+<string>Hello?
+<string>Miss Ashcroft?
+<string>Yes.
+<string>Who was it?
+<string>Dunno.
+<string>They asked for Miss Ashcroft<lf>and then they hung up on me.
+<string>Rude.
+<string>What the...?
+<string>They're coming.
+<string>Grace, we need to go.
+<string>Go where?
+<string>Mom, what's going on?
+<string>Hurry!
+<string>Wait, who's coming? What's wrong?
+<string>We need to keep our voices down.
+<string>This is ridiculous.
+<string>Come on!
+<string>Tell me what's going on.
+<string>Now is not the time.
+<string><Sound Team ID>
+<string>
+<string>Grace! Hurry!
+<string>Keep moving!
+<string><Sound Team ID>
+<string>
+<string>Stay close.
+<string>Grace! Come on, keep moving.
+<string>
+<string>Mom, wait!
+<string>
+<string>Grace, please focus.
+<string>
+<string>I'm coming!
+<string>
+<string>Grace. Stay close to me.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hello?
+<string>Who's there?
+<string>Oh!
+<string>I'm so sorry about the power outage.
+<string>Uh, what happened?
+<string>Oh, it's probably the electrical panel.
+<string>It's forty years old, so it doesn't<lf>take much to trip it.
+<string>It's really no excuse, and I apologize<lf>for the inconvenience.
+<string>Oh, no, it's fine.
+<string>Yeah, don't worry about it.
+<string>I should have it fixed soon,
+<string>I just need to find my—
+<string>Oh my god!
+<string>Mom!
+<string>What the hell, Mom!?
+<string>No, no, no! Grace! No.
+<string>Grace, stay close to me.
+<string>Are you gonna tell me what's going on!?
+<string>
+<string>Mom, what are you doing!?
+<string>Something important.
+<string>What did you hide behind that painting?
+<string>I'll explain later.
+<string>We need to find another way out.
+<string><Sound Team ID>
+<string>
+<string>Grace! Come on!
+<string>
+<string>Keep moving, Grace. Keep moving.
+<string><Sound Team ID>
+<string>
+<string>Come on, Grace!
+<string>Come on, hurry!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Come on in now, Grace.
+<string>I'm calling the police!
+<string>No! Don't call the police!
+<string>No, no, no! Shh!
+<string>Hello?
+<string>Yes, I want to report a murder...<lf>No, murders!
+<string>Grace!
+<string>Th-The Wrenwood Hotel.
+<string>Yes. Hurry! Please.
+<string>The police are on their way.
+<string>Oh my god.
+<string>Mom, I feel like...<lf>I'm gonna throw up.
+<string>Grace?
+<string>Grace, look at me.<lf>Grab my hands.
+<string>OK, look at me. Look at me.
+<string>In...and out... Breathe in, and out.
+<string>Oh, Grace. I promise you I will explain<lf>this all to you one of these days.
+<string>Grace.
+<string>Please know that you are my hope.
+<string>Never forget that.
+<string>What are you talking about?
+<string>Just...
+<string>I love you.
+<string>I love you too.
+<string>OK?
+<string>Mom, I'm scared!
+<string>No, no, no. We need to find<lf>a way out of here now.
+<string>B-But we don't have any of our stuff, though.
+<string>We can come back for it later, Grace.
+<string>I don't under—
+<string>Found you.
+<string>No... No!
+<string>Mom! Mom, please!
+<string>No...Mom!
+<string>No, please, no!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>I'm so sorry, Mom.
+<string>This is all my fault.
+<string>Hello?
+<string>Who is this?
+<string>I need to get out of here.
+<string>Something important.
+<string>I'll explain later.
+<string>What did you hide behind that painting?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>It wasn't this way.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>I'm sure it was the painting in the lobby.<lf>Whatever she hid could still be there.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>S-Sorry, Officer.
+<string>What's wrong?
+<string>Something...stung me.
+<string>Are you OK?
+<string>Wh-What do I do? Um...
+<string>Oh, shit...
+<string>Can't...
+<string>Come on!
+<string>Go...in there!
+<string>Can't...go...in there!
+<string>I'm stuck!
+<string>
+<string>W-Wait! What are you doing!?
+<string>
+<string>Stop! Stop shooting!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Get away! G-Get away from me!
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Shit! Stay away!
+<string>
+<string>
+<string>What the hell!? What the hell!?<lf>What the hell!? What the hell!?
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>What the...?
+<string>I-Is...
+<string>Is anyone there?
+<string>H-Hello?
+<string>It hasn't been easy.
+<string>But after much effort, here we finally are.
+<string>Who are you?
+<string>I'm the one who planted that body.
+<string>I'm the one that brought you here.
+<string>I know now that you're the one<lf>that I've been searching for.
+<string>The special one. The chosen one.
+<string>Miss Ashcroft.
+<string>Shh...
+<string>Rest now, Grace.
+<string>We have so much to do.
+<string>
+<string>Yes, I know.
+<string>
+<string>Uh-huh.
+<string>
+<string>No, no that's fine.
+<string>
+<string>Yeah, I understand.
+<string>
+<string>Oh, no trouble at all.
+<string>
+<string>Yeah...uh-huh. Of course.
+<string>
+<string>Yes. I will get right on it.
+<string>
+<string>What is it?
+<string>
+<string>Yeah, I know that.
+<string>
+<string>[tch]
+<string>
+<string>Hello?
+<string>
+<string>Give me a break.
+<string>
+<string>Do I sound like I care?
+<string>
+<string>Yeah, that's right.
+<string>
+<string>I need you to handle it.
+<string>
+<string>So? What happened with the missus?
+<string>Man, she was pissed. But she forgave me in the end.
+<string>You got off easy. Not going to do anything<lf>stupid like that again, are you?
+<string>No way. I swear I'll never do it again.
+<string>Anyway, how about you?
+<string>Same as always. Can't complain.
+<string>You're no fun is what you mean.
+<string>Not my fault you're all drama.
+<string>
+<string>Sorry I'm late!
+<string>It's fine. I only just got here myself.
+<string>Where's Kevin?
+<string>He's late too.
+<string>
+<string>So. Where are we going today?
+<string>That restaurant I heard about.<lf>The really popular one. Finally managed to book a table.
+<string>Really? Can't wait!
+<string>Well, you're going to have to.
+<string>Kevin's really late this time.<lf>I hope he didn't forget.
+<string>Looks like the meal's on him then.
+<string>You got that right.
+<string>
+<string>Did you hear Eric was promoted?
+<string>That asshole? What the hell<lf>are the managers thinking?
+<string>Yeah, right? He's a kiss ass who goofs off<lf>while we do all the damn work.
+<string>The weather's so bad today.
+<string>Yeah, can't remember the last time it wasn't.
+<string>The weather report said it was going to be clear.
+<string>Guess they were wrong.
+<string>Augh. This sucks.

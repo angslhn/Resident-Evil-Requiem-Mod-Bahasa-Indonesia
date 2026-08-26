@@ -1,0 +1,212 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Mr. Kennedy, welcome.<lf>Dr. Gideon has been expecting you.
+<string>Funny. I don't remember getting an invitation.
+<string>Well, he's waiting for you.
+<string>Can't have that, can we?
+<string>Follow me, please.
+<string>Lead the way.
+<string>So how long have you worked for,<lf>uh...Dr. Gideon?
+<string>Not long. I just recently joined the team.
+<string>
+<string>We care for quite a few<lf>long-term patients here.
+<string>All undergoing experimental therapies<lf>developed by Dr. Gideon.
+<string>
+<string>Experimental therapies?
+<string>Yes, it's all very cutting edge.
+<string>The facility keeps a low profile due<lf>to the sensitive nature of the research.
+<string>Oh, I bet it does.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Please, wait here.
+<string>Code Six! Code Six! All staff,<lf>initiate emergency protocols!
+<string>Mr. Kennedy, we need to leave immediately!
+<string>What's going on?
+<string>I don't know what's happening.
+<string>Some kind of mass hysteria.<lf>The hospital is on lockdown.
+<string>Doctor?
+<string>Cut...out...
+<string>I think I want a second opinion.
+<string>
+<string>Nice.
+<string>
+<string>Well, that went well.
+<string>
+<string>That bastard did it again.
+<string>How are things on your end?
+<string>I just hacked into the center's network.
+<string>Good, good...<lf>Can you find me the floor plan?
+<string>I'll see what I can do.
+<string>Well, in the meantime, I'll try to track him down.
+<string>Keep me posted.
+<string>Will do.
+<string><Sound Team ID>
+<string>
+<string>Come on, come on, come on,<lf>come on, come on!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey! Over here!
+<string>Breathe... Breathe...
+<string>You OK?
+<string>Y-Yeah. Th-Thanks...
+<string>Leon Kennedy, DSO.
+<string>DSO?
+<string>I-I'm Grace, um... Ashcroft. Uh, FBI.
+<string>FBI?
+<string>What are you doing here?
+<string>Someone kidnapped me.
+<string>Victor Gideon?
+<string>I-I don't know.
+<string>Well, we should leave.
+<string>What does Victor want with you?
+<string>What? I, um, I—
+<string>Grace.
+<string>Wh-What do you mean?
+<string>He grabbed you for a reason.
+<string>Wait! Y-You're DSO.
+<string>That's the, ah, uh...<lf>The counter-bioterrorism agency, right?
+<string>Take this.
+<string>You're sure?
+<string>You might need it.
+<string>Now go.
+<string>Get outta here.
+<string>She won't get away, you know.
+<string>Dr. Gideon.
+<string>So nice to finally meet you, Leon.
+<string>Why don't we have a little talk?
+<string>Too slow.
+<string>I see you're exhibiting symptoms, too.
+<string>Umbrella's curse.
+<string>Shh...
+<string>
+<string>Not...my fauuult...
+<string>
+<string>Not my fauulllt...
+<string>
+<string>Notttt my fault.
+<string>
+<string>Not my fauuuul...!
+<string>
+<string>III'm not sick!
+<string>
+<string>Not...siiick!
+<string>
+<string>Stop iiit!
+<string>
+<string>Not siiick...
+<string>
+<string>I-I'm not...sick...
+<string>
+<string>Stooop...iiit...
+<string>
+<string>Nooot...siiick...
+<string>
+<string>Stooop...it...
+<string>
+<string>Stooop! It!
+<string>
+<string>I'm...nnnot...siiick!
+<string>
+<string>Stooop! It!
+<string>
+<string>Nooot siiick!
+<string>
+<string>Agh... Not sick!
+<string>
+<string>Not sick, not s-...not sick.
+<string>
+<string>Stop! Stop! Stop!
+<string>
+<string>Not sick!
+<string>
+<string>Stop it!
+<string>
+<string>Nooot siiick!
+<string>
+<string>Nooo!!!
+<string>
+<string>Daaayy after day...
+<string>
+<string>Damn patients!
+<string>
+<string>Damn...patients!
+<string>
+<string>Day...after...
+<string>
+<string>Damn patients...
+<string>
+<string>Damn... Patients...patients.
+<string>
+<string>Damn...p-patients...
+<string>
+<string>Day...after...day...
+<string>
+<string>Damn patients!
+<string>
+<string>Damn!
+<string>
+<string>Damn pa...patients!
+<string>
+<string>Day after...day!
+<string>
+<string>Damn patients!
+<string>
+<string>Damn!
+<string>
+<string>Day after... Day after...!
+<string>
+<string>Day after day! After day!
+<string>
+<string>Day...Damn patients...
+<string>
+<string>Damn...patients!
+<string>
+<string>Damn! Patients!
+<string>
+<string>Damn patiiieeents!
+<string>
+<string>Daaammn patiiients!
+<string>
+<string>It huuurts!
+<string>
+<string>Get ooout!
+<string>
+<string>Geeet ooout!
+<string>
+<string>It huuurt...
+<string>
+<string>It...huuurts...
+<string>
+<string>It huuurt...
+<string>
+<string>It-It...h-hurt...
+<string>
+<string>Get...o-ooout!
+<string>
+<string>It! H-Hurt!
+<string>
+<string>Get ooout! GET OOOUT!
+<string>
+<string>Get! O-Out!
+<string>
+<string>Huuurts...huuurts!
+<string>
+<string>It...huuurts...
+<string>
+<string>Hurts...it hurts!
+<string>
+<string>It hurt, it hurt, it hurt, it hurt!
+<string>
+<string>Get out! Get out!
+<string>
+<string>Get...out!
+<string>
+<string>It huuurt!
+<string>
+<string>Get ooout!

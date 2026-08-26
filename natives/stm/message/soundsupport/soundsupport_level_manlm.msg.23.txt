@@ -1,0 +1,5 @@
+<string>[wall crumbling]
+<string>[mechanism opening]
+<string>[mechanism stopping]
+<string>[blinds breaking]
+<string>[elevator stopping]

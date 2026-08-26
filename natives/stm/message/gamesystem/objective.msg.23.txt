@@ -1,0 +1,69 @@
+<string>Head to the Wrenwood Hotel
+<string>Investigate the crime scene
+<string>Head to room 204
+<string>Escape from the hotel
+<string>Find what Alyssa hid
+<string>Escape from the police officer
+<string>Go after Victor
+<string>Escape
+<string>Get the fuse
+<string>Investigate the care center
+<string>Eliminate the infected
+<string>Get out of the room
+<string>Escape the care center
+<string>Unlock the door in the central hall
+<string>Find and place the quartz ({0}/{1})
+<string>Destroy the padlock
+<string>Take the child to the puzzle box
+<string>Analyze the blood specimen
+<string>Get Emily back
+<string>Find Victor's office
+<string>Search Victor's office
+<string>Rescue Emily
+<string>Unlock the cells
+<string>Find the joint plugs ({0}/{1})
+<string>Escape via the elevator
+<string>Escape via the courtyard
+<string>Find the helicopter key
+<string>Return to the helicopter
+<string>Escape the research facility
+<string>Rescue Grace
+<string>Help Grace
+<string>Head to the chapel
+<string>Fight off the infected
+<string>Get to the surface
+<string>Open the hatch on the Girl
+<string>Restart the power distribution units ({0}/{1})
+<string>Open the roof hatch
+<string>Return to Emily
+<string>A Harsh Reality
+<string>Head to Raccoon City Center
+<string>Find a way out
+<string>Defeat the giant spider
+<string>Examine the gate
+<string>Search the camp ({0}/{1})
+<string>Collect the detonator parts ({0}/{1})
+<string>Get some fuel
+<string>Get the batteries ({0}/{1})
+<string>Eliminate the infected
+<string>Search for a repair kit
+<string>Destroy the gate
+<string>Search for Grace
+<string>Head to the east office
+<string>Head after Grace
+<string>Escape R.P.D.
+<string>Head to the orphanage
+<string>Look around the orphanage
+<string>Hide from the children
+<string>Defeat the giant plant
+<string>Eliminate the elite guards
+<string>Eliminate the commander
+<string>Destroy Elpis
+<string>Find a way out of the dump
+<string>Help Leon escape
+<string>Search for the override key
+<string>Head to the central refining system
+<string>Find a way to open the door
+<string>Open the door to the central refining system
+<string>Go to Leon
+<string>Defeat Victor

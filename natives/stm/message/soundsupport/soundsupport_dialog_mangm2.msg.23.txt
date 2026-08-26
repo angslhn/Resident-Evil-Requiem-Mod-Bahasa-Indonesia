@@ -1,0 +1,44 @@
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[gasps]
+<string>
+<string>
+<string>[groaning]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[strap clicks open]
+<string>
+<string>[lock beeps]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[distant groaning]
+<string>
+<string>[murmur of agreement]
+<string>
+<string>
+<string>
+<string>
+<string>[loud crash]
+<string>[chains jangling]
+<string>
+<string>[Emily screaming]
+<string>
+<string>
+<string>[muscles and sinew squelch]
+<string>
+<string>
+<string>
+<string>[deep breaths]
+<string>[screams]

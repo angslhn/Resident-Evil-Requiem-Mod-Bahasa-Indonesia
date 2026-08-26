@@ -1,0 +1,3 @@
+<string>[distant explosion]
+<string>[window shatters]
+<string>[debris falling]

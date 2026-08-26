@@ -1,0 +1,49 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Alright, should make it there in no time.
+<string>Good to hear. How're the roads?
+<string>
+<string>Leon?
+<string>Just a few...potholes.
+<string>
+<string>
+<string>
+<string>This day just keeps getting better and better.
+<string>
+<string>
+<string>
+<string>These pups could use more training.
+<string>
+<string>
+<string>
+<string>Die, you fool!
+<string>
+<string>Jesus!
+<string>
+<string>
+<string>So much for the direct route.
+<string>
+<string>Again. Seriously?
+<string>I don't give up that easy.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>I've had enough of you!
+<string>I know the feeling!
+<string>Come on!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Should've worn a helmet.

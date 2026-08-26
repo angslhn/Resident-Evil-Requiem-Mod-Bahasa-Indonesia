@@ -1,0 +1,279 @@
+<string>Yes
+<string>No
+<string>OK
+<string>Cancel
+<string>Confirm
+<string>Next
+<string>Back
+<string>Close
+<string>Craft
+<string>Auto-sort
+<string>HOLD
+<string>TAP
+<string>FULL
+<string>Skip (Hold)
+<string>Climb Up
+<string>Vault Over
+<string>Melee Attack
+<string>Break Free
+<string>Analyze
+<string>Hold
+<string>Carry
+<string>Carrying
+<string>Take
+<string>Save
+<string>Pause
+<string>Throw
+<string>Hide
+<string>Enter
+<string>Read
+<string>Swing
+<string>Swing
+<string>Throw
+<string>Put Emily Down
+<string>Pick Emily Up
+<string>Get Free
+<string>Repair
+<string>Map
+<string>Combine
+<string>Skip Conversation
+<string>Knock Down
+<string>Crafting Recipes
+<string>Turn Off
+<string>Crawl
+<string>Examine
+<string>
+<string>
+<string><ICON INTERACT>
+<string><ICON CANCEL>
+<string><ICON TAB_LEFT>
+<string><ICON TAB_RIGHT>
+<string><ICON AREA_LEFT>
+<string><ICON AREA_RIGHT>
+<string><ICON FLOOR_UP>
+<string><ICON FLOOR_DOWN>
+<string><ICON CURSOR_UP>
+<string><ICON CURSOR_DOWN>
+<string><ICON CURSOR_LEFT>
+<string><ICON CURSOR_RIGHT>
+<string><ICON EQUIP_UP>
+<string><ICON EQUIP_SHORTCUT_1>
+<string><ICON EQUIP_SHORTCUT_2>
+<string><ICON EQUIP_SHORTCUT_3>
+<string><ICON EQUIP_SHORTCUT_4>
+<string><ICON EQUIP_SHORTCUT_5>
+<string><ICON EQUIP_SHORTCUT_6>
+<string><ICON GRAPPLE_COUNTER>
+<string><ICON EVENT_SKIP>
+<string><ICON LINK>
+<string><ICON DECIDE>
+<string><ICON INVENTORY>
+<string><ICON DECIDE>
+<string><ICON DEFAULT> 
+<string><ICON CANCEL>
+<string><ICON SORT>
+<string><ICON TAB_LEFT>
+<string><ICON TAB_RIGHT>
+<string><ICON POWERUP_SHORTCUT>
+<string><ICON MAPAREA_LEFT>
+<string><ICON MAPAREA_RIGHT>
+<string><ICON OPTION_RESET>
+<string><ICON LS_FIX>
+<string><ICON RS_FIX>
+<string><ICON DECIDE> Confirm
+<string><ICON DECIDE> OK
+<string><ICON DECIDE> Details
+<string><ICON INTERACT> Examine
+<string><ICON CANCEL> Back
+<string><ICON CANCEL_ACTION> Back
+<string><ICON SCALE_UP> Back
+<string><ICON CANCEL> Close
+<string><ICON CANCEL_ACTION> Close
+<string><ICON INVENTORY> Close
+<string><ICON CANCEL> Cancel
+<string><ICON DECIDE> Next
+<string><ICON DECIDE> Skip
+<string><ICON USE_HOLD> Skip (Hold)
+<string><ICON PAGE_UDRS> Quick Scroll
+<string><ICON CAMERA> Rotate
+<string><ICON ROTATE> / <ICON TAB_LEFT><ICON TAB_RIGHT> Rotate
+<string><ICON SCALE_DOWN> / <ICON SCALE_UP> Zoom Out/In
+<string><ICON SCALE_UP> / <ICON SCALE_DOWN> Zoom In/Out
+<string><ICON TRANSLATION> Move Position
+<string><ICON DEFAULT> Move
+<string><ICON CURSOR> Move
+<string><ICON DEFAULT> Current Location
+<string><ICON CURSOR_LRPV> Change Page
+<string><ICON DECIDE> Next
+<string><ICON SORT> Sort
+<string><ICON SORT> Sort:
+<string><ICON AREA_LRPV> Change Area
+<string><ICON FLOOR_UDPV> Change Floor
+<string><ICON DEFAULT> Reset
+<string>Skip (Hold) <ICON PAUSE> Pause
+<string>Skip <ICON PAUSE> Pause
+<string><ICON EVENT_SKIP> Skip <ICON PAUSE> Pause Menu
+<string><ICON OPTION_RESET> Reset All
+<string><ICON DEFAULT> Reset Category
+<string><ICON DEFAULT> Reset Subcategory
+<string><ICON CURSOR_UDPV> Select
+<string><ICON CURSOR_LRPV> Change Value
+<string><ICON DEFAULT> Reset
+<string><ICON INVENTORY> Sub-menus
+<string><ICON AREA_LEFT> / <ICON AREA_RIGHT> Switch
+<string><ICON DECIDE> Store
+<string><ICON DECIDE> Take Out
+<string><ICON OPTION_RESET> Store
+<string><ICON OPTION_RESET> Take Out
+<string><ICON CURSOR_LRPV> Change Quantity
+<string><ICON DECIDE> Confirm
+<string><ICON SCOPE> ZOOM: {0}
+<string><ICON SCOPE> Zoom in
+<string><ICON SCOPE> Zoom in more
+<string><ICON SCOPE> Zoom out
+<string><ICON SORT> Auto-sort
+<string><ICON SORT> Auto-sort (Hold)
+<string><ICON SUBMENU> Open Map
+<string><ICON CAMERA> Look
+<string><ICON INTERACT> Inspect
+<string><ICON CANCEL_ASSIGN><COLOR preset="TextColor1">Cancel</COLOR>
+<string><ICON DELETE_ASSIGN><COLOR preset="TextColor1">Remove Button Assignment</COLOR>
+<string><ICON SHARPEN> Sharpen
+<string><ICON AREA_LEFT> / <ICON AREA_RIGHT> Transfer Item Slot
+<string><ICON DECIDE> Pause / Play
+<string><ICON OPTION_RESET> Change Game Mode
+<string><ICON DECIDE> Attach Charm
+<string><ICON DECIDE> Remove Charm
+<string><ICON DECIDE> Equip
+<string><ICON DECIDE> Unequip
+<string><ICON DEFAULT> 
+<string><ICON DECIDE> Refine (Hold)
+<string><ICON OPTION_RESET> Check Inventory
+<string><ICON SCROLL_UDRS>Scroll
+<string><ICON CANCEL> Cancel
+<string><ICON CANCEL_ACTION> Cancel
+<string><ICON PENCIL> Move Pencil
+<string><ICON PENCIL2> Shade In
+<string><ICON TP_DRAG> Shade In
+<string><ICON CURSOR_LRLS> Rotate
+<string>Select Dial
+<string>Rotate
+<string><ICON DECIDE> Check
+<string>{0} Hide
+<string>{0} Peek
+<string>{0} Go Out
+<string><ICON MOVE_LR>Turn Page
+<string><ICON CAMERA> Look
+<string>Insert
+<string>Remove
+<string><ICON CURSOR_LRLS> Select Button
+<string><ICON CURSOR_LRLS> Select Switch
+<string><ICON SWITCH_UDRS> Toggle Switch
+<string><ICON SWITCH_UDRS> Twist
+<string><ICON SWITCH_UDRS> Move
+<string><ICON PENCIL> Move Cursor
+<string><ICON ROTATE_R> Rotate
+<string><ICON DECIDE> Convert
+<string><ICON SCALE_DOWN> / <ICON SCALE_UP> Zoom
+<string><ICON ROTATE_LRRS> Rotate
+<string><ICON DECIDE> Open
+<string><ICON ROTATE_LRRS> Pull Apart
+<string><ICON CURSOR_LRLS> Change Slide
+<string>Pull Out
+<string>Pull Out
+<string><ICON DECIDE> Unlock
+<string><ICON CAMERA> Move
+<string><ICON ATTACK> Fire
+<string><ICON DECIDE> Crawl Out
+<string><ICON INTERACT> Crawl Out
+<string><ICON MOVE> Crawl
+<string>Use Key
+<string>Insert
+<string>Fill Up
+<string>Refuel
+<string>Descend
+<string>Descend
+<string>Rappel
+<string>Drop Down
+<string>Activate
+<string>Lift
+<string><ICON DESTROY_LEFT> Destroy Elpis
+<string><ICON REFINE_RIGHT> Release Elpis
+<string><ICON BLANK> Confirm
+<string><ICON CANCEL> Cancel
+<string><ICON DEFAULT> Reset
+<string><ICON CURSOR_LRLS> Select Dial
+<string><ICON DECIDE> Switch Display
+<string>Detonate
+<string>Destruction<lf>(Incorrect password)
+<string>Requiem<lf>(Correct password)
+<string>Destruction<lf>(Destroy Elpis)
+<string>Requiem<lf>(Refine Elpis)
+<string>{0} Recovery Item
+<string>{0} Vault Over
+<string>{2}Climb Up
+<string>{3}Drop Down
+<string>{0} Climb Up
+<string>{0} Jump
+<string><ICON ATTACK> Accelerate<lf><ICON HOLD> Brake<lf><ICON MOVE> Steer
+<string><ICON HOLD> + <ICON ATTACK> Shoot<lf><ICON CAMERA> Aim<lf><ICON RELOAD> Reload
+<string>KM/H
+<string><ICON TAB_LEFT><ICON TAB_RIGHT> Change Model
+<string><ICON ROTATE> Rotate
+<string><ICON TAB_LEFT><ICON TAB_RIGHT> Change Art
+<string><ICON DISPLAY> Hide/Display Controls
+<string>©CAPCOM
+<string>Map Updated
+<string>Obtained File
+<string>Case Upgrade (8x13)
+<string>{0} x{1}
+<string>World Map Updated
+<string>Added to Crafting:
+<string>Icon Added to Map
+<string>{0}
+<string>
+<string>FINE
+<string>CAUTION
+<string>DANGER
+<string>Invincibility
+<string>Infinite Ammo/Durability
+<string>Crafted: x {0}
+<string>Value: {0} Credits
+<string><COLOR preset="{0}">{1}:</COLOR> {2}
+<string>{0}
+<string>???
+<string>???
+<string>{0} ({1})
+<string>{0} (+{1}%)
+<string>{0} + {1}
+<string> 
+<string>+
+<string>+ {0}
+<string>-
+<string>{0}%
+<string>{0}<SIZE 36>%</SIZE>
+<string>{0}°
+<string>/
+<string>∞
+<string>E
+<string>x{0}
+<string>x {0}
+<string>x
+<string>{0} × {1}
+<string>{0} / {1}
+<string>Lv. {0}
+<string>{1:D2}/{2:D2}/{0:D4}<lf>{3:D2}:{4:D2}:{5:D2}
+<string>{1:D2}/{2:D2}/{0:D4}
+<string>{3:D2}:{4:D2}:{5:D2}
+<string>{0}:{1:D2}
+<string>{0}:{1:D2}.<SIZE 36>{2:D2}</SIZE>
+<string>{0}:{1:D2}:{2:D2}
+<string>+{0}.<SIZE 36>{1:D2}</SIZE>
+<string>Credits
+<string><ICON CURRENCY>{0}
+<string>{0} pt
+<string>Selling Price
+<string>NO SIGNAL
+<string>
+<string>←
+<string>→

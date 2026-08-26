@@ -1,0 +1,51 @@
+<string>
+<string>[panting]
+<string>[restraints strain and clank]
+<string>[blood drips]
+<string>
+<string>
+<string>[glass shatters]
+<string>[sharp inhale]
+<string>
+<string>
+<string>
+<string>[cry of pain]
+<string>
+<string>
+<string>
+<string>
+<string>[restraints clink]
+<string>[groans]
+<string>
+<string>
+<string>[Grace screams]
+<string>
+<string>[metal chains jangle]
+<string>[Grace gasps]
+<string>
+<string>[low growling]
+<string>[roaring]
+<string>[Grace screams]
+<string>
+<string>[thumping]
+<string>
+<string>
+<string>[panicking]
+<string>
+<string>[beep]
+<string>
+<string>
+<string>[roaring as flesh sizzles]
+<string>
+<string>
+<string>[Grace screams]
+<string>
+<string>
+<string>
+<string>[Grace screaming]
+<string>
+<string>[groaning]
+<string>
+<string>
+<string>[screaming]
+<string>[whimpering]

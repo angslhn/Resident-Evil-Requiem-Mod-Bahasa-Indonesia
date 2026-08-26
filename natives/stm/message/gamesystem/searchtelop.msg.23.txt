@@ -1,0 +1,171 @@
+<string>An easy-to-pick lock.
+<string>It's locked from the other side.
+<string>Can't use this here.
+<string>The door is warped and won't open.
+<string>The door is warped and won't open.
+<string>Looks like it'll break with a good shot.
+<string>Now's not the time for that.
+<string>Need a tool to open it.
+<string>There's blood everywhere.
+<string>A large amount of blood.
+<string>"Swipe card to unlock"
+<string>A hexagonal protrusion.
+<string>There are three indentations with<lf>the words "moon," "sun," and "star."
+<string>It won't open without clearance.
+<string>There are indents from writing.
+<string>Need a tool to open it.
+<string>Need a key to operate it.
+<string>Need a tool.
+<string>"Disposal Tank - For Emergency Use Only"
+<string>It's too heavy to open.
+<string>It's locked.
+<string>It's stuck on something and won't budge.
+<string>It's blocked and won't budge.
+<string>No power.
+<string>It's not running.
+<string>There's no power.
+<string>It's old but might still work with some fuel.
+<string>It's broken and needs<lf>a tool to fix it.
+<string>Fixed it with the repair kit.
+<string>It's out of reach.
+<string>"Missing"
+<string>"The Wrenwood Hotel"
+<string>Looks like it measures vital signs.
+<string>That's a lot of blood.
+<string>It's broken.
+<string>No power.
+<string>The cart is blocking it.
+<string>Can't reach it. Need something to step on.
+<string>Need a tool to break the bolt.
+<string>A scale model of the care center.
+<string>"Artificial Organ Transplantation Experiment Team"
+<string>A body with the organs removed.
+<string>He's dead.
+<string>It's useless.
+<string>Rhodes Hill Chronic Care Center Floor Guide<lf>West Wing: Administration Offices; East Wing: Hospital Wards
+<string>His skin was gouged by something sharp.
+<string>Folders marked with recent dates.
+<string>Hip Pouch: Allows you to carry more items
+<string>Stabilizer: Improves gun handling<lf>and increases firepower
+<string>Steroids: Increases max health
+<string>Override Manual: Increases the<lf>blood collector's capacity by 50
+<string>The removed organs are displayed in black.
+<string>A laser microscope for analysis.
+<string>"In the chairman's office with Mitchell Bennett"
+<string>It's locked.
+<string>The removed heart is displayed in black.
+<string>The removed lungs are displayed in black.
+<string>Need a key to unlock it.
+<string>A photo from the day the care center was founded.
+<string>"Helipad"
+<string>Something is being extracted.
+<string>"Emergency Evacuation Route"
+<string>It's empty.
+<string>"Collection & Testing"
+<string>An elevator that goes to the first floor.
+<string>A floor plan of the processing area. Turning the valve<lf>handwheel on the opposite side will drain the pool.
+<string>Nothing.
+<string>"DANGER CONTAMINATED AREA<lf>AUTHORIZED PERSONNEL ONLY"
+<string>"Cedarbrook Apartments"
+<string>Gonna need a bridge to get across.
+<string>The detonator is missing.
+<string>Need a key to unlock it.
+<string>It won't run without fuel.
+<string>No power.
+<string>A slot for a crank.
+<string>Need a key to unlock it.
+<string>A slot for a crank.
+<string>Need a container for the fuel.
+<string>Need a tool to get this open.
+<string>Need a key to open it.
+<string>"April 15, 1987 - Mr. Spencer's Visit"
+<string>There's a fire poker.
+<string>There's a key up there.
+<string>There's enough space under the bed to hide.
+<string>It's locked.
+<string>Need a key.
+<string>"Let's talk. Room 204."
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>It's too dark to see.
+<string>"Hunt us, seek us!<lf>Find us, break us!"
+<string>Can't use this as is.
+<string>"Chairman's Office"
+<string>"Lead Researcher's Office"
+<string>"Security Manager's Office"
+<string>"West Wing<lf>Administration Offices"
+<string>"East Wing<lf>Hospital Wards"
+<string>"Office"
+<string>"Cold Storage"
+<string>"Blood Lab"
+<string>"Isolation Ward"
+<string>"Conference Room"
+<string>"Office/Records Room"
+<string>East Wing Map
+<string>West Wing Map
+<string>The engravings are too scratched to see,<lf>but the braille is still visible.
+<string>A puzzle box is in the background.
+<string>A list of patients.
+<string>"Marie"
+<string>"Burst their heads if you want to survive."
+<string>Research Facility Floor Guide
+<string>Publications about medicine.
+<string>Can't use this yet.
+<string>"Roof Hatch Controls"
+<string>"Can you hear it too?"
+<string>Can't use this as is.
+<string>Still in good condition.
+<string>Gonna need a bridge to get across.
+<string>"Sewage Facility"
+<string>Check your surroundings ({0}/{1})
+<string>A valve handwheel can be slotted in here.
+<string>"Gun Shop Kendo"
+<string>It's out of gas.
+<string>There's no way this thing still works.
+<string>It's rusted and won't budge.
+<string>Doubt there's anything in it.
+<string>The lower jaw is missing.
+<string>"Marvin Branagh"
+<string>That was a weird puzzle...
+<string>Raccoon City perimeter surveys are posted here.
+<string>"5/24/1996 - with the elite S.T.A.R.S. members"
+<string>"Rising Rookie Rebecca"
+<string>
+<string>That might help get the ladder down.
+<string>"ARK Lab Unit 01 - 02 Floor Plan"
+<string>It's locked.
+<string>"What does the creator desire?"
+<string>"Destruction"
+<string>"Hope"
+<string>"Restricted Area:<lf>Archives/Central Refining System: PANDORA"
+<string>"Upper level: Central Refining System: PANDORA<lf>Middle level: Bioweapon Repository 11"
+<string>Won't be able to climb back up there.
+<string>A magnetic key reader.
+<string>"HAVE YOU SEEN MY SON?"
+<string>"EVICTION NOTICE"
+<string>There's a power shortage.
+<string>It's not safe for Emily.
+<string>Activating all atoms.<lf>Conversions: {0} / Minimum steps: {1}
+<string>Something could fit in the indent.
+<string>There doesn't seem to be any use for this.
+<string>Recipe: Molotov Cocktail
+<string>Recipe: Bottle of Acid + Others
+<string>Recipe: Bottle of Acid
+<string>Handgun Ammo (30): Standard<lf>ammunition for handguns.
+<string>R.I.P. Knife: A knife that yields more blood.
+<string>
+<string>"G = 150,000,000"
+<string>There's something under the shackle.
+<string>It's filled with blood.
+<string>"U = 380,000"
+<string>A lot of blood flowed out.
+<string>A ton of blood flowed out.
+<string>A torrent of blood flowed out.
+<string>There's no time for playing around.
+<string>Just ignore A.
+<string>"You kids have fun solving this one! - Barry"
+<string>"You kids have fun solving this one! - Barry"
+<string>"Enjoy! And don't say I never gave you anything! - Barry"

@@ -1,0 +1,267 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>Leon. Are you OK?
+<string>How long was I out?
+<string>I-I don't know...
+<string>A-A while.
+<string>Those marks...
+<string>It's T-Virus.
+<string>Stage three infection.
+<string>I-If you're so sick,
+<string>why would you come here?
+<string>This place...
+<string>Raccoon City was where it all began for me.
+<string>When it all happened, I-I couldn't—
+<string>I couldn't make a difference.
+<string>So I am here, now.
+<string>W-We can't stop Zeno.
+<string>He said something about you having a password.
+<string>What was he talking about?
+<string>I-I don't know!
+<string>I'm sorry, I...
+<string>Here.
+<string>I'm going back.
+<string>I'm gonna destroy Elpis.
+<string>I-I'm coming with you.
+<string>No, you're not.
+<string>I don't want any more regrets!
+<string>Whatever it takes, count me in.
+<string>If anything happens to me...
+<string>You promise...
+<string>you'll end this.
+<string>I promise.
+<string>
+<string>Come on.
+<string>
+<string>Look, there's a door over there.
+<string>Crane's blocking it though.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>I can check it out for us.
+<string>You think you can give me a boost?
+<string>Guess we're about to find out.
+<string>Come on.
+<string>Watch out for yourself up there, yeah?
+<string>I will.
+<string>
+<string>Once I go down...there's no getting back up.
+<string>
+<string>System locked. Override key<lf>required for reactivation.
+<string>
+<string>Warning: Threat level "Orange"<lf>confirmed in storage sector.
+<string>Critical error: Containment lockdown failure.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>It...can't see?
+<string>
+<string>Shit!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Found it.
+<string>
+<string>
+<string>
+<string>Alright...I'm not dead yet.
+<string>
+<string>
+<string>
+<string>Alright, Leon. Be careful.
+<string>
+<string>Need to get going too.
+<string>
+<string>Nice.
+<string>
+<string>Threat level "Red" in storage sector.
+<string>Rebooting AI control center N0-AH.
+<string>Oh no.
+<string>
+<string>OK, just beyond here.
+<string>
+<string>This is it. I did it.
+<string>
+<string>AI control center N0-AH<lf>reboot failure: No response.
+<string>Containment protocol: Inactive
+<string>Containment protocol: Inactive
+<string>
+<string>
+<string>
+<string>Still have a ways to go.
+<string>I wonder if Leon's made it yet.
+<string>
+<string>Whoa.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Where have I seen this...?
+<string>Something important.
+<string>I'll explain later.
+<string>Shutting yourself away in a dark room<lf>like this is quite the change for you...
+<string>after the life you've lead.
+<string>Life takes unexpected turns, don't you think?
+<string>Looking back, do you feel that the choices<lf>you've made have contributed to...
+<string>your present circumstances?
+<string>Of course.
+<string>What you sow, you reap.
+<string>Isn't that the natural order?
+<string>So, tell me, Lord Spencer...
+<string>what would you like the world to know?
+<string>The truth.
+<string>But, uh...
+<string>a short break before we begin, Miss Ashcroft.
+<string>I'm not a young man. I don't<lf>have the energy I once did.
+<string>Why would Mom hide this?
+<string>OK...
+<string>Back in busi—
+<string>Fuck.
+<string>You all right, Leon?
+<string>I am now.
+<string>Grace cleared the way for me.
+<string>That's not what I'm talking about.
+<string>Your body can't take much more.
+<string>I'm gonna settle this.
+<string>You just send us a chopper<lf>for immediate evacuation.
+<string>
+<string>Containment breach. System-wide<lf>surveillance failure detected.
+<string>
+<string>Over there? Easy as pie.
+<string>
+<string>Security threat detected. Elevator shutdown<lf>in effect. Override key authorization required.
+<string>
+<string>This must be the room.
+<string>
+<string>I'll take out as many of you fuckers as I can.
+<string>
+<string>Ah, shit. You've gotta be kidding me...
+<string>
+<string>Haven't changed much, have you?
+<string>
+<string>
+<string>
+<string>Yeah yeah... Let's get this over with.
+<string>
+<string>Warning: Autoclave compromised.<lf>Pod lockdown unavailable.
+<string>Memory corrupt. Self-repair functionality offline.
+<string>
+<string>Aerosol monitor warning.<lf>Pod lockdown unavailable.
+<string>
+<string>The elevator will arrive shortly.
+<string>
+<string>The elevator has arrived.
+<string>
+<string>I can't waste anymore time here. I need to go.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Almost there, Sherry.
+<string>...Leon...
+<string>Shit...
+<string>
+<string>Not done yet...
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>What kind of legacy do<lf>you want to leave behind?
+<string>My research opened Pandora's box,
+<string>unleashing disaster upon the world.
+<string>Except Elpis...the goddess of hope?
+<string>Or so the myth goes.
+<string>A blind hope.
+<string>What do you mean?
+<string>Humans cannot predict when<lf>death will come for them.
+<string>This is why they have hope.
+<string>I was wrong...
+<string>and I am plagued by guilt.
+<string>Happiness cannot be achieved<lf>at the expense of others.
+<string>I think that's enough for today.
+<string>Why did you accept my<lf>request for an interview?
+<string>
+<string>Who is th—?
+<string>Is that one of your subjects?
+<string>Of course not.
+<string>She was alone in the world.
+<string>I took her in to make amends.
+<string>Is she...?
+<string>Perfectly normal.
+<string>Just an average child needing a home.
+<string>She...
+<string>is my hope.
+<string>Aren't you beautiful?
+<string>Would you like to hold her?
+<string>Oh! Um...
+<string>OK.
+<string>She's adorable.
+<string>What's her name?
+<string>Grace.
+<string>Grace.
+<string>Is there anything else you'd like to tell me?
+<string>I've said my piece.
+<string>I only hope it serves as a requiem<lf>for those who have passed.
+<string>Leon?
+<string>Leon!
+<string>
+<string>I need to hurry.
+<string>
+<string>This is finally my chance to do something.
+<string>
+<string>Leon!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Leon!
+<string>Oh no.
+<string>Hey! It's me, it's Grace.
+<string>Please wake up.
+<string>Come on. Wake up, wake up.
+<string>Hey! Hey.
+<string>Hey you.
+<string>I was just resting my eyes.
+<string>You're OK.
+<string>Let me help you.
+<string>Let's do this.
+<string>OK.
+<string>I-I don't know the password.
+<string>It's OK, Zeno left it wide open for us.
+<string>Any wrong code will do.<lf>It'll destroy Elpis.
+<string>Let's try.
+<string>Grace, whatever it takes...
+<string>I can buy you some time.
+<string>No. No, no, I have an idea.
+<string>I trust you. I trust you.
+<string>So, the prodigal daughter returns.
+<string>I know the password.
+<string>Fulfill your destiny, and all will be forgiven.
+<string>O-Only if you let Leon live.
+<string>Very well.
+<string>サウンド用ID
+<string>
+<string>Please know that you are my hope.
+<string>She is my hope.
+<string>A blind hope.
+<string>
+<string>OK...
+<string>
+<string>
+<string>サウンド用ID
+<string>
+<string>I was wrong, and I am plagued by guilt.
+<string>I'm gonna destroy Elpis.
+<string>You promise...you'll end this.
+<string>
+<string>This is it.
+<string>
+<string>Wait...is it really this?

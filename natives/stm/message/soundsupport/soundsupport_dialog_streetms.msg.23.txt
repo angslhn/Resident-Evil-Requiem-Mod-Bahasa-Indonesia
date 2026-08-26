@@ -1,0 +1,43 @@
+<string>
+<string>[police siren]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[engine purrs to a start]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[car horn blares]
+<string>
+<string>
+<string>[muffled shot]
+<string>[muffled shot]
+<string>
+<string>[car horn blares]
+<string>[muffled shot]
+<string>[groaning]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[screaming]
+<string>
+<string>
+<string>
+<string>[earpiece bleeps]
+<string>
+<string>
+<string>[earpiece beeps]
+<string>[sighs]

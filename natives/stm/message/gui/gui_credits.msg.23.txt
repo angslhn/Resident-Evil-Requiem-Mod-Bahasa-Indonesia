@@ -1,0 +1,3365 @@
+<string>CAPCOM CO., LTD.
+<string>Director
+<string>Koshi Nakanishi
+<string>Art Director
+<string>Tomonori Takano
+<string>Presentation Director
+<string>Masato Miyazaki
+<string>Level & Environment Director
+<string>Toshihiko Tsuda
+<string>Lead Level Designer
+<string>Yasufumi Kayo
+<string>Lead Game Designers
+<string>Keiji Teranishi
+<string>Kenji Fukasawa
+<string>Lead Battle Designer
+<string>Isamu Hara
+<string>Level Designers
+<string>Atsushi Yoshimine
+<string>David Julian Ramirez Arce
+<string>Hiroshi Hashimoto
+<string>Miki Yoshida
+<string>Minami Tamura
+<string>Motoharu Sano
+<string>Naoki Kanetomo
+<string>Ryuki Miura
+<string>Shinichi Nishihira
+<string>Takuma Mino
+<string>Game Designers
+<string>Atsushi Yasu
+<string>Hajime Horiuchi
+<string>Kensho Mori
+<string>Koichi Okada
+<string>Masafumi Obara
+<string>Wang Donghao
+<string>Dialogue & Text Writers
+<string>Kenji Fukasawa
+<string>Konatsu Taniyama
+<string>Hayate Goto
+<string>Maito Yamada
+<string>Program Director
+<string>Masaharu Kamo
+<string>Lead Application Programmers
+<string>Hiroto Makiyama
+<string>Michiaki Masuda
+<string>Application Programmers
+<string>Eliram Barak
+<string>Haruka Kurono
+<string>Hidenori Takaya
+<string>Karin Hashimoto
+<string>Kota Matsui
+<string>Masashi Tanaka
+<string>Ren Horiguchi
+<string>Ryotaro Hirata
+<string>Reki Yamashita
+<string>Rimpei Nozaki
+<string>Shintaro Takemae
+<string>Taira Kuwahara
+<string>Toshiki Kawai
+<string>Taichi Tomioka
+<string>Takaki Nagazumi
+<string>Tsukasa Sumizono
+<string>Yohei Morii
+<string>Yudai Yamashita
+<string>Yuta Araya
+<string>Yuya Sugihara
+<string>Lead Concept Artists
+<string>Rintaro Komori
+<string>Isshin Sakurai
+<string>Concept Artists
+<string>Mai Okura
+<string>Alexander Erhart
+<string>Sato Kochi
+<string>Lead Character Artist
+<string>Wilson Ong
+<string>Character Artists
+<string>Daiki Hirashima
+<string>Dongheon Han
+<string>Fang Wang
+<string>Go Nishimura
+<string>Kazuki Emi
+<string>Keiji Miyamoto
+<string>Kota Tsuchikawa
+<string>Moe Date
+<string>Raymond Fu (synkaito)
+<string>Ryo Hanawa
+<string>Sakaue Yurie Noguchi
+<string>Sandeep Sharma
+<string>Shinya Yoshimoto
+<string>Takashi Yoshikawa
+<string>Tsutomu Ohno
+<string>Yuichi Akimoto
+<string>Lead Environment Artist
+<string>Jumpei Mashiba
+<string>Environment Artists
+<string>Airi Miyazaki
+<string>Akihiro Koketsu
+<string>Atsushi Yoshimine
+<string>Ayano Tagawa
+<string>Chihiro Tanaka
+<string>Chisato Ohara
+<string>Chrisia Nathania
+<string>Erika Toyoda
+<string>Futo Yamada
+<string>Haruka Chiba
+<string>Hayato Otake
+<string>Hidehiro Furihata
+<string>Hiroshi Sugiyama
+<string>Kazuha Ono
+<string>Keitaro Matsuda
+<string>Koji Nagano
+<string>Miku Takimoto
+<string>Natsumi Furuya
+<string>Ren Kawamitsu
+<string>Ryotaro Yano
+<string>Rybalkin Igor
+<string>Ryuki Miura
+<string>Ryushiro Moriwaki
+<string>Sato Kochi
+<string>Shinji Mikami
+<string>Taichi Kobayashi
+<string>Tatiana Baeva
+<string>Tetsuya Shibasaki
+<string>Te-Yu Liu
+<string>Tomoatsu Motoyama
+<string>Tomohiro Fujimoto
+<string>Tomoyuki Isozaki
+<string>Yasutaka Maeki
+<string>Yusei Sawakami
+<string>Lead Gimmick Artist
+<string>Minami Tamura
+<string>Gimmick Artists
+<string>David Julian Ramirez Arce
+<string>Motoharu Sano
+<string>Lead Animator
+<string>Yuya Takasaki
+<string>Animators
+<string>Akihiko Nasu
+<string>Keiichi Sato
+<string>Machi Yoda
+<string>Masafumi Kimoto
+<string>Masatsugu Sato
+<string>Masaya Ueda
+<string>Nobuhiro Sugiyama
+<string>Rin Kuroda
+<string>Rui Hakamata
+<string>Ryoga Amihama
+<string>Ryoma Matsuoka
+<string>Shingo Kuwazuru
+<string>Soji Takehisa
+<string>Suzune Sano
+<string>Taiki Yoshikawa
+<string>Vladimir Komarov
+<string>Yushi Okuyama
+<string>Lead Cinematic Artist
+<string>Yuki Hasegawa
+<string>Cinematic Artists
+<string>Amedeo Beretta
+<string>Keiju Suwa
+<string>Mikio Yoshida
+<string>Rei Naganuma
+<string>Ryan Wetherall
+<string>Terumi Takamatsu
+<string>Cinematic Coordinator
+<string>Yuta Kawashima
+<string>Motion Capture Operators
+<string>Tsuyoshi Nagae
+<string>Tsunenori Shirahama
+<string>Natsuki Kameda
+<string>Teruki Yoshioka
+<string>Tomohiro Hagihara
+<string>Saya Fukuoka
+<string>Kao Terada
+<string>Motoki Ueda
+<string>Remina Eguchi
+<string>Asuku Ota
+<string>Motion Capture Editors
+<string>Yoshiyuki Tonoe
+<string>Katsumi Kobayashi
+<string>Ikuo Nakayama
+<string>Naoki Fujisawa
+<string>Masayuki Tomoyoshi
+<string>Manabu Kawase
+<string>Kotaro Fujioka
+<string>Akira Takase
+<string>Motion Capture Manager
+<string>Masahiro Nakano
+<string>Motion Capture Actors
+<string>Yoshiaki Yuasa
+<string>Masatoshi Fukidome
+<string>Hiro Takakura
+<string>Daichi Miura
+<string>Nanami Katayama
+<string>Yuichi Yamamoto
+<string>Kai Miyagi
+<string>Jun Isobe
+<string>Sayako Yoshimura
+<string>Eri Nakatsuji
+<string>Nanase Okada
+<string>Rio Kawakami
+<string>Lead VFX Artist
+<string>Kazumasa Kuroda
+<string>VFX Artists
+<string>Keisuke Ando
+<string>Tomohisa Kawaguchi
+<string>Koki Murakami
+<string>Kohei Kai
+<string>Haoran Chen
+<string>Shu Kuga
+<string>Takumi Hashimoto
+<string>Lead Lighting Artist
+<string>Hideto Yoneda
+<string>Lead Cinematic Lighting Artist
+<string>Kazuma Mizutani
+<string>Lighting Artists
+<string>Hikaru Shimazu
+<string>Hyugo Tsuchida
+<string>Junya Asai
+<string>Natsumi Fuji
+<string>Rintaro Komori
+<string>Satoshi Ueda
+<string>Toshiya Kotani
+<string>Lead UI Artist
+<string>Masahiro Takayama
+<string>Graphic Designers
+<string>Masaki Sugita
+<string>Tomohiro Goto
+<string>UI Artists
+<string>Kensei Yamaji
+<string>Yuto Shimakawa
+<string>Hur Chaeeun
+<string>Riko Kurosumi
+<string>Ayami Maedera
+<string>Manami Murakami
+<string>Yuria Uramoto
+<string>Lead Rigging Artist
+<string>Ryo Iura
+<string>Rigging Artists
+<string>Naoki Nomata
+<string>Shintaro Abe
+<string>Takaya Naito
+<string>Tsuyoshi Kobayashi 
+<string>Yumi Watanabe
+<string>Zhiyu Chen
+<string>Lead Facial Animators
+<string>Keiko Kamekawa
+<string>Naoki Tanimoto
+<string>Facial Animators
+<string>Eri Takeuchi
+<string>Hiroki Takeda
+<string>Kazumi Kubo
+<string>Kumiko Fujiwara
+<string>Shinnosuke Suzuki
+<string>Tsuyoshi Inoue
+<string>Head of Advanced Game Development
+<string>Hiroyuki Chi
+<string>Technical Art Director
+<string>Makoto Fukui
+<string>Technical Artists
+<string>Hajime Asano
+<string>Dacchi
+<string>Kohei Osawa
+<string>Simulation VFX Artists
+<string>Dai Kaibing
+<string>Sanka Praneeth
+<string>Shinya Yoshida
+<string>Tokito Takeuchi 
+<string>Xiaowei Tan
+<string>Audio Director
+<string>Yuji Higashiyama
+<string>Lead Sound Designer
+<string>Shohei Miyata
+<string>Sound Designers
+<string>Akio Chuma
+<string>Andres Alvarez
+<string>Andrey Astrov
+<string>Hiroaki Igarashi
+<string>Kota Kibe
+<string>Shu Mikami
+<string>Shunta Namise
+<string>Yoshihiko Wada
+<string>Dialogue Editor
+<string>Shu Mikami
+<string>Music Director / Lead Composer
+<string>Nao Sato
+<string>Composers
+<string>Masahiro Ohki
+<string>Shigeyuki Kameda
+<string>Lead Audio Programmer / Technical Designer
+<string>Kenji Kojima
+<string>Audio Programmers
+<string>Genta Miyashita
+<string>Goki Shirozu
+<string>Honoka Takei
+<string>Kohei Iwahori
+<string>Ryo Kiyosue
+<string>Shigetoshi Natsukari
+<string>Sho Matsushita
+<string>Shu Goto
+<string>Sora Takida
+<string>Takuro Kojima
+<string>Yayoi Yanagiguchi
+<string>Yuki Sodesaki
+<string>Yuki Tachikawa
+<string>Sound Tool Programmers
+<string>Daisuke Mizuno
+<string>Masahiko Minami
+<string>Omar Herrera
+<string>Shingo Terahata
+<string>Takahiro Kitagawa
+<string>Yuichi Kuno
+<string>Yuki Komoto
+<string>Cinematic Sound Designers
+<string>Arata Iwashina
+<string>Wataru Hama
+<string>Foley
+<string>Takeshi Kitamura
+<string>Game Audio Mixer
+<string>Kazuya Takimoto
+<string>Sound Studio Coordinator
+<string>Setsuo Yamamoto
+<string>Production Managers
+<string>Kai Mitsumatsu
+<string>Kazuhiro Furuta
+<string>Lead Project Manager
+<string>Makoto Kadono
+<string>Project Managers
+<string>Daichi Uematsu
+<string>Hirokazu Masaoka
+<string>Masaaki Sagara
+<string>Yuki Furukawa
+<string>Yuki Mera
+<string>Vendor Managers
+<string>Yuri Tanaka
+<string>Naotaka Onishi
+<string>Satomi Hayashi
+<string>Takanori Arai
+<string>Hakuei
+<string>Qiannan Shi
+<string>Suting Chang
+<string>Xiaoqi Liu
+<string>Antony Gerald Masahiro Thomas
+<string>Yoshiyuki Fujiwara
+<string>Release Managers
+<string>Ryota Sano
+<string>Shiho Fukuchi
+<string>Sho Nishioka
+<string>Advanced Game Development Section
+<string>Technical Art
+<string>Technical Art Director
+<string>Bradley Saunders
+<string>Technical Artists
+<string>Xu Han
+<string>Yuhua Hsieh
+<string>VFX Technical Artist
+<string>Jumpei Yamada
+<string>Facial Animation
+<string>Lead Facial Animator
+<string>Hiroko Ihara
+<string>Special Interest Groups
+<string>Technical Director
+<string>Masatoshi Fukazawa
+<string>SIG Animation
+<string>Lead Software Engineer
+<string>Naoki Hashimoto 
+<string>Software Engineer
+<string>Masato Philip Ogawa
+<string>SIG DevOps
+<string>Lead Software Engineer
+<string>Hiroyuki Ikenaga
+<string>Software Engineers
+<string>Hiroshi Omachi
+<string>Masaru Nakanishi
+<string>SIG Network
+<string>Lead Software Engineer
+<string>Muneaki Yamamoto
+<string>Software Engineers
+<string>Futa Nakamura
+<string>Naoki Toyama
+<string>Shun Sunayama
+<string>SIG Multi Platform
+<string>Lead Software Engineer
+<string>Junzou Akatsuka
+<string>Main Software Engineer
+<string>Shimpei Tanaka
+<string>Software Engineers
+<string>Kei Hashimoto
+<string>Ryuichi Miyano
+<string>Takahiro Sakai
+<string>Tsutomu DNA Urago
+<string>Yohei Doi 
+<string>Game Designers
+<string>Kana Tsubouchi
+<string>Ryo Yasukawa
+<string>Yukio Ando 
+<string>SIG Rendering
+<string>Main Software Engineers
+<string>Lucas Felix
+<string>Naoto Kushida
+<string>Software Engineer
+<string>Soki Nakao
+<string>REthink
+<string>Art Director
+<string>Daniel Wheaton
+<string>Game Designer
+<string>Edwin Chan
+<string>Lighting Artists
+<string>Eric Tung
+<string>Tuckyin Wong
+<string>VFX Dev
+<string>Venkatesh Kongathi
+<string>Character Strike Team
+<string>Character Supervisor
+<string>Takashi Nakano
+<string>Character Artists
+<string>Dongheon Han
+<string>Jiahuey Siew (Rex)
+<string>Riccardo Minervino
+<string>Rigging System
+<string>Rigging Technical Director
+<string>Petr Zapotocky
+<string>Rigging Technical Artist
+<string>Anoop Manalvathukkal
+<string>Project Managers
+<string>Motoji Fujita
+<string>Susumu Kobayashi
+<string>RE ENGINE Development
+<string>Technical Architect
+<string>Tomofumi Ishida
+<string>Technical Managers
+<string>Masaru Ijuin
+<string>Kohetsu Matsuda
+<string>Daisuke Sanekane
+<string>Yuuki Ooi
+<string>Kenta Yamaki
+<string>Shunsuke Saito
+<string>Technical Support
+<string>Yoshihiro Kimura
+<string>AI Programmers
+<string>Masataka Nemoto
+<string>Shigeki Niino
+<string>Jun Tsukahara
+<string>Hiromasa Ikeda
+<string>Yuto Tomita
+<string>Taiga Iwai
+<string>AI Researcher
+<string>Takumi Sato
+<string>Tinghan Qian
+<string>Animation Programmers
+<string>Yuki Noto
+<string>Haruki Shimizu
+<string>Soichi Uchiyama
+<string>Daisuke Yagyu
+<string>Karl Kisaragi
+<string>Kei Kitahata
+<string>Satoru Inukai
+<string>Naohisa Yamada
+<string>Soma Sugimoto
+<string>Cinematics Programmers
+<string>Tatsuya Okamoto
+<string>Taiga Yano
+<string>Yuta Furukawa
+<string>Taiki Okahara
+<string>RE ENGINE LIBRARY Programmers
+<string>Yukimasa Kawai
+<string>Junpei Nakatsuka
+<string>KaoChiao Tzu
+<string>Network Programmers
+<string>Koji Misu
+<string>Yoji Mikami
+<string>Shingo Ito
+<string>Daigo Matsuura
+<string>Masatoshi Nakamura
+<string>Mikihiko Miyashita
+<string>Kiyohisa Ishiguro
+<string>Shoya Fujii
+<string>Ilyes Ouhabi
+<string>Physics Programmers
+<string>Akiyoshi Takahashi
+<string>Shobu Itano
+<string>Siqi Li
+<string>Shuhei Shimizu
+<string>Rendering Manager
+<string>Kazushi Sano
+<string>Rendering Programmers
+<string>Hitoshi Mishima
+<string>Shusuke Iwasaki
+<string>Motoki Nishikura
+<string>Akihiro Shimizu
+<string>Ojiro Tanaka
+<string>Yuan Luo
+<string>Muzhi Li
+<string>Kazuki Iiboshi
+<string>Kazuaki Hiro
+<string>Alexandre Paquet
+<string>Yuan Tian
+<string>Kenta Nakamoto
+<string>Kosuke Nabata
+<string>Toru Miyawaki
+<string>Hiroshi Suzuki
+<string>Kazuki Kawato
+<string>Kyohei Kajikawa
+<string>Toshiaki Ishihara
+<string>Subroto Hudiono
+<string>Ran Yi
+<string>Koshiro Shiraki
+<string>Tsutomu Wada
+<string>Takashi Komada
+<string>Kosuke Katayama
+<string>Bunta Fukumoto
+<string>Shinichi Kajitani
+<string>Shinya Morishige
+<string>Security Engineers
+<string>Taro Yahagi
+<string>Yoichi Kodama
+<string>Takahiro Yamamoto
+<string>Kayo Hamamatsu
+<string>Systems & Platforms Programmers
+<string>Masaaki Korematsu
+<string>Unamuji Hasunuma
+<string>Junji Ozeki
+<string>Yuya Sasaki
+<string>Yoshihiro Okinaga
+<string>Koichi Kubo
+<string>Masahiro Kimoto
+<string>Takakimi Hashimoto
+<string>Kotaro Miyabe
+<string>Kazuma Mori
+<string>Ginga Kato
+<string>Yusuke Saito
+<string>Yoshiki Saito
+<string>Kakeru Hiasa
+<string>Koki Hiratsuka
+<string>Takumi Kameyama
+<string>Sota Funato
+<string>Masahiro Kaga
+<string>Koki Takebuchi
+<string>Leon Han
+<string>Aleksei Kuznetsov
+<string>QA Support
+<string>Koichi Kitagawa
+<string>Tool & Workflow Programmers
+<string>Yusuke Ichiyama
+<string>Yuki Sekino
+<string>Daisuke Kojima
+<string>Yasuto Tsuchisaka
+<string>Takumi Yamada
+<string>Ukyo Yoshida
+<string>Akinori Imamiya
+<string>Hideaki Oya
+<string>Shinya Kimoto
+<string>Ryota Ishii
+<string>Yusaku Yoshida
+<string>Ichika Okina
+<string>Hiromichi Sasaki
+<string>Keigo Kato
+<string>Ryoki Tanabe
+<string>Yamato Furuya
+<string>Yuki Fukuda
+<string>Tomohiro Shimizu
+<string>Masakazu Sakoya
+<string>Kenta Masuda
+<string>Akira Yamada
+<string>Shogo Nakamura
+<string>Ryo Igarashi
+<string>Yasuhiro Takao
+<string>Wenxiang Yang
+<string>DCC Tool Manager
+<string>Hideki Shiojiri
+<string>DCC Tool Programmers
+<string>Shinichi Yasuki
+<string>Yasuhide Sawada
+<string>Manabu Iida
+<string>Masashi Okubo
+<string>Hiroshi Tada
+<string>Isao Higashino
+<string>Yoshiaki Matsuda
+<string>Masaru Takano
+<string>Takaya Nakano
+<string>Eitaro Kurotsuchi
+<string>Kento Izawa
+<string>Yuta Kawanaka
+<string>Tool & UX Designers
+<string>Daisuke Okada
+<string>Gaku Soejima
+<string>Kana Sasaki
+<string>Masamitsu Saito
+<string>UI Programmers
+<string>Haruki Noritake
+<string>Juhui Wu
+<string>Yoshimi Matsukawa
+<string>Hajime Yagawa
+<string>Ryohei Narita
+<string>Seiya Fukuzaki
+<string>Wenjie Xu
+<string>Momoko Higashiyama
+<string>VFX Programmers
+<string>Stefanus Nanami
+<string>Teppei Yoneyama
+<string>Seiya Kato
+<string>Tatsunori Aoyama
+<string>Naoki Suenaga
+<string>Toshiyuki Sato
+<string>Shuto Takeishi
+<string>Hibiki Kai
+<string>Takumi Kobayashi
+<string>Ryosuke Katsura
+<string>Bowen Wu
+<string>Localization Production
+<string>Senior Manager
+<string>Marco Bombasi
+<string>Assistant Senior Manager
+<string>Kaori Matsue
+<string>Localization Group Managers
+<string>Joel Martinez Cuebas
+<string>David Cockman
+<string>Qiu Huiming
+<string>Manuel Trillo Carmona
+<string>Francis Ishii
+<string>Localization Director
+<string>Jennifer O'Donnell
+<string>Assistant Localization Directors
+<string>Betsy Linehan-Skillings
+<string>Robert Prosser
+<string>English Localization
+<string>Megan Bisila
+<string>English Editor
+<string>William Moore
+<string>English Support
+<string>William Jackson Leaverton
+<string>Jeffrey Koplovitz
+<string>Shane Lamoreaux
+<string>Simplified Chinese Localization
+<string>Hou Shengbin
+<string>Simplified Chinese Support
+<string>Yang Chenghao
+<string>Traditional Chinese Localization
+<string>Kelvin Leung
+<string>Traditional Chinese Support
+<string>John Tzunghan Tsai
+<string>Korean Localization
+<string>Seunghwan Yasuoka
+<string>Korean Support
+<string>Leah Eun
+<string>Arabic Localization
+<string>Abdelatif Own
+<string>French Localization
+<string>Ugo Ricard
+<string>French Support
+<string>Chris Sigaud
+<string>Italian Localization
+<string>Veronica Galibardi
+<string>Italian Support
+<string>Stefano Ivan Stinga
+<string>German Localization
+<string>Anke Räder-Großmann
+<string>Spanish Localization
+<string>Alberto Paqué Ramírez
+<string>Spanish Support
+<string>David Parera Guerrero
+<string>Latin American Spanish Localization
+<string>Katherine Ceballos
+<string>Latin American Spanish Support
+<string>Ale Solares
+<string>Brazilian Portuguese Localization
+<string>Thais Yoshitake Leite
+<string>Brazilian Portuguese Support
+<string>Flávia Teles
+<string>Russian Localization
+<string>Maria Mironova
+<string>Solutions Developers
+<string>Maurice Ossenbrink
+<string>Luis Miguel Fuente Gómez
+<string>Tools Programmer
+<string>Stefano Ivan Stinga
+<string>Localization Support
+<string>Joseph Detwiler
+<string>Wesley Bishop
+<string>Full Performance Capture
+<string>Grace Ashcroft
+<string>Angela Sant'Albano
+<string>Leon S. Kennedy
+<string>Nick Apostolides
+<string>Victor Gideon
+<string>Antony Byrne
+<string>Zeno
+<string>Craig Burnatowski
+<string>Emily / Chloe
+<string>Emma Rose Creaner
+<string>Sherry Birkin
+<string>Eden Riegal
+<string>Alyssa Ashcroft
+<string>Jane Perry
+<string>The Girl
+<string>Weronika Maria
+<string>The Girl
+<string>Elishia Edwards
+<string>Nathan Dempsy
+<string>Richie Campbell
+<string>Norman Cole
+<string>Robert Gilbert
+<string>Harry Reed
+<string>Alex Lanipekun
+<string>Ozwell E. Spencer
+<string>James Clyde
+<string>Hotel Manager
+<string>Michael Matus
+<string>BSAA Squad Leader / Zeno Body Double
+<string>Joseph Millson
+<string>BSAA Commando A
+<string>Dana Watkins
+<string>BSAA Commando B
+<string>Luke Nunn
+<string>Reporter
+<string>Mara Huf
+<string>Researcher A / Newscaster A
+<string>Alec Newman
+<string>Researcher B
+<string>Derek Hagen
+<string>Researcher C / Newscaster B
+<string>Susie Trayling
+<string>Researcher D
+<string>Osi Okerafor
+<string>Child
+<string>Annabel Brook
+<string>Nurse
+<string>Jessica Hayles
+<string>Chainsaw Doctor / Injured Doctor
+<string>Mercer Boffey
+<string>Hooded Man
+<string>Chris O'Reilly
+<string>Stunts: Grace
+<string>Erin Jackson
+<string>Stunts: Grace
+<string>Anna Thornley
+<string>Stunts: Leon
+<string>Dean Ridge
+<string>Stunts: Leon, BSAA Commando D
+<string>Dave Nolan
+<string>Stunts: Victor, Zeno
+<string>Chris O'Reilly
+<string>Stunts: Commander
+<string>Teddy Linard
+<string>Stunts: Tyrant
+<string>Chi Lewis-Parry
+<string>Stunts: BSAA Commando C
+<string>Matt Mordak
+<string>Stunts: BSAA Commando E
+<string>Sean Bingham
+<string>Stunts
+<string>Blayer Benn
+<string>Zombies, Workers, Civilians, and other Supporting Roles played by:
+<string>Blayer Benn
+<string>Chris O'Reilly
+<string>Dave Nolan
+<string>Nick Apostolides
+<string>Antony Byrne
+<string>Jessica Hayles
+<string>Jane Perry
+<string>Additional English Voice Cast
+<string>Commander
+<string>Keith Silverstein
+<string>Umber Eyes
+<string>Kane Murray
+<string>Chloe
+<string>Phie Sanderson
+<string>The Connections Soldier / Chainsaw Doctor
+<string>Steven Hartley
+<string>Radio Broadcast
+<string>Ronan Summers
+<string>Announcements
+<string>Susie Trayling
+<string>Yasmine Meaden
+<string>Clara Emanuel
+<string>Children
+<string>Alexandra Guelff
+<string>Angela Sant'Albano
+<string>Annabel Brook
+<string>Emma Rose Creaner
+<string>Emma Tracey
+<string>Phie Sanderson
+<string>Yasmine Meaden
+<string>BSAA Radio
+<string>Antony Byrne
+<string>BSAA Commando C
+<string>Derek Hagen
+<string>BSAA Commando D / Operator
+<string>Bentley Kalu
+<string>BSAA Commando E
+<string>Steven Hartley
+<string>Elite Guards
+<string>Bentley Kalu
+<string>Ewan Bailey
+<string>Harry Myers
+<string>Hyoie O'Grady
+<string>Researcher E
+<string>Isabella Inchbald
+<string>Zombies
+<string>Alexandra Guelff
+<string>Bentley Kalu
+<string>James Day
+<string>Steven Hartley
+<string>Hyoie O'Grady
+<string>Isabella Inchbald
+<string>Clara Emanuel
+<string>Harry Myers
+<string>Ewan Bailey
+<string>Chetna Pandya
+<string>FBI Agent / Civilian
+<string>Meaghan Martin
+<string>Civilians
+<string>Greg Lockett
+<string>Mercer Boffey
+<string>Alexandra Guelff
+<string>Bentley Kalu
+<string>Dana Watkins
+<string>Derek Hagen
+<string>James Day
+<string>Joseph Millson
+<string>Steven Hartley
+<string>Yasmine Meaden
+<string>Angess Nyama
+<string>Shai Matheson
+<string>Osi Okerafor
+<string>Alec Newman
+<string>Susie Trayling
+<string>Ronan Summers
+<string>Japanese Voice Cast
+<string>Grace Ashcroft
+<string>Shihori KANJIYA
+<string>Leon S. Kennedy
+<string>Toshiyuki MORIKAWA
+<string>Victor Gideon
+<string>Yutaka AOYAMA
+<string>Zeno
+<string>Shunsuke TAKEUCHI
+<string>Emily
+<string>Misa SEGAWA
+<string>Chloe
+<string>Emiri SUYAMA
+<string>Sherry Birkin
+<string>Maaya SAKAMOTO
+<string>Alyssa Ashcroft
+<string>Kikuko FUJIMOTO
+<string>The Girl
+<string>Bibi
+<string>Nathan Dempsy
+<string>Kosuke SAKAKI
+<string>Norman Cole
+<string>Daichi ENDO
+<string>Harry Reed
+<string>Makoto TAMURA
+<string>Ozwell E. Spencer
+<string>Ryusei NAKAO
+<string>Commander
+<string>Masaki TERASOMA
+<string>Umber Eyes
+<string>Haruo YAMAGISHI
+<string>Hotel Manager
+<string>Wataru TSUYUZAKI
+<string>BSAA Squad Leader
+<string>Motoki SAKUMA
+<string>BSAA Commando A
+<string>Wataru TSUYUZAKI
+<string>BSAA Commando B
+<string>Shohei KAJIKAWA
+<string>BSAA Commando C
+<string>Masatoshi FUJITA
+<string>BSAA Commando D
+<string>Akihiro TAJIMA
+<string>BSAA Radio
+<string>Yuki ONODERA
+<string>Reporter
+<string>Yukako KIUCHI
+<string>Researcher A
+<string>Shohei KAJIKAWA
+<string>Researcher B
+<string>Kazuhiro FUSEGAWA
+<string>Researcher C
+<string>Minami SHINDO
+<string>Newscaster A
+<string>Rikako YAMAGUCHI
+<string>Newscaster B
+<string>Shohei KAJIKAWA
+<string>Nurse
+<string>Ryoko NATSUMI
+<string>Chainsaw Doctor
+<string>Akihiro TAJIMA
+<string>Injured Doctor
+<string>Shohei KAJIKAWA
+<string>Hooded Man
+<string>Yuki ONODERA
+<string>Operator
+<string>Taichi TAKEDA
+<string>The Connections Soldier
+<string>Akihiro TAJIMA
+<string>Radio Broadcast
+<string>Kazuhiro FUSEGAWA
+<string>Announcements
+<string>Aya KAWAKAMI
+<string>Rikako YAMAGUCHI
+<string>Serika HIROMATSU
+<string>FBI Agent
+<string>Serika HIROMATSU
+<string>Zombies
+<string>Akihiro TAJIMA
+<string>Aya KAWAKAMI
+<string>Genta NAKAMURA
+<string>Masatoshi FUJITA
+<string>Minami SHINDO
+<string>Rikako YAMAGUCHI
+<string>Seiro OGINO
+<string>Shoko ARAI
+<string>Taichi TAKEDA
+<string>Wataru TSUYUZAKI
+<string>Yuki ONODERA
+<string>Civilians
+<string>Seiro OGINO
+<string>Ryoko NATSUMI
+<string>Shohei KAJIKAWA
+<string>Serika HIROMATSU
+<string>Motoki SAKUMA
+<string>Yuuri SAKAMOTO
+<string>Rikako YAMAGUCHI
+<string>Yuki URUSHIYAMA
+<string>Yukako KIUCHI
+<string>Shoko ARAI
+<string>Minami SHINDO
+<string>Aya KAWAKAMI
+<string>Genta NAKAMURA
+<string>Akihiro TAJIMA
+<string>Masatoshi FUJITA
+<string>Kazuhiro FUSEGAWA
+<string>Taichi TAKEDA
+<string>Wataru TSUYUZAKI
+<string>Shitan EN
+<string>Yuki ONODERA
+<string>French Voice Cast
+<string>Grace Ashcroft
+<string>Alice ORSAT
+<string>Leon S. Kennedy
+<string>Anatole DE BODINAT
+<string>Victor Gideon
+<string>Loïc HOUDRE
+<string>Zeno
+<string>Bernard LANNEAU
+<string>Emily
+<string>Faustine LEGRAND
+<string>Chloe
+<string>Clara SOARES
+<string>Sherry Birkin
+<string>Geneviève DOANG
+<string>Alyssa Ashcroft
+<string>Laëtitia LEFEBVRE
+<string>The Girl
+<string>Daria LEVANNIER
+<string>Nathan Dempsy
+<string>Jean Paul PITOLIN
+<string>Norman Cole
+<string>Charles MENDIANT
+<string>Harry Reed
+<string>Grégory LERIGAB
+<string>Ozwell E. Spencer
+<string>Philippe ARIOTI
+<string>Commander
+<string>Jérémie BEDRUNE
+<string>Umber Eyes
+<string>Olivier AUGROND
+<string>Hotel Manager
+<string>Marc BRETONNIERE
+<string>BSAA Squad Leader
+<string>Baptiste MARC
+<string>BSAA Commando A
+<string>Olivier AUGROND
+<string>BSAA Commando B
+<string>Mario BASTELLICA
+<string>BSAA Commando C
+<string>Laurent BLANPAIN
+<string>BSAA Commando D
+<string>Vincent DENIARD
+<string>BSAA Radio
+<string>Olivier AUGROND
+<string>Reporter
+<string>Elsa DAVOINE
+<string>Researcher A
+<string>Mario BASTELLICA
+<string>Researcher B
+<string>Laurent BLANPAIN
+<string>Researcher C
+<string>Jessie LAMBOTTE
+<string>Newscaster A
+<string>Jessie LAMBOTTE
+<string>Newscaster B
+<string>Baptiste MARC
+<string>Nurse
+<string>Caroiline MOZZONE
+<string>Chainsaw Doctor
+<string>Pierre ALAM
+<string>Injured Doctor
+<string>Renaud HEINE
+<string>Hooded Man
+<string>Renaud HEINE
+<string>Operator
+<string>Baptiste MARC
+<string>The Connections Soldier
+<string>Olivier AUGROND
+<string>Radio Broadcast
+<string>Marc BRETONNIERE
+<string>Announcements
+<string>Christèle BILLAULT
+<string>Jessie LAMBOTTE
+<string>FBI Agent
+<string>Daria LEVANNIER
+<string>Zombies
+<string>Christèle BILLAULT
+<string>Daria LEVANNIER
+<string>Elsa DAVOINE
+<string>Fred SOUTERELLE
+<string>Marc MAURILLE
+<string>Marie BOUVET
+<string>Olivier CORDINA
+<string>Pierre ALAM
+<string>Vincent DENIARD
+<string>Yannick LASSERE
+<string>Civilians
+<string>Baptiste MARC
+<string>Caroiline MOZZONE
+<string>Christèle BILLAULT
+<string>Daria LEVANNIER
+<string>Elsa DAVOINE
+<string>Grégory LERIGAB
+<string>Igor CHOMETOWSKI
+<string>Jean Paul PITOLIN
+<string>Jessie LAMBOTTE
+<string>Laurent BLANPAIN
+<string>Marc BRETONNIERE
+<string>Marc MAURILLE
+<string>Marie BOUVET
+<string>Mario BASTELLICA
+<string>Olivier AUGROND
+<string>Olivier CORDINA
+<string>Renaud HEINE
+<string>Italian Voice Cast
+<string>Grace Ashcroft
+<string>Chiara Leoncini
+<string>Leon S. Kennedy
+<string>Alessandro Rigotti
+<string>Victor Gideon
+<string>Luca Sandri
+<string>Zeno
+<string>Alberto Onofrietti
+<string>Emily
+<string>Erica Laiolo
+<string>Chloe
+<string>Luna Fogu
+<string>Sherry Birkin
+<string>Deborah Morese
+<string>Alyssa Ashcroft
+<string>Renata Bertolas
+<string>The Girl
+<string>Chiara Preziosi
+<string>Nathan Dempsy
+<string>Francesco Rizzi
+<string>Norman Cole
+<string>Andrea Moretti
+<string>Harry Reed
+<string>Davide Fazio
+<string>Ozwell E. Spencer
+<string>Mario Scarabelli
+<string>Commander
+<string>Roberto Palermo
+<string>Umber Eyes
+<string>Diego Baldoin
+<string>Hotel Manager
+<string>Gianni Quillico
+<string>BSAA Squad Leader
+<string>Maurizio Di Girolamo
+<string>BSAA Commando A
+<string>Diego Baldoin
+<string>BSAA Commando B
+<string>Daniel Magni
+<string>BSAA Commando C
+<string>Marco Caputi
+<string>BSAA Commando D
+<string>Palermo Roberto
+<string>BSAA Radio
+<string>Marco Panzanaro
+<string>Reporter
+<string>Annalisa Platania
+<string>Researcher A
+<string>Daniel Magni
+<string>Researcher B
+<string>Francesco Rizzi
+<string>Researcher C
+<string>Giorgia Carnevale
+<string>Newscaster A
+<string>Giorgia Carnevale
+<string>Newscaster B
+<string>Maurizio Di Girolamo
+<string>Nurse
+<string>Francesca Tretto
+<string>Chainsaw Doctor
+<string>Alessandro Fattori
+<string>Injured Doctor
+<string>Francesco De Angelis
+<string>Hooded Man
+<string>Michele Maggiore
+<string>Operator
+<string>Maurizio Di Girolamo
+<string>The Connections Soldier
+<string>Marco Caputi
+<string>Radio Broadcast
+<string>Sara Ballerani
+<string>Announcements
+<string>Chiara Preziosi
+<string>Emanuela Cardani
+<string>Francesca Tretto
+<string>Giorgia Carnevale
+<string>Ilaria Bendazzi
+<string>FBI Agent
+<string>Emanuela Cardani
+<string>Zombies
+<string>Alessandro Fattori
+<string>Alex Liistro
+<string>Annalisa Platania
+<string>Chiara Preziosi
+<string>Dario Agrillo
+<string>Davide Fazio
+<string>Davide Quartini
+<string>Francesca Tretto
+<string>Francesco De Angelis
+<string>Giovanni Pupino
+<string>Marco Panzanaro
+<string>Michele Maggiore
+<string>Sara Ballerani
+<string>Simone Barba
+<string>Stefano Accomo
+<string>Civilians
+<string>Alessandro Fattori
+<string>Alex Liistro
+<string>Annalisa Platania
+<string>Carnevale Giorgia
+<string>Chiara Preziosi
+<string>Daniel Magni
+<string>Dario Agrillo
+<string>Davide Fazio
+<string>Davide Quartini
+<string>Diego Baldoin
+<string>Emanuela Cardani
+<string>Francesca Tretto
+<string>Francesco De Angelis
+<string>Giorgia Carnevale
+<string>Marco Caputi
+<string>Marco Panzanaro
+<string>Maurizio Di Girolamo
+<string>Michele Maggiore
+<string>Sara Ballerani
+<string>Simone Barba
+<string>German Voice Cast
+<string>Grace Ashcroft
+<string>Annika Ruff
+<string>Leon S. Kennedy
+<string>Matthias Keller
+<string>Victor Gideon
+<string>Bernd Reheuser
+<string>Zeno
+<string>Erik Schäffler
+<string>Emily
+<string>Sneha Kulenthiran
+<string>Chloe
+<string>Samira Jakobs
+<string>Sherry Birkin
+<string>Katharina von Keller
+<string>Alyssa Ashcroft
+<string>Daniela Bette
+<string>The Girl
+<string>Sarah Liu
+<string>Nathan Dempsy
+<string>Tobias Brecklinghaus
+<string>Norman Cole
+<string>Markus Haase
+<string>Harry Reed
+<string>Sascha Schiffbauer
+<string>Ozwell E. Spencer
+<string>Rudolf Danielewicz
+<string>Commander
+<string>Dieter Gring
+<string>Umber Eyes
+<string>Mark Bremer
+<string>Hotel Manager
+<string>Axel Gottschick
+<string>BSAA Squad Leader
+<string>Benedikt Hahn
+<string>BSAA Commando A
+<string>Mark Bremer
+<string>BSAA Commando B
+<string>Martin Krah
+<string>BSAA Commando C
+<string>Sebastian Schlemmer
+<string>BSAA Commando D
+<string>Martin Bross
+<string>BSAA Radio
+<string>Mark Bremer
+<string>Reporter
+<string>Elena Galindo
+<string>Researcher A
+<string>Martin Krah
+<string>Researcher B
+<string>Sebastian Schlemmer
+<string>Researcher C
+<string>Nora Fröhlich
+<string>Newscaster A
+<string>Nora Fröhlich
+<string>Newscaster B
+<string>Benedikt Hahn
+<string>Nurse
+<string>Davina Donaldson
+<string>Chainsaw Doctor
+<string>Louis Proll
+<string>Injured Doctor
+<string>Tobias Brecklinghaus
+<string>Hooded Man
+<string>Finn Nolting
+<string>Operator
+<string>Benedikt Hahn
+<string>The Connections Soldier
+<string>Sebastian Schlemmer
+<string>Radio Broadcast
+<string>Finn Nolting
+<string>Announcements
+<string>Nora Fröhlich
+<string>Susanna Cuda
+<string>FBI Agent
+<string>Kerstin Petry
+<string>Zombies
+<string>Elena Galindo
+<string>Gerhard Fehn
+<string>Jens Hajek
+<string>Lisa Sophie Kusz
+<string>Louis Proll
+<string>Markus Kloster
+<string>Martin Bross
+<string>Martine Schrey
+<string>Ramon Klein
+<string>Susanna Cuda
+<string>Civilians
+<string>Benedikt Hahn
+<string>Davina Donaldson
+<string>Elena Galindo
+<string>Finn Nolting
+<string>Jens Hajek
+<string>Lisa Sophie Kusz
+<string>Mark Bremer
+<string>Markus Kloster
+<string>Martin Krah
+<string>Nora Fröhlich
+<string>Oliver Schnelker
+<string>Sarah Liu
+<string>Sebastian Schlemmer
+<string>Tobias Brecklinghaus
+<string>Spanish(EU) Voice Cast
+<string>Grace Ashcroft
+<string>Maribel Pomar
+<string>Leon S. Kennedy
+<string>Lorenzo Beteta
+<string>Victor Gideon
+<string>Carles Lladó
+<string>Zeno
+<string>Adolfo Pastor
+<string>Emily
+<string>Elena Barra
+<string>Chloe
+<string>Laia Vidal
+<string>Sherry Birkin
+<string>Olga Velasco
+<string>Alyssa Ashcroft
+<string>Eli Beuter
+<string>The Girl
+<string>Irene Miras
+<string>Nathan Dempsy
+<string>Joan Carles Gustems
+<string>Norman Cole
+<string>Dani García
+<string>Harry Reed
+<string>Ángel del Río
+<string>Ozwell E. Spencer
+<string>Alfonso Vallés
+<string>Commander
+<string>Antonio Domínguez
+<string>Umber Eyes
+<string>José Meco
+<string>Hotel Manager
+<string>Jordi Salas
+<string>BSAA Squad Leader
+<string>José García
+<string>BSAA Commando A
+<string>Carlos Calvo
+<string>BSAA Commando B
+<string>Cesc Martínez
+<string>BSAA Commando C
+<string>Ignacio Latorre
+<string>BSAA Commando D
+<string>Carles Lladó
+<string>BSAA Radio
+<string>José García
+<string>Reporter
+<string>Melania Pérez
+<string>Researcher A
+<string>Cesc Martínez
+<string>Researcher B
+<string>Ignacio Latorre
+<string>Researcher C
+<string>Melania Pérez
+<string>Newscaster A
+<string>Carme Calvell
+<string>Newscaster B
+<string>José García
+<string>Nurse
+<string>Isa Puchol
+<string>Chainsaw Doctor
+<string>Ángel del Río
+<string>Injured Doctor
+<string>Jordi Salas
+<string>Hooded Man
+<string>Rafa Parra
+<string>Operator
+<string>Carlos Calvo
+<string>The Connections Soldier
+<string>Carlos Calvo
+<string>Radio Broadcast
+<string>Francesc Belda
+<string>Announcements
+<string>Carme Calvell
+<string>Irene Miras
+<string>Marta Moreno
+<string>FBI Agent
+<string>Irene Miras
+<string>Zombies
+<string>Ángel del Río
+<string>Ariadna Jiménez
+<string>David Jener
+<string>Francesc Belda
+<string>Ignacio Latorre
+<string>Irene Miras
+<string>Isa Puchol
+<string>Jordi Salas
+<string>José Meco
+<string>Marta Moreno
+<string>Melania Pérez
+<string>Pau López
+<string>Rafa Parra
+<string>Ramón Canals
+<string>Civilians
+<string>Ariadna Jiménez
+<string>Carlos Calvo
+<string>Carme Calvell
+<string>Cesc Martínez
+<string>David Jener
+<string>Francesc Belda
+<string>Ignacio Latorre
+<string>Irene Miras
+<string>Isa Puchol
+<string>Jordi Salas
+<string>José García
+<string>José Meco
+<string>Marta Moreno
+<string>Melania Pérez
+<string>Pau López
+<string>Rafa Parra
+<string>Ramón Canals
+<string>Spanish(LATAM) Voice Cast
+<string>Grace Ashcroft
+<string>Susana Moreno
+<string>Leon S. Kennedy
+<string>Gerardo García
+<string>Victor Gideon
+<string>Alex Ortega
+<string>Zeno
+<string>Alan Prieto
+<string>Emily
+<string>Montserrat Aguilar
+<string>Chloe
+<string>Cristina Tenorio
+<string>Sherry Birkin
+<string>Karen Basurto
+<string>Alyssa Ashcroft
+<string>Ana Ragasol
+<string>The Girl
+<string>Ofelia Otero
+<string>Nathan Dempsy
+<string>Pepe Vilchis
+<string>Norman Cole
+<string>Galo Balcázar
+<string>Harry Reed
+<string>Miguel Guerrero
+<string>Ozwell E. Spencer
+<string>Victor Duroc
+<string>Marvin Branagh
+<string>Jair Licea
+<string>Robert Kendo
+<string>Paris Roa
+<string>Commander
+<string>Sergio Mejia
+<string>Umber Eyes
+<string>Horacio Castelo
+<string>Hotel Manager
+<string>Enrique Cárdenas
+<string>BSAA Squad Leader
+<string>Enrique Cárdenas
+<string>BSAA Commando A
+<string>Horacio Castelo
+<string>BSAA Commando B
+<string>Gary Olguin
+<string>BSAA Commando C
+<string>Sergio Rüed
+<string>BSAA Commando D
+<string>Jair Licea
+<string>BSAA Radio
+<string>Horacio Castelo
+<string>Reporter
+<string>Adriana Galindo
+<string>Researcher A
+<string>Gary Olguin
+<string>Researcher B
+<string>Sergio Rüed
+<string>Researcher C
+<string>Jessica Flores
+<string>Newscaster A
+<string>Jessica Flores
+<string>Newscaster B
+<string>Enrique Cárdenas
+<string>Nurse
+<string>Marigel Reyes
+<string>Chainsaw Doctor
+<string>Sergio Bustos
+<string>Injured Doctor
+<string>Pepe Vilchis
+<string>Hooded Man
+<string>Fran Méndez
+<string>Operator
+<string>Enrique Cárdenas
+<string>The Connections Soldier
+<string>Sergio Rüed
+<string>Radio Broadcast
+<string>Nacho Casas
+<string>Announcement
+<string>Jessica Flores
+<string>Ofelia Otero
+<string>FBI Agent
+<string>Martha Juárez
+<string>Zombies
+<string>Adriana Galindo
+<string>Eduardo Acevedo
+<string>José María Anul
+<string>Leonardo Cureño
+<string>Lina Franco
+<string>Marco Lubián
+<string>Martha Juárez
+<string>Nacho Casas
+<string>Odet Amor
+<string>Ofelia Otero
+<string>Pepe Campa
+<string>Sergio Bustos
+<string>Civilians
+<string>Adriana Galindo
+<string>Enrique Cárdenas
+<string>Gary Olguin
+<string>Horacio Castelo
+<string>Jessica Flores
+<string>Lina Franco
+<string>Marco Lubián
+<string>Marigel Reyes
+<string>Martha Juárez
+<string>Nacho Casas
+<string>Ofelia Otero
+<string>Pepe Vilchis
+<string>Rojo Córdova
+<string>Sergio Rüed
+<string>Chinese Voice Cast
+<string>Grace Ashcroft
+<string>Tao Dian
+<string>Leon S. Kennedy
+<string>Sun Ye
+<string>Victor Gideon
+<string>Jia Qiu
+<string>Zeno
+<string>Su Zhihao
+<string>Emily
+<string>Shen Nianci
+<string>Chloe
+<string>Ge Zirui
+<string>Sherry Birkin
+<string>Zhan Jia
+<string>Alyssa Ashcroft
+<string>Zhou Shuai
+<string>The Girl
+<string>Wang Mingbo
+<string>Nathan Dempsy
+<string>Liu Beichen
+<string>Norman Cole
+<string>Hao Xianghai
+<string>Harry Reed
+<string>Wang Heyi
+<string>Ozwell E. Spencer
+<string>Wang Xiaobing
+<string>Commander
+<string>Liu Yao
+<string>Umber Eyes
+<string>Li Yuantao
+<string>Hotel Manager
+<string>Xue Liang
+<string>BSAA Squad Leader
+<string>Yang Fulu
+<string>BSAA Commando A
+<string>Cheng Zhichao
+<string>BSAA Commando B
+<string>Zhang Kun
+<string>BSAA Commando C
+<string>Li Yuantao
+<string>BSAA Commando D
+<string>Li Yuantao
+<string>BSAA Radio
+<string>Yang Fulu
+<string>Reporter
+<string>Li Mufei
+<string>Researcher A
+<string>Yang Fulu
+<string>Researcher B
+<string>Zhang Kun
+<string>Researcher C
+<string>Li Mufei
+<string>Newscaster A
+<string>Wang Mingbo
+<string>Newscaster B
+<string>Li Yuantao
+<string>Nurse
+<string>Wang Yingying
+<string>Chainsaw Doctor
+<string>Cheng Zhichao
+<string>Injured Doctor
+<string>Liu Beichen
+<string>Hooded Man
+<string>Dai Chaohang
+<string>Operator
+<string>Cheng Zhichao
+<string>The Connections Soldier
+<string>Yang Fulu
+<string>Radio Broadcast
+<string>Zhang Xiaofei
+<string>Announcements
+<string>Li Mufei
+<string>Sun Yuting
+<string>Wang Mingbo
+<string>Wang Yingying
+<string>FBI Agent
+<string>Shao Minjia
+<string>Zombies
+<string>Cheng Zhichao
+<string>Huang Jiahui
+<string>Shao Minjia
+<string>Su Xin
+<string>Sun Yuting
+<string>Wang Mingbo
+<string>Wang Yingying
+<string>Yang Fulu
+<string>Zhang Kun
+<string>Zhang Xiaofei
+<string>Civilians
+<string>Cheng Zhichao
+<string>Dai Chaohang
+<string>Dong Ruiting
+<string>Huang Jiahui
+<string>Li Yuantao
+<string>Shao Minjia
+<string>Sun Yuting
+<string>Tang Hao
+<string>Wang Mingbo
+<string>Yang Fulu
+<string>Zhang Kun
+<string>Zhang Xiaofei
+<string>Russian Voice Cast
+<string>Grace Ashcroft
+<string>Tatyana Ermilova
+<string>Leon S. Kennedy
+<string>Igor Sergeev
+<string>Victor Gideon
+<string>Evgeniy Khazov
+<string>Zeno
+<string>Sergey Nabiev
+<string>Emily
+<string>Elena Ivasishina
+<string>Chloe
+<string>Alisa Efimenko
+<string>Sherry Birkin
+<string>Narine Sarkisyan
+<string>Alyssa Ashcroft
+<string>Nataliya Kolodyazhnaya
+<string>The Girl
+<string>Anna Kiseleva
+<string>Nathan Dempsy
+<string>Gennadiy Novikov
+<string>Norman Cole
+<string>Evgeniy Rubtsov
+<string>Harry Reed
+<string>Ivan Porodnov
+<string>Ozwell E. Spencer
+<string>Denis Nekrasov
+<string>Marvin Branagh
+<string>Aleksandr Voronov
+<string>Robert Kendo
+<string>Konstantin Elchaninov
+<string>Commander
+<string>Egor Zhirnov
+<string>Umber Eyes
+<string>Aleksandr Voronov
+<string>Hotel Manager
+<string>Roman Staburov
+<string>BSAA Squad Leader
+<string>Konstantin Elchaninov
+<string>BSAA Commando A
+<string>Andrey Sukhov
+<string>BSAA Commando B
+<string>Aleksandr Borisov
+<string>BSAA Commando C
+<string>Aleksandr Voronov
+<string>BSAA Commando D
+<string>Dmitriy Krivoschapov
+<string>BSAA Radio
+<string>Andrey Sukhov
+<string>Reporter
+<string>Vasilisa Voronina
+<string>Researcher A
+<string>Aleksandr Borisov
+<string>Researcher B
+<string>Andrey Sukhov
+<string>Researcher C
+<string>Yuliya Ivanova
+<string>Newscaster A
+<string>Yuliya Ivanova
+<string>Newscaster B
+<string>Konstantin Elchaninov
+<string>Nurse
+<string>Natalya Grebenkina
+<string>Chainsaw Doctor
+<string>Vladislav Pogiba
+<string>Injured Doctor
+<string>Gennadiy Novikov
+<string>Hooded Man
+<string>Andrey Sokolov
+<string>Operator
+<string>Andrey Sukhov
+<string>The Connections Soldier
+<string>Aleksandr Borisov
+<string>Radio Broadcast
+<string>Andrey Sokolov
+<string>Announcement
+<string>Anna Kiseleva
+<string>Vasilisa Voronina
+<string>FBI Agent
+<string>Inga Smetanina
+<string>Zombies
+<string>Aleksandr Borisov
+<string>Andrey Sukhov
+<string>Denis Kutuzov
+<string>Dmitriy Krivoschapov
+<string>Fedor Sukhov
+<string>Ilya Barabanov
+<string>Inga Smetanina
+<string>Irina Zubkova
+<string>Olga Avilova
+<string>Sergey Annenkov
+<string>Vladislav Pogiba
+<string>Yuliya Ivanova
+<string>Civilians
+<string>Aleksandr Borisov
+<string>Aleksandr Voronov
+<string>Andrey Sokolov
+<string>Andrey Sukhov
+<string>Anna Kiseleva
+<string>Dmitriy Krivoschapov
+<string>Inga Smetanina
+<string>Irina Zubkova
+<string>Kirill Radzig
+<string>Konstantin Elchaninov
+<string>Natalya Grebenkina
+<string>Olga Avilova
+<string>Sergey Annenkov
+<string>Vasilisa Voronina
+<string>Vladislav Pogiba
+<string>Yuliya Ivanova
+<string>Brazilian Portuguese Voice Cast
+<string>Grace Ashcroft
+<string>Stephany Custodi
+<string>Leon S. Kennedy
+<string>Felipe Grinnan
+<string>Victor Gideon
+<string>Armando Tiraboschi
+<string>Zeno
+<string>Marco Antonio Abreu
+<string>Emily
+<string>Marina Mafra
+<string>Chloe
+<string>Clara Ferreira
+<string>Sherry Birkin
+<string>Hellen Vasconcelos
+<string>Alyssa Ashcroft
+<string>Letícia Quinto
+<string>The Girl
+<string>Lucila Bach
+<string>Nathan Dempsy
+<string>Vagner Santos
+<string>Norman Cole
+<string>Fernando Mendonça
+<string>Harry Reed
+<string>Vanderlan Mendes
+<string>Ozwell E. Spencer
+<string>Carlos Campanile
+<string>Marvin Branagh
+<string>Wellington Lima
+<string>Robert Kendo
+<string>Rodrigo Araújo
+<string>Commander
+<string>Charles Dalla
+<string>Umber Eyes
+<string>Francisco Junior
+<string>Hotel Manager
+<string>Dalton Barone
+<string>BSAA Squad Leader
+<string>Wellington Lima
+<string>BSAA Commando A
+<string>Rodrigo Martim
+<string>BSAA Commando B
+<string>Alex Barone
+<string>BSAA Commando C
+<string>Gabriel Taneko
+<string>BSAA Commando D
+<string>Alex Barone
+<string>BSAA Radio
+<string>Gabriel Taneko
+<string>Reporter
+<string>Carol Valença
+<string>Researcher A
+<string>Alex Barone
+<string>Researcher B
+<string>Gabriel Taneko
+<string>Researcher C
+<string>Fernanda Keller
+<string>Newscaster A
+<string>Fernanda Keller
+<string>Newscaster B
+<string>Rodrigo Martim
+<string>Nurse
+<string>Gisele Vechin
+<string>Chainsaw Doctor
+<string>Mauro Gasperini
+<string>Injured Doctor
+<string>Vagner Santos
+<string>Hooded Man
+<string>Orlando Viggiani
+<string>Operator
+<string>Rodrigo Martim
+<string>The Connections Soldier
+<string>Alex Barone
+<string>Radio Broadcast
+<string>César Marchetti
+<string>Announcement
+<string>Fernanda Keller
+<string>Kate Kelly
+<string>FBI Agent
+<string>Hannah Kupper
+<string>Zombies
+<string>Bruna Nogueira
+<string>Carol Valença
+<string>Douglas Barbosa
+<string>Hannah Kupper
+<string>Jonas Falcão
+<string>Junior Nanneti
+<string>Kate Kelly
+<string>Luis Pimenta
+<string>Mauro Gasperini
+<string>Pierre Bittencourt
+<string>Civilians
+<string>Alex Barone
+<string>Bruna Nogueira
+<string>Carol Valença
+<string>César Marchetti
+<string>Dalton Barone
+<string>Douglas Barbosa
+<string>Fernanda Keller
+<string>Gabriel Taneko
+<string>Gisele Vechin
+<string>Hannah Kupper
+<string>Kate Kelly
+<string>Lucila Bach
+<string>Luis Pimenta
+<string>Mauro Gasperini
+<string>Orlando Viggiani
+<string>Pierre Bittencourt
+<string>Rodrigo Martim
+<string>K2 CO., LTD.
+<string>Executive Producer
+<string>Mitsuo Kodama
+<string>Line Producer
+<string>Hideki Fujii
+<string>Engineering Manager
+<string>Osamu Matsuki
+<string>Cinematic Manager
+<string>Mitsunori Sasaki
+<string>Project Managers
+<string>Satoshi Inoue
+<string>Rei Orita
+<string>Yasushi Haraguchi
+<string>Systems Administrator
+<string>Shinichi Shimizu
+<string>Game Designers
+<string>Jérôme Naigeon
+<string>Keitaro Toda
+<string>Koji Ishida
+<string>Shogo Tanizawa
+<string>Hatsune Hanai
+<string>Seiya Iwamoto
+<string>Nanami Okazaki
+<string>Syotaro Nakatsuji
+<string>Kantaro Tanishima
+<string>Yuta Ikegaya
+<string>Rin Sone
+<string>Ryoga Nanbu
+<string>Engineers
+<string>Hideki Tsuji
+<string>Yuki Komori
+<string>Takahiro Inoue
+<string>Masato Obuchi
+<string>Takaya Naito
+<string>Kazuma Kishaba
+<string>Kanta Yoshikawa
+<string>Takashi Yamada
+<string>Natsuki Yamada
+<string>Ryoma Oda
+<string>Kentarou Fujii
+<string>Atsushi Yoshida
+<string>Nanoka Matsuo
+<string>Ryuki Okada
+<string>Ryunosuke Tabuchi
+<string>Masatoshi Kageme
+<string>Kotaro Nomura
+<string>Yuto Matsumoto
+<string>Seungmin Yoo
+<string>Haruto Nishii
+<string>Character Artists
+<string>Ayako Miyamoto
+<string>Kaho Ando
+<string>Takushi Nishiyama
+<string>Takeshi Inoue
+<string>Yuka Nakanishi
+<string>Hirotoshi Fujiwara
+<string>Seiga Syu
+<string>Yusuke Nishimura
+<string>Mana Kawasaki
+<string>Taiki Konta
+<string>Shizuku Miyauchi
+<string>Rinka Kubo
+<string>Masaru Hamaoka
+<string>Environment Artists
+<string>Junichi Tanizawa
+<string>Shouzou Horiuchi
+<string>Shinji Umemoto
+<string>Hiroaki Kanda
+<string>Kotomi Ito
+<string>Yoshihiko Mori
+<string>Minami Nakada
+<string>Akane Tokuhara
+<string>Belen Provedo del Pozo
+<string>Seina Honma
+<string>Yuri Yamaguchi
+<string>Saina Takasu
+<string>Ryoji Hebaru
+<string>Shiho Okabe
+<string>Fuka Katayama
+<string>Nodoka Sato
+<string>Hinako Umetani
+<string>Miharu Okabe
+<string>Mai Kato
+<string>Kimino Koga
+<string>Shinano Yamasaki
+<string>Animators
+<string>Yoshinori Saitou
+<string>Hiromasa Ueda
+<string>Haruka Nakao
+<string>Takumi Ida
+<string>Kanon Matsuda
+<string>Yusuke Idota
+<string>Toshiki Mouri
+<string>Rui Ambe
+<string>Tsubasa Uchida
+<string>Kazuki Odahara
+<string>Haruka Kanamaru
+<string>Karin Sengoku
+<string>Saki Zaitsu
+<string>Ryosuke Nakane
+<string>Kaho Yoshizumi
+<string>Cinematic Artists
+<string>Yusuke Hagino
+<string>Chihiro Kunieda
+<string>Masato Tanabe
+<string>Hiroaki Takeuchi
+<string>Hiroshi Imafuku
+<string>VFX Artists
+<string>Kohei Yamada
+<string>Yumi Yoshikane
+<string>Sou Umemoto
+<string>Miho Fujii
+<string>Wataru Kosaka
+<string>Haruto Masusaki
+<string>Ranmaru Wada
+<string>Akira Idone
+<string>Minimum Studios CO., LTD.
+<string>CEO
+<string>Hung Yen Chang
+<string>COO
+<string>Ivy Lien
+<string>Director Manager
+<string>Joy Tsou
+<string>Production Director
+<string>Pinhung Kuo
+<string>Operations Manager
+<string>Jason Wu
+<string>Project Managers
+<string>Ula Hsieh
+<string>Lynn Lin
+<string>Project Assistant
+<string>Min Yuan
+<string>Technical Artists
+<string>Che Kai Chang
+<string>Chen Yi Chen
+<string>CEO EA
+<string>Fiona Chang
+<string>Operations Assistants
+<string>Onuu Peng
+<string>James Juan
+<string>Animation Leaders
+<string>Amos Hua
+<string>Shu Wei Ko
+<string>Stone Shih
+<string>Akira Chang
+<string>Assist Animation Leaders
+<string>Cheng Lien Lo
+<string>Chung Ching Cheng
+<string>Yu Tung Lu
+<string>HsinJui Liu
+<string>Senior Animator
+<string>Walt Tsai
+<string>Animators
+<string>Xuan Ru Huang
+<string>Zhiting Chen
+<string>Lin Zhou
+<string>Chang Jeff
+<string>Li Cong Lin
+<string>Wanrou Wu
+<string>Ma Yang
+<string>Chih Hao Chuang
+<string>Yingsin Chen
+<string>Rong Xuan Liao
+<string>Min Ye Lin
+<string>Hao Yun Chuang
+<string>Tsailing Wu
+<string>Hsin Ping Kuo
+<string>Chang Ling Chen
+<string>Shihchuan Huang
+<string>Yi Hung Liu
+<string>JiHua Lu
+<string>Yen Ting Chen
+<string>Jing Ru Li
+<string>Standy Wang
+<string>Yu Ting Chen
+<string>Yu Ting Shih
+<string>Yo Kun Hsieh
+<string>Cheau Jye Ming
+<string>Chia Ching Yu
+<string>Bug Huang
+<string>Hwa Chin Hsu
+<string>Mark Wang
+<string>Li Ying Wu
+<string>Xiao Tzu Jin
+<string>Yu Ann Chang
+<string>Jean Chen
+<string>Hsiung Chieh
+<string>Wenly Lin
+<string>Yuan Ching Cheng
+<string>Sandy Chuang
+<string>Shu Yu Chou
+<string>Chung Hao Shih
+<string>YiFan Cho
+<string>Lin Han Chen
+<string>RenJie Liu
+<string>Yu Lun Niu
+<string>Ren Ji Wu
+<string>Black Sheep Animation Studio
+<string>XAC Inc. (Taipei Studio)
+<string>Digital Frontier Taiwan Inc.
+<string>M-TWO Inc.
+<string>Executive Producer
+<string>Tatsuya Minami
+<string>Lead Game Designer
+<string>Tsutomu Teranishi
+<string>Game Designers
+<string>Showtarou Tominaga
+<string>Masaki Wakita
+<string>Lead Application Programmer
+<string>Yuji Hagiyama
+<string>Application Programmers
+<string>Noriyuki Ohtani
+<string>Kazuho Onaka
+<string>Project Managers
+<string>Katsufumi Ueno
+<string>Yu Yagi
+<string>Special Thanks
+<string>Jessica Fanda Gomulia
+<string>REDWORKS Inc.
+<string>Producer
+<string>Kiyohiko Sakata
+<string>BUZZ Co., Ltd.
+<string>CEO
+<string>Noriyoshi Tsuno
+<string>Game Designers
+<string>Haruki Tanabe
+<string>Yusuke Takahashi
+<string>Application Programmers
+<string>Syuhei Ooka
+<string>Mahiro Nishino
+<string>Ryota Yoshizawa
+<string>Kazuki Sakane
+<string>UI Artist
+<string>Yasutaka Kawai
+<string>Concept Artist
+<string>Koji Mitamura
+<string>MIYABI GAME AUDIO INC.
+<string>Sound Designers
+<string>Keisei Harada
+<string>Kentaro Nakagoshi
+<string>Kazuki Honda
+<string>Hayato Nakagawa
+<string>Hirotaka Nakagawa
+<string>StirSystem Inc.
+<string>Application Programmers
+<string>Nobuo Takahashi
+<string>Chiaki Nagata
+<string>UI Artist
+<string>Yukika Hama
+<string>Lighting Artists
+<string>Takuma Tochio
+<string>Toki Nishikawa
+<string>Klein Computer Entertainment Co., LTD.
+<string>CEO
+<string>Giichi Ariyama
+<string>Application Programmers
+<string>Satoshi Yamamoto
+<string>Akiomi Hiraguchi
+<string>Yuji Tanaka
+<string>Sayo Ayano
+<string>Yuhei Seo
+<string>Interworks Confidence Inc.
+<string>Concept Artist
+<string>Yuki Oishi
+<string>CREEK & RIVER Co., Ltd.
+<string>Application Programmer
+<string>Taiki Nakayama
+<string>Project Manager
+<string>Yuichiro Mashima
+<string>ZARIGANI.REC INC.
+<string>Sound Designers
+<string>Ryo Koike
+<string>Chinatsu Motohiro
+<string>REDORCA (SUZHOU) Inc.
+<string>CEO
+<string>Sally Huang
+<string>Senior Art Directors
+<string>Bing He
+<string>Guanping Wang
+<string>Xu Wang
+<string>Senior Project Manager
+<string>Jun Tang
+<string>Project Managers
+<string>Grace Lai
+<string>Mi Xu
+<string>Moana Chen
+<string>Art Leaders
+<string>Bingbing Wang
+<string>Hongyan Ma
+<string>Jing Zhao
+<string>Kongxin Zhao
+<string>Qi Cui
+<string>Shuchao Wang
+<string>Yan Liu
+<string>Yang Hu
+<string>Yuhua Zhu
+<string>Technical Artists
+<string>Chenguang Chang
+<string>Mingcheng Ma
+<string>Taotao Hu
+<string>Yaoshun Feng
+<string>Quality Assurance
+<string>Xixi Zhuang
+<string>Translators
+<string>Joy Zhang
+<string>Moon Qiu
+<string>Artists
+<string>Arwen Luo
+<string>Bo Liu
+<string>Bo Wang
+<string>Caixia Jiang
+<string>Chao Kang
+<string>Cheng Li
+<string>Cheng Tang
+<string>Chengwei Ya
+<string>Chenjie Du
+<string>Chenyang Yan
+<string>Chuang Sheng
+<string>Chunqi Zhao
+<string>Dajing Liu
+<string>Dantian Liu
+<string>Dazhong Xue
+<string>Dongdong Hu
+<string>Fafa Geng
+<string>Fan Meng
+<string>Guo Qin
+<string>Haiqiang Huang
+<string>Haitao Zhang
+<string>Haoqi Zhu
+<string>Haotian Li
+<string>Huanhuan Zhou
+<string>Jiaju Wang
+<string>Jiaxing Zhang
+<string>Jinchang Liu
+<string>Jing Zhu
+<string>Jingjie Li
+<string>Juanjuan Wang
+<string>Kecan Mu
+<string>Liangting Yin
+<string>Linglin Wang
+<string>Liu Chen
+<string>Lvgang Song
+<string>Mingjun Yao
+<string>Mingze Chen
+<string>Ran Yao
+<string>Rong Yang
+<string>Shabin Zhang
+<string>Shiqing Li
+<string>Tao Tao
+<string>Tao Zhou
+<string>Wei Chen
+<string>Wei He
+<string>Wei Wu
+<string>Wenjing Zhang
+<string>Xiangdong Feng
+<string>Xiangyang Zhao
+<string>Xiangyu Ding
+<string>Xiaoyan Han
+<string>Xiating Peng
+<string>Xifei Ge
+<string>Xin Wei
+<string>Xing Zhang
+<string>Xinyi Peng
+<string>Xiru Yuan
+<string>Yan Li
+<string>Yan Yan
+<string>Yan Zhang
+<string>Yang Wang
+<string>Yiding Wang
+<string>Yiming Sun
+<string>Yiqian Zhang
+<string>Yixin Zuo
+<string>Yongge Li
+<string>Yongkang Li
+<string>Yongliang Wei
+<string>Yu Wang
+<string>Zehao Jiang
+<string>Zhen Wang
+<string>Zhengfeng Zhou
+<string>Zhengru Yang
+<string>Zhongsheng Li
+<string>Zisu Fan
+<string>Zongli Ma
+<string>Imaginarium Studios
+<string>Cinematic Performance Director / Lead Voice Director / Casting Director
+<string>Kate Saxon
+<string>Stunt Coordinator
+<string>Nathaniel Marten
+<string>Mocap Producer
+<string>Matthew Brown
+<string>Head of Production
+<string>Maeve Russell
+<string>Head of Physical Production / Capture AD
+<string>Rich Best
+<string>Head of Virtual Production
+<string>George Sears
+<string>Head of Technology
+<string>Alex Gumbleton
+<string>Head of Post Production
+<string>Dan Baybutt
+<string>Production Manager
+<string>Stefan McLaren
+<string>Senior Production Coordinator
+<string>Jess Hancock
+<string>Production Coordinators
+<string>Travis Gordon
+<string>Bradley Page
+<string>Senior Motion Capture Stage TD
+<string>Anna Smith
+<string>Motion Capture Stage TD
+<string>Iliya Petrov
+<string>Motion Capture Stage Assistant
+<string>Samantha Geraghty
+<string>Shogun Operator / Motion Capture Tracker
+<string>Alanna Charlton
+<string>Shogun Operator / Junior Motion Capture Tracker
+<string>Reece Hayes
+<string>Technical Supervisor / Facial Capture Lead
+<string>Katie Corr
+<string>IT Technician
+<string>Amanda Derrick
+<string>Motion Capture TD
+<string>Vritika Amarnani
+<string>VProd Software Engineer
+<string>Georgie Challis
+<string>VProd Technician
+<string>Adam Gibson
+<string>Motion Capture Supervisor
+<string>Eric Leidenroth
+<string>Lead Motion Capture Tracker
+<string>Genevieve Myhan
+<string>Senior Motion Capture Tracker
+<string>Celine Dearing
+<string>Motion Capture Trackers
+<string>Skylar Barber
+<string>Ethan David
+<string>Junior Motion Capture Trackers
+<string>Will Anstey
+<string>Nathan Taylor
+<string>Tom Hamlin
+<string>Pan Rajapakse
+<string>Matthew Temple
+<string>Lead Motion Editor
+<string>Desi Kutsarova
+<string>Motion Editors
+<string>Ryan Haim
+<string>Jamie Calvert
+<string>Elton Fortes
+<string>Junior Motion Editor
+<string>Katherine Arkle
+<string>Business Development Manager
+<string>Alex Hill
+<string>Operation Manager
+<string>Lucy Pennington
+<string>Marketing Assistant
+<string>Mia Mortimer
+<string>Digital Continuity
+<string>Sacha Voerman
+<string>Digital Continuity Assistant
+<string>Angela Marrazzo
+<string>Facial Capture Operator
+<string>Anton Kudryashov
+<string>Assistant Facial Capture
+<string>Grace Wilson
+<string>Lily Wiseman
+<string>George Ashley
+<string>Reference Camera Operators
+<string>Sam Lowsley-Williams
+<string>Kit Taylor
+<string>Nomi Bailey
+<string>Daniel Haywood
+<string>Hal Jones Chodha
+<string>Nicky Ruffell
+<string>Emily Niblo
+<string>Matt Stacey
+<string>Ryan O'Halloran
+<string>Kim Nuesch
+<string>Anna Szydlowska
+<string>Cristina Lozano Molina
+<string>Lara Shardlow
+<string>Amy Everard
+<string>Production Runners
+<string>Maisie Anne Reid
+<string>Phoebe O'Donovan
+<string>Linx Agency
+<string>CEO / Consultant
+<string>Benjamin Ryalls
+<string>Agency Director
+<string>Chris Hicks
+<string>Writer
+<string>Haris Orkin
+<string>Snappers Systems
+<string>3D Artists
+<string>Mariam Aidarous
+<string>Maryam Mokhtar
+<string>Mohamed Abd El ghani
+<string>Mohamed Elbaz
+<string>Mohamed Khalaf
+<string>Muhammed Farag
+<string>Noran Adel
+<string>Omar Adel
+<string>Omar Tarek
+<string>Samer Elseidy
+<string>Technical Artists
+<string>Hossam Eldin Nasser
+<string>Salma Mamdouh
+<string>Project Manager
+<string>Khaled Wagdy
+<string>Producer
+<string>Shady AbdelAzim
+<string>Lead Character Artist
+<string>Galal Mohey
+<string>CTO
+<string>Yasser El-Sherbiny
+<string>FOM.com
+<string>CEO
+<string>Ryutaro Nagashima
+<string>Project Manager
+<string>Akiko Nagashima
+<string>RED TRIDENT Corp.
+<string>VOLK TACTICAL GEAR
+<string>CEO
+<string>Tomoyuki Takahashi
+<string>Manager
+<string>Ayane Takahashi
+<string>Tamura Tactical Gear Development inc.
+<string>CEO
+<string>Tadashi Tamura
+<string>General Manager
+<string>Kenji Nagata
+<string>Advisor
+<string>Ryusuke Tsuchie
+<string>Security Manager
+<string>Yoshinori Goto
+<string>Facility Manager
+<string>Hiroto Takizawa
+<string>sky-A, Inc.
+<string>Casting & Costume General Manager
+<string>Yohei Mori
+<string>Casting & Costume Manager
+<string>Yasuyuki Takaki (AREKARA Co., Ltd.)
+<string>Make-up Artists
+<string>Yukari Honda (OFFICE MYUU)
+<string>Yuki Kishimoto (OFFICE MYUU)
+<string>Stylist
+<string>Chiaki Morita
+<string>3D Scan Models
+<string>Riccardo B
+<string>Laszlo
+<string>Ron R
+<string>Anastasia
+<string>Maria
+<string>Mathieu F
+<string>Bridgette Haze
+<string>Lena
+<string>Leigh C
+<string>Eduard Badaluta
+<string>Modeling Agencies
+<string>Avocado inc.
+<string>Alpha Mode LLC
+<string>Free Wave Co., Ltd.
+<string>Donna inc.
+<string>WEST MANAGEMENT INC.
+<string>SAKURA WING LLC
+<string>Casting Director / Motion Actor
+<string>Tsubasa Tada
+<string>Motion Actors
+<string>Miki Koyama
+<string>Atsumi Ono
+<string>Ken Morimoto
+<string>AVANT Inc.
+<string>Lead Animator
+<string>Naoki Moro
+<string>Animators
+<string>Ayaka Tsurumaki
+<string>Hiroki Okuda
+<string>Mami Hashimoto
+<string>Naoki Shinoda
+<string>Kenji Iwai
+<string>Koudai Kondo
+<string>ROOSTER
+<string>Hair & Make-up Artist
+<string>Teruyuki Matsumoto
+<string>Side UK Ltd.
+<string>PRODUCTION TEAM
+<string>Casting by
+<string>Victoria Howard
+<string>Production Managers
+<string>Rosie Ebsworth
+<string>Lucas Butterfield
+<string>Production Assistants
+<string>Emiliy Scopece
+<string>Tamzin Baxter-Bishop
+<string>Head of Production
+<string>Ramsey Ibrahim
+<string>Creative Director
+<string>Sini Downing
+<string>Director of Client Partnerships
+<string>Craig Holahan
+<string>RECORDING TEAM
+<string>Voice Directors
+<string>Jason Baughan
+<string>Hannah Price
+<string>Senior Audio Engineer
+<string>Rob Kirby
+<string>Audio Engineers
+<string>Melodie Showell
+<string>Jack Kirby
+<string>Matt Powell
+<string>Adriaan Kasteleijn
+<string>Dan Yates
+<string>Senior Technical Director
+<string>Anthony Hales
+<string>Side LA LLC.
+<string>PRODUCTION TEAM
+<string>Production Manager
+<string>Yael Murillo
+<string>Head of Production
+<string>Christian Maestas
+<string>RECORDING TEAM
+<string>Senior Audio Engineer
+<string>Jesus Murillo
+<string>Audio Engineers
+<string>Giovanni Murillo
+<string>Ulysses Nieto
+<string>Bradley Elliott
+<string>Recording Studio
+<string>Side
+<string>Side Paris
+<string>Multi-Lingual Recording
+<string>PRODUCTION TEAM
+<string>Head of Audio Localization
+<string>Maxime Romano
+<string>Senior Production Manager
+<string>Katerina Bendrysheva
+<string>Production Manager
+<string>Nick Gozem
+<string>Audio Engineer
+<string>Matthieu Tardit
+<string>POST PRODUCTION TEAM
+<string>Head of Post Production
+<string>Gabriella Scanio
+<string>Post Production Manager
+<string>Caanan Nathaniel
+<string>Post Production Coordinators
+<string>Kyler Bondura
+<string>Alejandro Carrasco
+<string>Junior Post Production Coordinators
+<string>Carlos Polo
+<string>Audio Editors
+<string>Caolan Montague
+<string>Zack Leonard
+<string>Chris Shears
+<string>Harry Watchman
+<string>Giridhar Ganesan
+<string>Jerome Watson
+<string>Jan Giedroyc
+<string>Jonatan Jansson
+<string>Kerim Ford
+<string>Cal Fitzgeral McShane
+<string>Andrea Martino
+<string>Paolo Ruiu
+<string>Anthony Putson
+<string>Nick Kotsakiachidis
+<string>Localization Coordinator
+<string>Antonio Serra
+<string>Junior Localization Coordinator
+<string>Innas Faidz
+<string>Post Production Assistants
+<string>Kirsty Gallagher
+<string>Simon Andersen
+<string>FRENCH RECORDING TEAM
+<string>Lead Voice Director
+<string>Nathalie SIONNEAU
+<string>Voice Director
+<string>Marc WEHBE
+<string>Project Managers
+<string>Katerina Bendrysheva
+<string>Nick Gozem
+<string>Audio Engineers
+<string>Matthieu Tardit
+<string>Aurélien PELISSIER
+<string>Maxime ROCCA-SERRA
+<string>Studio Administrator
+<string>Claire Astorg
+<string>Script Review
+<string>Morgane Munns
+<string>Graziella Marie
+<string>Head of Studio
+<string>Maxime Romano
+<string>GERMAN RECORDING TEAM
+<string>Lead Voice Director
+<string>Markus Haase
+<string>Voice Directors
+<string>Ingo Hugenroth
+<string>Louis Proll
+<string>Head of Studio
+<string>Ingo Hugenroth
+<string>Project Managers
+<string>Melanie Gäb
+<string>Kerstin Petry
+<string>Ingo Hugenroth
+<string>Louis Proll
+<string>Audio Engineers
+<string>Annika Ruff
+<string>Matze Gamm
+<string>Simon Graf
+<string>Caner Kaya
+<string>Script Review
+<string>Christian Langhagen
+<string>Markus Haase
+<string>Studio Administrator
+<string>Helga Busse
+<string>SPANISH(EU) RECORDING TEAM
+<string>Lead Voice Director
+<string>Guillermo Reinlein
+<string>Voice Director
+<string>Carles Nogueras
+<string>Head of Studio
+<string>Carles Nogueras
+<string>Project Managers
+<string>Guillermo Reinlein
+<string>Carles Nogueras
+<string>Audio Engineers
+<string>Alejo Peloche
+<string>Luna Mejías Hinojosa
+<string>Pablo Consuegra Moral
+<string>Script Review
+<string>Guillermo Reinlein
+<string>Studio Administrator
+<string>Neus Castella
+<string>MANDARIN RECORDING TEAM
+<string>Lead Voice Director
+<string>Wu Di
+<string>Voice Director
+<string>Liu Beichen
+<string>Operations Manager
+<string>Dong Ruiting
+<string>Project Manager
+<string>Gu Yuliang
+<string>Audio Engineer
+<string>Gui Bin
+<string>Script Review
+<string>Wu Di
+<string>Liu Beichen
+<string>Site Head
+<string>Xia Xiaoqun
+<string>RUSSIAN RECORDING TEAM
+<string>Lead Voice Director
+<string>Irina Petrosyants
+<string>Head of Studio
+<string>Fedor Bonch-Osmolovskiy
+<string>Project Managers
+<string>Danila Syrtsov
+<string>Ksenia Mitryaykina
+<string>Aleksandr Borisov
+<string>Audio Engineers
+<string>Aleksandr Zakharov
+<string>Andrey Kramarov
+<string>Vladislav Gurov
+<string>Sofia Strishka-Fedotova
+<string>Script Review
+<string>Varvara Teterina
+<string>Anton Akopov
+<string>Danila Syrtsov
+<string>Studio Administrator
+<string>Varvara Teterina
+<string>BRAZILIAN PORTUGUESE RECORDING TEAM
+<string>Head of Studio
+<string>Carlos Cassemiro
+<string>Cristiano Prazeres
+<string>Studio Assistant
+<string>Denise Cardoso
+<string>Project Manager
+<string>Cristiano Prazeres
+<string>Lead Voice Director
+<string>Marco Nepomuceno
+<string>Audio Engineers
+<string>Tiago Brustoloni
+<string>Raphael Gazal
+<string>Felipe Lopes
+<string>Script Review
+<string>Marco Nepomuceno
+<string>ITALIAN RECORDING TEAM
+<string>Lead Voice Director
+<string>Ilaria Bendazzi
+<string>Head of Studio
+<string>Oliver Gambarini
+<string>Project Managers
+<string>Ilaria Bendazzi
+<string>Gabriele De Rossi
+<string>Audio Engineers
+<string>Alessio Trapanese
+<string>Script Review
+<string>Ilaria Bendazzi
+<string>Stefano Accomo
+<string>Chiara Preziosi
+<string>SPANISH(LATAM) RECORDING TEAM
+<string>Lead Voice Director
+<string>Sebastian Novoa
+<string>Voice Director
+<string>Danielle Duarte
+<string>Head of Studio
+<string>Paco Jarpa
+<string>Project Manager
+<string>Fernando Monroy
+<string>Audio Engineer
+<string>Daniel Acevedo
+<string>Script Review
+<string>Alexia Rocha
+<string>Studio Administrator
+<string>Arely Hernández
+<string>Formosa Interactive LLC.
+<string>Senior Vice President
+<string>Paul Lipson
+<string>Studio Head - Los Angeles
+<string>Shannon Potter
+<string>Director, Voice Over Services
+<string>Erica Mehallo
+<string>Director, Business Administration
+<string>Janet Rankin
+<string>Director, Client Engagement
+<string>Miesha Cash
+<string>Senior Producer / Head of Casting
+<string>Kirsten Scoles
+<string>Producer
+<string>Michael Canty
+<string>Associate Producer
+<string>Soobin Park
+<string>Recording Engineers
+<string>Jason Kim
+<string>Dan Moore
+<string>Assistant Engineers
+<string>Adi Mendez
+<string>Samuel Williams
+<string>Robert Kupsch
+<string>Asset Technician
+<string>Bryan Daize
+<string>Foley Mixer
+<string>Randy K. Singer C.A.S
+<string>Senior Sound Designer
+<string>Alan Rankin
+<string>Foley Artists
+<string>Dylan Wilhoit
+<string>Jeffrey Wilhout MPSE
+<string>Lead Sound Designers
+<string>Benjamin Drumeaux
+<string>Michael Schwendler
+<string>Sound Designers
+<string>Riccardo Salin
+<string>Tristan Horton
+<string>TOHO Studios Co., Ltd.
+<string>Foley Artists
+<string>Masaya Kitada
+<string>Morimi Satou
+<string>SE Recording Support
+<string>Koutarou Miura
+<string>Recording & Mixing Engineer
+<string>Takahiro Fujishima
+<string>Technical Assistant
+<string>Genki Tsuchiya
+<string>Toho Studio Coordinate
+<string>Chiaki Tachikawa
+<string>Fumihito Hayakawa
+<string>Yuuki Amaki
+<string>Audiokraft GmbH
+<string>Lead Recordist & Project Manager
+<string>Patrice Börding
+<string>Recordists
+<string>Jonas Heinemeyer
+<string>Wieland Müller
+<string>Forcewick Co., Ltd.
+<string>Sound Editors
+<string>Masayuki Endou
+<string>Masayoshi Umezu
+<string>Ryo Inakura
+<string>PHONONSCORE LLC
+<string>Sound Designer
+<string>Tomoko Otsuka
+<string>Sound Effects Editors
+<string>Kouhei Doi
+<string>Maki Kakizoe
+<string>Fuki Asano
+<string>Foley Artist / Foley Editor
+<string>Mizuki Ito
+<string>Foley Recording Engineer
+<string>Kenta Endo (KADOKAWA DAIEI STUDIO CO., LTD )
+<string>Foley Studio Engineer
+<string>Seiji Itabashi (TOEI DIGITAL CENTER)
+<string>Teddix Music LLC. 
+<string>Score Productions
+<string>Composer
+<string>Snakes of Russia
+<string>Score Mixer
+<string>Daniel Kresco
+<string>Score Producer
+<string>Koyo Sonae
+<string>"Through the Darkness"
+<string>Performed by
+<string>Colin & Caroline
+<string>Music by
+<string>Nao Sato
+<string>Arranged by
+<string>Nao Sato
+<string>GRP
+<string>Lyrics by
+<string>Nao Sato
+<string>Jennifer O'Donnell
+<string>Produced by
+<string>Nao Sato
+<string>GRP
+<string>Koyo Sonae
+<string>Vocal Recorded by
+<string>Jody Boyd
+<string>Vocal Recorded at
+<string>Red Amp Audio, Richmond, VA
+<string>Mixed by
+<string>IRKO
+<string>Mixed at
+<string>StudioBeat3, Los Angeles, CA
+<string>TOHOKUSHINSHA FILM CORPORATION
+<string>Recording Directors
+<string>Keiichiro Miyoshi
+<string>Shino Ohta
+<string>Japanese Translators
+<string>Katsutoshi Kawamata
+<string>Mai Sasai
+<string>Recording Coordinators
+<string>Saki Yoshimine
+<string>Yo Nishiyama
+<string>Kantaro Imai
+<string>Harumi Maeda
+<string>Recording Studio
+<string>OMNIBUS JAPAN
+<string>AOI STUDIO
+<string>PROCEN STUDIO
+<string>Mixer
+<string>Shota Kumagai
+<string>Keita Konagaya
+<string>Recording Studio Coordinators
+<string>Shigeru Miyashita
+<string>Terra Localizations
+<string>Business Development Manager
+<string>Melisa Ilari
+<string>Director of Localization
+<string>Adrian Carbajal
+<string>Operations Coordinator
+<string>Mariana Corpas
+<string>Director of QA
+<string>José Buzón	
+<string>QA Managers
+<string>Barbara Galdino
+<string>Elena Parral
+<string>Localization Project Managers
+<string>Deniz Yilmaz
+<string>Giang Pham
+<string>Santiago Domínguez
+<string>Lucila Churriguera
+<string>Rocco Lopez
+<string>Polish Editor
+<string>Paulina Wojnakowska
+<string>Polish Translators
+<string>Adam Mieczynski
+<string>Kinga Rekowska
+<string>Russian Editor
+<string>Olga Apalchuk
+<string>Russian Translators
+<string>Dmitry Kornyukhov
+<string>Mikhail Kondrashev
+<string>Solutions Architect
+<string>Sara Rodriguez
+<string>SpanishMX Editor
+<string>Alejandro F. Kochol
+<string>SpanishMX Translators
+<string>Guido Bindi
+<string>Camila Boeri
+<string>Eliana Oviedo Diego
+<string>PortugueseBR Editor
+<string>Bella Cardoso de Carvalho
+<string>PortugueseBR Translators
+<string>Gustavo Hora
+<string>Andre Auphrasio da Silva
+<string>Monique Branco
+<string>Victor Souza
+<string>Eloá Leitão
+<string>French Editor
+<string>Benoit Julliard
+<string>French Translators
+<string>Kathy Way
+<string>Jéromine Habigand
+<string>Romain Portelli
+<string>Arabic Editor
+<string>Saoussen Chaabani
+<string>Arabic Translators
+<string>Hazem Moussa
+<string>Ahmed Elsayed
+<string>Ahmad Baraka
+<string>Sara Farouk
+<string>German Editor
+<string>Carina Reisenhofer
+<string>German Translators
+<string>Thomas Heitmann
+<string>Maren Zimmermann
+<string>Italian Editor
+<string>Veronica Faroldi
+<string>Italian Translators
+<string>Sara d'Etorre
+<string>Giorgia Dal Piva
+<string>Sauro Fabi
+<string>SpanishES Editor
+<string>Jessica Zamora Garrido
+<string>SpanishES Translators
+<string>Isabel Domínguez
+<string>Rubén Moralejo Silva
+<string>Pablo Trenado
+<string>Aitor Aznar Orbea
+<string>Vicent Torres
+<string>Korean Editor
+<string>Hansol Kim
+<string>Korean Translators
+<string>Haemi Oh
+<string>Leela Han
+<string>Sun Ha
+<string>Somyeong Kim
+<string>Inwoo Lee
+<string>Hee Chan Moon
+<string>ECI Games Ltd.
+<string>Business Development Manager
+<string>Steven Allen
+<string>Project Managers
+<string>Zeyuan Li
+<string>Hongye Miao
+<string>Simplified Chinese Linguists
+<string>Jing Pu
+<string>Elya Xiao
+<string>Fan Wu
+<string>Traditional Chinese Linguists
+<string>Tai Jung Chou
+<string>Linwan Zhou
+<string>Xin Huang
+<string>LIONBRIDGE GAMES
+<string>Test Director
+<string>Steffen Strohmann
+<string>Enterprise Sales Director
+<string>Vincent Bonhomme
+<string>Senior Test Manager
+<string>Weiwei Yin
+<string>Senior Test Lead
+<string>Sarah Boudreau
+<string>English Senior Tester
+<string>Kevin J. O'Leary
+<string>Italian Senior Tester
+<string>Diego Paci
+<string>German Senior Tester
+<string>Daria Zachau
+<string>Russian Senior Tester
+<string>Ratmir Salimov
+<string>English Tester
+<string>Gannon Tayrien
+<string>French Testers
+<string>Maud Seinen
+<string>Noé Gaillard
+<string>Italian Tester
+<string>Camilla Pilotti
+<string>German Tester
+<string>Victoria Bartosik
+<string>Spanish Testers
+<string>Sergio Fernandez Pradales
+<string>Antoni Beas Torres
+<string>Magdalena Pablos Granados
+<string>Polish Testers
+<string>Ewa Łata
+<string>Paweł Krawczyk
+<string>Julian Szwajkajzer
+<string>Russian Tester
+<string>Evgenii Poskochin
+<string>Arabic Testers
+<string>Abir El Elayadi
+<string>Mohamed Amine Dinia
+<string>Halim Saade
+<string>Mustafa Al Humairi
+<string>Mugahed Abdo
+<string>Latin American Spanish Testers
+<string>Manuel Mainardi
+<string>Juan David Zamudio Alarcon
+<string>Juan Lassalle Casanave
+<string>Brazilian Portuguese Testers
+<string>Cecília Delgado
+<string>Vinícius Menezes
+<string>Simplified Chinese Testers
+<string>Zhongchao Sun
+<string>Minzhi Ye
+<string>Traditional Chinese Testers
+<string>Hoi Pui Karen Tang
+<string>WeiCheng Li
+<string>Korean Testers
+<string>Gaeun Kim
+<string>Soobeen Jun
+<string>Kun Ho Baek
+<string>CAPCOM CO., LTD. Development Support
+<string>Senior Managers
+<string>Hayato Kaji
+<string>Hirokazu Yonezuka
+<string>Interim Project Managers
+<string>Kazuhisa Inoue
+<string>Manami Kitatani
+<string>Tatsuo Isoko
+<string>Back Office Team
+<string>Tetsuto Koyama
+<string>Kenji Kataoka
+<string>Yoshiyuki Fujiwara
+<string>Megumi Mizobuchi
+<string>Kana Yamashita
+<string>Sarah Colominas
+<string>Planning and Strategy Divisions
+<string>Tsuyoshi Kanda
+<string>Corporate Planning Department
+<string>Tomokazu Kaneko
+<string>Data Analysis Section
+<string>Keisuke Nagae
+<string>Wataru Hyodo
+<string>Kyosuke Shimizu
+<string>Hikaru Ikeda
+<string>Content Analysis Team
+<string>Kazunari Higashi
+<string>Ayana Nakamura
+<string>Gaku Kakiuchi
+<string>Business Development Section
+<string>Nobuhiko Kobayashi
+<string>Kunio Funahara
+<string>External Partner Relations Team
+<string>Shinichi Sato
+<string>Tomoaki Ayano
+<string>Daisuke Serikawa
+<string>Ryuki Maeda
+<string>Legal Department
+<string>Data Privacy Team
+<string>Shiori Aoki
+<string>Intellectual Property Department
+<string>Trademark & Copyright Section
+<string>Yuko Yasuda
+<string>Trademark Team
+<string>Kenji Yamada
+<string>Kana Onozawa
+<string>Miki Owa
+<string>Copyright Team
+<string>Kenta Yamada
+<string>Qin Zhang
+<string>Patent Team
+<string>Issei Tsuhara
+<string>Satoshi Kawakami
+<string>Rie Kitaguchi
+<string>Kenjiro Oda
+<string>R&D Contract Section
+<string>Jun Nishino
+<string>R&D Contract Management Department
+<string>Masakazu Hashida
+<string>Osaka R&D Contract Team
+<string>Shigeyoshi Kobayashi
+<string>Kohei Yamada
+<string>Tokyo R&D Contract Team
+<string>Daiki Arai
+<string>Akihiro Nagasaki
+<string>R&D Business Development Section
+<string>Chikako Inoue
+<string>Yosuke Shibatani
+<string>Riku Yamashita
+<string>Kazuma Kitamura
+<string>Makoto Deguchi
+<string>Customer Support Section
+<string>Takahiro Tokuda
+<string>Youko Nakazawa
+<string>Web Development Team
+<string>Tetsuji Uchida
+<string>Wataru Yamaura
+<string>Fumiya Shirahama
+<string>Web Production Team
+<string>Risa Masada
+<string>Manami Nasu
+<string>Web Infrastructure Team
+<string>Akitoshi Yoshida
+<string>Digital Analysis Department
+<string>Data Analysts
+<string>Miho Nihei
+<string>Koji Takaoka
+<string>Taira Miyashita
+<string>Kobo Ishigaki
+<string>Yoshitaka Seita
+<string>Akinori Nagataki
+<string>Data Engineers
+<string>Yuya Onizuka
+<string>Toi Abe
+<string>Yusuke Uematsu
+<string>Yasuhiro Kurita
+<string>CS System Development Department
+<string>Hiroaki Tashiro
+<string>Motoki Sugino
+<string>Fumiya Yamamoto
+<string>Shinji Waseki
+<string>Hiroki Maeyama
+<string>Yusuke Yamakura
+<string>Munefumi Takemura
+<string>Quality Control Department
+<string>QA Lead Testers
+<string>Kohei Kamada
+<string>Chieko Otani
+<string>Yusuke Hisahori
+<string>Advanced QA Testers
+<string>Masamitsu Kusaba
+<string>Masaya Kanki
+<string>Seiya Murota
+<string>Ryoma Taniguchi
+<string>Standard QA Testers
+<string>Kenji Yabuki
+<string>Seiji Hamakita
+<string>Tsung Yi Tang
+<string>Junya Yoshimura
+<string>Narito Akase
+<string>Hideki Watanabe
+<string>Nobuyuki Tanaka
+<string>Shiro Hiwatashi
+<string>Daisuke Nakajima
+<string>Issei Ueda
+<string>Yuki Tanaka
+<string>Sayaka Kibino
+<string>Kaori Nomura
+<string>Syuki Kawata
+<string>Testers
+<string>Ai Nishikawa
+<string>Manabu Kiyomoto
+<string>Rui Fumita
+<string>Hiroyoshi Matsuba
+<string>Minami Matsunaga
+<string>Dan Hatsushika
+<string>Soshi Nakao
+<string>Miho Tsujimoto
+<string>Amin Miyashita
+<string>Hinata Yoko
+<string>Aimi Miyagawa
+<string>Kazuki Kato
+<string>Kazuya Yamaguchi
+<string>Kirua Yamada
+<string>Tuning Team
+<string>Junichiro Takashi
+<string>Teppei Shimode
+<string>Shota Nakajima
+<string>Yusuke Kojima
+<string>Review Team
+<string>Susumu Kobayashi
+<string>Video Content Team
+<string>Akira Tsumuraya
+<string>Yuki Shimono
+<string>Kei Yamagishi
+<string>Graphic Design Team
+<string>Naoyuki Tsuchiya
+<string>Shogyoku Gen
+<string>WEB Production Team
+<string>Ryo Sakamoto
+<string>Akito Yoshida
+<string>Taeko Matsumoto
+<string>Toshihiro Minagawa
+<string>Takayoshi Terada
+<string>Global Business Division
+<string>Yoshinori Ishida
+<string>Sales Strategy Department
+<string>Akihiro Kobayashi
+<string>Kosuke Nakano
+<string>Marketing PR Section
+<string>Isao Kimura
+<string>Japan Marketing PR Team
+<string>Reishi Kitakawa
+<string>Yu Sugiguchi
+<string>Asia Marketing PR Team
+<string>Sai Ogata
+<string>Viktoriia Rybachok
+<string>Shuka Ito
+<string>Digital Production Team
+<string>Shusaku Ikezoe
+<string>Teruyuki Yoneyama
+<string>Shingo Matsuo
+<string>Aki Kataoka
+<string>User Marketing Team
+<string>Hitomi Yoshino
+<string>Mitsuhiko Ikegami
+<string>Mito Yamagishi
+<string>Yae Sudo
+<string>Sales Strategy Section
+<string>Shimpei Takasugi
+<string>Strategy Development Team
+<string>Shuji Kawasaki
+<string>Norio Tanaka
+<string>Yuki Ishii
+<string>Digital Strategy Team
+<string>Takayuki Miyazawa
+<string>Miyu Matsushima
+<string>Yurie Kanayama
+<string>Asia Business Development Department
+<string>Hideto Yoda
+<string>Asia Business Development Section
+<string>Atsushi Ueno
+<string>Asia Business Development Team
+<string>Kentaro Omori
+<string>Hideyoshi Kajiyama
+<string>Gaku Tanaka
+<string>Anna Murakami
+<string>Character License Business Department
+<string>Tetsuya Ohno
+<string>Global License Development Team
+<string>Mareo Yamada
+<string>Product Team
+<string>Morihiko Hieda
+<string>Funato Yusuke
+<string>Shogo Kadowaki
+<string>License Team
+<string>Noriomi Ito
+<string>Shiori Sakai
+<string>Sales Development Team
+<string>Yuji Yasuda
+<string>CAPCOM U.S.A., INC.
+<string>Chief Executive Officer
+<string>Shinichi Yoshida
+<string>Chief Operating Officer
+<string>Robert Dyer
+<string>Director, Marketing
+<string>Takuya Inoue
+<string>Senior Manager, Brand Marketing
+<string>Karim Chaoui
+<string>Senior Manager, Marketing Strategy
+<string>Matt Sindayen
+<string>Senior Director, Communications
+<string>Denny Chiu
+<string>Associate Director, PR
+<string>Jesse Steinberg
+<string>Manager, PR
+<string>Blake Shaffer
+<string>Senior Manager, Social Media & Community
+<string>Andy Wong
+<string>Associate Manager, Social Media and Community
+<string>Michelle Lo
+<string>Specialist, Social Media & Customer Support
+<string>David Poole
+<string>Vice President, Project Management & Divisional Communications
+<string>Kaori Tsukuda
+<string>Project Manager, Project Management & Divisional Communications
+<string>Joseph Luntao
+<string>Senior Vice President, Digital Platforms
+<string>William Yagi-Bacon
+<string>Director, Digital Sales
+<string>Rommel Hernandez
+<string>Senior Manager, Digital Accounts
+<string>Ryan Roque
+<string>Specialist, Digital Sales
+<string>William Smith
+<string>Senior Manager, Business Strategy
+<string>Aiko Sekiguchi
+<string>Associate, Business Strategy
+<string>Min Kim
+<string>Senior Manager, Business Development
+<string>Shinji Saito
+<string>Vice President, Sales
+<string>Debbie Mola
+<string>Senior Director, National Sales
+<string>Dean Taraboi
+<string>Senior Manager, Sales Administration
+<string>Jeri Tomasello
+<string>Senior Support Representative, Sales Administration
+<string>Rekki Grant
+<string>Director, Licensing
+<string>Noriko Matsunaga
+<string>Senior Manager, Licensing
+<string>Kyoko Yoshida
+<string>Manager, Licensing & Business Development
+<string>Jason Van De Walle
+<string>Senior Manager, Licensing Operations
+<string>Susan Suarez
+<string>Senior Director, Creative Services & Events
+<string>Laili Bosma
+<string>Senior Manager, Events
+<string>Karl Unterholzner
+<string>Senior Project Manager, Creative services
+<string>Richard Nazal
+<string>Senior Designer, Graphic Design
+<string>Kim Koob
+<string>Senior Director, Business Operations
+<string>Rica Landreneau
+<string>Project Manager, Product Operations
+<string>David Marques
+<string>Manager, Analytics & Insights
+<string>Alexandra Gradijan
+<string>Senior Analyst, Data Analytics
+<string>Bill Wu
+<string>Manager, Operations & Facility
+<string>Jackie Truong
+<string>Senior Specialist, Operations Support
+<string>Kevin Vu
+<string>Director, LATAM Digital Sales & Marketing
+<string>Jean Toledo
+<string>Manager, LATAM Marketing
+<string>Emmanuel Gonzalez
+<string>Manager, LATAM Communications & Localization
+<string>Kadu Araujo
+<string>Coordinator, LATAM Communications & Localization
+<string>Hugo Juarez
+<string>CE EUROPE LTD.
+<string>Chief Executive Officer
+<string>Naoki Yukawa
+<string>Chief Operating Officer
+<string>Stuart Turner
+<string>Commercial Director
+<string>Andy Davis
+<string>Marketing Director
+<string>Antoine Molant
+<string>Brand Manager
+<string>Tom Kurczij
+<string>Senior PR Manager
+<string>Ian Dickson
+<string>Associate PR & Events Manager
+<string>Zaid Al-Jubory
+<string>Community Manager
+<string>Kristina Markez
+<string>Social Media and Community Manager - Italy
+<string>Adriano Milone
+<string>Social Media and Community Manager - Spain
+<string>Maria Amaro Luque
+<string>Social Media and Community Manager - MENA
+<string>Suad Bensaud
+<string>Head of Business Services
+<string>Patrick Shields
+<string>Senior Business Support Manager
+<string>Dominic Abordo
+<string>Business Services Administrator
+<string>Ga-Yen Dang
+<string>Business Operations Manager
+<string>Anna Kisiala
+<string>Business Operations Administrator
+<string>Don Heavey
+<string>Senior Marketing Services Manager
+<string>Carlene Honiss
+<string>Associate Marketing Services Manager
+<string>Sean Shreeve
+<string>Legal Manager
+<string>Naoko Futami
+<string>Sales and Licensing Manager EMEA
+<string>James MacPearson
+<string>Head of Insight & Research
+<string>Robin Fidler
+<string>Senior Business Analyst
+<string>Jack O'Donnell
+<string>Analyst, Insight & Research
+<string>Eve Simnett
+<string>Digital Sales Account Manager
+<string>Mizuki Sasaki
+<string>Junior Analyst, Emerging Markets
+<string>Sophie Metcalfe
+<string>Digital Sales Account Manager
+<string>Tyler King
+<string>Licensing Coordinator
+<string>Tristan Chilvers
+<string>Licensing & Esports Liaison
+<string>Masaki Zaborowski
+<string>CAPCOM ENTERTAINMENT GERMANY GmbH
+<string>Country Manager GSA / Digital Commercial Director EMEA
+<string>Kai Stüwe
+<string>Senior Marketing Manager
+<string>Claas Wolter
+<string>PR Manager Central Europe
+<string>Mai-Vy Thach
+<string>Community Manager
+<string>Lara Mischnick
+<string>Community Manager, Polish-speaking Communities
+<string>Marta Żołnowska
+<string>Junior Manager, Sales & Operations
+<string>Sarah Günzel
+<string>Events & Marketing Coordinator
+<string>Mariam Hase
+<string>CAPCOM ENTERTAINMENT FRANCE, SAS
+<string>Senior Sales & Marketing Manager
+<string>Emmanuel Melero
+<string>Senior Communications Manager
+<string>Cyril Berrebi
+<string>Community Manager
+<string>Samir Cherraben
+<string>Event & Marketing Coordinator France
+<string>Ludwig Clem
+<string>CAPCOM ASIA CO., LTD.
+<string>Sales & Marketing Director
+<string>Alex Ng Ka Wai
+<string>Marketing Manager
+<string>Carrie Lam Ying Ying
+<string>Sales Supervisor
+<string>Anderson Cheong Pak Hang
+<string>Marketing Supervisor
+<string>Toby Ieong Chin Tung
+<string>Sales & Marketing Executives
+<string>Jolie Yeung Ying Ying
+<string>Nicole Ng Ching Yee
+<string>CAPCOM SINGAPORE PTE. LTD.
+<string>Managing Director
+<string>Ricky Bian Li
+<string>PR & Marketing Manager
+<string>Janice Teo
+<string>Marketing Executive
+<string>Khairul Azfar
+<string>Sales Executive
+<string>Clemens Khong
+<string>CAPCOM TAIWAN Co., LTD.
+<string>Marketing Dept. / Director
+<string>Maggie Liu
+<string>Marketing Dept. / Manager
+<string>Ryan Chu
+<string>Marketing Dept. / Specialists
+<string>Lia Wu
+<string>Daven Lee
+<string>Emma Tsai
+<string>Special Thanks
+<string>Au Charleen
+<string>Ayaka Ishimaru
+<string>Bruce Evans
+<string>Carson Hage
+<string>Chisato Shimada
+<string>Donghoon Lee
+<string>Francesca Pesce
+<string>Jiarui Ho
+<string>Junnosuke Nagai
+<string>Kei Sasaki
+<string>Keigo Morimoto
+<string>Keita Tamura
+<string>Kota Suzuki
+<string>Makoto Shimoyamada
+<string>Mari Fujita
+<string>Mei Sasaki
+<string>Michiyuki Hirose
+<string>Miguel Alonso Hernandez
+<string>Nozomi Ohmoto
+<string>Ryota Takei
+<string>Satoko Tanaka
+<string>Sebastien Camrrubi
+<string>Shotaro Nakayama
+<string>Tadashi Noyama
+<string>Takehiko Kegasa
+<string>Takuro Karamatsu
+<string>Tsukasa Aso
+<string>Tsuyoshi Fujisawa
+<string>Yasuyuki Maeda
+<string>Yasuyuki Tsujino
+<string>Yousuke Noro
+<string>Yuki Kotani
+<string>Yuki Yasutake
+<string>Zihao Hu
+<string>Leon’s brown sheepskin leather bomber jacket appears with permission from Schott NYC.
+<string>Facial Animation Technology provided by Faceware Technologies
+<string>The typefaces included herein are solely developed by DynaComware.
+<string>Special Thanks：Monotype Imaging Inc.
+<string>Special Thanks：YOONDESIGN GROUP INC.
+<string>Artbeats Digital Film Library
+<string>Getty Images
+<string>Visual Effects Stock Footage provided by FX Elements.
+<string>Visual FX Stock Footage provided by Final Light Productions
+<string>ZWrap (Copyright © 2023 Faceform LLC).
+<string>General Managers
+<string>Makoto Kadono
+<string>Yoshizumi Hori
+<string>Producers
+<string>Masachika Kawata
+<string>Masato Kumazawa
+<string>Executive Producer
+<string>Jun Takeuchi

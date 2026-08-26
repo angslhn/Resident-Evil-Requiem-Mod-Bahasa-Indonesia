@@ -1,0 +1,2 @@
+<string>DSO Emblem Charm
+<string>A charm for handguns.<lf><COLOR preset="TextColor3">Increases precision and<lf>critical hit rate</COLOR>.

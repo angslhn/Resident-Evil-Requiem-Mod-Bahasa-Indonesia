@@ -1,0 +1,95 @@
+<string>
+<string>Hey, Emily, um... Do you maybe...<lf>wanna leave with me?
+<string>It's not safe here.
+<string>Um... OK.
+<string>Good. That's good.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>I can't leave Emily behind.
+<string>
+<string>Finally...we made it. We did it...
+<string>
+<string>Emily? Are you all right?
+<string>
+<string>Emily?
+<string>...I dunno.
+<string>Well, let's just, uh... We need to<lf>keep moving, OK? Emily?
+<string>OK.
+<string>
+<string>Oh, my god...
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Hey!
+<string>Stay right there.
+<string>I-It's OK, w-we're not infected...
+<string>So you're normal?
+<string>I, uh... I-I think so.
+<string>Thank fuck.
+<string>Those...things still running around?
+<string>Wh-Who are you?
+<string>You don't need to worry about me.
+<string>I'm tired.
+<string>I know.
+<string>That your kid?
+<string>Uh, what's—!?
+<string>Uh, this?
+<string>Old war wound.
+<string>I can't run away even if I wanted to.
+<string>Can you fly this?
+<string>Sure can. My bastard boss took the key.
+<string>You know...
+<string>I could fly us all out of here...
+<string>if you go get it for me.
+<string>It's in there.
+<string>I'd go myself, but I...
+<string>I can't outrun those things.<lf>Not with this leg.
+<string>Are you lying to me?
+<string>What?
+<string>Have you seen the same shit I've seen!?
+<string>Look, lady, we're out of options here.
+<string>How much longer do you think<lf>any of us can survive?
+<string>Can I go back to my room now?
+<string>It's not safe.
+<string>Hey... We can help each other.
+<string>I'll protect her...if you get the key.
+<string>I'll keep her safe.
+<string>I promise.
+<string>I-It's a deal.
+<string>Come on.
+<string>I got you.
+<string>Ready...?
+<string>No, no, no.
+<string>Come on.
+<string>Gotta strap you in.
+<string>Oh...uh...
+<string>I-I'm Grace, by the way.
+<string>Th-This is Emily.
+<string>Harry.
+<string>Thank you, Harry.
+<string>No problem.
+<string>I'll be right back.
+<string>
+<string>Fuck are you doing! You tryin' ta kill me!?
+<string>
+<string>Ah! Hey, stop fucking around!
+<string>
+<string>Have you lost your mind!?
+<string>
+<string>Hey! Could ya hurry up with that key!?
+<string>
+<string>What're you doing?<lf>The boss took the key in there!
+<string>
+<string>Please...just let it be in here.
+<string>
+<string>
+<string>
+<string>Oh, I see.
+<string>
+<string>Wh-What!?

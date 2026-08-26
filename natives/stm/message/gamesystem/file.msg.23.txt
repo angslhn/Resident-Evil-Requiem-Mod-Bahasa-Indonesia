@@ -1,0 +1,271 @@
+<string>Wrenwood City Guide
+<string>Welcome to the beautiful and historic city<lf>of Wrenwood!<lf><lf>Come soak in the nostalgia of a bygone era<lf>with chic art galleries, classic restaurants,<lf>and plenty of stores where you can shop<lf>till you drop.<lf><lf>If you want to get away from the modern hustle<lf>and bustle, Wrenwood is the place to be!
+<string>Hotel Pamphlet
+<string>The Wrenwood Hotel has been welcoming<lf>guests from all walks of life since opening<lf>its doors in 1928.<lf><lf>Experience the warm embrace of nearly<lf>a century's worth of history along with<lf>Wrenwood's time-honored traditions.
+<string>Notice of Closure
+<string>To all employees,<lf><lf>Following the recent incident, management<lf>has been working hard to restore public trust.<lf><lf>Unfortunately, due to the extent of the damage,<lf>it is unclear if it will be possible to reopen.<lf>Consequently, it is with great regret that we<lf>must announce the official closure of<lf>The Wrenwood Hotel.<lf><lf>We apologize greatly for the impact this may<lf>have on you and your families, and wish to<lf>extend our heartfelt gratitude for the support<lf>and hard work you have brought to the<lf>long-standing business.
+<string>Investigation Report
+<string>Submitted by:<lf>FBI Special Agent, Kyle Eames
+<string>Overview:<lf>On September 28, 2026 at 11:20 p.m., the body<lf>of a man was found at an abandoned hotel<lf>in the midwestern city of Wrenwood.
+<string>The body was discovered in the hotel restroom.<lf>Based on the level of decay, it is suspected to<lf>have been there for several days.
+<string>Prior to this incident, multiple cases of<lf>similarly mysterious deaths have been<lf>reported in locations across the United States.
+<string>H. Ramirez (59): Pronounced dead at Stoneville<lf>                           Hospital<lf>E. Wilkins (51): Pronounced dead at Hotel<lf>                           Dehnbar
+<string>K. White (67): Pronounced dead at Green Oak<lf>                           Apartments<lf>M. Warren (90): Pronounced dead at Night Valley<lf>                           Nursing Home
+<string>It has been confirmed that all the identified<lf>victims were survivors of the Raccoon City<lf>incident.
+<string>The victims' bodies all had extensive black<lf>bruising.
+<string>Alyssa's Journal
+<string>October 17, 2018<lf><lf>Work has settled down and we're heading<lf>to a new town the day after tomorrow.<lf>I'm thankful my freelance work allows me to<lf>work anywhere, but I'm worried about Grace.<lf>It's difficult for her to make friends when<lf>we're constantly on the move. Maybe we<lf>can spend a little more time in the next town.
+<string>October 18, 2018<lf><lf>Finished some research and stopped in<lf>a cafe when I noticed a hooded man.<lf>I could have sworn he was watching me.<lf>Maybe I'm just being paranoid.
+<string>October 19, 2018<lf><lf>I saw that hooded man again.<lf>He's definitely following me.<lf><lf>We only just got here, but I think we<lf>should move on. I can't let anything<lf>happen to Grace.
+<string>Progress Notes
+<string>22:03 - Began blood extraction<lf>22:05 - Checked pulse,<lf>               no abnormalities<lf>22:11 - Administered Dexifil<lf>22:18 - Condition stable, ready<lf>               for further examination
+<string>Note on Cardboard Box
+<string>To Staff,<lf><lf>I have moved some items out of the closet.<lf><lf>The <COLOR preset="TextColor0">screwdriver</COLOR> is now in <COLOR preset="TextColor0">the toolbox in the<lf>nurses' station</COLOR>.<lf><lf>The sewing kit is [text is blurred and illegible]
+<string>Whiteboard Scrawl
+<string>Medication Room<lf><lf>Unauthorized personnel are not permitted<lf>past this point.<lf><lf>In the case of irregularities, contact<lf>the lead researcher immediately.<lf><lf>In emergencies—
+<string>Care Center Pamphlet
+<string>Director: Victor Gideon<lf>"Transforming lives through medicine."<lf><lf>Chairman: Mitchell Bennett<lf>Lead Researcher: Anthony Richardson<lf>Security Manager: Luke Clark<lf><lf>"Dignity of the moon, trust of the sun,<lf>serenity of the stars. We are partners."
+<string>Unlocking the Organ Transport Box
+<string>
+<string>Lead Researcher's Message
+<string>For my secretary,<lf><lf>I've misplaced the key for the puzzle box<lf>padlock. None of the other executives<lf>must find out.<lf><lf>I need you to locate it discreetly before<lf>next week's meeting. If you can't find it,<lf>get the bottle of <COLOR preset="TextColor0">corrosive</COLOR> from the<lf><COLOR preset="TextColor0">conference room</COLOR> and melt the lock off.
+<string>Folded Note
+<string>I have to get the hell out of here, but the whole<lf>building is locked down. I'll need to ask the<lf><COLOR preset="TextColor0">chairman</COLOR> to get his <COLOR preset="TextColor0">quartz</COLOR> for me.<lf><lf>I just heard another scream.<lf>My colleagues are killing each other.<lf>What the fuck is going on?
+<string>Copy of an Email to a Manager
+<string>Subject: Personnel Change<lf>From: Mitchell Bennett<lf><lf>The new hire showed promise at the dinner<lf>meeting last month. Have his clearance<lf>bumped up a level and get him set up<lf>to work on the project.<lf><lf>Send the current researcher for processing<lf>while you're at it.
+<string>Safe Replacements
+<string>To all staff,<lf><lf>We will be updating the following safes<lf>in the facility:<lf><lf><COLOR preset="TextColor0">- East wing 1F: Waiting Room</COLOR><lf><COLOR preset="TextColor0">- West wing 2F: Bar & Lounge</COLOR><lf>- East wing 1F: [blurred and illegible]<lf><lf>The remaining safe will be replaced at a later<lf>date.
+<string>Blood Compound Synthesis
+<string>The custom blood collector that<lf>Dr. Richardson ordered has finally<lf>arrived.<lf><lf>To be honest, I was skeptical at first,<lf>but I'm genuinely impressed by its<lf>effectiveness.
+<string>Combining infected blood with our<lf>experimental substances has been such<lf>a challenge for us, but this device makes<lf>it so easy!<lf><lf>This is sure to improve the efficiency of<lf>our blood research and speed up analysis<lf>for further mutation patterns.
+<string>Patient Medical Records
+<string>Subject: Martin L. Case<lf>Symptoms: Auditory sensitivity<lf><lf>Following an experiment with an overdose<lf>of Zipreval, the subject started to have<lf>auditory hallucinations and became<lf>aggressive and difficult to control.<lf>The subject exhibits erratic behavior<lf>when exposed to <COLOR preset="TextColor0">loud noises</COLOR>.
+<string>Subject: Eileen Zimmerson<lf>Symptoms: Persistent vocalization and wandering<lf><lf>The surgical removal of some cranial nerves<lf>resulted in a type of histrionic personality<lf>disorder that can only be described as<lf>"main character syndrome." The patient<lf>continues to wander around the care<lf>center singing.
+<string>Subject: Selena Corey<lf>Symptoms: Persistent vocalization and wandering<lf><lf>Her symptoms are more pronounced than<lf>Zimmerson's. She often puts on performances<lf>in the west wing's bar and lounge, as if she's<lf>competing with her rival.
+<string>Construction Notice
+<string>Due to aging infrastructure, construction<lf>on the garage will be carried out during<lf>the following dates.<lf><lf>October 21-28<lf><lf>Do not enter work area unless authorized.
+<string>Note to the Chairman
+<string>I suspect that we'll receive a visit from<lf>the DSO shortly.<lf><lf>I want you to enact Code Six at 23:30.<lf>I've achieved my goal and no longer<lf>have any need for this place.<lf><lf>V
+<string>Chairman's Note
+<string>Moon<lf>Sun<lf>Star<lf>Moon
+<string>Examination Room Safe Code
+<string>As announced in the letter regarding safe<lf>replacements, all contents of this safe must<lf>be removed by 11:30 p.m.<lf><lf>The code is <COLOR preset="TextColor0">{0}</COLOR><lf><lf>Any uncollected contents will be disposed<lf>of by management.
+<string>Bar & Lounge Safe Code
+<string>You really saved my butt the other day.<lf>As thanks, you can take whatever you want<lf>from the safe.<lf><lf>The code is <COLOR preset="TextColor0">{0}</COLOR>
+<string>Satiety Suppression Medical Records
+<string>Subject: Thomas K. Jackson<lf>Symptoms: Irregular eating patterns<lf><lf>After a surgical procedure to suppress<lf>the satiety center of the brain, the subject<lf>experienced an increase in appetite<lf>and weight gain.<lf><lf>He began to ingest everything he could get<lf>his hands on, including infusion pumps<lf>and pacemakers.
+<string>Subject: Timothy B. Jackson<lf>Symptoms: Irregular eating patterns<lf><lf>Exhibits the same symptoms as his brother,<lf>with a particularly strong fixation on human<lf>flesh. Must be treated with extreme caution<lf>as he becomes violently agitated if not<lf>constantly eating.
+<string>Special Directive for Raccoon City
+<string>To: White House Chief of Staff, <FONT 4>■■■■■■</FONT><lf>From: <FONT 4>■■■■■■■■</FONT><lf>Security Clearance: LEVEL 9 - TOP SECRET<lf><lf>Raccoon City is <FONT 4>■■■■■■■■■■■■</FONT><lf><FONT 4>■■■■■■■■■■■■■■■■■■■■</FONT><lf><FONT 4>■■■■■■■■■■■■</FONT>.<lf><lf><FONT 4>■■■■■■■■■■■■■■■<lf>■■■■■■</FONT> for the sake of Elpis.<lf><lf>Commence <FONT 4>■■■■■■■■■■■■■■■■■</FONT>.
+<string>Technician's Note
+<string>Taking the <COLOR preset="TextColor0">toolbox</COLOR> to the <COLOR preset="TextColor0">boiler room</COLOR> for repairs.<lf><lf>The quality of blood the laboratory receives<lf>has gone downhill. We've been notified<lf>from above to take immediate action.<lf><lf>Looks like some problem during the separation<lf>process is to blame. Going to do some work on it.
+<string>Unlocking the Cells
+<string><COLOR preset="TextColor0">You gotta insert the three joint plugs</COLOR><lf>and pull the <COLOR preset="TextColor0">left lever</COLOR> if you're crazy<lf>enough to open the cells.<lf><lf>The <COLOR preset="TextColor0">joint plugs</COLOR> are currently being<lf>used to <COLOR preset="TextColor0">power</COLOR> other areas.<lf><lf><COLOR preset="TextColor0">I've marked their locations on the map</COLOR>.<lf>Removing them will cut the electricity,<lf>so you better be extra sure before<lf>you start messing around with them.
+<string>Operation to Eliminate "The Girl"
+<string>To all employees,<lf><lf><COLOR preset="TextColor0">The Girl</COLOR> is currently occupying the basement.<lf>We plan to corner her by <COLOR preset="TextColor0">taking advantage<lf>of the subject's intolerance to light</COLOR> and will<lf>place high-intensity ultraviolet lamps<lf>throughout the area.<lf><lf>Once this is complete, we will begin the operation<lf>to eliminate the subject.<lf><lf>Prepare your weapons and be on standby.
+<string>Security Guard's Report
+<string>The 12 subjects we were provided with were<lf>confirmed infected and reduced to blood<lf>at the processing area.<lf><lf>We'll be able to increase the turnover rate even<lf>more thanks to the increased stock from our<lf>supply chain.<lf><lf>We have already started processing today's<lf>additions.
+<string>Staff Member's Last Words
+<string>Everyone's dead.<lf>The plan went to shit.<lf><lf>I'm the only one left in this godforsaken place.<lf>I tried to escape, but what's the point.<lf><lf>I can still see my colleagues being eaten alive.<lf>Like an endless loop playing over and over<lf>in my head. Let it stop.<lf>Please.
+<string>New Researcher's Notebook
+<string>Today was unbelievable.<lf>I somehow got invited to the renowned<lf>Ozwell E. Spencer's lab.<lf><lf>I heard rumors about the place,<lf>but to think ARK has been underneath<lf>me this entire time!
+<string>I was given a quick tour of the attached<lf>orphanage too. The children there really<lf>creeped me out—they all have nasty<lf>surgical scars across their heads,<lf>and if you meet their gaze, they'll<lf>greet you with this unsettling giggle.<lf><lf>Apparently, they are used for human<lf>experiments. The whole thing gives<lf>me goosebumps.<lf><lf>To have built a place like this, Spencer<lf>must've been more unhinged than<lf>any of us imagined.
+<string>Sensational.<lf>The prospect of being able to freely<lf>experiment on those kids sends<lf>shivers of anticipation throughout<lf>my entire body. It's all so exciting!<lf><lf>For now, I'll start by making the rounds<lf>at the orphanage tonight. It seems like<lf>the newbie always gets stuck with the<lf>boring jobs. Hopefully I can wrap up the<lf>tedious bits quickly so I can prepare<lf>for the real fun tomorrow.
+<string>Orders for the Engineer Corps
+<string>The <COLOR preset="TextColor0">detonator</COLOR> requires <COLOR preset="TextColor0">three parts</COLOR>.<lf><lf><COLOR preset="TextColor0">Signal Receiver</COLOR>: East Point<lf><COLOR preset="TextColor0">Distributor</COLOR>: Mid Point<lf><COLOR preset="TextColor0">Relay</COLOR>: West Point<lf><lf>Retrieve them immediately.
+<string>We don't have much time.<lf>Avoid contact with the infected at all costs.<lf>If combat is unavoidable, deal with it quickly.<lf><lf>Provide situational updates every 30 minutes.
+<string>Roof Hatch Manual
+<string>The roof hatch is operated by the <COLOR preset="TextColor0">panel outside<lf>the storage bay</COLOR>.<lf><lf>Troubleshooting:<lf><lf>If power supply errors persist, you must <COLOR preset="TextColor0">restart<lf>the three power distribution units in the lower<lf>area</COLOR>. This should reactivate the control panel<lf>and allow you to operate the hatch.
+<string>Note Regarding Research Results
+<string>Your presentation was quite impressive.<lf>While we are pleased to hear that the<lf>experiment has progressed to phase four,<lf>it is far from the results we expect.<lf><lf>It has been more than twenty years since the<lf>establishment of this care center. We require<lf>clear results.<lf><lf>As an added precaution, we have requested<lf>the blockade be extended to 2040. It is<lf>imperative we obtain Elpis before<lf>that deadline.
+<string>Spencer's Research II
+<string>Memory Transfer<lf>Ozwell E. Spencer<lf><lf>Humanity suffers when the drive and experience<lf>of our most exceptional leaders is lost.<lf>The ultimate way to preserve such greatness<lf>is to transfer those memories to a new vessel.<lf><lf>Just as fruit flies have the potential to pass<lf>on certain memories to their offspring through<lf>their genes, so too can the memories of<lf>a human donor be passed on to a recipient.<lf><lf>The question we now face is how to harness<lf>this incredible potential.
+<string>The answer lies in the medium of memory—blood.<lf><lf>Cells within the blood contain multitudes of<lf>information, including factors tied to memory.<lf><lf>Thus, since the T-Virus grants us control<lf>over factors within the blood, it can be<lf>hypothesized that harnessing those same<lf>elements will allow us to transfer memories<lf>from superior individuals.
+<string>However, for such a procedure to succeed,<lf>the host must be able to withstand the toxicity<lf>of the mutated T-Virus strain while preserving<lf>their own intelligence. Sourcing viable subjects<lf>will be the key to future research and testing.
+<string>Battery Storage Locations
+<string>All staff,<lf><lf>When a <COLOR preset="TextColor0">battery</COLOR> dies, you'll need to get<lf>a new one from either the <COLOR preset="TextColor0">sewage facility</COLOR><lf>or the <COLOR preset="TextColor0">underground parking garage</COLOR>.
+<string>Visitor Record
+<string>Date: Sept. 14, 2026<lf>Time In: 5:10 p.m.<lf>Time Out: 6:35 p.m.<lf><lf>Name: Z<lf>Purpose: Project review with Victor Gideon<lf>Notes: Patient status, preliminary research<lf>              findings
+<string>Product Catalog 1 (2026)
+<string>Code: CM-G-002 (Garmr)<lf>Price: $30,000,000~<lf><lf>Product Specifications:<lf>Umbrella Corporation's "Cerberus" has been<lf>further enhanced and enlarged, resulting<lf>in increased combat capabilities. It can<lf>track and pursue targets at speeds<lf>exceeding 60 mph.
+<string>Code: CM-LB-110 (Licker β2)<lf>Price: $14,000,000~<lf><lf>Product Specifications:<lf>Originally an infection anomaly, rigorous<lf>experimentation revealed the key to<lf>activating the mutation, paving the way<lf>for commercialization. Product boasts<lf>enhanced climbing capabilities and<lf>possesses sharp claws and a pointed tongue.
+<string>Code: CX-P-001 (Plant)<lf>Price: $100,000,000~<lf><lf>Product Specifications:<lf>A prototype bioweapon developed from a viral<lf>plant infection found in the Arklay Mountains<lf>and Raccoon City.<lf><lf>Note:<lf>An incident occurred during the transport<lf>of the experimental Plant 43 and has resulted in<lf>an infestation near the service entrance of ARK.<lf>Always exercise extreme caution when<lf>transporting bioweapons.
+<string>Inventory List
+<string>Container 01: Medical supplies, consumables<lf>Container 02: Motorcycle, <COLOR preset="TextColor0">repair kit</COLOR><lf>Container 03: <COLOR preset="TextColor0">Sniper rifles</COLOR><lf>Container 04: <COLOR preset="TextColor0">Sniper rifle attachments</COLOR>
+<string>Engineer Corps Note
+<string>Go grab a <COLOR preset="TextColor0">repair kit from container 02</COLOR><lf>in the <COLOR preset="TextColor0">central camp</COLOR>. The signal receiver<lf>got all beat up during transport and<lf>we need to fix it.<lf><lf>I just got reassigned and can't get it myself.<lf>This one's up to you, Graves.
+<string>Record of Events
+<string>September 25th<lf>We're turning the station into a temporary<lf>shelter due to the sudden massive outbreak.<lf>All police personnel have been instructed to<lf>make the safety of the citizens their top<lf>priority as we try to accommodate as many<lf>of them as possible.
+<string>September 25th (addendum)<lf>One of the refugees attacked us in the<lf>middle of the night, resulting in the death of<lf>one officer and injuring three others. The person<lf>in question was quickly restrained. We believe<lf>this was simply a case of someone snapping<lf>under intense stress.
+<string>September 26th<lf>A mob attacked the station today, resulting<lf>in a number of casualties. A few survivors were<lf>able to make it safely behind the emergency<lf>shutters, but surrounded as we are, it'll be<lf>hard for any of us to escape this place. We're<lf>not sure we can fix any of our comm equipment,<lf>so we remain cut off from the outside world.
+<string>September 27th<lf>There was another clash on the west side of<lf>the station around 1 p.m. Twelve people died,<lf>and there is only a handful of survivors left.<lf>Everything is falling into disarray in here.<lf><lf>                                                            David Ford
+<string>Guide Pamphlet
+<string>Welcome to Raccoon City!<lf><lf>Did you know: While we are the home of<lf>pharmaceutical giant Umbrella Corporation,<lf>Raccoon City is a vibrant and dynamic city with<lf>a long, rich history of its own. In this guide,<lf>we'll introduce you to just a few of the more<lf>unusual points of interest our city has to offer.
+<string>Raccoon City Police Station<lf><lf>The building in the center of town wasn't<lf>always a police station—in fact, it used to<lf>be an art museum. Various features like the<lf>unusual clock tower and the goddess statue<lf>in the main hall remind us of a bygone era.
+<string>Orphanage<lf><lf>Just a few blocks from the police station is an<lf>orphanage founded and run by the Umbrella<lf>Corporation with the help of generous donations<lf>from businesses and citizens alike. The building<lf>is known for its stained glass window, which<lf>attracts visitors from around the world.
+<string>Raccoon City Incident Newspaper
+<string>EVACUATE IMMEDIATELY!<lf><lf>If you are in Raccoon City, I urge you<lf>to evacuate now! Leave if you can!<lf><lf>If you cannot evacuate, go to the police<lf>station, the nearest public facility,<lf>wherever you can!<lf><lf>Take any weapon you have and hide<lf>in the nearest sturdy building.
+<string>This will probably be the last paper we<lf>will publish. And I am the last Raccoon<lf>Times reporter.<lf><lf>Thank you, dear readers, for all your<lf>support over the years.<lf><lf>I urge you once more. Run.<lf>Find somewhere safe.<lf><lf>Survive.
+<string>Report on Raccoon City Syndrome
+<string>This report outlines the current research on<lf>Latent Onset T-Virus Syndrome (henceforth<lf>referred to as Raccoon City Syndrome).<lf><lf>Raccoon City Syndrome occurs when residual<lf>T-Virus within the body mutates over a prolonged<lf>period of time.<lf><lf>I have yet to find an effective treatment,<lf>and when it manifests, the results are fatal.
+<string>Raccoon City Syndrome appears to develop<lf>through the following stages.<lf><lf>Stage 0: Dormancy<lf>The virus lies temporarily dormant within the host<lf>due to the presence of specific antibodies. As<lf>the virus is not completely suppressed, it begins<lf>to build an immunity to the antibodies over time.<lf><lf>Stage 1: Activation<lf>The virus becomes active and black, bruise-like<lf>marks begin to appear on parts of the body.<lf>Mild symptoms such as general malaise<lf>and coughing occur.
+<string>Stage 2: Development<lf>The black marks spread further across the body,<lf>coupled with numbness in the affected areas.<lf>The marks extend to the internal organs,<lf>sometimes leading to hematemesis.<lf><lf>Stage 3: End-stage<lf>The black marks darken and spread across<lf>the entire body. Severe pain and intense<lf>fatigue make moving difficult.<lf>Vomiting of blood becomes uncontrollable.<lf>Patients at the terminal stage typically<lf>die within one to two hours.
+<string>Toe Tag
+<string>Name of Deceased: Charlotte<lf>Age: 7 years 2 months<lf>Sex: Female<lf>Date of Death: January 14, 1990<lf>Comments: Discarded due to volatile symptoms.
+<string>Report on Victor Gideon
+<string>Investigator<lf>Andrew Hughes (DSO Survey Team)<lf><lf>Person of Interest<lf>Name: Victor Gideon<lf>Age: 54<lf>Gender: Male<lf>Nationality: USA
+<string>I couldn't dig up much on Victor Gideon.<lf>What we do know is that he's a former employee<lf>of Umbrella and was involved in researching<lf>the T-Virus.<lf><lf>After the Raccoon City Incident, he was called<lf>as a witness in the Umbrella trials, but the<lf>court couldn't track him down.
+<string>I traced his whereabouts to the Rhodes Hill<lf>Chronic Care Center, a private institution<lf>where he acts as the director.<lf><lf>The center is also a research facility that<lf>handles highly sensitive data. It's had<lf>a clean bill for years and avoided the<lf>scrutiny of any and all agencies.
+<string>Additional Notes:<lf>Rhodes Hill Chronic Care Center was<lf>once run by the Spencer Foundation.<lf><lf>I'd be surprised if we didn't find<lf>something off about the place.
+<string>Subject 170 Record
+<string>Extracted a 2.3-milliliter sample from the<lf>524.3 liters of blood collected from 115 infected.<lf><lf>Administered to Marie.<lf>Henceforth registered as subject 170.
+<string>Subject 170 exhibited increased physical<lf>resilience but failed to fulfill the goal<lf>of the experiment. The subject showed<lf>signs of mental instability before escaping.<lf><lf>Confirmed for immediate disposal.
+<string>Grace Ashcroft Blood Analysis Report
+<string>Here are the results of the comprehensive blood<lf>analysis you requested. The genetic information<lf>matches the specified data perfectly.<lf><lf>STR Analysis: Match<lf>SNP Analysis: Match<lf>HLA Type: Match<lf>mtDNA Haplogroup: Match<lf>SLC24A5: Match<lf>CYP2D6: Match<lf>ABCC11: Match<lf>TAS2R38: Match<lf>C = 4.2 ly
+<string>Background Check
+<string>Subject: Grace Ashcroft<lf>Period of Observation: September 9-16, 2026<lf>Detective: M. D. Birdie, RGT Detective Agency<lf><lf>Summary of Investigation<lf>- Employed by the FBI at the Midwest Field Office.<lf>- Lives alone, close to her office.<lf>- Goes home late, often after midnight.<lf>- Spends her free time at home.<lf>- No confirmed contact with others.
+<string>Findings<lf>It's difficult to get close as the target rarely<lf>leaves the FBI Midwest Field Office area.<lf>If you want to make contact without raising<lf>suspicion, it would be best to do so when<lf>she's away from home.<lf><lf>A more detailed report and several photographs<lf>will be sent at a later date.
+<string>Victor's Journal Entry
+<string>November 30, 2004<lf><lf>My master's research has come to fruition.<lf><lf>And that child. She must be the final piece<lf>of the puzzle.<lf><lf>I need to get my hands on the child's data.<lf>I'm sure this will bring me closer to his vision.
+<string>December 8, 2004<lf><lf>The organization was able to get me<lf>the child's medical records.<lf><lf>It was lacking in certain areas, but did have<lf>her genetic information. I can use this.
+<string>Spencer's Research I
+<string>Master Spencer's Research<lf><lf>Victor Gideon
+<string>Mutated T-Virus Strain<lf><lf>Herein documents a theory that uses the<lf>T-Virus to control memories and will.<lf><lf>This research shall serve as a guiding light<lf>for all of humanity.
+<string>In rare instances, repeated mutations of<lf>the T-Virus can trigger an abnormal reaction<lf>in an infected individual's body, leading<lf>to changes in their blood.<lf><lf>The mutated strains of the T-Virus will likely<lf>sweep the world, and total eradication will<lf>be impossible.
+<string>Those infected by the mutated T-Virus strain<lf>firmly retain their pre-infection habits<lf>and characteristics.<lf><lf>→ Blood transformation.<lf><lf>Within this lies the key to humanity's evolution.<lf><lf>(The file ends here.)
+<string>Nurse's Log
+<string>Sept. 3<lf><lf>As per the doctor's orders, from today I will take<lf>part in monitoring the progress of subject 171.<lf>She is emotionless and unsettling.<lf>This assignment fills me with unease.
+<string>Sept. 10<lf><lf>Subject 171 is blind and requires a lot of<lf>assistance. I felt sorry for her and tried<lf>to offer some comfort by stroking her hair,<lf>but as always received no reaction.<lf>Such an unnerving child. I just want to go<lf>home and shower.
+<string>Sept. 24<lf><lf>For some reason the security manager joined<lf>me today. He asked subject 171 two or three<lf>questions about blood, but of course a child<lf>wouldn't know how to respond.<lf>What a strange man.
+<string>Top Secret Operation
+<string>Champions of justice, are you ready?<lf>Duty calls!<lf><lf>Provisions Specialist Neil,<lf>Do you have the pizza and beer at the ready?<lf>Make sure you've got some soda on hand too—<lf>in case the rookie is liver-conscious.
+<string>Decoration Manager Elliot,<lf>Think you're an artist? Then show us what<lf>you got! Make sure you use the banner with<lf>the stars on it.<lf><lf>Gift Coordinator Scott,<lf>Don't forget to pick up the goods from Robert's<lf>shop on the day. Get what Barry suggested,<lf>that man knows his stuff!
+<string>One last thing!<lf>Make sure the chief doesn't catch wind<lf>of the welcome party for the new recruit.<lf>We wouldn't want to put young Kennedy<lf>in his bad books right away.<lf><lf>Marvin
+<string>Barry's To Do List
+<string>- Turn in training plan for the new recruit.<lf>- Join Jill at the shooting range.<lf>- Pick the girls up from soccer.<lf>   (Don't be late!)<lf>- Find that missing library book.<lf>  ↑ TOP PRIORITY!<lf>    The librarian is about to blow a gasket.<lf>    Looks like the captain checked it out last.
+<string>N0-AH Status Report
+<string>Current facility operation status...<lf><lf>Auto-Processing... Green<lf>Network System... All Areas Online<lf>Environmental Control Systems... Green<lf>Disposal Systems... Green<lf><lf>Security: Level 2... Guards on patrol
+<string>Area Status...<lf><lf>- Lab Unit 01: Checking<lf>- Lab Unit 02: Normal<lf>- Restricted Area: Normal<lf>- PANDORA: Normal<lf><lf>Now operating at 82%<lf>System access must be performed<lf>manually from the restricted area.
+<string>Raccoon City Bioweapon Research - Report
+<string>As previously stated, ARK is focused<lf>on bioweapon research and development,<lf>utilizing the unique environment of Raccoon City.<lf><lf>In particular, experiments performed by infecting<lf>nearby zombies with the mutated T-Virus strain<lf>have yielded a great deal of empirical data.<lf><lf>This has also proven effective against the BSAA's<lf>attempts to eradicate ARK.
+<string>The development of a new bioweapon based<lf>on this hard data is in the final stages.<lf>If said bioweapon is released, we can expect<lf>further profit growth next fiscal year.<lf><lf>ARK has now become a key bioweapon<lf>production hub for North America. It will<lf>continue to bring great benefits to both us<lf>and the United States.
+<string>Dishwasher's Note
+<string>Hey asshat!<lf><lf>Heard you lost the <COLOR preset="TextColor0">pantry key</COLOR> again.<lf>Mr. Bigshot Chef made me crawl around<lf>the filthy fucking floors to find it.<lf><lf>I finally found it in a puddle of grease,<lf>along with a dead rat the size of a dog,<lf>and gave it back to the chef.<lf><lf>You fucking owe me!
+<string>Basement Safe Code
+<string>For the security manager:<lf><lf>I put the discussed item in the safe and<lf>moved it to a discreet location in the<lf>basement, away from wandering eyes.<lf><lf>The code is <COLOR preset="TextColor0">{0}</COLOR>
+<string>Report on the Raccoon City Incident
+<string>Raccoon City<lf><lf>A city in the Midwest surrounded by nature. From<lf>the early to mid-90s, pharmaceutical giant<lf>Umbrella invested heavily in the city.<lf><lf>However, in September 1998, the T-Virus leaked<lf>from Umbrella's underground laboratory, causing<lf>a city-wide epidemic.<lf><lf>On October 1, the U.S. government recognized<lf>the severity of the situation and ordered a<lf>sterilization of the city. Raccoon City was<lf>wiped off the face of the earth and remains<lf>under lockdown to this day.
+<string>Umbrella<lf><lf>Umbrella was founded in 1968 by three people,<lf>one of whom was Ozwell E. Spencer.<lf><lf>On the surface it was a successful international<lf>corporation, but beneath the veneer lay<lf>a hive of illegal research, including<lf>development of the T-Virus.<lf><lf>The infamous 1998 disaster, now known as<lf>the "Raccoon City Incident," exposed their illicit<lf>deeds to the public. Umbrella went to trial<lf>and eventually ceased operations in 2004,<lf>after declaring bankruptcy.
+<string>Ozwell E. Spencer<lf><lf>Spencer was a founding member, and leader,<lf>of Umbrella. His excellent managerial skills<lf>helped the company grow into a major corporation.<lf><lf>His true nature, however, was that of a monster<lf>who repeatedly conducted inhumane tests<lf>to advance his illegal viral research.<lf>Spencer was egotistical and ruthless in pursuit<lf>of his ambitions. It's believed he even took out<lf>the other founders of Umbrella.<lf><lf>He passed away in 2006 at his secluded estate,<lf>after Umbrella went under.
+<string>Library Card
+<string>Title: Medicinal Benefits of Herbs<lf><lf>E. Edward    05/02 - 05/11<lf>Y. Kashima   09/15 - 09/21<lf>R. Phillips    01/10 - 01/18<lf>A. Wesker    03/01 - 03/03
+<string>Photograph
+<string>Rising<lf>Rookie<lf>Rebecca
+<string>R.P.D. Perimeter Report
+<string>From our survey of the grounds, we've<lf>pinpointed some locations that still have<lf>viable resources.<lf><lf>2F Office: The <COLOR preset="TextColor0">Armory</COLOR> has leftover supplies<lf><lf>Gun Shop out back: Working <COLOR preset="TextColor0">shotgun</COLOR><lf>and ammo<lf><lf>Parking Garage: Advance team supplies, <COLOR preset="TextColor0">weapon<lf>upgrade parts</COLOR>
+<string>Scavenger Hunt - Clue 1
+<string>You kids have fun solving this one! - Barry
+<string>
+<string>Scavenger Hunt - Clue 2
+<string>You kids have fun solving this one! - Barry
+<string>
+<string>Access Log: 51st Assembly Minutes
+<string>Checking database access request...<lf>The following data was found.<lf><lf>Minutes of the 51st assembly meeting<lf>as transcribed by AI control center N0-AH.
+<string>The State<lf>We heard the "key," Grace Ashcroft, has<lf>finally been found. It's been 28 years since<lf>we occupied ARK. Are you sure she's the one?<lf><lf>Z<lf>Without a doubt. There's no need to worry.<lf>More importantly, don't you think your<lf>withdrawal from the treaty is too blatant?
+<string>The State<lf>It's a bluff. The United States is, and always will<lf>be, at the center of the world. The BSAA are fully<lf>under our control as well. Are there any changes<lf>in product supply?<lf><lf>Z<lf>ARK's factory automation is constantly evolving.<lf>I believe that's enough for today. We can discuss<lf>further while we view the products.<lf><lf>(Transcript ends here.)
+<string>Access Log: First Assembly Minutes
+<string>Checking database access request...<lf>The following data was found.<lf><lf>Minutes of the first assembly meeting<lf>as transcribed by AI control center N0-AH.
+<string>The Defense<lf>The leakage of the T-Virus has caused<lf>an epidemic. If things continue like this,<lf>all eyes will be focused on Raccoon City.<lf><lf>K.D.<lf>There's nothing to worry about. ARK has been<lf>secured. Commence the missile strike.<lf><lf>The Defense<lf>We are lacking presidential authorization.
+<string>K.D.<lf>The organization is involved. There's no need<lf>for the usual procedures. The blame will fall<lf>solely on Spencer.<lf><lf>The Defense<lf>Understood.<lf><lf>K.D.<lf>With this, Umbrella will be dismantled and we'll<lf>seize their assets.<lf><lf>(Transcript ends here.)
+<string>Sterilization Chamber Safe
+<string>Emergency supplies code<lf><lf><COLOR preset="TextColor0">{0}</COLOR>
+<string>Monitor Control Room Safe
+<string>Emergency supplies code<lf><lf><COLOR preset="TextColor0">{0}</COLOR>
+<string>Alyssa's Interview Notes
+<string>16th, 13:00, Ozwell E. Spencer<lf><lf>- World War and Cold War. Founded Umbrella<lf>   out of despair. Loquacious.<lf><lf>- T-Virus, bioweapons. Incomplete blood research.<lf><lf>- Immortality, memory transfer, advanced breed<lf>   of human, mind control.<lf>   → All for the evolution of humanity?<lf><lf>- Bioterrorism and human experimentation.<lf>   No response to questions. Doubt?<lf><lf>- "Elpis will be their <FONT 4>■■■■■■</FONT>"<lf>   → Elpis? Look it up later.
+<string>Impressions:<lf><lf>More rational than expected. A "pure" scientist.<lf>An idealist.<lf>→ That purity was the origin of madness?<lf>→ A twisted genius at his core.<lf><lf>Some hesitation in his speech.<lf>Is he hiding something? Anger? Regret?
+<string>Letter from Patrick
+<string>Ms. Alyssa Ashcroft,<lf>I hope this letter finds you in good health.<lf>My name is Patrick, and I am writing to you<lf>as the butler of Ozwell E. Spencer.<lf>Perhaps you remember me.<lf><lf>I'd like to extend my gratitude once more to you<lf>for taking the time to interview Master Ozwell.<lf>I am writing to you today to inform you<lf>of his last will and testament.
+<string>In his later years, my master was often in a state<lf>of unrest and his speech was somewhat jumbled.<lf>As such, his last will and testament was quite<lf>unintelligible aside from the following passage.<lf><lf>I would appreciate if you could read it carefully.<lf>Kindly respond at your earliest convenience.<lf><lf>Below follows an excerpt from the will.
+<string>I designate Alyssa Ashcroft as the guardian<lf>of my adopted daughter, Grace.<lf>She will be safe in her care.<lf><lf>Ozwell E. Spencer
+<string>Lead Researcher's Picture 1
+<string>
+<string>Lead Researcher's Picture 2
+<string>Artificial Organ Transplantation Experiment Team
+<string>
+<string>Lead Researcher's Picture 3
+<string>In the Chairman's Office with Mitchell Bennett
+<string>
+<string>Double Mutation
+<string>There have been a number of cases where corpses<lf>infected with the mutated T-Virus strain have<lf>exhibited rapid tissue regeneration and sudden<lf>violent behavior.<lf><lf>Analysis of the enlarged tumor that formed on<lf>the heads of these patients revealed a sudden<lf>change in red blood cell patterns consistent<lf>with the pattern found in urine tests.<lf>This additional mutation is considered a side<lf>effect of the mutated T-Virus strain.<lf><lf>We have named those with double mutation<lf>symptoms <COLOR preset="TextColor0">"Blister Heads."</COLOR>
+<string>In rare cases, the tumor was observed to spread<lf>from the head across the entire body.<lf><lf>If the abscesses covering these individuals burst,<lf>the fluids they expel will induce double mutation<lf>in nearby infected.<lf><lf><COLOR preset="TextColor0">Hemolytic poison</COLOR> has proven effective at<lf>preventing double mutation, otherwise<lf><COLOR preset="TextColor0">the head must be completely destroyed</COLOR>.<lf>Always exercise extreme caution when<lf>handling infected corpses.
+<string>Disposal Team Report
+<string>Assignment: Evidence Erasure<lf>Report Date: Oct. 20, 2018, 6:42 a.m.<lf><lf>A retrieval mission was conducted shortly<lf>after 1:30 a.m. at the Wrenwood Hotel.<lf><lf>We were dispatched soon after to dispose<lf>of any evidence.
+<string>All witnesses at the hotel had already<lf>been taken care of.<lf><lf>The body of the assassin that was sent<lf>was also destroyed. We had a stroke of<lf>luck with that fire. As they say, the best<lf>place to hide a leaf is in a forest.<lf><lf>This incident will likely be ruled an act of<lf>arson and homicide by some nutcase.<lf><lf>Any evidence linking us to the scene is gone.
+<string>Series 60 Results
+<string>Though the Series 60 possesses recombinant<lf>DNA, increasing the volume of Spencer's injected<lf>plasma did not result in successful memory<lf>transfer. Mental abnormalities were developed.<lf><lf>We will perform the next medical procedure<lf>and progress to the final phase.
+<string>However, after adjusting the viral load<lf>in the blood of Series 70 subject "Chloe,"<lf>improved signs of stability were observed.<lf><lf>We will continue to monitor her progress.
+<string>Product Catalog 2 (2026)
+<string>Code: CM-T-501 (Tyrant)<lf>Price: $120,000,000~<lf><lf>Product Specifications:<lf>A humanoid bioweapon with exceptional<lf>combat capabilities.<lf><lf>It can execute simple commands, such as tracking<lf>and eliminating targets, and comes with a coat<lf>as standard, for effective human disguise.
+<string>Code: CM-NE-γ-001 (Nemesis-γ) <lf>Price: Negotiable<lf><lf>Product Specifications:<lf>Based on the Umbrella Corporation's parasitic<lf>"NE-α," this mass-produced model focuses on<lf>cost reduction and performance enhancement.<lf>Repeated improvements have resulted in a<lf>significant boost to physical ability and<lf>recovery, regardless of the host's durability.
+<string>Grace's Report
+<string>The Truth Behind Raccoon City
+<string>Introduction
+<string>In 1998, Raccoon City was devastated by<lf>a massive outbreak caused by a viral leak<lf>from the pharmaceutical giant, Umbrella.<lf><lf>The United States government responded by<lf>launching a missile strike to wipe out the<lf>infected, and erected a blockade to seal off<lf>the city.<lf><lf>In 2004, following a court trial, the Umbrella<lf>Corporation declared bankruptcy. A complete<lf>account of the events was never released.
+<string>However, in October 2026, it was discovered that<lf>the city had been used as a hub for the production<lf>and trafficking of bioweapons.<lf><lf>This report reveals that the established narrative<lf>of the Raccoon City Incident was falsified and<lf>elucidates newly discovered truths surrounding<lf>the incident.
+<string>1968
+<string>To properly understand the truth, we must first<lf>go back to the beginning of it all.<lf><lf>In 1968, Ozwell E. Spencer, James Marcus,<lf>and Edward Ashford founded the Umbrella<lf>Corporation.<lf><lf>Having witnessed the horrors of the Second World<lf>War and the dread of the Cold War, Spencer felt<lf>a sense of despair at watching the world repeat<lf>the same mistakes. He felt it was his duty to<lf>bring about a change to humanity.
+<string>As stated in court records following the Raccoon<lf>City incident, his ultimate goal was to bring<lf>about the "viral evolution of the human race."<lf><lf>Thus, he relentlessly pursued virus research<lf>through illegal and inhumane means. This fact<lf>remains unchanged.
+<string>1970s
+<string>From the very beginning of Umbrella, the company<lf>faced rapid change and intense internal strife—<lf>most notably, the sharp ideological divide<lf>between Spencer and Marcus.<lf><lf>According to court records, this conflict was<lf>cited as the primary factor leading to the<lf>unusual developments which followed.<lf><lf>In 1978, James Marcus developed the T-Virus,<lf>which would go on to become the cause of<lf>the subsequent outbreak.
+<string>1980s
+<string>This is a crucial period for understanding the<lf>basis of what caused the incident and the<lf>truth behind the entire case.
+<string>Spencer's Influence and ARK's Establishment
+<string>Spencer used internal politics to have Marcus<lf>demoted, absorbing T-Virus research into a facility<lf>under his own control. From then on, Umbrella<lf>began to actively research and develop bioweapons<lf>under Spencer's leadership.<lf><lf>The underground facility known as ARK, which<lf>was discovered during recent events, originally<lf>served as the administrative center of<lf>Umbrella's research.<lf><lf>Several documents outlining Spencer's plan for<lf>ARK have also been discovered.
+<string>Excerpt from confiscated records:<lf>"Long-Term Strategic Review 1980_0422"<lf><lf>ARK-centric Integrated Research Roadmap<lf><lf>Step 1: Concentrated investment into Wesker's<lf>               plan and the T-Virus<lf>Step 2: Establishment of ARK as a central<lf>               command center<lf>Step 3: Development of Elpis<lf>Step 4: Memory transfer and forced evolution
+<string>This is the first recorded instance<lf>of a significant keyword—Elpis.
+<string>The Connections' Involvement
+<string>The following documents regarding Marcus'<lf>involvement were also discovered.
+<string>Excerpt from confiscated records:<lf>"Receipt of Donation 1986_0138"<lf><lf>Recipient: James Marcus<lf>Sender: F Foundation<lf><lf>Amount: $30,000,000
+<string>This document shows a suspicious flow of funds<lf>being channeled to Marcus.<lf><lf>Past FBI investigations revealed that the source<lf>of the funds—the F Foundation—was just one<lf>of the puppet organizations of The Connections.<lf>(The F Foundation no longer exists.)
+<string>The Connections is a criminal organization that<lf>various government agencies have been sounding<lf>the alarm against for years. This illicit group is<lf>at the heart of all this.<lf><lf>Evidence suggests that The Connections sought<lf>involvement with Umbrella's central operations.<lf><lf>Additional documents belonging to the protégé<lf>of Marcus, Brandon Bailey, have been uncovered.
+<string>Excerpt from confiscated records:<lf>"Telegraph Log 1988_0996"<lf><lf>Sender: Brandon Bailey<lf>Recipient: F Foundation<lf><lf>Preparations are complete. I think it's time<lf>they made contact with me directly, don't you?<lf>I await a response.
+<string>This indicates that Bailey took over correspondence<lf>with The Connections, succeeding Marcus.<lf><lf>Bailey was rumored to be the founder of<lf>The Connections, but he may have only been<lf>a small cog in the larger machine. We now<lf>believe The Connections has had deep roots<lf>in the criminal underworld since before<lf>the 1980s.<lf><lf>Much about The Connections remains unknown.
+<string>Spencer's Purge
+<string>In order for Spencer to obtain complete control<lf>over Umbrella, he used force to deal with any<lf>internal opposition and influential adversaries.<lf><lf>A list of these individuals, seemingly prepared<lf>by an associate of Spencer's, was recently<lf>discovered.
+<string>Excerpt from confiscated records:<lf>"Reevaluation List"<lf><lf>Following the CEO's reevaluation protocol,<lf>measures will be taken against these individuals:<lf><lf>- Cheryl Moore<lf>- Michael Kramer<lf>- James Marcus<lf>.........<lf>[OMITTED]
+<string>1990s
+<string>During this period, Umbrella continued to grow<lf>and expand through ties with the government.<lf>The organization became so large that Spencer<lf>could no longer fully control it.<lf><lf>Numerous accidents plagued Umbrella facilities<lf>around the world as a result of poor management.<lf><lf>Furthermore, information was being leaked<lf>to rival organizations and The Connections due<lf>to moles who had infiltrated the company.
+<string>Yet despite the circumstances, Spencer was able<lf>to thoroughly protect and complete his research<lf>at ARK. The research—Elpis.<lf><lf>While most records regarding Elpis were lost with<lf>the destruction of ARK, a precious few remain.
+<string>Excerpt from confiscated records:<lf>"Spencer's Message 199... [DATA MISSING]"<lf><lf>Tricell, H.C.F., The Family, and Umbrella.<lf>Elpis shall bring it all to an end.<lf>[DATA CORRUPTED]
+<string>The only information leaked about Elpis was<lf>that it had the potential to upset the military<lf>balance of the entire world.<lf><lf>However, a strictly managed password known<lf>only to Spencer was needed to access it.
+<string>What is Elpis?
+<string>Elpis is a powerful antiviral drug.<lf><lf>However, this was unknown to those who sought it.<lf>The Connections, and other black-market groups,<lf>mistakenly thought it to be a powerful bioweapon<lf>with the potential to control human minds.
+<string>This confusion likely stemmed from the fierce<lf>competition surrounding bioweapon development.<lf>It was common knowledge that Spencer, the<lf>developer of Elpis, aimed for the evolution and<lf>control of humanity through viral technology.
+<string>Completion of Elpis
+<string>Based on data taken from the confiscated records<lf>and changes in Spencer's behavior, we believe<lf>Elpis was completed around the mid-1990s.<lf><lf>After this period, the records show a marked<lf>decrease in the number of public statements<lf>from Spencer.<lf><lf>A similar decrease in activity was also observed<lf>at the Raccoon City orphanage.<lf><lf>Disturbingly, it is suspected that the children<lf>at the orphanage had long been used for<lf>Umbrella experimentation.
+<string>While Spencer frequently visited the orphanage,<lf>records indicate he stopped in the 1990s.<lf><lf>Furthermore, the orphanage was under the research<lf>jurisdiction of William Birkin in the late 90s.<lf><lf>Birkin turned against Spencer, ultimately leading<lf>to the leak of the T-Virus.
+<string>1998 - The Raccoon City Incident
+<string>The T-Virus leaked from the Umbrella research<lf>facility in Raccoon City, causing an unprecedented<lf>outbreak. In response, the government decided<lf>to launch a missile strike on the city, under<lf>the pretense of containing the spread.<lf><lf>However, this is where we have been misled.<lf>The missile strike was not launched to prevent<lf>the spread of infection.
+<string>A plan was formed to disrupt the relationship<lf>between the government and Umbrella, and shift<lf>the blame for all illegal activities onto Spencer.<lf><lf>Found records indicate that The Connections<lf>lobbied for the missile strike.
+<string>Excerpts from confiscated records:<lf>"Access Log: First Assembly Minutes"<lf><lf>ARK has been secured. Commence the missile strike.<lf>The blame will fall solely on Spencer. With this,<lf>Umbrella will be dismantled and we'll seize<lf>their assets.
+<string>Their goal was the acquisition of Umbrella assets,<lf>particularly the thing they believed would disrupt<lf>the world's military balance—Elpis.<lf><lf>Due to Bailey's involvement, The Connections<lf>were aware of Umbrella's inner workings prior<lf>to the Raccoon City Incident. This set them up<lf>to swiftly secure ARK before instructing the<lf>government to carry out the missile strike.
+<string>After the Raccoon City Incident
+<string>The Umbrella Trials
+<string>As is well known, trials were held after the<lf>events of the Raccoon City Incident.<lf><lf>Testimony from Raccoon City survivors, along<lf>with evidence submitted by the Global<lf>Pharmaceutical Consortium, demonstrated<lf>the scope of Umbrella's nefarious activities.
+<string>Evidence against Spencer was presented at<lf>the trials by his subordinate, Albert Wesker.<lf><lf>It is now evident that Wesker was linked to<lf>Tricell, which in turn had strong ties to<lf>The Connections.<lf><lf>Therefore, it is highly likely there was pressure<lf>from the government and The Connections<lf>during the trials.
+<string>In 2004, following the outcome of the trials,<lf>Umbrella was forced into bankruptcy.<lf><lf>Just as The Connections and the government<lf>intended, Ozwell E. Spencer was held accountable<lf>as CEO and he disappeared from the public eye.
+<string>Acquisition of ARK
+<string>The Connections and the government seized<lf>ARK during the Raccoon City Incident.<lf><lf>Thereafter, ARK served as a base for the research,<lf>development, and distribution of bioweapons.
+<string>Documents believed to be transaction lists<lf>have also been seized.<lf><lf>These list Umbrella's competitors, along with<lf>organizations that were previously found<lf>guilty of illegal activity.<lf><lf>Unfortunately, most evidence was lost with<lf>the collapse of ARK. Recovery efforts continue<lf>but success is unlikely.
+<string>Proliferation of Bioterrorism
+<string>Following the Raccoon City Incident, weaponized<lf>viruses developed by Umbrella were leaked.<lf><lf>Subsequently, instances of bioterrorism utilizing<lf>this technology spread around the globe.
+<string>In 2013, President Adam Benford was assassinated<lf>in a bioterrorist attack. Intelligence agencies<lf>report that the president wished to reveal the<lf>full truth of the Raccoon City Incident.<lf><lf>It is possible that President Benford was privy<lf>to the facts revealed in this report.
+<string>Spencer's Final Years
+<string>Remaining records about Spencer after the<lf>dissolution of Umbrella are scarce, but a new<lf>source of information has recently come to light:<lf>an interview conducted by Alyssa Ashcroft.<lf><lf>Despite being responsible for countless<lf>atrocities, Spencer showed some signs<lf>of remorse in this interview.
+<string>Having lost everything, he sought atonement.<lf><lf>While Elpis is a powerful instrument that can<lf>render viral weapons inert, it also has the<lf>potential as a panacea to be used for good.<lf><lf>It's possible that Spencer's true motivations<lf>behind Elpis were peace and redemption.
+<string>While he remained obsessed with the evolution<lf>of humanity throughout his later years, most<lf>testimonies describe him as nothing but<lf>a senile old man.<lf><lf>Spencer died in 2006 at his secluded estate.<lf>His true intentions behind developing Elpis<lf>will forever remain unknown.
+<string>Conclusion
+<string>As we can see from the records, the Umbrella<lf>Corporation's liquidation was intentionally<lf>orchestrated by The Connections and the<lf>U.S. government.<lf><lf>Furthermore, they were involved in the illegal<lf>development and trafficking of bioweapons<lf>in Raccoon City.<lf><lf>The extent to which past and present governments<lf>were involved requires further investigation.
+<string>Much about The Connections remains shrouded<lf>in mystery, and most records of their involvement<lf>were destroyed alongside ARK.
+<string>Countless lives have been lost.<lf><lf>As government officials, we have a duty to pursue<lf>the truth. If anything, finding it will finally offer<lf>some closure to everyone who fell victim to<lf>these heinous actions.<lf><lf>               FBI Intelligence Analyst, Grace Ashcroft

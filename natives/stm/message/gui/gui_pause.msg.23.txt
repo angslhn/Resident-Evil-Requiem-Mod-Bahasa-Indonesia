@@ -1,0 +1,15 @@
+<string>PAUSED
+<string>PAUSE MENU
+<string>Restart
+<string>Quit
+<string>Return to Game
+<string>Skip
+<string>Retry
+<string>Start the game from your most recent saved data.
+<string>Return to the main menu.
+<string>Return to the game.
+<string>Skip cutscene.
+<string>Skip movie.
+<string>Tutorials
+<string>Check tutorials.
+<string>Restart from the beginning.

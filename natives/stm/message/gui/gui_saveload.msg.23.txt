@@ -1,0 +1,19 @@
+<string>SAVE
+<string>LOAD GAME
+<string>STORY
+<string>GAME MODE
+<string>SAVES
+<string>AREA
+<string>LAST SAVED
+<string>{0} / {1}
+<string>LOADING
+<string>Autosave
+<string>AUTO
+<string>AUTO 01
+<string>AUTO 02
+<string>New Saved Data
+<string>NO DATA
+<string>Completed Data
+<string>Create saved data.
+<string>Overwrite saved data.
+<string>Load saved data.

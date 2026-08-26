@@ -1,0 +1,140 @@
+<string>Change the quality of object textures.
+<string>High (1.5 GB)
+<string>High (0.75 GB)
+<string>Screen Resolution
+<string>Change the display resolution.<lf><lf>You can apply the resolution change in the following ways:<lf> - Confirm the selection<lf> - Move the cursor to another setting<lf><lf>If you increase the resolution, it is recommended that<lf>you select Auto-Configure Graphics Settings again.
+<string>Frame Rate
+<string>Adjust the maximum number of frames<lf>rendered per second (FPS).
+<string>Up to 120 FPS
+<string>Up to 60 FPS
+<string>Up to 30 FPS
+<string>Vertical Synchronization
+<string>Turn the synchronization between the frame rate<lf>and monitor's refresh rate to prevent screen<lf>stuttering on/off.
+<string>Anti-aliasing
+<string>Enable anti-aliasing to make object<lf>edges appear smoother.
+<string>TAA
+<string>FXAA+TAA
+<string>Texture Filter Quality
+<string>Adjust the visual quality of textures<lf>when they are scaled or deformed.
+<string>Medium (Trilinear)
+<string>High (ANISO x2)
+<string>High (ANISO x4)
+<string>High (ANISO x8)
+<string>High (ANISO x16)
+<string>Mesh Quality
+<string>Adjust the mesh quality that affects the<lf>appearance and movement of 3D models.
+<string>Shadow Quality
+<string>Adjust the quality of shadows.
+<string>Shadow Cache
+<string>Turn the feature that reduces rendering load<lf>by temporarily storing and reusing shadow<lf>data on/off.
+<string>Contact Shadows
+<string>Turn the rendering of detailed shadows on/off.
+<string>Ambient Occlusion
+<string>Enable a feature that adds realistic shading<lf>to enhance visual realism.
+<string>SSAO
+<string>FidelityFX CACAO
+<string>XeGTAO
+<string>Volumetric Lighting Quality
+<string>Adjust the quality of atmospheric lighting<lf>effects for more realistic visuals.
+<string>Lens Dirt
+<string>Turn camera lens dirt caused by bright light<lf>sources on/off.
+<string>Screen Space Reflections
+<string>Turn the effect that improves surface<lf>reflections on/off.
+<string>Subsurface Scattering
+<string>Adjust the feature that enhances realism<lf>of translucent materials such as skin.
+<string>Hair Strands
+<string>Turn the effect that improves hair and fur<lf>quality on/off.
+<string>Particle Lighting
+<string>Turn dust particle visual effects on/off.
+<string>Lens Flare
+<string>Adjust the level of lens flare.
+<string>Lens Distortion
+<string>Turn lens distortion on/off.
+<string>On (+Chromatic Aberration)
+<string>On
+<string>Depth of Field
+<string>Turn the effect that adjusts focus depending<lf>on the distance of objects on/off.
+<string>Shared Settings
+<string>PC Specs
+<string>See information related to your system's specifications.
+<string>CPU
+<string>RAM
+<string>GPU
+<string>Max VRAM
+<string>GPU Driver Version
+<string><NUMBER {0}> GB
+<string>Quality Settings
+<string>Graphics Quality
+<string>Adjust the overall quality for graphics.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
+<string>Adjust the overall quality for graphics.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
+<string><COLOR FF0000>#Rejected#</COLOR> PC_Option_RenderingQuality
+<string><COLOR FF0000>#Rejected#</COLOR> PC_Option_RenderingQuality_Text
+<string>Upscaling Quality
+<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
+<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
+<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option cannot be changed when<lf>ray tracing is set to path tracing.
+<string>Lighting and Shadow Quality
+<string>Adjust the overall quality for lighting and shadow effects.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
+<string>Adjust the overall quality for lighting and shadow effects.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
+<string>Advanced Quality Settings
+<string>Advanced Settings
+<string>Selecting this option will expand the following<lf>preset categories, allowing you to adjust each<lf>setting individually:<lf><lf> - Graphics Quality<lf> - Upscaling Quality<lf> - Lighting and Shadow Quality
+<string>Low
+<string>High
+<string>Adjust the level of simulation for<lf>light reflection and refraction.
+<string>Custom
+<string>Normal
+<string>Upscaling Technology
+<string>Configure the feature that maintains high image<lf>quality while preserving performance. Upscaling<lf>mode options will change based on this setting.
+<string>Configure the feature that maintains high image<lf>quality while preserving performance. Upscaling<lf>mode options will change based on this setting.<lf><lf>Uses: {0}
+<string>NVIDIA DLSS
+<string>AMD FSR 1
+<string>AMD FSR 3
+<string>Frame Generation
+<string>NVIDIA DLSS 2x
+<string>NVIDIA DLSS 3x
+<string>NVIDIA DLSS 4x
+<string>NVIDIA Reflex Low Latency
+<string>On (+Boost)
+<string>Upscaling Mode
+<string>Adjust performance and visual quality for the chosen<lf>upscaling method.
+<string>Adjust performance and visual quality<lf>for the chosen upscaling method.<lf>Uses: {0}
+<string>Quality
+<string>Performance
+<string>Ultra Performance
+<string>Balanced
+<string>Auto
+<string>DLAA
+<string>Ultra Quality
+<string>Quality
+<string>Balanced
+<string>Performance
+<string>Ultra Performance
+<string>Native AA
+<string>Path Tracing (Normal)
+<string>Path Tracing (High)
+<string>Path Tracing
+<string>VFX Quality
+<string>Change the quality of visual effects.
+<string>Volumetric Fog Resolution
+<string>Adjust the quality of gases such as<lf>smoke and fog for more realistic visuals.
+<string>NVIDIA DLSS Ray Reconstruction
+<string>Removes noise generated by ray tracing,<lf>improving image quality.<lf><lf>This setting is automatically configured<lf>and cannot be changed manually.
+<string>Auto-configure Graphics Settings
+<string>Measure PC performance and automatically<lf>configure graphics settings.
+<string>{0}. {1}
+<string>VRAM Usage
+<string>Processing Load
+<string>Game Usage
+<string>Other Applications
+<string><COLOR preset="TextColor1">May cause stuttering due to high processing load.</COLOR>
+<string><COLOR preset="TextColor1">May cause unexpected behavior due to high memory usage.</COLOR>
+<string>This option can only be used when {0} is turned {1}.
+<string>This option cannot be changed when {0}<lf>is set to {1}.
+<string>This option is not available with your current GPU.
+<string>This option can only be used when frame generation<lf>is turned off.
+<string>This option can only be used when upscaling is turned off.
+<string>This option cannot be changed when ray tracing<lf>is set to path tracing.
+<string>This option cannot be changed when frame generation<lf>is set to DLSS.
+<string>on
+<string>off

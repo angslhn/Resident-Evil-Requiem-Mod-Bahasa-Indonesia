@@ -1,0 +1,9 @@
+<string>Controller has been disconnected.<lf>Please reconnect.
+<string>No controller found.<lf>Connect a controller to the console<lf>and press <ICON R_D>.
+<string>
+<string>
+<string>Data inconsistency has been detected.<lf>Please restart the game.
+<string>Connecting to the network.
+<string>Could not connect to the network.
+<string>Network connection has been lost.
+<string>You have been signed out of PlayStation™Network.

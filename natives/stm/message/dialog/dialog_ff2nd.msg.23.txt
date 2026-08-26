@@ -1,0 +1,176 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Oh my god!
+<string>We need to do something!
+<string>I called security, but nobody answered.
+<string>They are out of control.
+<string>Doctor, we can't contain them!
+<string>Sedate them, now!
+<string>Are you kidding me!?
+<string>Get out of my way!
+<string>Hey, are you awake?
+<string>What?
+<string>Where did everybody go?
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Stay away! Stay away!
+<string>Get back!
+<string>Don't come any closer!
+<string>No...
+<string>No! Get back!
+<string>Get back!
+<string>Hey!
+<string>What are you doing!?
+<string>
+<string>Weren't they just here?
+<string>
+<string>But it's past our bedtime.
+<string>
+<string>
+<string>
+<string>Wh-What was that?
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>I-I have to hide.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Please... Someone help me.
+<string>
+<string>
+<string>
+<string>He's not...moving.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Please open!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Can't let them find me!
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Wh-What do I do!? What do I do!?
+<string>
+<string>Are they gone?
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>Please just be a bad dream.
+<string>Wh-Why did they...
+<string>Where am I?
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>How do I get out?
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Wh-What's wrong with them!?
+<string>
+<string>Wh-What... What is this place?
+<string>
+<string>It won't open.
+<string>
+<string>Are those...babies?
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Chloe?
+<string>Is that how I—?
+<string>I've got her!
+<string>Get over here, now!
+<string>She's showing symptoms too.
+<string>We need to get rid of her.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>

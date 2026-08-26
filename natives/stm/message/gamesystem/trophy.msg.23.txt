@@ -1,0 +1,102 @@
+<string>Requiem
+<string>Obtain all Trophies.
+<string>Remarkable Agent
+<string>Complete the main story on Insanity difficulty.
+<string>Resolute Agent
+<string>Complete the main story on at least Standard (Classic) difficulty.
+<string>Rising Agent
+<string>Complete the main story on at least Standard (Modern) difficulty.
+<string>Rookie Agent
+<string>Complete the main story on at least Casual difficulty.
+<string>Never Touch the Stuff
+<string>Complete the main story without using herbs or med injectors.
+<string>Minimalist
+<string>Complete the main story without Grace using the blood collector.
+<string>Speed Demon
+<string>Complete the main story by releasing Elpis within four hours.
+<string>Credit Where Credit Is Due
+<string>Earn 200,000 credits.
+<string>Bloodlust
+<string>Collect 5000 microsamples of infected blood with the blood collector.
+<string>Model Mania
+<string>View all models.
+<string>Curator
+<string>View all concept art.
+<string>Déjà vu
+<string>Encounter an outbreak in Wrenwood.
+<string>Descent Into Darkness
+<string>Reach the basement of the care center.
+<string>It's Been a Long Night
+<string>Reach the courtyard of the care center.
+<string>A Harsh Reality
+<string>Escape the care center.
+<string>Going Down?
+<string>Reach the ground using the suspended platform.
+<string>The Hero Returns
+<string>Arrive at R.P.D.
+<string>I Remember That, Too
+<string>Defeat the Super Tyrant.
+<string>Umbrella's Legacy
+<string>Find ARK.
+<string>The Final Mission
+<string>Start exploring the lower levels of ARK.
+<string>The Ol' Fashioned Way
+<string>Use an ink ribbon to save at a typewriter.
+<string>Hope and Requiem
+<string>Complete the main story by releasing Elpis.
+<string>Case Closed
+<string>Read all the files in the main story.
+<string>The Power of Blood
+<string>Craft an item using the blood collector.
+<string>Blood! More Blood!
+<string>Use 300 microsamples of infected blood.
+<string>Fatal Dose
+<string>Defeat a zombie using the hemolytic injector.
+<string>Like Mother, Like Daughter
+<string>Unlock a drawer with a lockpick.
+<string>Out of Sight, Out of Mind
+<string>Store an item in the item box as Grace.
+<string>No Safe is Safe
+<string>Open every safe in the main story.
+<string>Science!
+<string>Unlock a crafting recipe using analysis.
+<string>Order Up!
+<string>Defeat the chef in the care center in the main story.
+<string>Deadly Duet
+<string>Defeat the two singers in the main story.
+<string>Grace and Goliath
+<string>Defeat a Chunk as Grace.
+<string>Internal Dispute
+<string>Make a zombie attack another zombie in the hospital wards.
+<string>Bring Out the Big Guns
+<string>Stun the Girl with Requiem.
+<string>Master Craftsman
+<string>Craft every possible item with Leon.
+<string>Bang For Your Buck
+<string>Defeat at least three enemies with a single Requiem shot.
+<string>Can I Borrow This?
+<string>Throw a weapon dropped by an enemy.
+<string>Untouchable
+<string>Parry an enemy attack.
+<string>Seasoned Pro
+<string>Defeat 300 enemies.
+<string>Chop Chop
+<string>Defeat three zombies with a hatchet finishing attack.
+<string>Retail Therapy
+<string>Purchase an item from the supply box.
+<string>Tailor Made
+<string>Upgrade a weapon.
+<string>Crate Expectations
+<string>Open all BSAA containers.
+<string>Road Rage
+<string>Stop one of Victor's attacks on the highway.
+<string>Not Today, Buds!
+<string>Defeat all the Plant 43 seedlings.
+<string>Cat Got Your Tongue?
+<string>Cut the tongue off a Licker β2 using the hatchet.
+<string>The Hunt Begins
+<string>Destroy one Mr. Raccoon memoriam.
+<string>You Little Rascal!
+<string>Destroy every Mr. Raccoon memoriam.
+<string>The Final Puzzle
+<string>Let the sweet pair hear the voice.

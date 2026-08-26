@@ -1,0 +1,21 @@
+<string>
+<string>
+<string>
+<string>
+<string>[gasp]
+<string>
+<string>
+<string>
+<string>[alarm blaring]
+<string>[monitor beeping]
+<string>[oozing]
+<string>
+<string>
+<string>
+<string>
+<string>[receding footsteps]
+<string>
+<string>
+<string>
+<string>
+<string>[wristband clinks]

@@ -1,0 +1,18 @@
+<string>
+<string>[♪ moody music]
+<string>
+<string>[loud click]
+<string>[hand claps]
+<string>[frantic rustling]
+<string>[pained moan]
+<string>[wet cough]
+<string>[thunder claps]
+<string>[scream]
+<string>[restraints strain and clank]
+<string>[thump]
+<string>[heavy breathing]
+<string>[scream]
+<string>[scream]
+<string>[yells]
+<string>[groan]
+<string>[blood splatters]

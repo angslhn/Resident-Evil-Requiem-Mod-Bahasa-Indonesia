@@ -1,0 +1,628 @@
+<string>Green Herb
+<string>A green herb that will restore<lf>a small amount of health. Can<lf>be combined to enhance<lf>their effects.
+<string>Mixed Herb (G+G)
+<string>This blend of two green herbs will<lf>restore a medium amount of health.
+<string>Mixed Herb (G+G+G)
+<string>This blend of three green herbs<lf>will fully restore your health.
+<string>Med Injector
+<string>A device used to administer<lf>medicine in an emergency.<lf>Fully restores your health.
+<string>Matilda IMP
+<string>The first polymer frame handgun.<lf>Customizing it for three-round bursts<lf>enables submachine gun-like operation.
+<string>Features a classic base with updated<lf>internal components, ensuring modern<lf>performance. The fixed compensator<lf>and the rotating barrel system<lf>bolster durability.
+<string>S&S M232
+<string>An incredibly reliable handgun.<lf>Grace bought it for self-defense<lf>with her first paycheck.
+<string>Developed in 1977 as a service pistol<lf>and updated in 1996. While not an<lf>FBI standard-issue, Grace adopted<lf>it for personal use due to its<lf>compact design.
+<string>Silencer 9
+<string>A powerful and precise handgun.<lf>The built-in suppressor effectively<lf>dampens the sound of all shots.
+<string>Customizing the number of baffles<lf>adjusts how quietly it fires.
+<string>B934
+<string>A straight blowback handgun.<lf>This basic, interwar design<lf>prioritizes durability over<lf>firepower.
+<string>This Italian pistol was originally<lf>a high-class military firearm. An<lf>American version was also released<lf>and seems to have been the care<lf>center's primary self-defense weapon.
+<string>Redemption
+<string>A break-action, single-shot pistol.<lf>This custom version of a mid-20th<lf>century model delivers immense<lf>firepower. Uses rifle ammo.
+<string>Designed for precision shooting.<lf>This pistol requires reloading<lf>after each shot.
+<string>Ghost Grudge
+<string>A large revolver with a demonic<lf>symbol engraved on the grip.<lf>Uses 12.7x55mm cartridges.
+<string>Victor's customization allows it to<lf>fire large-caliber ammo but with<lf>little accuracy. Holds five rounds.
+<string>Alligator Snapper
+<string>A reliable semi-automatic handgun.<lf>This custom model is issued to DSO<lf>personnel.
+<string>The full-sized frame and compact<lf>slide improve the overall fit of<lf>the compensator. A Joe Kendo<lf>custom build.
+<string>
+<string>
+<string>MSBG 500
+<string>A compact, pump-action shotgun.<lf>Offers excellent spread, but with<lf>limited capacity. Can be customized<lf>for an even wider blast.
+<string>Featuring an equipped muzzle brake<lf>and designed for maneuverability,<lf>this weapon is ideal for precise<lf>firing even in tight quarters.
+<string>W870 Police
+<string>A pump-action shotgun that boasts<lf>an impressive spread. Requires a firm<lf>grip to keep its high power in check.
+<string>A leftover from Robert Kendo's gun<lf>shop. Has a folding stock along with<lf>other custom enhancements.
+<string>990-TAC
+<string>A modern, semi-automatic shotgun.<lf>With excellent grouping, it is ideal<lf>for precision shooting. A dot sight<lf>can be attached.
+<string>An easy-to-use weapon that offers<lf>a high rate of fire. Fitted with chrome<lf>carbon inner components for smooth<lf>operation and lasting performance.
+<string>Requiem
+<string>A DSO-issued, large assault revolver<lf>that uses 12.7x55mm rounds. Offering<lf>high-powered piercing capabilities,<lf>it's a weapon you can rely on.
+<string>Rounds are fired from the lowermost<lf>chamber to mitigate muzzle rise.<lf>While the frame is designed to lessen<lf>recoil, it still demands a firm hand.
+<string>Gal
+<string>A submachine gun developed in the<lf>1950s. Lacks accuracy but has<lf>a large ammo capacity, suitable<lf>for bursts of sustained fire.
+<string>The simple structure makes it less<lf>likely to malfunction in sand or mud.<lf>Several key components are stamped<lf>to facilitate mass production and<lf>are highly durable.
+<string>Stiri REVO3 A1
+<string>A lightweight, compact, polymer frame<lf>submachine gun. Has a high rate of fire<lf>and does considerable damage.<lf>Add a stock to improve accuracy.
+<string>Due to its portability and ease of use,<lf>it has been widely adopted by VIP<lf>security. The switches are designed<lf>for ambidextrous use.
+<string>
+<string>
+<string>Freya's Needle
+<string>A lightweight machine pistol that can<lf>be carried in one hand. Prioritizes<lf>firing rate over precision. Uses<lf>handgun ammo.
+<string>Designed for military motorcycle use,<lf>allowing single-hand operation while<lf>driving. The BSAA-issue handguard<lf>enables customization.
+<string>RPG-7
+<string>A rocket launcher developed for<lf>anti-tank use. The simple design<lf>boasts devastating power. Equally<lf>effective against non-tank enemies.
+<string>Incorporates a recoilless design that<lf>produces a potentially hazardous<lf>backblast when fired.
+<string>Classic 70
+<string>A standard bolt-action rifle.<lf>Can deliver serious firepower<lf>in skilled hands. The scope can<lf>be swapped out or removed.
+<string>Developed for hunting and later<lf>adopted by the U.S. Marine Corps.<lf>This modern iteration is an accurate<lf>reproduction of the high-quality<lf>models made prior to 1964.
+<string>Marksman 1A
+<string>A semi-automatic marksman rifle.<lf>The damage per shot is limited,<lf>but it boasts a high rate of fire<lf>and fast reload speeds.
+<string>This carbine model is a civilian<lf>variant based on the military rifle.<lf>Comes equipped with a robust<lf>chassis system.
+<string>Clatter Carbine
+<string>An assault rifle fitted with a large<lf>suppressor. Has a moderate rate<lf>of fire, but each shot packs a punch.<lf>Uses machine gun ammo.
+<string>Developed at the request of the elite<lf>special operations unit, Delta Force.<lf>The large suppressor makes it<lf>an ideal weapon for stealth.
+<string>Chainsaw
+<string>
+<string>Fire Poker
+<string>
+<string>Disposal Tank
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hatchet
+<string>A hatchet used by special forces.<lf>Capable of delivering fatal blows,<lf>but requires regular maintenance<lf>to stay sharp.
+<string>A versatile tool great for hand-to-<lf>hand combat and prying things open.<lf>It's been widely adopted as a utility<lf>item since the 2000s, with modern<lf>updates improving usability.
+<string>A dull hatchet. Cannot be used as is.<lf>Use <ICON SHARPEN> to sharpen.
+<string>Makeshift Knife
+<string>A crude, handmade knife suitable<lf>for close combat. Can be used to<lf>fight off enemies when grabbed.
+<string>Hunting Knife
+<string>A well-worn knife suitable for close<lf>combat. Can be used to fight off<lf>enemies when grabbed.
+<string>Mortal Edge
+<string>A formidable instrument of death.<lf>It has taken countless lives and is<lf>steeped in a long, bloody history.<lf>Has exceptional parry capabilities.
+<string>An unassuming design, but when<lf>in the hands of a skilled user, it<lf>becomes a deadly weapon.
+<string>A dull hatchet. Cannot be used as is.<lf>Use <ICON SHARPEN> to sharpen.
+<string>R.I.P. Knife
+<string>A knife coated in a special chemical.<lf>It has an anticoagulant agent, which<lf>allows more blood to be collected<lf>from an infected enemy.
+<string>Kotetsu
+<string>It may look like a simple makeshift<lf>knife, but it's an incredibly well-<lf>made blade that will never break.
+<string>Body Armor Lv.I
+<string>Slightly reduces damage. Effective<lf>against explosions and gunshots.<lf>Ineffective when durability hits 0.<lf>Can be repaired at the supply box.
+<string>Body Armor Lv.II
+<string>Moderately reduces damage. Effective<lf>against explosions and gunshots.<lf>Ineffective when durability hits 0.<lf>Can be repaired at the supply box.
+<string>Body Armor Lv.III
+<string>Greatly reduces damage. Effective<lf>against explosions and gunshots.<lf>Ineffective when durability hits 0.<lf>Can be repaired at the supply box.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Hand Grenade
+<string>A hand grenade that disperses<lf>a powerful shockwave when it<lf>explodes.
+<string>Molotov Cocktail
+<string>A bottle containing flammable liquid.<lf>Upon impact, it will engulf the<lf>surrounding area in flames.
+<string>Empty Bottle
+<string>An empty glass bottle with a faint<lf>medicinal smell. It'll smash and draw<lf>the attention of those nearby<lf>when thrown.
+<string>Stacked Hand Grenade
+<string>A hand grenade with another one<lf>attached to the bottom. Double the<lf>grenades, double the explosion.
+<string>Bottle of Acid
+<string>A bottle of concentrated sulfuric<lf>acid that is highly effective against<lf>enemies with exposed tissue.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Matilda IMP.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means<lf>less reloading</COLOR>.
+<string>Silver Tube Extension
+<string>Silver Tube Extension +
+<string>Silver Tube Extension <FONT 4>★</FONT>
+<string>A custom part for the W870 Police.<lf>Extends a regular magazine tube<lf>for <COLOR preset="TextColor3">increased ammo capacity</COLOR>.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Stiri REVO3 A1.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means<lf>less reloading</COLOR>.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Silencer 9.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means<lf>less reloading</COLOR>.
+<string>Carbon Tube Extension
+<string>Carbon Tube Extension +
+<string>Carbon Tube Extension <FONT 4>★</FONT>
+<string>A custom part for the 990-TAC.<lf>Extends a regular magazine tube<lf>for <COLOR preset="TextColor3">increased ammo capacity</COLOR>.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Marksman 1A.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means less<lf>reloading</COLOR>.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Gal.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means less<lf>reloading</COLOR>.
+<string>Titanium Magazine Catch
+<string>Titanium Magazine Catch +
+<string>Titanium Magazine Catch <FONT 4>★</FONT>
+<string>A custom part for the Gal.<lf>Designed for smooth operation,<lf>it allows for <COLOR preset="TextColor3">quick magazine changes</COLOR>.
+<string>High-Capacity Mag.
+<string>High-Capacity Mag. +
+<string>High-Capacity Mag. <FONT 4>★</FONT>
+<string>A custom part for the Alligator Snapper.<lf>Higher capacity compared to regular<lf>magazines. <COLOR preset="TextColor3">More ammo means<lf>less reloading</COLOR>.
+<string>Slick Magazine Catch
+<string>Slick Magazine Catch +
+<string>Slick Magazine Catch <FONT 4>★</FONT>
+<string>A custom part for the Alligator Snapper.<lf>Designed for smooth operation,<lf>it allows for <COLOR preset="TextColor3">quick magazine changes</COLOR>.
+<string>Burst Stock
+<string>Burst Stock +
+<string>Burst Stock <FONT 4>★</FONT>
+<string>A custom part for the Matilda IMP.<lf><COLOR preset="TextColor3">Improves stability</COLOR> when firing<lf>and allows for <COLOR preset="TextColor3">three-round bursts</COLOR>.
+<string>Chrome Stock
+<string>Chrome Stock +
+<string>Chrome Stock <FONT 4>★</FONT>
+<string>A custom part for the W870 Police.<lf>An extra sturdy, chrome-finished<lf>folding stock.
+<string>Premier Stock
+<string>Premier Stock +
+<string>Premier Stock <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf>An elaborate stock made from high<lf>quality wood. The perfect weight<lf>for <COLOR preset="TextColor3">steady firing</COLOR>.
+<string>Folding Stock
+<string>Folding Stock +
+<string>Folding Stock <FONT 4>★</FONT>
+<string>A custom part for the Stiri REVO3 A1.<lf>A lightweight, side-folding stock.
+<string>Stock
+<string>Stock +
+<string>Stock <FONT 4>★</FONT>
+<string>A custom part for the 990-TAC.<lf>The shock-absorbing cheek pads<lf>provide <COLOR preset="TextColor3">extra stability</COLOR> when firing.
+<string>Weighted Grip
+<string>Weighted Grip +
+<string>Weighted Grip <FONT 4>★</FONT>
+<string>A custom part for Requiem.<lf>It acts as a counterweight to<lf><COLOR preset="TextColor3">mitigate muzzle rise</COLOR> when firing.
+<string>Hair Trigger
+<string>Hair Trigger +
+<string>Hair Trigger <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf><COLOR preset="TextColor3">The trigger requires little force</COLOR>,<lf>making it easier to fire.
+<string>Aluminum Trigger
+<string>Aluminum Trigger +
+<string>Aluminum Trigger <FONT 4>★</FONT>
+<string>A custom part for the Silencer 9.<lf>Laser-finished, its <COLOR preset="TextColor3">lightweight<lf>design offers easy handling</COLOR>.
+<string>Duralumin Bolt
+<string>Duralumin Bolt +
+<string>Duralumin Bolt <FONT 4>★</FONT>
+<string>A custom part for the MSBG 500.<lf>Made of lightweight duralumin alloy<lf>where possible.
+<string>Duralumin Action Bar
+<string>Duralumin Action Bar +
+<string>Duralumin Action Bar <FONT 4>★</FONT>
+<string>A custom part for the MSBG 500.<lf>A lightweight action bar that allows<lf>for <COLOR preset="TextColor3">quick pump action</COLOR>.
+<string>Duckbill Choke
+<string>Duckbill Choke +
+<string>Duckbill Choke <FONT 4>★</FONT>
+<string>A custom part for the MSBG 500.<lf>The protruding plates on the top<lf>and bottom allow for <COLOR preset="TextColor3">shots to<lf>scatter horizontally</COLOR>.
+<string>Reinforced Bolt
+<string>Reinforced Bolt +
+<string>Reinforced Bolt <FONT 4>★</FONT>
+<string>A custom part for the Marksman 1A.<lf>This hardened bolt is made from<lf>impact resistant material. Polished<lf>for smooth operation.
+<string>Titanium Bolt
+<string>Titanium Bolt +
+<string>Titanium Bolt <FONT 4>★</FONT>
+<string>A custom part for the Gal.<lf>This sturdy bolt is built to withstand<lf>recoil from rapid-fire shots. Made<lf>of titanium but surprisingly light.
+<string>Barrel Jacket
+<string>Barrel Jacket +
+<string>Barrel Jacket <FONT 4>★</FONT>
+<string>A custom part for Requiem.<lf>The sturdy but light upper bridge<lf>integrates the front and rear sights<lf>into one structure, <COLOR preset="TextColor3">improving balance</COLOR>.
+<string>Fortified Blade
+<string>Fortified Blade +
+<string>Fortified Blade <FONT 4>★</FONT>
+<string>A custom part for the hatchet.<lf>Made of nitrogen-strengthened steel.<lf>Extremely durable, rust-resistant,<lf>and <COLOR preset="TextColor3">razor sharp</COLOR>.
+<string>Improved Grip
+<string>Improved Grip +
+<string>Improved Grip <FONT 4>★</FONT>
+<string>A custom part for the hatchet.<lf>Made of <COLOR preset="TextColor3">highly durable</COLOR> reinforced<lf>plastic, the reduced weight improves<lf>the overall balance.
+<string>Balanced Spring
+<string>Balanced Spring +
+<string>Balanced Spring <FONT 4>★</FONT>
+<string>A custom part for the MSBG 500.<lf>This precision spring balances feed<lf>and load operations, enabling <COLOR preset="TextColor3">silky<lf>smooth operation</COLOR>.
+<string>Enhanced Leaf Spring
+<string>Enhanced Leaf Spring +
+<string>Enhanced Leaf Spring <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf>The spring aids in chambering<lf>cartridges from the magazine<lf>for <COLOR preset="TextColor3">smoother loading</COLOR>.
+<string>Standard Scope
+<string>Standard Scope +
+<string>Standard Scope <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf>Allows for<COLOR preset="TextColor3"> target magnification.</COLOR><lf>A must for <COLOR preset="TextColor3">long-range precision<lf>shooting</COLOR>.
+<string>Silver Finish Scope
+<string>Silver Finish Scope +
+<string>Silver Finish Scope <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf>This scope boasts a high optical<lf>performance, making it ideal for<lf>hitting those <COLOR preset="TextColor3">long-range</COLOR> targets.
+<string>Dot Sight
+<string>Dot Sight +
+<string>Dot Sight <FONT 4>★</FONT>
+<string>A custom part for the Matilda IMP.<lf>Allows for <COLOR preset="TextColor3">quicker aiming</COLOR> and more<lf><COLOR preset="TextColor3">precise shooting</COLOR>.
+<string>Dot Sight
+<string>Dot Sight +
+<string>Dot Sight <FONT 4>★</FONT>
+<string>A custom part for the Stiri REVO3 A1.<lf>Allows for <COLOR preset="TextColor3">quicker aiming</COLOR> and more<lf><COLOR preset="TextColor3">precise shooting</COLOR>.
+<string>Dot Sight
+<string>Dot Sight +
+<string>Dot Sight <FONT 4>★</FONT>
+<string>A custom part for the 990-TAC.<lf>Allows for <COLOR preset="TextColor3">quicker aiming</COLOR> and more<lf><COLOR preset="TextColor3">precise shooting</COLOR>.
+<string>Semi-auto Scope
+<string>Semi-auto Scope +
+<string>Semi-auto Scope <FONT 4>★</FONT>
+<string>A custom part for the Marksman 1A.<lf>Suitable for semi-automatic rifles.<lf>Designed to withstand the<lf>strain of continuous firing.
+<string>Dot Sight
+<string>Dot Sight +
+<string>Dot Sight <FONT 4>★</FONT>
+<string>A custom part for the Alligator<lf>Snapper. Allows for <COLOR preset="TextColor3">quicker aiming</COLOR><lf>and more <COLOR preset="TextColor3">precise shooting</COLOR>.
+<string>Dot Sight
+<string>Dot Sight +
+<string>Dot Sight <FONT 4>★</FONT>
+<string>A custom part for the Silencer 9.<lf>Allows for <COLOR preset="TextColor3">quicker aiming</COLOR> and more<lf><COLOR preset="TextColor3">precise shooting</COLOR>.
+<string>Long Compensator
+<string>Long Compensator +
+<string>Long Compensator <FONT 4>★</FONT>
+<string>A custom part for the Matilda IMP.<lf>Redirects the expulsion of gas<lf>upwards, <COLOR preset="TextColor3">reducing muzzle rise</COLOR>.
+<string>Chrome Barrel
+<string>Chrome Barrel +
+<string>Chrome Barrel <FONT 4>★</FONT>
+<string>A custom part for the W870 Police.<lf>A durable, wear-resistant chrome<lf>plating lines the barrel's interior.
+<string>PVD Barrel
+<string>PVD Barrel +
+<string>PVD Barrel <FONT 4>★</FONT>
+<string>A custom part for the Classic 70.<lf>The PVD coating bolsters longevity<lf>and minimizes friction, guaranteeing<lf>lasting performance.
+<string>Long Flash Guard
+<string>Long Flash Guard +
+<string>Long Flash Guard <FONT 4>★</FONT>
+<string>A custom part for the Stiri REVO3 A1.<lf>It reduces recoil by venting gas<lf>sideways, <COLOR preset="TextColor3">increasing stability</COLOR><lf>during rapid fire.
+<string>Add-on Suppressor
+<string>Add-on Suppressor +
+<string>Add-on Suppressor <FONT 4>★</FONT>
+<string>A custom part for the Silencer 9.<lf>An added sound moderator makes<lf>for <COLOR preset="TextColor3">near-silent firing</COLOR>.
+<string>Ceramic Coated Barrel
+<string>Ceramic Coated Barrel +
+<string>Ceramic Coated Barrel <FONT 4>★</FONT>
+<string>A custom part for the 990-TAC.<lf>Its ceramic coating increases<lf>durability and keeps everything<lf>squeaky clean.
+<string>Ported Barrel
+<string>Ported Barrel +
+<string>Ported Barrel <FONT 4>★</FONT>
+<string>A custom part for Requiem.<lf>The barrel is fitted with a gas port,<lf>expelling gas upwards to <COLOR preset="TextColor3">reduce<lf>muzzle rise</COLOR>.
+<string>Compensator
+<string>Compensator +
+<string>Compensator <FONT 4>★</FONT>
+<string>A custom part for the Alligator<lf>Snapper. <COLOR preset="TextColor3">Reduces muzzle rise</COLOR>.<lf>When tilted, the barrel looks like<lf>an open mouth with bared fangs.
+<string>Trusted Companion Charm
+<string>A charm for handguns.<lf><COLOR preset="TextColor3">Increases bullet penetration</COLOR>.
+<string>Connoisseur Charm
+<string>A charm for any gun.<lf><COLOR preset="TextColor3">Increases firepower</COLOR>.
+<string>Cute Bear Charm
+<string>A charm for shotguns.<lf><COLOR preset="TextColor3">Increases mid-range firepower,<lf>sacrificing close-quarter potency</COLOR>.
+<string>BSAA Emblem Charm
+<string>A charm for sniper rifles.<lf><COLOR preset="TextColor3">Increases firepower only when<lf>the scope is not equipped</COLOR>.
+<string>S.T.A.R.S. Emblem Charm
+<string>A charm for automatic guns.<lf><COLOR preset="TextColor3">Increases firepower at the cost<lf>of more sway while aiming</COLOR>.
+<string>Power Shades Charm
+<string>A charm for Requiem.<lf>Offers <COLOR preset="TextColor3">limitless bullet penetration<lf>and increases the firepower of<lf>the last bullet in the cylinder</COLOR>.
+<string>Handgun Ammo
+<string>Handgun cartridges suitable for<lf>self-loading. Favored for their flat<lf>trajectory and moderate recoil.
+<string>Shotgun Shells
+<string>Buckshot ammo for shotguns.<lf>Each shell has a wide burst,<lf>packing a powerful punch.
+<string>12.7x55mm Ammo
+<string>Powerful large-caliber cartridges.<lf>The destructive power and impact<lf>from the sheer mass of the bullet<lf>delivers overwhelming damage.
+<string>Machine Gun Ammo
+<string>Compact and highly portable machine<lf>gun ammo. Its comparatively low<lf>recoil results in high accuracy. Great<lf>for suppressive fire tactics.
+<string>Rifle Ammo
+<string>High-penetration rifle cartridges.<lf>Designed to allow for flat trajectory<lf>and accurate shooting.
+<string>Melee Weapon Durability
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Gunpowder (Small)
+<string>Crafting material. Can be used<lf>to create a variety of ammo.
+<string>Scrap
+<string>Crafting material. Combine to create<lf>a variety of items.
+<string>Rare Metal
+<string>A pile of titanium and zirconium.<lf>Combine with infected blood<lf>to create 12.7x55mm ammo.
+<string>Ink Ribbon Tin
+<string>An empty ink ribbon tin. Can be used<lf>again if combined with something to<lf>replace the ink.
+<string>Gunpowder (Large)
+<string>Crafting material. Can be used<lf>to create a variety of ammo<lf>and hand grenades.
+<string>Empty Ink Ribbon
+<string>An empty ink ribbon tin.<lf>It serves no use.
+<string>Empty Injector
+<string>Crafting material. Use it to make<lf>steroids or stabilizers.
+<string>Bolt Cutters
+<string>A tool for cutting chains.
+<string>Pencil
+<string>A well-used pencil.
+<string>Cherub Key
+<string>A key with a cherub motif. It's cold<lf>to the touch and heavier than<lf>it seems.
+<string>Joint Plug
+<string>A component used to connect electrical<lf>circuits. It can provide power when<lf>inserted into an electrical socket.
+<string>Screwdriver
+<string>It's rusty and the grip looks worn,<lf>but it should still work.
+<string>Fuse
+<string>The power should come back when<lf>it's put in a fuse box.
+<string>Square Socket Wrench
+<string>A tool with a square-shaped socket.<lf>Can be used to loosen bolts.
+<string>Forklift Key
+<string>An ignition key for a forklift.<lf>Years of dirt coats its dull surface.
+<string>West Wing Keycard
+<string>A golden keycard covered in blood.<lf>Opens the door to the west wing<lf>administration offices.
+<string>East Wing Keycard
+<string>A silver keycard covered in scratches.<lf>Opens the door to the east wing<lf>hospital wards.
+<string>Red Jewel
+<string>An antique red gemstone. It gleams<lf>eerily like fresh blood.
+<string>Sun Quartz
+<string>A cubic device made of quartz.<lf>Adorned with a sun.
+<string>Moon Quartz
+<string>A cubic device made of quartz.<lf>Adorned with a moon.
+<string>Star Quartz
+<string>A cubic device made of quartz.<lf>Adorned with a star.
+<string>Artificial Heart
+<string>An artificial organ. Functions as<lf>a heart when implanted in a body.
+<string>Artificial Lungs
+<string>An artificial organ. Functions as<lf>a set of lungs when implanted<lf>in a body.
+<string>ID Wristband (Level 1)
+<string>An ID wristband used in the care<lf>center. Grants clearance up to level 1.
+<string>Corrosive
+<string>A glass bottle of strong acid.<lf>Can instantly corrode certain metals.
+<string>Blood Specimen (Denatured)
+<string>A sample of mutated blood. Analyzing<lf>it with a laser microscope allows you<lf>to craft handgun ammo and hemolytic<lf>injectors.
+<string>Blood Specimen (Converged)
+<string>A sample of mutated blood. Analyzing<lf>it with a laser microscope allows you<lf>to craft med injectors and 12.7x55mm<lf>ammo.
+<string>Blood Specimen (Reversible)
+<string>A sample of mutated blood. Analyzing<lf>it with a laser microscope allows you<lf>to craft steroids and stabilizers.
+<string>ID Wristband (Level 2)
+<string>An ID wristband used in the care<lf>center. Grants clearance up to level 2.
+<string>Pantry Key
+<string>A key with a tag that says "Pantry."<lf>It's sticky to the touch.
+<string>Organ Transport Box
+<string>A cooled box for transporting organs.<lf>Heavy with ready-to-go samples.
+<string>Wrench
+<string>A tool for turning hexagonal-shaped<lf>nuts and bolts. It stinks of oil.
+<string>ID Wristband (Level 3)
+<string>An ID wristband used in the care<lf>center. Grants clearance for<lf>all levels.
+<string>Wire Cutters
+<string>A tool for cutting wires and<lf>electrical cords.
+<string>Unicorn Trinket Box
+<string>An elaborately crafted box adorned<lf>with a unicorn emblem. It rattles<lf>when tilted.
+<string>Emergency Exit Key
+<string>A key that opens the emergency exit<lf>on the second floor of the Wrenwood<lf>Hotel.
+<string>Helicopter Key
+<string>An ignition key for a helicopter.<lf>A bit tarnished in places.
+<string>Investigation Report
+<string>A report that details the unexplained<lf>death at the Wrenwood Hotel.
+<string>Photo of Grace
+<string>A candid photo of Grace. It looks<lf>like it was taken near her home...
+<string>Severed Hand
+<string>It's still a little warm.
+<string>Hourglass
+<string>An antique hourglass.<lf>It's been well maintained.
+<string>Double Helix Model
+<string>A double helix model, reminiscent<lf>of DNA. There are protrusions on<lf>both ends which seem like they<lf>can slot into something.
+<string>Hatch Key
+<string>A brass key with an ornate hook.<lf>It's heavy in a child's hand.
+<string>Fire Poker
+<string>A tool used to tend fires.<lf>The tip is claw shaped.
+<string>Old Key
+<string>Found attached to the back of<lf>a photo of Grace.
+<string>Mechanic Jack
+<string>A device for lifting heavy objects.<lf>The handle is firmly attached.
+<string>BSAA Container Key
+<string>Can unlock BSAA supply containers<lf>found around the area.
+<string>Battery
+<string>An old, high-capacity battery.<lf>Hopefully it has some juice left.
+<string>Gas Can
+<string>An old plastic fuel container.<lf>It's empty.
+<string>Cedarbrook Apartments Key
+<string>A key to the back gate.<lf>It's in very poor condition.
+<string>Gas Can with Fuel
+<string>A plastic container with fuel inside.
+<string>Signal Receiver
+<string>A part for a detonator. Monitors<lf>and analyzes input signals for<lf>detonation.
+<string>Distributor
+<string>A part for a detonator. Distributes<lf>signals and power appropriately<lf>to the detonator and booster.
+<string>Relay
+<string>A part for a detonator. Switches the<lf>electric current on/off and increases<lf>the safety of the detonation circuit.
+<string>Rusty Crank
+<string>Extremely rusty from lying abandoned<lf>for years. Should work well enough<lf>in pinch.
+<string>Valve Handwheel
+<string>A handwheel used to turn a valve.
+<string>Animus Orb
+<string>A beautiful crimson orb.<lf>One of the objects needed to enter<lf>the administration area within ARK.
+<string>Noblesse Orb
+<string>A beautiful white orb.<lf>One of the objects needed to enter<lf>the administration area within ARK.
+<string>Broken Signal Receiver
+<string>A component that monitors and<lf>analyzes input signals for detonation.<lf>Too damaged to use without repairs.
+<string>Repair Kit
+<string>A kit with tools for equipment repair.
+<string>Locker Key
+<string>A key with "JoJo" written on it.
+<string>Crank Lever
+<string>A hand crank that can be used<lf>to operate various devices.
+<string>Magnetic Key
+<string>A magnetic key programmed<lf>to unlock certain doors.
+<string>Override Key (Dump Control Room)
+<string>A power activation key. It should<lf>restore electricity to the Dump<lf>Control Room.
+<string>Override Key (Bioweapon Repository 11)
+<string>A power activation key. It should<lf>restore the electricity in Bioweapon<lf>Repository 11.
+<string>Distributor & Broken Signal Receiver
+<string>Two parts for the detonator. One more<lf>to go. The broken part can be fixed<lf>with a repair kit.
+<string>Damaged Detonator
+<string>A completed detonator. Unfortunately,<lf>the broken part needs some time with<lf>a repair kit before it can be used.
+<string>Distributor & Signal Receiver
+<string>Two parts for the detonator.<lf>One more to go.
+<string>Distributor & Relay
+<string>Two parts for the detonator.<lf>One more to go.
+<string>Detonator
+<string>A device for triggering an explosion.<lf>Attach it to the explosives at<lf>the gate to make it go boom.
+<string>Blood Specimen (Polymerized)
+<string>A sample of mutated blood. Analyzing<lf>it with a laser microscope allows you<lf>to craft an R.I.P. Knife and large<lf>amounts of handgun ammo.
+<string>Marie's Doll
+<string>We'll be together forever and ever.
+<string>Leatherbound Notebook
+<string>A notebook that was stored<lf>inside of the sun puzzle box.
+<string>Infected Blood
+<string>Virus-infected blood. Collect with<lf>a blood collector and combine with<lf>other crafting materials to create<lf>various items.
+<string>Body Armor Repair
+<string>Restores the durability of damaged<lf>body armor.
+<string>
+<string>
+<string>West Wing Map (Admin Offices)
+<string>
+<string>East Wing Map (Hospital Wards)
+<string>
+<string>The Wrenwood Hotel Floor Plan
+<string>A floor plan of the Wrenwood Hotel.
+<string>Care Center Basement Floor Plan
+<string>A floor plan of the basement<lf>in Rhodes Hill Chronic Care Center.
+<string>Raccoon Roundup Map (Wrenwood)
+<string>A map of the Wrenwood Hotel that<lf>marks the locations of a certain<lf>adorable rascal.
+<string>Raccoon Roundup Map (Rhodes Hill)
+<string>A map of Rhodes Hill Chronic Care<lf>Center that marks the locations of<lf>a certain adorable rascal.
+<string>Raccoon Roundup Map (Raccoon City)
+<string>A map of Raccoon City that marks<lf>the locations of a certain adorable<lf>rascal.
+<string>Raccoon Roundup Map (ARK)
+<string>A map of ARK that marks the locations<lf>of a certain adorable rascal.
+<string>Hip Pouch
+<string>A small pouch that adds<lf>two slots to your inventory.
+<string>Case Upgrade (8x13)
+<string>Upgrades the size of your attaché<lf>case to 8x13.
+<string>Steroids
+<string>Dramatically strengthens muscles<lf>and <COLOR preset="TextColor3">increases max health</COLOR>.<lf>Effects are permanent.
+<string>
+<string>
+<string>Stabilizer
+<string><COLOR preset="TextColor3">Increases firepower and stability<lf>of shots</COLOR> by boosting focus.<lf>Effects are permanent.
+<string>
+<string>
+<string>Lighter
+<string>An ornate metal lighter. This will<lf>make it easier to see in the dark.
+<string>Flashlight
+<string>A flashlight that'll make it easier<lf>to see in the dark.
+<string>
+<string>
+<string>Blood Collector
+<string>An analysis device that collects<lf>blood which can be altered to craft<lf>other items.
+<string>
+<string>
+<string>Blood Collector
+<string>An analysis device that collects<lf>blood which can be altered to craft<lf>other items.
+<string>Transfusion Bag
+<string>A transfusion bag full of infected<lf>blood. Use it to refill the blood<lf>collector. Any leftover blood will<lf>be discarded.
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Name_it99_06_009
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Caption_it99_06_009
+<string>Blood Collector
+<string>An analysis device that collects<lf>blood which can be altered to craft<lf>other items.
+<string>Stakeout Takeout Charm
+<string>A mysterious charm that works just<lf>by holding it. <COLOR preset="TextColor3">Increases knife power<lf>and durability</COLOR>.
+<string>Rugged Rookie Charm
+<string>A mysterious charm that works just<lf>by holding it. <COLOR preset="TextColor3">Increases firepower</COLOR>.
+<string>Eye Spy Charm
+<string>A mysterious charm that works just<lf>by holding it. <COLOR preset="TextColor3">Increases likelihood<lf>you'll survive fatal damage</COLOR>.
+<string>Hemolytic Injector
+<string>A special drug that destroys infected<lf>blood cells. Prevents corpses from<lf>mutating and can be used to<lf>stealthily take out enemies.
+<string>Ink Ribbon
+<string>An ink ribbon.<lf>Required when using a typewriter.
+<string>Antique Coin
+<string>An old metal coin used for games.<lf>Can be exchanged for prizes<lf>in the parlor.
+<string>Lockpick
+<string>A tool for opening simple locks.<lf>Each one can only be used once.
+<string>Tactical Tracker
+<string>A device that records combat<lf>data. Credits earned from kills<lf>can be used at a supply box.
+<string>Tracking Module (Common)
+<string>A device with stored combat<lf>data. Can be redeemed for<lf>credits at a supply box.
+<string>Tracking Module (Rare)
+<string>A device with stored combat<lf>data. Can be redeemed for<lf>credits at a supply box.
+<string>Tracking Module (Legendary)
+<string>A device with stored combat<lf>data. Can be redeemed for<lf>credits at a supply box.
+<string>Tactical Tracker (Modded)
+<string>A bootleg Tactical Tracker.<lf>The system has been modified<lf>to offer more credits per kill.
+<string>Infinite Ribbon
+<string>Required when using a typewriter.<lf>It never runs out, guaranteeing<lf>endless typing.
+<string>Override Manual
+<string>A manual that explains how to remove<lf>the limiter from a blood collector,<lf>which increases capacity.
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Name_it99_50_012
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Caption_it99_50_012
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Name_it99_50_013
+<string><COLOR FF0000>#Rejected#</COLOR> Item_Caption_it99_50_013

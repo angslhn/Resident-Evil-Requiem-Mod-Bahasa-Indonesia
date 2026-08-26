@@ -1,0 +1,78 @@
+<string>
+<string>[silence]
+<string>
+<string>[depressurizing hiss]
+<string>[vial clinks]
+<string>
+<string>
+<string>[Elpis dispensing]
+<string>
+<string>[Zeno grunts]
+<string>
+<string>[Grace screams]
+<string>[bodies thud]
+<string>[Victor laughing]
+<string>
+<string>
+<string>[Zeno chuckles]
+<string>[Victor snarls]
+<string>
+<string>
+<string>
+<string>
+<string>[Elpis dispensing]
+<string>
+<string>[Grace groaning]
+<string>
+<string>[keyboard clicking]
+<string>
+<string>[metal groaning and collapsing]
+<string>[Grace screaming]
+<string>
+<string>[structure falling]
+<string>
+<string>[crazed yelling]
+<string>[body violently mutating]
+<string>
+<string>
+<string>
+<string>[roar]
+<string>
+<string>[banging and crashing]
+<string>[gunshot]
+<string>[gunshot]
+<string>
+<string>[gunshot]
+<string>[dying scream]
+<string>[grunt]
+<string>
+<string>[pained yell]
+<string>[building crumbling]
+<string>[spotlight clicks on loudly]
+<string>
+<string>[rappelling noises]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[helicopter blades whirring]
+<string>
+<string>[helicopter blades whirring]
+<string>[helicopter blades whirring]
+<string>
+<string>[silence]
+<string>[facility crumbling]
+<string>[squelch as hatchet connects]
+<string>
+<string>
+<string>
+<string>
+<string>[gunshot]
+<string>[facility collapsing]
+<string>
+<string>[elevator gears whirring]
+<string>
+<string>
+<string>[helicopter blades whirring]

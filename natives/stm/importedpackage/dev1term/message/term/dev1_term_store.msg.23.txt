@@ -1,0 +1,11 @@
+<string>Online Store
+<string>PlayStation®Store
+<string>Microsoft Store
+<string>Nintendo eShop
+<string>Go to the online store.
+<string>Go to PlayStation®Store.
+<string>Go to the Microsoft Store.
+<string>Go to Nintendo eShop.
+<string>Connect to the online store?
+<string>Connect to PlayStation®Store?
+<string>Connect to the Microsoft Store?

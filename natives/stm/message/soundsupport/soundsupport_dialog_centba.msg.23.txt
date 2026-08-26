@@ -1,0 +1,36 @@
+<string>
+<string>
+<string>
+<string>[swallowing]
+<string>[sigh]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[bones crack]
+<string>[spider chittering]
+<string>
+<string>[roar]
+<string>
+<string>
+<string>[squeal]
+<string>[thud]
+<string>[rumbling and cracking]
+<string>
+<string>[screech]
+<string>
+<string>
+<string>[screeching]
+<string>[roar]
+<string>
+<string>[thudding]
+<string>[floor crumbles]
+<string>
+<string>[dying screech]
+<string>
+<string>

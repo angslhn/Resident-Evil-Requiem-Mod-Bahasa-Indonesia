@@ -1,0 +1,225 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>What're you doing, Grace?
+<string>Spencer regretted what he did! He n—
+<string>Well done.
+<string>Y-You promised.
+<string>Yes, that I would let him live.
+<string>Mr. Kennedy...
+<string>I give you the honor of experiencing<lf>my power firsthand.
+<string>I-I'm not sure Elpis is what you think it is.
+<string>There's nothing special about me.
+<string>I-I was never any key.
+<string>Spencer wanted to make amends. He...
+<string>But you released Elpis.
+<string>What is it?
+<string>Tell me!
+<string>Leon!
+<string>Why? My powers...
+<string>Elpis is Spencer's atonement.
+<string>It's an antiviral.
+<string>Amazing.
+<string>I am humbled by my master's genius.
+<string>Your research was wrong.
+<string>Elpis wasn't a weapon.
+<string>There was never a key.
+<string>Spencer's paper was obviously incomplete.
+<string>There was no connection between Grace and Emily.
+<string>Do you know how much time<lf>and money I wasted on this?
+<string>Don't you see the genius?
+<string>With Elpis, all virus-based<lf>weapons are useless.
+<string>The world order will be thrown into chaos.
+<string>We wanted a weapon.
+<string>Instead Spencer gave us anarchy.
+<string>I will carry his torch and<lf>bring his vision to life.
+<string>You?
+<string>You and Spencer were a means to an end.
+<string>Yet he outwitted you all.
+<string>Spencer defied us and paid<lf>the price with his life.
+<string>He was nothing.
+<string>You are nothing but an imitation.
+<string>It's over, Victor.
+<string>The Connections is done with you.
+<string>We can't let him have it.
+<string>Your ignorance is staggering.
+<string>Leon. It's a cure.
+<string>It's working...
+<string>Leon, it's working! Wake up!
+<string>Now...
+<string>Let it all come down.
+<string>All of it.
+<string>Grace, what happened?
+<string>It's gonna go!
+<string>Grab something!
+<string>Grace.
+<string>Grace!
+<string>Time to bury Umbrella's last skeleton.
+<string>
+<string>Spencer's vision lives through me,<lf>and I will see that it is brought to fruition!
+<string>And how many more will have to die<lf>for that "vision"?
+<string>
+<string>Sacrifices must be made! In the grand<lf>scheme of things, a few lives are nothing.
+<string>Not to me. I swore that I'd always<lf>protect those lives.
+<string>
+<string>Open your eyes! Humanity is full<lf>of drooling imbeciles.
+<string>They need me, a leader to guide<lf>them...into a glorious new future.
+<string>The humanity I know is far more capable than<lf>you realize. They don't want your leadership.
+<string>
+<string>Even if I die, my master's vision will live on.<lf>Forever.
+<string>I'll make sure that fucked up vision<lf>dies with you.
+<string>
+<string>Raccoon City...wasn't it...magnificent?
+<string>Genuine transformation cannot happen<lf>without chaos and destruction.
+<string>It was a living nightmare.<lf>I will never let that happen again.
+<string>
+<string>Nuisance!
+<string>
+<string>Insolent fool!
+<string>
+<string>You damn pest!
+<string>
+<string>Get out of my way!
+<string>
+<string>It seems your skills have...diminished.
+<string>
+<string>You are an idiot for not realizing my master's vision!
+<string>
+<string>The world my master envisioned is within my grasp!
+<string>
+<string>Your efforts are futile!
+<string>
+<string>Such impudence!
+<string>
+<string>You vermin!
+<string>
+<string>You don't have the power to save anyone!
+<string><Sound Team ID>
+<string>
+<string>It's over.
+<string>Good riddance.
+<string>A Nemesis...
+<string>No wonder you're so damn relentless.
+<string>
+<string>You insufferable...fool... My master's<lf>future...is absolute.
+<string>Seems you're reaching your limit.
+<string>
+<string>Humanity...w-will...evolve!<lf>His ideals...are absolute!
+<string>I will not let those ideals win. Give it up.
+<string>
+<string>D-Die!
+<string>
+<string>Fu-Futile!
+<string>
+<string>Take...this!
+<string>
+<string>Thisss...is...over!
+<string>
+<string>You're...weak!
+<string>
+<string>Stop...struggling. Die!
+<string>
+<string>I am...righteous!
+<string>
+<string>I've had...enough!
+<string>
+<string>You—!
+<string>
+<string>Ig...Ignorance!
+<string>
+<string>Worthless...scum! You'll...die!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>This time, you ain't getting back up.
+<string>Grace!
+<string>Grace, where are you!?
+<string>Sherry?
+<string>Sherry, come in.
+<string>Sherry!
+<string>Shit.
+<string>Grace!
+<string>Grace, hang on.
+<string>Fuck.
+<string>Grace.
+<string>Grace.
+<string>Leon...
+<string>We need to get you outta here.
+<string>Come on...
+<string>Let's get you up.
+<string>There's no way out, is there?
+<string>Well, I'm not gonna leave your side.
+<string>I'm gonna sit right here with you.
+<string>I guess this is it then.
+<string>Leon S. Kennedy?
+<string>Depends who's asking.
+<string>Alpha. Do you read me, sir?
+<string>Yeah, they're safe. I got 'em.
+<string>Yes, sir.
+<string>Mr. Kennedy...
+<string>I have a message from Captain Redfield.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>I'll be damned. Can't believe<lf>that antiviral actually worked.
+<string>I feel better than I have in ages.
+<string>Thank god. I'm glad you're OK.
+<string>I've got a dose with your name on it.
+<string>You'll be back in action in no time.
+<string>Thank you, Leon.
+<string>Would have been a lot smoother if<lf>Chris hadn't been so late to the party.
+<string>Where is Chris anyway?
+<string>No idea.
+<string>I'm sure I'll run into him at some point.
+<string>I'll call you back.
+<string>It's over, then.
+<string>Yeah.
+<string>Elpis really was our last hope.
+<string>Well let's pray Umbrella hasn't left<lf>us any more nasty surprises.
+<string>I wish we could've saved Emily.
+<string>Grace, I didn't hit any of her vitals.
+<string>She could still be alive.
+<string>What are you saying?
+<string>Maybe we can save her.
+<string>The government has confirmed the existence<lf>of an actively trading bioweapons lab
+<string>located here in the ruins of Raccoon City,
+<string>the origin point for the worldwide<lf>spread of bio-organic weapons.
+<string>This illegal facility appears to have<lf>been in operation for decades.
+<string>Sources say that the extension of the lockdown<lf>and the recent series of mysterious deaths
+<string>may be related to tragic events in<lf>Raccoon City 28 years ago.
+<string>Evidence seized in Raccoon City<lf>has led the justice department
+<string>to reopen its investigation into Ozwell Spencer<lf>and the long defunct Umbrella Corporation.
+<string>Some believe the government deliberately<lf>drove Umbrella into bankruptcy.
+<string>The late Alyssa Ashcroft is credited with<lf>cracking the Ozwell Spencer story.
+<string>Conspiracy theorists are already claiming<lf>that she was killed in a cover-up
+<string>and that the organization responsible is<lf>secretly controlling our government.
+<string>Tonight, in a speech from the Oval Office,<lf>the president is expected to reject allegations
+<string>of any government involvement<lf>since the Raccoon City Incident.
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>What did you do?
+<string>What I had to.
+<string>Grace, get out of here!
+<string>Go! I'm right behind you!
+<string>Leon!
+<string>What are you doing!? Come on!
+<string>Leon!
+<string>
+<string>Leon!
+<string>No! No!
+<string>Leon!
+<string>At least...I could save you.
+<string>No, no, no, no, no, no, no!
+<string><Sound Team ID>
+<string>
+<string>I wish I could've saved you, Leon.

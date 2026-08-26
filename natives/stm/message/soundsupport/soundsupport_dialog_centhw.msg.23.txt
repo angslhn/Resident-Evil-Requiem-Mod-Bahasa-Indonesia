@@ -1,0 +1,30 @@
+<string>
+<string>
+<string>
+<string>
+<string>[rocket launcher blast]
+<string>[explosion]
+<string>
+<string>[creatures snarling]
+<string>
+<string>
+<string>
+<string>
+<string>[explosion]
+<string>[thwack]
+<string>[gunfire]
+<string>
+<string>
+<string>
+<string>[gasoline dripping]
+<string>
+<string>[coughing]
+<string>[engine revs]
+<string>
+<string>[flames spark]
+<string>
+<string>[screaming]
+<string>[explosion]
+<string>
+<string>
+<string>

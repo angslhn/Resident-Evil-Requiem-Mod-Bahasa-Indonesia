@@ -1,0 +1,10 @@
+<string>This game has an autosave feature.<lf>Do not close the game while the above icon is displayed.
+<string>Failed to load system saved data.
+<string>Unable to load system saved data.<lf><lf>Delete all game saved data and restart the game.<lf>Restarting without deleting data will result in<lf>unloadable saved data.
+<string>There is not enough available space on your disk drive.<lf>In order to save your game, you must have at least<lf>{0} MB of space available.
+<string>There is not enough available space on the PlayStation®5<lf>console storage. In order to save your game, you must<lf>have at least {0} MB of space available.
+<string>There is not enough available space on the Xbox Series X|S<lf>console storage. In order to save your game, you must<lf>have at least {0} MB of space available.
+<string>There is not enough available space on the Nintendo Switch 2<lf>console's system memory. In order to save your game, you<lf>must have at least {0} MB of space available.
+<string>Transferring saved data.<lf>Please do not turn off your game.
+<string>Your saved data cannot be used because it is incompatible<lf>with this version of the game. Please update the game to<lf>the latest version.
+<string>Your saved data cannot be used because it is incompatible<lf>with this version of the game. Please update the game to<lf>the latest version. If you start the game as is, your saved<lf>data will be overwritten.

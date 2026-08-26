@@ -1,0 +1,148 @@
+<string>
+<string>What the hell?
+<string>
+<string>Found you.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Yes, Zeno, that's correct.
+<string>All tests have come back positive.<lf>I can confirm that she is indeed...
+<string>the one that we've been searching for.
+<string>If all goes as planned, Elpis will<lf>soon be in our hands.
+<string>Of course.
+<string>But first, I must initiate the protocol.
+<string>I've done it.
+<string>I've done it.
+<string>I've done it!
+<string>Oh no.
+<string>The self-destruct protocol has been initiated.
+<string>All staff, please evacuate.
+<string>I repeat, the self-destruct<lf>protocol has been initiated.
+<string>Oh, shit.
+<string>All staff, please evacuate.
+<string>
+<string>Where's the room!? What the hell!?
+<string>
+<string>
+<string>
+<string>Shit, OK.
+<string>
+<string>Damn it!
+<string>
+<string>Please work!
+<string>
+<string>O-OK.
+<string>
+<string>Shit, shit, shit!
+<string>
+<string>
+<string>Fuck! Oh my god...
+<string>
+<string>
+<string>
+<string>Help! Help!
+<string>
+<string>I made it!
+<string>OK...I'm coming, Emily.
+<string>
+<string>I need to get to the helicopter.
+<string>
+<string>Why does this shit keep happening!?
+<string>
+<string>The self-destruct protocol has been initiated.<lf>All staff, please evacuate.
+<string>I repeat, all staff, please evacuate.
+<string>
+<string>The self-destruct protocol has been initiated.<lf>Unlocking disposal tanks.
+<string>All personnel, dispose of specimens<lf>and evacuate immediately.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>You get it!?
+<string>Yeah!
+<string>Good.
+<string>Oh my god.
+<string>
+<string>What the fuck did you do?
+<string>Grace?
+<string>Grace, what's happening?
+<string>It's OK, Emily. I'm here.
+<string>Emily? It's gonna get a little bumpy.
+<string>I'm right next to you.
+<string>No, lady. I'm gonna need you up front.
+<string>It's OK, I'm all right.
+<string>OK.
+<string>Come on, come on, come on.
+<string>Oh, there are so many of them!
+<string>Strap in!
+<string>
+<string>Come on!
+<string>What's it look like I'm doing!?
+<string>Hurry! Hurry!
+<string>No shit!
+<string>Hold tight, I'm taking off!
+<string>Get off me!
+<string>Get the fuck off me!
+<string>You bastard!
+<string>Get the fuck—
+<string>Emily, are you OK!?
+<string>Emily...
+<string>
+<string>I don't...wanna...die!
+<string>
+<string>I don't wanna diiie!
+<string>
+<string>I don't want ta diiie!
+<string>
+<string>H-Heeelp...me!
+<string>
+<string>Heeelp me!
+<string>
+<string>Heeelp meee!
+<string>
+<string>Let me ooout!
+<string>
+<string>Let me ooout!
+<string>
+<string>Stop it!
+<string>
+<string>Stop...i-it!
+<string>
+<string>Stooop iiit!
+<string>
+<string>I want to go home!
+<string>
+<string>I want to go home!
+<string>
+<string>Leeet me ooout!
+<string>
+<string>I wanna go home!
+<string>
+<string>I wanna go home...
+<string>
+<string>Stop iiit...
+<string>
+<string>I wanna go hooome...
+<string>
+<string>Help meee...
+<string>
+<string>Heeelp meee!
+<string>
+<string>H-Help...me!
+<string>
+<string>I want to gooo...
+<string>
+<string>I want to go hooome!
+<string>
+<string>St-Stop! Stop it!
+<string>
+<string>I...wanta go hooome!
+<string>
+<string>Stop iiit!
+<string>
+<string>Can't...breeeathe...
+<string>
+<string>Let me ooout!
+<string>
+<string>Can't breeeathe!

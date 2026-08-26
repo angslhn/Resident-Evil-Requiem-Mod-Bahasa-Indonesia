@@ -1,0 +1,34 @@
+<string>Avoid the shotgun and free yourself.<lf>(Hold <ICON INTERACT>)
+<string><REF TutorialList_045_Description>
+<string>The lighter helps you see, but will also<lf>make it easier for the Girl to spot you.
+<string>Stop the bulldozer driver before<lf>you become a pancake.
+<string>Destroy the bulldozer fan before<lf>you get run over.
+<string>If zombies are putting Emily in danger, set<lf>her down safely on the sofa in the guard<lf>office while you go and clear them out.
+<string>You may not be able to take down the Girl,<lf>but a good shot with a Molotov Cocktail<lf>or Requiem will briefly stagger her.
+<string>You can force enemies into the crusher<lf>by staggering and pushing them.
+<string>Make good use of the disposal tanks<lf>on the walls. They are highly effective<lf>against zombies.
+<string>Running is a good strategy if you're being<lf>overwhelmed by sheer numbers.
+<string>You may not be able to take down the Girl,<lf>but a good shot with a Molotov Cocktail<lf>or Requiem will briefly stagger her.<lf>Don't be afraid to use them when needed.
+<string><REF TutorialList_034_Description>
+<string>Acid is highly effective against the exposed<lf>tissue of a Licker β2.
+<string>Try to find a place to climb up so you can<lf>unleash a one-sided attack on the Chunk<lf>from an elevated position.
+<string><REF TutorialList_031_Description_00>
+<string>Try fighting a chainsaw with a chainsaw.
+<string><REF TutorialList_056_Description>
+<string>Shooting the glass out from under an enemy<lf>will cause them to fall.
+<string><REF TutorialList_058_Description>
+<string><REF TutorialList_032_Description>
+<string><REF TutorialList_033_Description>
+<string>You can make an opening by parrying an<lf>enemy's attack. Use this opening to take<lf>another shot.
+<string>Victor's attacks are devastating<lf>at full force. Use parries to deflect<lf>his tentacle arm.
+<string><REF TutorialList_061_Description>
+<string><REF TutorialList_062_Description>
+<string>If you get too close to the Titan Spinner,<lf>you'll take some serious damage. Keep as<lf>much distance as possible when attacking.
+<string><REF TutorialList_060_Description>
+<string><REF TutorialList_024_Description>
+<string><REF TutorialList_052_Description>
+<string><REF TutorialList_069_Description>
+<string>Shoot the glass of the glowing red pod<lf>to release the bioweapon within.<lf>Use it to disrupt the elite guards,<lf>giving you the chance to attack.
+<string><REF TutorialList_031_Description_01>
+<string>Shoot gas canisters to destroy obstacles<lf>and clear the path ahead.
+<string><REF TutorialList_061_Description>

@@ -1,0 +1,194 @@
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Talk to me. Is this one like the others?
+<string>Same black blotches.
+<string>And it's not postmortem lividity?
+<string>No...
+<string>No, this is different.
+<string>That's six now.
+<string>Six survivors of Raccoon City<lf>all dead from the same thing.
+<string>Yeah, that's...not good.
+<string>No... No, it's not.
+<string>But...I have something for you.
+<string>The team has settled on<lf>a person of interest.
+<string>Someone with ties to Umbrella.
+<string>Victor Gideon.
+<string>Who is he?
+<string>A former T-Virus researcher.
+<string>Hey, I just got a report of<lf>a missing police officer.
+<string>It might be unrelated, but he disappeared<lf>near where the fifth body was found.
+<string>You there, Leon?
+<string>Yeah. I'm here.
+<string>You OK?
+<string>Send me the address.
+<string>I'll check it out.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>You almost there?
+<string>Just about.
+<string>Stuck in traffic.
+<string>You've got to be shitting me.
+<string>What's going on?
+<string>Is she OK?
+<string>Oh, she's fine.
+<string>I'm just taking her home.
+<string>
+<string>
+<string>Leon, what's your sitrep?
+<string>I'm going after Victor.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Help me!
+<string>Are you OK?
+<string>What are you doing!?
+<string>
+<string>Whoa! Whoa, whoa, whoa!<lf>Hey! What the hell, lady!?
+<string>
+<string>How...am I...?
+<string>
+<string>The hell?
+<string>
+<string>
+<string>
+<string>S-Sorry...
+<string>
+<string>Hey, whoa!
+<string>
+<string>Get Wrenwood locked down.
+<string>What? Is it something do with Victor?
+<string>Yeah, he's the one to thank for all the excitement.
+<string>
+<string>Someone help me!
+<string>Shit!
+<string>
+<string>Thank you...Thank you!
+<string>Get out of here, now!
+<string>
+<string>
+<string>
+<string>'Scuse me!
+<string>
+<string>Well, fuck. Let's make this quick.
+<string>
+<string>Run!
+<string>
+<string>Help!
+<string>
+<string>Hurry!
+<string>
+<string>Move it!
+<string>
+<string>
+<string>
+<string>What's happening!?
+<string>
+<string>C-Call the police!
+<string>
+<string>Outta the way!
+<string>
+<string>Get away!
+<string>
+<string>Move it!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>What the fuck!?
+<string>
+<string>Watch it!
+<string>
+<string>Hey!
+<string>
+<string>Rude!
+<string>
+<string>Move it!
+<string>
+<string>
+<string>
+<string>Don't do anything stupid.
+<string>Me? Never.
+<string>
+<string>Can't let him get away.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Leon, have you located Victor?
+<string>No, I lost him.
+<string>Back to square one.
+<string>Not necessarily.
+<string>Victor purchased a building after<lf>Umbrella went under.
+<string>The Rhodes Hill Chronic Care Center.<lf>I'll send you the address.
+<string>Leon...
+<string>We're running out of time.
+<string>
+<string>Found you!
+<string>
+<string>Come here!
+<string>
+<string>Found you! Found you!
+<string>
+<string>Don't leave...me.
+<string>
+<string>He's gone.
+<string>
+<string>Can't see...
+<string>
+<string>Where...are you?
+<string>
+<string>Meeting to...
+<string>
+<string>Will con...tact soon.
+<string>
+<string>Con...tact.
+<string>
+<string>Caaall you...back.
+<string>
+<string>Meeeeting...today.
+<string>
+<string>Anyyy...questionnns?
+<string>
+<string>I'm fiiine! Fiiine!
+<string>
+<string>Be...careful!
+<string>
+<string>Beee! Careful!
+<string>
+<string>Beee...
+<string>
+<string>Careful!
+<string>
+<string>Alwayyys!
+<string>
+<string>Get...theee axe!
+<string>
+<string>Get...the axe.
+<string>
+<string>No...cutting corners...
+<string>
+<string>No...cutting...corners.
+<string>
+<string>Nooo ressst...
+<string>
+<string>No rest for...wicked!
+<string>
+<string>No...cuttinggg...corners!
+<string>
+<string>It's...all overrr!
+<string>
+<string>Everyyyone...deeead.
+<string>
+<string>Everrryone deeead!
+<string>
+<string>It's all ooover!
+<string>
+<string>Eeend...of the wooorld!
+<string>
+<string>End! Of the world!
+<string>
+<string>It's...ooover...

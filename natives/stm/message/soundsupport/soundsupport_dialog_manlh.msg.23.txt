@@ -1,0 +1,66 @@
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[mechanical whirring]
+<string>
+<string>
+<string>
+<string>[silence]
+<string>
+<string>
+<string>[door clicks shut]
+<string>[thunder claps]
+<string>
+<string>
+<string>
+<string>[mechanical whirring]
+<string>
+<string>[intercom squeaks]
+<string>
+<string>
+<string>[doctor groaning]
+<string>
+<string>[screams]
+<string>
+<string>
+<string>
+<string>[screaming]
+<string>
+<string>[chainsaw revving]
+<string>
+<string>
+<string>[chainsaw revving]
+<string>[chainsaw revving]
+<string>
+<string>[screech]
+<string>
+<string>
+<string>[pained groaning]
+<string>
+<string>
+<string>[screaming]
+<string>[gunshot]
+<string>
+<string>[gunshot]
+<string>
+<string>[gunshot]
+<string>
+<string>
+<string>[flesh splattering]
+<string>
+<string>
+<string>[shaky breathing]
+<string>
+<string>[metallic grinding and slamming]
+<string>[shutter closing]
+<string>
+<string>
+<string>
+<string>
+<string>[gunshot]
+<string>
+<string>[Leon groaning]
+<string>[mechanical whirring]
+<string>

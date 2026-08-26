@@ -1,0 +1,40 @@
+<string>
+<string>[lock beeps]
+<string>
+<string>[nervous breathing]
+<string>[test tube clinks]
+<string>
+<string>
+<string>
+<string>[maniacal laughing]
+<string>
+<string>
+<string>[alarm blaring]
+<string>[building crumbling]
+<string>
+<string>[zombies groaning]
+<string>[fence rattling]
+<string>
+<string>[metallic twang]
+<string>
+<string>[switches flicking]
+<string>
+<string>
+<string>[engine whirs to life]
+<string>
+<string>
+<string>
+<string>[Grace and Emily screaming]
+<string>
+<string>[banging]
+<string>[Emily screaming]
+<string>
+<string>
+<string>
+<string>
+<string>[alarm beeping]
+<string>[glass shatters]
+<string>
+<string>[crashing]
+<string>[screams]
+<string>

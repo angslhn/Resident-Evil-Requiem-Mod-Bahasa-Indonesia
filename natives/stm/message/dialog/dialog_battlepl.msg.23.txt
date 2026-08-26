@@ -1,0 +1,132 @@
+<string>
+<string>Damn it.
+<string>
+<string>Gotta do something.
+<string>
+<string>Got ahead of myself.
+<string>
+<string>
+<string>
+<string>Shit, not good.
+<string>
+<string>Son of a...
+<string>
+<string>Perfect...
+<string>
+<string>Not done yet.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>That did it.
+<string>
+<string>There we go.
+<string>
+<string>Alright.
+<string>
+<string>
+<string>
+<string>Stuff's not bad.
+<string>
+<string>Good to go.
+<string>
+<string>
+<string>
+<string>OK.
+<string>
+<string>Not down yet.
+<string>
+<string>I'm still...in it.
+<string>
+<string>That was my last one.
+<string>
+<string>All out now.
+<string>
+<string>Damn, run out.
+<string>
+<string>Last one.
+<string>
+<string>Could use some ammo.
+<string>
+<string>Out of ammo.
+<string>
+<string>Ah, need some ammo.
+<string>
+<string>Damn, all out.
+<string>
+<string>Shit, my hatchet.
+<string>
+<string>The hatchet...
+<string>
+<string>Broke my damn hatchet.
+<string>
+<string>Here.
+<string>
+<string>Catch.
+<string>
+<string>Eat this.
+<string>
+<string>Here you go.
+<string>
+<string>Damn.
+<string>
+<string>This is bad.
+<string>
+<string>Get off me!
+<string>
+<string>Oh, no.
+<string>
+<string>Hold it together...
+<string>
+<string>Not good.
+<string>
+<string>Crap.
+<string>
+<string>Shit, this hurts.
+<string>
+<string>Gotta stay cool.
+<string>
+<string>You can do this.
+<string>
+<string>That's better.
+<string>
+<string>You're OK, you're OK.
+<string>
+<string>I got this.
+<string>
+<string>Thank god.
+<string>
+<string>Much better.
+<string>
+<string>That was close.
+<string>
+<string>Alright.
+<string>
+<string>Alright, I'm good.
+<string>
+<string>Not done yet.
+<string>
+<string>Come on.
+<string>
+<string>Don't miss.
+<string>
+<string>Please work.
+<string>
+<string>Oh, no. Need ammo.
+<string>
+<string>Ah, out of ammo.
+<string>
+<string>No, I'm out.
+<string>
+<string>Gotta find more ammo.
+<string>
+<string>I'm empty.
+<string>
+<string>Hope this lasts.
+<string>
+<string>That was my last one.
+<string>
+<string>Oh... None left now.
+<string>
+<string>Last one.

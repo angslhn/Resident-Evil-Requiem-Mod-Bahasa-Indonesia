@@ -1,0 +1,205 @@
+<string>Head to the Wrenwood Hotel
+<string>Investigate the crime scene
+<string>Head to room 204
+<string>Escape from the hotel
+<string>Find what Alyssa hid
+<string>Escape from the police officer
+<string>Go after Victor
+<string>Escape
+<string>Investigate the care center
+<string>Eliminate the infected
+<string>Get out of the room
+<string>Escape the care center
+<string>Unlock the door in the central hall
+<string>Take the child to the puzzle box
+<string>Get Emily back
+<string>Find Victor's office
+<string>Search Victor's office
+<string>Rescue Emily
+<string>Unlock the cells
+<string>Escape via the elevator
+<string>Escape via the courtyard
+<string>Find the helicopter key
+<string>Return to the helicopter
+<string>Rescue Grace
+<string>Help Grace
+<string>Head to the chapel
+<string>Fight off the infected
+<string>Get to the surface
+<string>Open the hatch on the Girl
+<string>Return to Emily
+<string>Head to Raccoon City Center
+<string>Find a way out
+<string>Defeat the giant spider
+<string>Head to Raccoon City Center
+<string>Collect the detonator parts
+<string>Collect the detonator parts
+<string>Destroy the gate
+<string>Head to Raccoon City Center
+<string>Search for Grace
+<string>Head to the east office
+<string>Investigate the orphanage
+<string>Hide from the children
+<string>Escape R.P.D.
+<string>Head to the orphanage
+<string>Defeat the Tyrant
+<string>Head to the orphanage
+<string>Head after Grace
+<string>Defeat the giant plant
+<string>Enter ARK
+<string>Head after Grace
+<string>Eliminate the elite guards
+<string>Eliminate the commander
+<string>Find a way out of the dump
+<string>Help Leon escape
+<string>Head to the central refining system
+<string>Find a way to open the door
+<string>Open the door to the central refining system
+<string>Head to the central refining system
+<string>Go to Leon
+<string>Defeat Victor
+<string>Facing the Past
+<string>FBI intelligence analyst Grace Ashcroft goes to investigate the latest site in a string of mysterious deaths, the Wrenwood Hotel. The same place her mother was murdered eight years prior.
+<string>Ghosts of Umbrella
+<string>DSO Agent Leon S. Kennedy has also been following the series of mysterious deaths. His main suspect, Victor Gideon, catches on to Leon's pursuit and causes an outbreak to make his escape.
+<string>Confusion
+<string>Grace was taken captive while investigating the Wrenwood Hotel. Having broken free of her restraints, she must now find a way out of the sinister building.
+<string>Back on the Trail
+<string>Leon is suffering from the same incurable disease found in the corpses, and he narrowly misses Victor in Wrenwood. Seeking answers, Leon heads to Rhodes Hill Chronic Care Center.
+<string>Cutting-Edge Therapies
+<string>Grace is attacked by a grotesque monster, but Leon saves her just in the nick of time. The two are separated by Victor, and Grace sets out alone to escape the care center.
+<string>A Kick in the Gut
+<string>Victor believes that Grace is the key to unlocking Elpis. Meanwhile, Leon breaks free and fights off Victor, then heads for his office in search of the truth.
+<string>Responsibility
+<string>Leon finds out his illness is caused by the T-Virus, and wonders how Grace is connected to "Elpis." Meanwhile, Grace is riddled with guilt as she plunges into the pitch-black basement to rescue Emily.
+<string>Rising from the Depths
+<string>The care center's basement is being used as a processing plant to amass infected blood. Grace and Emily make it above ground and, once again, head for the care center exit.
+<string>Never Trust a Helicopter
+<string>A care center full of infected, and a giant tank of blood... Somehow these connect to the acquisition of Elpis. Grace's escape plan crashes and burns, leaving her surrounded by a horde of bloodthirsty infected.
+<string>Carrying Emily to Safety
+<string>Leon defends Grace and Emily from the swarming infected, but the crash left Emily critically injured. Grace rushes through the water treatment plant in an attempt to get her to safety.
+<string>Beyond Despair
+<string>Grace is consumed with guilt as she mourns Emily's death. As she leaves, a mysterious man appears and alludes to her "true purpose." Leon follows her into the heart of Raccoon City, on his continued hunt for answers.
+<string>Conspiracy Theories
+<string>Active BSAA units and the infected roam the outskirts of Raccoon City. Was the missile really used to halt the spread of infection? Leon ponders this as he heads to Grace's location deep within the city.
+<string>A Warm Raccoon City Welcome
+<string>Having defeated Victor, Leon finally arrives at the center of Raccoon City. In the ruins of where it all began, he continues his search for Grace.
+<string>The Key to Elpis
+<string>Elpis is a virus created by Spencer, a virus with the ability to control human minds, and Grace is the key. Zeno shows Grace haunting footage of a girl with a shocking resemblance to Emily.
+<string>The Truth
+<string>Grace, a creation of Spencer's, is the only one who can retrieve Elpis. Many girls were created in an attempt to imitate her, but all failed. Leon hits more obstacles as he tries to catch up.
+<string>The Entrance to ARK
+<string>After taking down the Tyrant, Leon arrives at the orphanage and finds himself at the top of a giant chasm. Leon descends to find ARK, the place where both Grace and Elpis are being held.
+<string>Umbrella's Legacy
+<string>Deep beneath the ruins of Raccoon City, the massive facility called "ARK" hums with activity. Leon successfully infiltrates in pursuit of Grace. It's time to finally unravel the decades-old secrets.
+<string>Comeback
+<string>Leon is defeated by Zeno's special abilities, but Grace's quick thinking allows them to escape. As Leon's condition worsens, he conveys his unwavering will to Grace. Together they resolve to destroy Elpis.
+<string>The Final Battle
+<string>The true nature of Elpis was revealed to be a powerful antiviral drug. Victor kills Zeno for insulting his master, and ARK crumbles as the truth comes to light. Victor's body mutates violently as the final battle begins.
+<string>Explore Wrenwood
+<string>The hotel should be nearby, just down Main Street.
+<string>Investigate the Wrenwood Hotel
+<string>Look for clues in the hotel.
+<string>Head to room 204
+<string>Room 204 should be on the second floor. Head there and look for clues.
+<string>Follow Alyssa
+<string>Check the painting in the lobby
+<string>Grace's mom hid something behind the painting in the lobby. It might still be there.
+<string>Run to the 2F emergency exit
+<string>There's an emergency exit on the second floor. It might be a way out.
+<string>Go after Victor
+<string>Chase Victor through the chaos on Main Street, taking down the attacking enemies.
+<string>Find a way out
+<string>It's too dark to do anything, so find a light source first to expand your range of vision. Run to a well-lit room if you feel you're in danger.
+<string>Follow the nurse
+<string>Eliminate the infected
+<string>Keep your distance from chainsaw-wielding enemies unless you want to get shredded. When they drop the weapon, you can pick it up and use it yourself.
+<string>Use the chainsaw to open the door
+<string>Investigate the care center
+<string>Find a safe place as you explore the care center.
+<string>Escape via the central hall
+<string>Three pieces of quartz are needed to open the door in the central hall. They should be somewhere in the care center.
+<string>Take Emily to the security manager's office
+<string>It's impossible to fight while holding Emily. Proceed carefully so enemies don't spot you.
+<string>Follow Emily into the basement
+<string>There's no coming back after you take the leap into the hole. Make sure you're prepared before jumping in.
+<string>Head to the director's office
+<string>Victor's office is the director's office beyond the lounge. Check the map if you're lost.
+<string>Open the secret room
+<string>There's a secret room in the director's office. Find the mechanism to reveal it.
+<string>Search the underground facility
+<string>Emily is somewhere beneath the care center. Find her and get to safety.
+<string>Find a way to unlock the cells
+<string>Place the three joint plugs in the power distributor to unlock the cells. The map near the distributor shows the location of each one.
+<string>Run for the elevator
+<string>Ignore the attacking enemies and sprint to the elevator as fast as you can.
+<string>Get to the courtyard helipad
+<string><COLOR FF0000>#Rejected#</COLOR> ActivityHelp_304_100_Body
+<string>Search the facility
+<string>There's some sort of mechanism in the VIP suite. One of the objects must function as a key. Examine each item carefully.
+<string>Escape from the facility
+<string>Get back to the helicopter and escape.
+<string>Go after Grace
+<string>Help Grace
+<string>Use the sniper rifle to take out the enemies attacking Grace. They're coming from all directions, so check her surroundings carefully as you shoot.
+<string>Head to the chapel
+<string>Fight off the infected
+<string>The tumors on a Blister Borne are its weak points, but when they explode it'll cause the surrounding infected to mutate. Time your attack on the tumors carefully.
+<string>Find a way above ground
+<string>Open the hatch on the Girl
+<string>Normal weapons will do nothing against the Girl. Hit her with light or stagger her with a shot from Requiem as you reactivate the three power units.
+<string>Return to Emily
+<string>Explore Raccoon City
+<string>Explore the area and find a way to get to Raccoon City Center.
+<string>Find a way out
+<string>Defeat the giant spider
+<string>Don't get backed into a corner, use the surrounding terrain to fight off the giant spider. Gas canisters make for powerful bombs.
+<string>Find a way to Raccoon City Center
+<string>Collect the three detonator parts
+<string>A gate is blocking the only path forward. Collect the three parts to make a detonator at the East, Mid, and West Points.
+<string>Collect the three detonator parts
+<string>A gate is blocking the only path forward. Collect the three parts to make a detonator at the East, Mid, and West Points.
+<string>Destroy the gate
+<string>With all the parts collected, it's time to assemble the detonator. Find a way to repair any broken parts to make them usable.
+<string>Head toward the city center on the motorcycle
+<string>Explore Raccoon City Center
+<string>While Leon is back in the heart of Raccoon City, there's no time for reminiscing. Search the area for a way forward.
+<string>Head to the east office
+<string>Grace is in the east wing first floor office, but a shutter blocks the way. Search the police department for a tool to pry it open.
+<string>Investigate the noise
+<string>Something strange is happening in the orphanage. Go check to see what all the noise is about.
+<string>Run from the children
+<string>Don't let the children find you while you escape.
+<string>Escape R.P.D.
+<string>It's difficult to fight the raging Tyrant in an enclosed space. Run to the main hall before it catches you.
+<string>Go to the orphanage from R.P.D.
+<string>Find a route to the orphanage.
+<string>Take down the Super Tyrant and head to the orphanage
+<string>The Super Tyrant's heart is its weak point. Land your attacks well to stun it and then use your hatchet for a finishing attack.
+<string>Head to the orphanage
+<string>Find a path from the orphanage that leads underground.
+<string>Get to the bottom
+<string>Head to the bottom of the giant chasm to search for Grace. There's no telling what is waiting, so proceed with caution.
+<string>Defeat the giant plant
+<string>The giant Plant 43 reveals its weak point when the flowers open. Time your attacks well to hit it while avoiding the flailing vines.
+<string>Head to the entrance of ARK
+<string>Explore ARK
+<string>Use the supply box in ARK to keep yourself well equipped.
+<string>Take down the elite guards and head to the entrance
+<string>The elite guards have reinforced armor, so it's best to avoid direct attacks. Shoot compressed gas cylinders to provide some extra cover when needed.
+<string>Eliminate the commander
+<string>Take down the commander and head to Grace. He can easily dodge head on gunfire, so use your hatchet to parry attacks and make an opening.
+<string>Get through the dump
+<string>Find a way to move the crane
+<string>Use the item box to prepare yourself and find the override key to move the crane. The key should be in chemical storage.
+<string>Explore ARK
+<string>Explore ARK to find a way into the central refining system.
+<string>Look for the orbs
+<string>Two orbs are needed to get into the archives. One should be in the operations room and the other in the cleanroom.
+<string>Access the terminal in the archives
+<string>Explore ARK
+<string>An override key is needed to activate the elevator to the central refining system. It should be in the systems management room.
+<string>Head to the central portal
+<string>Take the elevator in the study and head for the central portal.
+<string>Defeat mutated Victor
+<string>Dodge the mutated Victor's tentacles as you attack his exposed weak points.

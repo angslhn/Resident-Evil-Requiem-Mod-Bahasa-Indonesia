@@ -1,0 +1,3 @@
+<string>Grace (Film Noir)
+<string>Obtain this costume.
+<string>Film Noir

@@ -1,0 +1,6 @@
+<string>[doors open]
+<string>[doors open]
+<string>[running footsteps]
+<string>[doors open]
+<string>[licker screeching]
+<string>[doors open]

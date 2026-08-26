@@ -1,0 +1,154 @@
+<string>ITEMS
+<string>CRAFTING
+<string>MAP
+<string>FILES
+<string>SHORTCUTS
+<string>ITEM BOX
+<string>AMMO & HEALTH
+<string>GRACE DATA
+<string>LEON DATA
+<string>CONTENTS
+<string>CONTENTS
+<string>SIZE:_/ x _/
+<string>SELECT
+<string>FILE NAME
+<string>Ver. 4.0258001a
+<string>AREA MAP
+<string>HIERARCHY
+<string>SIGNAL: OK
+<string>BATTERY
+<string>MEMORY
+<string>DISC
+<string>INVESTIGATION BOARD
+<string>MSN-001
+<string>MEMO AND ANALYZE
+<string>ITEM BOX
+<string>FILES
+<string>RECIPE
+<string>Use
+<string>Examine
+<string>Register Shortcut
+<string>Equip
+<string>Unequip
+<string>Attach Parts
+<string>Combine
+<string>Discard
+<string>Store
+<string>Take Out
+<string>
+<string>
+<string>Sight / Scope
+<string>Charms
+<string>Sell
+<string>Use item.
+<string>Examine item.
+<string>Register item to shortcuts.
+<string>Select a slot to register to.
+<string>Equip weapon.
+<string>Unequip item.
+<string>Customize weapon.
+<string>Combine items to create a new item.
+<string>Discard item.
+<string>Select an item to use.
+<string>Select an item to store.
+<string>Store in item box.
+<string>Select an item to take out.
+<string>Move to inventory.
+<string>Select item.
+<string>Select an area to place this item.
+<string>Select an item to craft.
+<string>You cannot combine this because you don't have enough room.
+<string>
+<string>
+<string>Attach or remove sight/scope.
+<string>Attach or remove charm.
+<string>Sell items.
+<string>Not enough space.
+<string>Item crafted.
+<string>Insert
+<string>Select the number of coins you want to insert.
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Craftable Items
+<string>Recipe Order
+<string>SPECS
+<string>Power
+<string>Precision
+<string>Rate of Fire
+<string>Reload Speed
+<string>Stability
+<string>Durability
+<string>Radius
+<string>Ammo Capacity
+<string>No parts
+<string>MAX
+<string>
+<string>
+<string>
+<string>
+<string>REWARDS
+<string>NO FILES
+<string>NO DATA
+<string>Wrenwood
+<string>Rhodes Hill
+<string>Raccoon City
+<string>ARK
+<string>File Order
+<string>Newest
+<string>Storage Order
+<string>Main Weapons
+<string>Custom Parts
+<string>Sub-weapons
+<string>Ammo
+<string>Recovery
+<string>Resources
+<string>Key Items
+<string>Other
+<string>ID Order
+<string><COLOR preset="TextColor1">Cannot take out item.</COLOR>
+<string>Crafting Items
+<string>Required Materials
+<string>Crafting Items
+<string>On Hand
+<string>???
+<string>Unlock with blood analysis.
+<string>Unlocks when a crafting item is obtained.
+<string>Unlock with a recipe.
+<string>Unlock when you get a weapon.
+<string>SHOP
+<string>Purchase
+<string>Sell
+<string>Upgrade
+<string>Enhance
+<string>Unequip
+<string>Equip
+<string>Max Out
+<string>BUY
+<string>SELL
+<string>TUNE UP
+<string>ALL
+<string>WEAPONS
+<string>ITEMS
+<string>CASE
+<string>Items
+<string>Price
+<string>To Sell / Carrying
+<string>TO SELL
+<string>TOTAL
+<string>SELECTED WEAPON
+<string>OWNED WEAPONS
+<string><ICON DEFAULT> Compare Weapons
+<string>Purchase items.
+<string>Upgrade weapons to make them stronger.
+<string>Sell items.
+<string>Select items to purchase.
+<string>Select weapons to upgrade.
+<string>Select items to sell.
+<string><COLOR FF0000>#Rejected#</COLOR> Shop_Menu_Mission_Guide
+<string>Kills
+<string>Value
+<string>Kills x{0}

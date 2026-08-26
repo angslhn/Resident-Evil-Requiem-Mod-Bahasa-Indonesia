@@ -1,0 +1,99 @@
+<string><Sound Team ID>
+<string>
+<string>No...
+<string>No!
+<string>
+<string>The hell?
+<string>Oh shit.
+<string>What is this?
+<string>Hey! Help!
+<string>No... No, no, no...
+<string>You gotta stay calm.
+<string>You gotta stay cool. Come on.
+<string>Think.
+<string>Think, Grace, think.
+<string>Yes.
+<string>
+<string>Yes!
+<string>Come on.
+<string>
+<string>What did he do to me?
+<string>Come on.
+<string>
+<string>Where the hell am I?
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Dead.
+<string>
+<string>
+<string>
+<string>There's got to be somewhere I've missed.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>He's dead.
+<string>Infected.
+<string>
+<string>
+<string>Shit! Wh-What the fuck!?
+<string>
+<string>Oh god!
+<string>
+<string>What the hell was that thing!?
+<string>
+<string>Maybe I should check the<lf>room where that...thing was.
+<string>
+<string>Oh... Oh my god.
+<string><Sound Team ID>
+<string>
+<string>Oh, shit!
+<string>
+<string>Not this way. Not this way. Not this way.
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Damn it!
+<string>
+<string>
+<string>
+<string>Yes!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Oh, please no...
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Alright.
+<string>Oh my god.
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Come on, come on, come on,<lf>come on, come on!
+<string>Let go!
+<string>
+<string>This looks important...maybe.
+<string>
+<string>It can't hurt to pick some, I guess.
+<string>
+<string>I don't wanna die yet...
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>

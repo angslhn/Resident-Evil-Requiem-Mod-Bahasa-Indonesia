@@ -1,0 +1,14 @@
+<string>
+<string>[loud creaking of metal]
+<string>
+<string>
+<string>
+<string>[explosion]
+<string>[Plant 43 screams]
+<string>
+<string>
+<string>
+<string>[gears turning, metal clanking]
+<string>
+<string>[earpiece beeps]
+<string>[door whirs shut]

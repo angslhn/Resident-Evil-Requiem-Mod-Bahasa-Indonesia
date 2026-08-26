@@ -1,0 +1,42 @@
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Seriously.
+<string>
+<string>I guess this is my stop.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>BSAA left something behind.
+<string><Sound Team ID>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>It just keeps going.
+<string>
+<string>Finally reached the bottom.<lf>This is one very deep hole.
+<string>The perfect place to hide something.
+<string>
+<string>These flowers really have it in for me.
+<string>
+<string>Just so you know, I've killed every plant I've ever had.
+<string>
+<string>Stubborn weed, aren't you?
+<string>Time to burn you out from the roots!
+<string>
+<string>This must be it.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Sherry, I found some kind<lf>of massive facility.
+<string>What do you think it is?
+<string>I'm seeing supplies with the<lf>logos of the usual suspects.
+<string>Well, whatever it is, it clearly<lf>wasn't meant to be found.
+<string>Yeah, you're telling me.

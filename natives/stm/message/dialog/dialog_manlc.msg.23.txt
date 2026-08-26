@@ -1,0 +1,85 @@
+<string>
+<string>Sherry, Grace is still here.
+<string>The FBI agent?
+<string>Yeah. Found some files on Victor's computer.<lf>She's connected to this somehow.
+<string>
+<string>Is she OK?
+<string>No, but I've got her covered.
+<string>
+<string>
+<string>
+<string>Next.
+<string>
+<string>Hit.
+<string>
+<string>OK.
+<string>
+<string>Looks like they went ahead.
+<string>
+<string>Must be time for the evening service.
+<string>
+<string>Hang in there, Grace.
+<string>
+<string>Alright.
+<string>
+<string>'Scuse me.
+<string>
+<string>It can mutate others.
+<string>
+<string>Time to clear out the rest.
+<string>
+<string>Get away from us!
+<string>
+<string>Ugh... Help! Help!
+<string>
+<string>Get off!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Stay with me.
+<string>Oh god.
+<string>Grace.
+<string>Leon!
+<string>Who is she?
+<string>This is Emily.
+<string>Help me! I-I can't stop the bleeding.
+<string>Hey, hey, look at me.
+<string>We're gonna be OK.
+<string>Yeah?
+<string>Can't stay here.
+<string>That should be the way to<lf>the water treatment plant.
+<string>It's our way out.
+<string>Let's go.
+<string>They just don't give up.
+<string>Take her.
+<string>Get her safe.
+<string>Go!
+<string>Now!
+<string>I'll keep our friends busy.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Elpis?
+<string>Grace?
+<string>What's she got to do with this?
+<string>Hello, gorgeous.
+<string>Come on, Emily.
+<string>Oh shit.
+<string>That girl just can't stay out of trouble.
