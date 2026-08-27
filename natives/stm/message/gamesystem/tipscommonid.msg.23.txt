@@ -1,4 +1,4 @@
-<string>Tutorial dapat dilihat kembali melalui <ICON PAUSE>.<lf><lf>Tutorial dan tips baru ditambahkan seiring<lf>progresmu dalam game.
+<string>Tutorial dapat dilihat kembali melalui <ICON PAUSE>.<lf><lf>Tutorial dan tips baru ditambahkan seiring<lf>progresmu dalam permainan.
 <string>Status kesehatan Grace dapat ditentukan<lf>dari jumlah darah di layar,<lf>atau indikator kesehatan di menu Item.<lf><lf>Hijau menandakan "Baik" dan kesehatan penuh,<lf>sementara merah menandakan "Bahaya" dan hampir mati.
 <string><REF TutorialList_040_Description>
 <string><REF TutorialList_041_Description>
@@ -41,7 +41,7 @@
 <string>Tabung gas dapat dilempar ke dekat musuh.<lf>Mereka akan meledak setelah beberapa saat,<lf>atau dapat ditembak untuk efek langsung.
 <string>Mengisi ulang peluru satu per satu bisa memakan<lf>waktu. Tekan <ICON HOLD> untuk membatalkan<lf>pengisian dengan cepat.
 <string><REF TutorialList_068_Description>
-<string>Setelah game over, kamu akan kembali ke<lf>lokasi simpanan terakhirmu. Sering-seringlah menyimpan<lf>di mesin ketik agar tidak kehilangan<lf>progresmu.
+<string>Setelah permainan berakhir, kamu akan kembali ke<lf>lokasi simpanan terakhirmu. Sering-seringlah menyimpan<lf>di mesin ketik agar tidak kehilangan<lf>progresmu.
 <string>Mayat zombie yang terlalu lama dibiarkan<lf>akan bermutasi menjadi Blister Head. Berhadapan dengan<lf>musuh kuat ini, melarikan diri mungkin menjadi<lf>pilihan terbaikmu. Jika kamu memutuskan untuk bertahan,<lf>Requiem yang kuat mungkin menjadi sahabat terbaikmu.
 <string>Mayat zombie bermutasi menjadi Blister Head.<lf>Cara terbaik untuk menjatuhkan mereka adalah dengan mengarahkan<lf>serangan akhir ke kepala mereka. Kamu juga<lf>dapat memperlambat mereka dengan menargetkan kaki mereka.
 <string>Blister Head memiliki serangan kematian instan.<lf>Perhatikan gerakan dan suara mereka.

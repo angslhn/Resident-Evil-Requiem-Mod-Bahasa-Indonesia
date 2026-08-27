@@ -1,11 +1,11 @@
-<string>Mulai Game
+<string>Mulai Permainan
 <string>Keluar
-<string>Game Baru
+<string>Permainan Baru
 <string>Lanjutkan
-<string>Muat Game
-<string>Mulai game baru.
+<string>Muat Permainan
+<string>Mulai permainan baru.
 <string>Lanjutkan bermain dari simpanan terakhirmu.
-<string>Muat game yang tersimpan.
+<string>Muat permainan yang tersimpan.
 <string>Kotak Perbekalan
 <string>Siapkan perlengkapan di kotak perbekalan dan mulai ulang.
 <string>Opsi
@@ -18,7 +18,7 @@
 <string>CERITA UTAMA
 <string>Mainkan cerita utama dan hadapi masa lalu.
 <string>Lihat tantangan dan hadiahnya.
-<string>Lihat hasil penyelesaian game-mu.
+<string>Lihat hasil penyelesaian permainan-mu.
 <string>Sesuaikan berbagai pengaturan.
 <string>Lihat konten bonus.
 <string>Ubah penampilan karakter, senjata, dan lainnya.
@@ -58,7 +58,7 @@
 <string>Ubah kostum karakter ini.
 <string>Ubah skin senjata.
 <string>Ubah filter layar.
-<string>Ubah bagian tertentu dari musik latar dalam game.
+<string>Ubah bagian tertentu dari musik latar dalam permainan.
 <string>Ubah efek suara layar menu tertentu.
 <string>Ubah kostum Leon.
 <string>Ubah kostum Grace.
@@ -89,7 +89,7 @@
 <string>Buka Opsi
 <string>Terbuka melalui progres.
 <string>Hasil
-<string>Mode Game
+<string>Mode Permainan
 <string>Total Waktu Bermain
 <string>Waktu Penyelesaian
 <string>TUTORIAL
@@ -102,16 +102,16 @@
 <string>KAMU TERTANGKAP
 <string>Ini hanyalah pembuka dari simfoni tergelap kami.
 <string>
-<string>MODE GAME
+<string>MODE PERMAINAN
 <string>Santai
 <string>Standar (Modern)
 <string>Standar (Klasik)
 <string>Gila-gilaan
 <string>Bersantailah sambil menikmati cerita dan teka-teki.
-<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di game-game BIOHAZARD modern.<lf><lf><COLOR preset="TextColor2">Mode game ini dapat diubah ke Santai di layar game over.</COLOR>
-<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di game-game Resident Evil modern.<lf><lf><COLOR preset="TextColor2">Mode game ini dapat diubah ke Santai di layar game over.</COLOR>
-<string>Pengalaman tradisional dengan kesulitan yang mirip dengan game<lf>BIOHAZARD klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
-<string>Pengalaman tradisional dengan kesulitan yang mirip dengan game<lf>Resident Evil klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
+<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan BIOHAZARD modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan over.</COLOR>
+<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan Resident Evil modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan over.</COLOR>
+<string>Pengalaman tradisional dengan kesulitan yang mirip dengan permainan<lf>BIOHAZARD klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
+<string>Pengalaman tradisional dengan kesulitan yang mirip dengan permainan<lf>Resident Evil klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
 <string>Pengalaman gameplay intens hanya untuk mereka yang berani.<lf><lf><COLOR preset="TextColor2">Main dengan risiko sendiri.</COLOR>
 <string>BIOHAZARD requiem menawarkan kemampuan untuk mengubah perspektif kamera.<lf><lf>Direkomendasikan menggunakan perspektif orang pertama saat bermain sebagai Grace untuk meningkatkan elemen horor dan menggunakan perspektif orang ketiga saat bermain sebagai Leon untuk meningkatkan elemen aksi.<lf><lf>Apakah kamu ingin mengubah perspektif?
 <string>Resident Evil Requiem menawarkan kemampuan untuk mengubah perspektif kamera.<lf><lf>Direkomendasikan menggunakan perspektif orang pertama saat bermain sebagai Grace untuk meningkatkan elemen horor dan menggunakan perspektif orang ketiga saat bermain sebagai Leon untuk meningkatkan elemen aksi.<lf><lf>Apakah kamu ingin mengubah perspektif?
@@ -124,12 +124,12 @@
 <string>Jangan Ubah Perspektif
 <string>Ubah pengaturan kamera.
 <string>Ubah pengaturan kamera masing-masing karakter.
-<string>Capcom Co., Ltd., (selanjutnya disebut “Capcom,” “kami,” atau “milik kami”) akan menggunakan informasi pribadi terkait gameplay di BIOHAZARD requiem (game ini) berdasarkan persetujuanmu untuk tujuan berikut.<lf><lf>●Informasi yang dikumpulkan:<lf>Informasi berikut akan dikumpulkan bersama dengan data akun platform-mu:<lf>Informasi tentang tindakan dalam game-mu, informasi tentang lingkungan operasi game, dan catatan ketika terjadi malfungsi game.<lf>*Untuk detail tentang informasi yang mungkin kami peroleh, silakan periksa Capcom Games Privacy Policy (Console and PC games)<lf> (URL: https://www.capcom.co.jp/privacy/game/) .<lf><lf>●Tujuan penggunaan:<lf>Untuk peningkatan layanan dan pengembangan fungsi baru untuk game ini, pengembangan game dan layanan yang lebih baik di masa depan, dan analisis untuk aktivitas promosi (termasuk publikasi data statistik).<lf><lf>*Informasi yang kami kumpulkan mencakup akun platform-mu. Akibatnya, informasi yang dikumpulkan melalui game ini dapat digabungkan dengan informasi yang diperoleh secara sah melalui akun platform-mu oleh kami di luar game ini dan digunakan untuk analisis. Informasi gabungan tersebut mencakup hal-hal berikut:<lf>・	Jika kamu memainkan game lain yang diterbitkan oleh kami menggunakan akun platform yang sama seperti di game ini, informasi yang dikumpulkan dari game tersebut<lf>・	Jika kamu menulis dan menerbitkan ulasan game ini di layanan penyedia platform menggunakan akun platform yang sama seperti di game ini, informasi terkait ulasan tersebut<lf><lf>*Saat kamu menggunakan layanan akun bersama kami CAPCOM ID untuk gameplay, informasi tersebut dapat digabungkan dengan informasi yang kamu berikan saat menggunakan layanan lain yang memenuhi syarat CAPCOM ID dan digunakan untuk analisis.<lf><lf>●Lainnya:<lf>・	Terlepas dari negara tempat tinggalmu, informasi yang dikumpulkan akan dikirim ke dan disimpan di server di Jepang yang dikelola oleh Capcom, serta di server di Jepang dan Amerika Serikat yang dioperasikan oleh penyedia cloud yang dikontrak oleh Capcom.<lf><lf>・	Persetujuan untuk pemrosesan data untuk tujuan analitis tidak wajib, dan kamu bebas memilih apakah akan menyetujui atau tidak. Bahkan jika kamu memilih untuk tidak menyetujui, gameplay-mu tidak akan terpengaruh.<lf><lf>・	Kamu dapat mengubah pilihan Setuju/Tidak Setuju kapan saja dari dalam game ini.<lf><lf>Mengenai penanganan informasi pribadi, semua hal yang tidak dijelaskan sebelumnya mengikuti Capcom Games Privacy Policy (Console and PC games). Pastikan untuk meninjau kebijakan tersebut sebelum memberikan persetujuan.
-<string>Capcom Co., Ltd., (selanjutnya disebut “Capcom,” “kami,” atau “milik kami”) akan menggunakan informasi pribadi terkait gameplay di Resident Evil Requiem (game ini) berdasarkan persetujuanmu untuk tujuan berikut.<lf><lf>●Informasi yang dikumpulkan:<lf>Informasi berikut akan dikumpulkan bersama dengan data akun platform-mu:<lf>Informasi tentang tindakan dalam game-mu, informasi tentang lingkungan operasi game, dan catatan ketika terjadi malfungsi game.<lf>*Untuk detail tentang informasi yang mungkin kami peroleh, silakan periksa Capcom Games Privacy Policy (Console and PC games)<lf> (URL: https://www.capcom.co.jp/privacy/game/) .<lf><lf>●Tujuan penggunaan:<lf>Untuk peningkatan layanan dan pengembangan fungsi baru untuk game ini, pengembangan game dan layanan yang lebih baik di masa depan, dan analisis untuk aktivitas promosi (termasuk publikasi data statistik).<lf><lf>*Informasi yang kami kumpulkan mencakup akun platform-mu. Akibatnya, informasi yang dikumpulkan melalui game ini dapat digabungkan dengan informasi yang diperoleh secara sah melalui akun platform-mu oleh kami di luar game ini dan digunakan untuk analisis. Informasi gabungan tersebut mencakup hal-hal berikut:<lf>・	Jika kamu memainkan game lain yang diterbitkan oleh kami menggunakan akun platform yang sama seperti di game ini, informasi yang dikumpulkan dari game tersebut<lf>・	Jika kamu menulis dan menerbitkan ulasan game ini di layanan penyedia platform menggunakan akun platform yang sama seperti di game ini, informasi terkait ulasan tersebut<lf><lf>*Saat kamu menggunakan layanan akun bersama kami CAPCOM ID untuk gameplay, informasi tersebut dapat digabungkan dengan informasi yang kamu berikan saat menggunakan layanan lain yang memenuhi syarat CAPCOM ID dan digunakan untuk analisis.<lf><lf>●Lainnya:<lf>・	Terlepas dari negara tempat tinggalmu, informasi yang dikumpulkan akan dikirim ke dan disimpan di server di Jepang yang dikelola oleh Capcom, serta di server di Jepang dan Amerika Serikat yang dioperasikan oleh penyedia cloud yang dikontrak oleh Capcom.<lf><lf>・	Persetujuan untuk pemrosesan data untuk tujuan analitis tidak wajib, dan kamu bebas memilih apakah akan menyetujui atau tidak. Bahkan jika kamu memilih untuk tidak menyetujui, gameplay-mu tidak akan terpengaruh.<lf><lf>・	Kamu dapat mengubah pilihan Setuju/Tidak Setuju kapan saja dari dalam game ini.<lf><lf>Mengenai penanganan informasi pribadi, semua hal yang tidak dijelaskan sebelumnya mengikuti Capcom Games Privacy Policy (Console and PC games). Pastikan untuk meninjau kebijakan tersebut sebelum memberikan persetujuan.
+<string>Capcom Co., Ltd., (selanjutnya disebut “Capcom,” “kami,” atau “milik kami”) akan menggunakan informasi pribadi terkait gameplay di BIOHAZARD requiem (permainan ini) berdasarkan persetujuanmu untuk tujuan berikut.<lf><lf>●Informasi yang dikumpulkan:<lf>Informasi berikut akan dikumpulkan bersama dengan data akun platform-mu:<lf>Informasi tentang tindakan dalam permainan-mu, informasi tentang lingkungan operasi permainan, dan catatan ketika terjadi malfungsi permainan.<lf>*Untuk detail tentang informasi yang mungkin kami peroleh, silakan periksa Capcom Games Privacy Policy (Console and PC games)<lf> (URL: https://www.capcom.co.jp/privacy/permainan/) .<lf><lf>●Tujuan penggunaan:<lf>Untuk peningkatan layanan dan pengembangan fungsi baru untuk permainan ini, pengembangan permainan dan layanan yang lebih baik di masa depan, dan analisis untuk aktivitas promosi (termasuk publikasi data statistik).<lf><lf>*Informasi yang kami kumpulkan mencakup akun platform-mu. Akibatnya, informasi yang dikumpulkan melalui permainan ini dapat digabungkan dengan informasi yang diperoleh secara sah melalui akun platform-mu oleh kami di luar permainan ini dan digunakan untuk analisis. Informasi gabungan tersebut mencakup hal-hal berikut:<lf>・	Jika kamu memainkan permainan lain yang diterbitkan oleh kami menggunakan akun platform yang sama seperti di permainan ini, informasi yang dikumpulkan dari permainan tersebut<lf>・	Jika kamu menulis dan menerbitkan ulasan permainan ini di layanan penyedia platform menggunakan akun platform yang sama seperti di permainan ini, informasi terkait ulasan tersebut<lf><lf>*Saat kamu menggunakan layanan akun bersama kami CAPCOM ID untuk gameplay, informasi tersebut dapat digabungkan dengan informasi yang kamu berikan saat menggunakan layanan lain yang memenuhi syarat CAPCOM ID dan digunakan untuk analisis.<lf><lf>●Lainnya:<lf>・	Terlepas dari negara tempat tinggalmu, informasi yang dikumpulkan akan dikirim ke dan disimpan di server di Jepang yang dikelola oleh Capcom, serta di server di Jepang dan Amerika Serikat yang dioperasikan oleh penyedia cloud yang dikontrak oleh Capcom.<lf><lf>・	Persetujuan untuk pemrosesan data untuk tujuan analitis tidak wajib, dan kamu bebas memilih apakah akan menyetujui atau tidak. Bahkan jika kamu memilih untuk tidak menyetujui, gameplay-mu tidak akan terpengaruh.<lf><lf>・	Kamu dapat mengubah pilihan Setuju/Tidak Setuju kapan saja dari dalam permainan ini.<lf><lf>Mengenai penanganan informasi pribadi, semua hal yang tidak dijelaskan sebelumnya mengikuti Capcom Games Privacy Policy (Console and PC games). Pastikan untuk meninjau kebijakan tersebut sebelum memberikan persetujuan.
+<string>Capcom Co., Ltd., (selanjutnya disebut “Capcom,” “kami,” atau “milik kami”) akan menggunakan informasi pribadi terkait gameplay di Resident Evil Requiem (permainan ini) berdasarkan persetujuanmu untuk tujuan berikut.<lf><lf>●Informasi yang dikumpulkan:<lf>Informasi berikut akan dikumpulkan bersama dengan data akun platform-mu:<lf>Informasi tentang tindakan dalam permainan-mu, informasi tentang lingkungan operasi permainan, dan catatan ketika terjadi malfungsi permainan.<lf>*Untuk detail tentang informasi yang mungkin kami peroleh, silakan periksa Capcom Games Privacy Policy (Console and PC games)<lf> (URL: https://www.capcom.co.jp/privacy/permainan/) .<lf><lf>●Tujuan penggunaan:<lf>Untuk peningkatan layanan dan pengembangan fungsi baru untuk permainan ini, pengembangan permainan dan layanan yang lebih baik di masa depan, dan analisis untuk aktivitas promosi (termasuk publikasi data statistik).<lf><lf>*Informasi yang kami kumpulkan mencakup akun platform-mu. Akibatnya, informasi yang dikumpulkan melalui permainan ini dapat digabungkan dengan informasi yang diperoleh secara sah melalui akun platform-mu oleh kami di luar permainan ini dan digunakan untuk analisis. Informasi gabungan tersebut mencakup hal-hal berikut:<lf>・	Jika kamu memainkan permainan lain yang diterbitkan oleh kami menggunakan akun platform yang sama seperti di permainan ini, informasi yang dikumpulkan dari permainan tersebut<lf>・	Jika kamu menulis dan menerbitkan ulasan permainan ini di layanan penyedia platform menggunakan akun platform yang sama seperti di permainan ini, informasi terkait ulasan tersebut<lf><lf>*Saat kamu menggunakan layanan akun bersama kami CAPCOM ID untuk gameplay, informasi tersebut dapat digabungkan dengan informasi yang kamu berikan saat menggunakan layanan lain yang memenuhi syarat CAPCOM ID dan digunakan untuk analisis.<lf><lf>●Lainnya:<lf>・	Terlepas dari negara tempat tinggalmu, informasi yang dikumpulkan akan dikirim ke dan disimpan di server di Jepang yang dikelola oleh Capcom, serta di server di Jepang dan Amerika Serikat yang dioperasikan oleh penyedia cloud yang dikontrak oleh Capcom.<lf><lf>・	Persetujuan untuk pemrosesan data untuk tujuan analitis tidak wajib, dan kamu bebas memilih apakah akan menyetujui atau tidak. Bahkan jika kamu memilih untuk tidak menyetujui, gameplay-mu tidak akan terpengaruh.<lf><lf>・	Kamu dapat mengubah pilihan Setuju/Tidak Setuju kapan saja dari dalam permainan ini.<lf><lf>Mengenai penanganan informasi pribadi, semua hal yang tidak dijelaskan sebelumnya mengikuti Capcom Games Privacy Policy (Console and PC games). Pastikan untuk meninjau kebijakan tersebut sebelum memberikan persetujuan.
 <string>RE NET Homepage: https://www.residentevil.net/requiem/
 <string>RE NET Homepage
-<string>Akses halaman web untuk melihat informasi di RE NET.<lf><lf>RE NET adalah layanan gratis sepenuhnya yang memberimu<lf>pandangan lebih dalam ke dunia BIOHAZARD. Kirim data<lf>permainanmu untuk mendapatkan akses ke berbagai<lf>layanan, termasuk melihat statistik game-mu sendiri<lf>dan statistik game keseluruhan dari pemain lain.<lf><lf>Data permainan yang dikirim ke RE NET dapat digunakan<lf>untuk pengembangan di masa depan.
-<string>Akses halaman web untuk melihat informasi di RE NET.<lf><lf>RE NET adalah layanan gratis sepenuhnya yang memberimu<lf>pandangan lebih dalam ke dunia Resident Evil. Kirim data<lf>permainanmu untuk mendapatkan akses ke berbagai<lf>layanan, termasuk melihat statistik game-mu sendiri<lf>dan statistik game keseluruhan dari pemain lain.<lf><lf>Data permainan yang dikirim ke RE NET dapat digunakan<lf>untuk pengembangan di masa depan.
+<string>Akses halaman web untuk melihat informasi di RE NET.<lf><lf>RE NET adalah layanan gratis sepenuhnya yang memberimu<lf>pandangan lebih dalam ke dunia BIOHAZARD. Kirim data<lf>permainanmu untuk mendapatkan akses ke berbagai<lf>layanan, termasuk melihat statistik permainan-mu sendiri<lf>dan statistik permainan keseluruhan dari pemain lain.<lf><lf>Data permainan yang dikirim ke RE NET dapat digunakan<lf>untuk pengembangan di masa depan.
+<string>Akses halaman web untuk melihat informasi di RE NET.<lf><lf>RE NET adalah layanan gratis sepenuhnya yang memberimu<lf>pandangan lebih dalam ke dunia Resident Evil. Kirim data<lf>permainanmu untuk mendapatkan akses ke berbagai<lf>layanan, termasuk melihat statistik permainan-mu sendiri<lf>dan statistik permainan keseluruhan dari pemain lain.<lf><lf>Data permainan yang dikirim ke RE NET dapat digunakan<lf>untuk pengembangan di masa depan.
 <string>Akses URL di bawah ini di PC atau smartphone-mu untuk pergi ke halaman utama RE NET.
 <string>https://www.residentevil.net/requiem/
 <string>Kebijakan Privasi: https://www.capcom.co.jp/privacy/game/
@@ -140,25 +140,25 @@
 <string>Situs Web
 <string>Silakan masukkan usiamu.
 <string>Silakan masukkan usiamu.<lf>Informasi ini diminta sebagai bagian dari langkah internal kami untuk memastikan kepatuhan hukum.
-<string>Hubungkan akun game-mu dan CAPCOM ID untuk mengakses RE NET.<lf>RE NET adalah layanan gratis yang memungkinkanmu menyelami lebih dalam dunia BIOHAZARD.<lf>Dengan mengirim data permainanmu, kamu dapat meninjau statistikmu dan membandingkannya dengan<lf>pengguna lain. Datamu juga akan digunakan untuk meningkatkan judul-judul di masa depan.<lf><lf>Kamu tetap dapat memainkan game tanpa menghubungkan akun game-mu.
-<string>Hubungkan akun game-mu dan CAPCOM ID untuk mengakses RE NET.<lf>RE NET adalah layanan gratis yang memungkinkanmu menyelami lebih dalam dunia Resident Evil.<lf>Dengan mengirim data permainanmu, kamu dapat meninjau statistikmu dan membandingkannya dengan<lf>pengguna lain. Datamu juga akan digunakan untuk meningkatkan judul-judul di masa depan.<lf><lf>Kamu tetap dapat memainkan game tanpa menghubungkan akun game-mu.
+<string>Hubungkan akun permainan-mu dan CAPCOM ID untuk mengakses RE NET.<lf>RE NET adalah layanan gratis yang memungkinkanmu menyelami lebih dalam dunia BIOHAZARD.<lf>Dengan mengirim data permainanmu, kamu dapat meninjau statistikmu dan membandingkannya dengan<lf>pengguna lain. Datamu juga akan digunakan untuk meningkatkan judul-judul di masa depan.<lf><lf>Kamu tetap dapat memainkan permainan tanpa menghubungkan akun permainan-mu.
+<string>Hubungkan akun permainan-mu dan CAPCOM ID untuk mengakses RE NET.<lf>RE NET adalah layanan gratis yang memungkinkanmu menyelami lebih dalam dunia Resident Evil.<lf>Dengan mengirim data permainanmu, kamu dapat meninjau statistikmu dan membandingkannya dengan<lf>pengguna lain. Datamu juga akan digunakan untuk meningkatkan judul-judul di masa depan.<lf><lf>Kamu tetap dapat memainkan permainan tanpa menghubungkan akun permainan-mu.
 <string>Registrasi CAPCOM ID
-<string>Akun game-mu dapat dihubungkan ke CAPCOM ID-mu.
-<string>1. Pergi ke situs web CAPCOM ID melalui URL berikut dan daftarkan CAPCOM ID-mu.<lf><lf>2. Kamu dapat menghubungkan CAPCOM ID yang terdaftar dengan akun game-mu. Lanjut ke langkah berikutnya setelah kamu mendaftarkan CAPCOM ID-mu.
+<string>Akun permainan-mu dapat dihubungkan ke CAPCOM ID-mu.
+<string>1. Pergi ke situs web CAPCOM ID melalui URL berikut dan daftarkan CAPCOM ID-mu.<lf><lf>2. Kamu dapat menghubungkan CAPCOM ID yang terdaftar dengan akun permainan-mu. Lanjut ke langkah berikutnya setelah kamu mendaftarkan CAPCOM ID-mu.
 <string><COLOR preset="TextColor0">Silakan kembali ke menu Opsi jika kamu berhasil menghubungkan akunmu.</COLOR>
 <string>https://cid.capcom.com
-<string>Hubungkan Akun Game
+<string>Hubungkan Akun Permainan
 <string>Cara menghubungkan CAPCOM ID-mu
 <string>1. Pindai kode 2D di sebelah kiri menggunakan kamera smartphonemu, atau aplikasi serupa, untuk mengakses situs web resmi CAPCOM ID.
 <string>2. Masuk ke situs web CAPCOM ID dan kode registrasi akan diterbitkan.
 <string>3. Masukkan kode registrasi ke kolom di bawah ini dan tekan tombolnya.
 <string>Masukkan kode registrasimu
 <string>Hubungkan
-<string>Hubungkan CAPCOM ID dan Akun Game-mu
-<string>Kamu dapat merasakan dunia BIOHAZARD lebih dalam ketika<lf>kamu menghubungkan akun game-mu dengan CAPCOM ID-mu. Kamu akan<lf>dapat mengakses layanan RE NET, yang sepenuhnya gratis.<lf><lf>Game dapat dimainkan tanpa menghubungkan akun game-mu.
-<string>Kamu dapat merasakan dunia Resident Evil lebih dalam<lf>ketika kamu menghubungkan akun game-mu dengan CAPCOM ID-mu.<lf>Kamu akan dapat mengakses layanan RE NET, yang<lf>sepenuhnya gratis.<lf><lf>Game dapat dimainkan tanpa menghubungkan akun game-mu.
-<string>https://manual.capcom.com/eula/game/
-<string>Perjanjian Lisensi Pengguna Akhir (https://manual.capcom.com/eula/game/)
+<string>Hubungkan CAPCOM ID dan Akun Permainan-mu
+<string>Kamu dapat merasakan dunia BIOHAZARD lebih dalam ketika<lf>kamu menghubungkan akun permainan-mu dengan CAPCOM ID-mu. Kamu akan<lf>dapat mengakses layanan RE NET, yang sepenuhnya gratis.<lf><lf>Permainan dapat dimainkan tanpa menghubungkan akun permainan-mu.
+<string>Kamu dapat merasakan dunia Resident Evil lebih dalam<lf>ketika kamu menghubungkan akun permainan-mu dengan CAPCOM ID-mu.<lf>Kamu akan dapat mengakses layanan RE NET, yang<lf>sepenuhnya gratis.<lf><lf>Permainan dapat dimainkan tanpa menghubungkan akun permainan-mu.
+<string>https://manual.capcom.com/eula/permainan/
+<string>Perjanjian Lisensi Pengguna Akhir (https://manual.capcom.com/eula/permainan/)
 <string>Akses halaman web untuk melihat<lf>Perjanjian Lisensi Pengguna Akhir.
 <string>BIOHAZARD requiem
 <string>RESIDENT EVIL requiem
@@ -168,6 +168,6 @@
 <string>Catatan: Ada batas waktu untuk demo.
 <string>27/2/2026
 <string>Terima kasih sudah bermain!
-<string>Game ini saat ini sedang dalam pengembangan.<lf>Beberapa fungsionalitas atau aspek dari game mungkin berbeda dari versi final.
+<string>Permainan ini saat ini sedang dalam pengembangan.<lf>Beberapa fungsionalitas atau aspek dari permainan mungkin berbeda dari versi final.
 <string>Kamu dapat memperoleh skin senjata dengan menggunakan amiibo BIOHAZARD requiem.
 <string>Kamu dapat memperoleh skin senjata dengan menggunakan amiibo Resident Evil Requiem.

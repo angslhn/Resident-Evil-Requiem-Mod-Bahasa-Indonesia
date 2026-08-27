@@ -1,7 +1,7 @@
 <string>Lanjutkan dengan pengaturan ini?
 <string>Berikut dapat diatur melalui tab Aksesibilitas<lf>di menu Opsi:<lf>- Preset untuk Aksesibilitas Auditori<lf>- Preset untuk Aksesibilitas Visual<lf>- Preset untuk Aksesibilitas Fisik<lf>- Preset untuk Mabuk Gerakan
 <string>Mulai ulang dari data tersimpan terakhir?
-<string>Tutup game?
+<string>Tutup permainan?
 <string>Hubungkan ke Nintendo eShop?
 <string>Apakah kamu ingin menyimpan progresmu?
 <string>Reset semua opsi ke pengaturan default?
@@ -16,7 +16,7 @@
 <string>Aktifkan HDR?
 <string>Beralih ke Mode HDR.<lf>Kecerahan dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Tampilan → Kecerahan.
 <string>Beralih ke Mode SDR.<lf>Kecerahan dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Tampilan → Kecerahan.
-<string>Gagal mengaktifkan HDR.<lf>Memulai game dengan Mode HDR dimatikan.
+<string>Gagal mengaktifkan HDR.<lf>Memulai permainan dengan Mode HDR dimatikan.
 <string>Terapkan perubahan berikut?<lf><lf>HUD<lf>- Ukuran HUD: Besar<lf>- Ukuran Teks Menu: Besar<lf><lf>Bahasa<lf>- Ukuran Subtitle: Besar<lf>- Latar Belakang Subtitle: Hidup
 <string>Terapkan perubahan berikut?<lf><lf>Bahasa<lf>- Subtitle: Hidup<lf>- Closed Caption: Hidup<lf>- Tampilan Nama Pembicara: Hidup
 <string>Terapkan perubahan berikut?<lf><lf>Kontrol<lf>- Tipe Input Berulang: Tahan<lf>- Perlambatan Reticle: 10<lf>- Getaran Kontroler: Mati<lf>- Trigger Adaptif: Mati
@@ -60,11 +60,11 @@
 <string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it20_00_005><lf>- Berbagai item lainnya
 <string>Item berikut ditambahkan ke kotak itemmu.
 <string>Item berikut ditambahkan ke kotak perbekalanmu.
-<string>Apakah kamu ingin mengubah mode game ke Santai?<lf><lf>Catatan: Setelah diubah, ini tidak dapat dibatalkan.
+<string>Apakah kamu ingin mengubah mode permainan ke Santai?<lf><lf>Catatan: Setelah diubah, ini tidak dapat dibatalkan.
 <string>Pilihan Lain
-<string>Kamu dapat kembali ke titik dalam game tepat sebelum<lf>Grace memilih kata sandi untuk Elpis. Apakah kamu ingin<lf>mengubah pilihanmu?<lf><lf>Catatan: Kamu tidak akan kehilangan konten apa pun yang diterima dari<lf>menyelesaikan game.
+<string>Kamu dapat kembali ke titik dalam permainan tepat sebelum<lf>Grace memilih kata sandi untuk Elpis. Apakah kamu ingin<lf>mengubah pilihanmu?<lf><lf>Catatan: Kamu tidak akan kehilangan konten apa pun yang diterima dari<lf>menyelesaikan permainan.
 <string>Permainan Kedua
-<string>Simpan Data Selesai?<lf><lf>Saat kamu memuat Data Selesai<lf>beberapa hal akan terbawa dari<lf>game yang kamu selesaikan.
+<string>Simpan Data Selesai?<lf><lf>Saat kamu memuat Data Selesai<lf>beberapa hal akan terbawa dari<lf>permainan yang kamu selesaikan.
 <string>Penyimpanan Data Selesai berhasil.
 <string>Selamat!<lf>Kamu membiarkan pasangan manis itu mendengar suara tersebut.<lf>Mohon periksa Tantangan.
 <string>Berikut telah ditambahkan.
@@ -75,7 +75,7 @@
 <string>Terbuka
 <string>Konten Ditambahkan
 <string>Hadiah Penyelesaian:
-<string>Mode Insanity terbuka.<lf>(Tersedia saat memulai game baru.)
+<string>Mode Insanity terbuka.<lf>(Tersedia saat memulai permainan baru.)
 <string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Video di Balik Layar
 <string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Laporan Grace
 <string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Video di Balik Layar<lf>- Laporan Grace
@@ -101,66 +101,66 @@
 <string>Amiibo ini tidak kompatibel.
 <string>Bonus amiibo ini telah diperoleh.
 <string>Mulai ulang dari simpanan sebelumnya?<lf>(Data yang belum disimpan akan hilang.)
-<string>Keluar dari game dan kembali ke menu utama?<lf>(Data yang belum disimpan akan hilang.)
+<string>Keluar dari permainan dan kembali ke menu utama?<lf>(Data yang belum disimpan akan hilang.)
 <string>Lompat ke halaman utama RE NET?
 <string>Kamu dapat mengubah pengaturan ini melalui Jaringan di<lf>menu Opsi.
-<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan tutup game atau matikan daya<lf>saat ikon di atas ditampilkan.
-<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsol PlayStation®5-mu<lf>saat ikon di atas ditampilkan.
-<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsolmu saat<lf>ikon di atas ditampilkan.
-<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan tutup game saat ikon di atas ditampilkan.
+<string>Permainan ini memiliki fitur simpan otomatis.<lf>Jangan tutup permainan atau matikan daya<lf>saat ikon di atas ditampilkan.
+<string>Permainan ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsol PlayStation®5-mu<lf>saat ikon di atas ditampilkan.
+<string>Permainan ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsolmu saat<lf>ikon di atas ditampilkan.
+<string>Permainan ini memiliki fitur simpan otomatis.<lf>Jangan tutup permainan saat ikon di atas ditampilkan.
 <string>Muat data simpanan?
 <string>Data simpanan ini rusak dan tidak dapat digunakan.
 <string>Gagal memuat data simpanan.
 <string>Data simpanan yang dapat dimuat tidak ditemukan.
 <string>Data simpanan ini tidak kompatibel dan tidak dapat digunakan.
-<string>Menyimpan...<lf>Mohon jangan tutup game.
-<string>Sudah ada game tersimpan di slot ini.<lf>Timpa data simpanan?
+<string>Menyimpan...<lf>Mohon jangan tutup permainan.
+<string>Sudah ada permainan tersimpan di slot ini.<lf>Timpa data simpanan?
 <string>Slot simpanan yang kamu pilih memiliki Data Selesai.<lf>Ini akan hilang jika kamu menimpa data simpananmu.<lf>Timpa data simpanan?
 <string>Pita tinta diperlukan untuk menyimpan.<lf>Gunakan <COLOR preset="TextColor0">pita tinta</COLOR>?<lf>(Tersedia: {0})
 <string>Sudah ada data simpanan di slot ini.<lf>Gunakan <COLOR preset="TextColor0">pita tinta</COLOR> untuk menimpa data simpanan ini?<lf>(Tersedia: {0})
-<string>Kamu tidak memiliki cukup ruang kosong.<lf>Untuk menyimpan game-mu, kamu harus memiliki setidaknya<lf>{0} KB ruang tersedia dan membuat data simpanan baru.
-<string>Gagal menyimpan game.
+<string>Kamu tidak memiliki cukup ruang kosong.<lf>Untuk menyimpan permainan-mu, kamu harus memiliki setidaknya<lf>{0} KB ruang tersedia dan membuat data simpanan baru.
+<string>Gagal menyimpan permainan.
 <string>Penyimpanan berhasil.
 <string>Batalkan penyimpanan?
 <string>Gagal menyimpan data sistem.
-<string>Menyimpan data sistem.<lf>Mohon jangan tutup game.
-<string>Kamu dapat memulai Game Baru dengan membawa datamu<lf>dengan memuat Data Selesai.
+<string>Menyimpan data sistem.<lf>Mohon jangan tutup permainan.
+<string>Kamu dapat memulai Permainan Baru dengan membawa datamu<lf>dengan memuat Data Selesai.
 <string>Kembali ke menu utama tanpa menyimpan?<lf>(Data Selesaimu tidak akan disimpan.)
 <string>Penyimpanan Data Selesai berhasil.
-<string>Simpan Data Selesai?<lf><lf>Beberapa hal akan terbawa dari game yang kamu<lf>selesaikan saat kamu memuat Data Selesai.
+<string>Simpan Data Selesai?<lf><lf>Beberapa hal akan terbawa dari permainan yang kamu<lf>selesaikan saat kamu memuat Data Selesai.
 <string>Kamu akan kehilangan Data Selesaimu.<lf><lf>Apakah kamu ingin melanjutkan tanpa menyimpan?
 <string>Batalkan penyimpanan?<lf><lf>Jika kamu membatalkan, progres yang belum disimpan tidak akan disimpan.
 <string>Data simpanan dimuat.
-<string>Kembali ke menu utama tanpa menyimpan?<lf><lf>Jika kamu mengakhiri game tanpa menyimpan,<lf>semua progres yang belum disimpan akan hilang.
+<string>Kembali ke menu utama tanpa menyimpan?<lf><lf>Jika kamu mengakhiri permainan tanpa menyimpan,<lf>semua progres yang belum disimpan akan hilang.
 <string>
 <string>Mentransfer data simpanan akan menimpa data yang saat ini<lf>tersimpan. Tindakan ini tidak dapat dibatalkan.<lf><lf>Transfer data simpanan?
 <string>Tidak dapat menemukan data simpanan sistem.
 <string>Data simpanan berhasil ditimpa.<lf>Kembali ke layar judul.
-<string>CAPCOM ID terhubung ke akun game.
-<string>Tidak dapat menghubungkan CAPCOM ID ke akun game.
+<string>CAPCOM ID terhubung ke akun permainan.
+<string>Tidak dapat menghubungkan CAPCOM ID ke akun permainan.
 <string>Mohon terbitkan ulang kode registrasimu.
 <string>Mohon masukkan kode 4 digit.
-<string>Kamu dapat menghubungkan akun game-mu kapan saja melalui Jaringan<lf>di menu Opsi.
-<string>Akun game ini sekarang telah terhubung.
-<string>Data game belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.
-<string>Data game belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.<lf><lf>Setelah diunduh, mohon pilih Lanjutkan di<lf>menu utama jika kamu ingin bermain dari simpan otomatis.
-<string>Mohon perhatikan bahwa data simpan otomatis<lf>akan ditimpa saat kamu<lf>memulai Game Baru atau Memuat data simpanan.
+<string>Kamu dapat menghubungkan akun permainan-mu kapan saja melalui Jaringan<lf>di menu Opsi.
+<string>Akun permainan ini sekarang telah terhubung.
+<string>Data permainan belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.
+<string>Data permainan belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.<lf><lf>Setelah diunduh, mohon pilih Lanjutkan di<lf>menu utama jika kamu ingin bermain dari simpan otomatis.
+<string>Mohon perhatikan bahwa data simpan otomatis<lf>akan ditimpa saat kamu<lf>memulai Permainan Baru atau Memuat data simpanan.
 <string>Unduhan masih berlangsung.<lf>Mohon tunggu hingga unduhan selesai.
 <string>Tipe Kontrol diatur ke Default.<lf>Atur Tipe Kontrol ke Custom A<lf>atau Custom B untuk mengubah konfigurasi.
-<string><COLOR preset="TextColor1">Ada <PLURAL {0} "aksi yang belum diatur" "{0} aksi yang belum diatur">.</COLOR><lf>Atur sisa <PLURAL {0} "aksi" "aksi"> atau pulihkan <PLURAL {0} "ke pengaturan default" "ke pengaturan default">.<lf><lf>Pulihkan ke default dan kembali ke game?
+<string><COLOR preset="TextColor1">Ada <PLURAL {0} "aksi yang belum diatur" "{0} aksi yang belum diatur">.</COLOR><lf>Atur sisa <PLURAL {0} "aksi" "aksi"> atau pulihkan <PLURAL {0} "ke pengaturan default" "ke pengaturan default">.<lf><lf>Pulihkan ke default dan kembali ke permainan?
 <string>Reset semua konfigurasi ke pengaturan default?
 <string>Apakah kamu ingin menyimpan perubahanmu?
-<string><COLOR preset="TextColor1">Ada <PLURAL {0} "penetapan duplikat" "{0} penetapan duplikat">.</COLOR><lf>Beberapa perintah tidak dapat ditetapkan ke tombol yang sama.<lf><lf>Kembali ke game tanpa menyimpan?
+<string><COLOR preset="TextColor1">Ada <PLURAL {0} "penetapan duplikat" "{0} penetapan duplikat">.</COLOR><lf>Beberapa perintah tidak dapat ditetapkan ke tombol yang sama.<lf><lf>Kembali ke permainan tanpa menyimpan?
 <string>Kamu keluar dari jaringan Xbox.
 <string>Kamu tidak masuk ke PlayStation™Network.
 <string>Kamu tidak masuk ke jaringan Xbox.
 <string>Gagal mengirim data permainan.
 <string>Gagal mengirim data permainan.<lf>Pengiriman data permainan akan ditangguhkan sementara.<lf><lf>Pengiriman data permainan akan dilanjutkan saat kamu<lf>pergi ke menu utama atau opsi.
 <string>Data permainan tidak dapat dikirim tanpa koneksi jaringan.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
-<string>Memeriksa konten unduhan.<lf>Mohon jangan matikan game-mu.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa konten unduhan.<lf>Mohon jangan matikan permainan-mu.
 <string>Kostum berikut telah ditambahkan.
 <string>Skin senjata berikut telah ditambahkan.
 <string>Item berikut telah ditambahkan.
@@ -172,10 +172,10 @@
 <string>Kamu dapat mengakses konten ini setelah<lf>maju melewati titik tertentu.
 <string>Tidak dapat menemukan data berikut:
 <string>Mohon unduh ulang datanya.
-<string>Add-on dari wilayah lain tidak dapat<lf>digunakan karena berbeda dari versi<lf>game ini.
-<string>Gagal masuk ke Epic Games Launcher.<lf>Game akan segera ditutup.
-<string>Koneksi ke Epic Games Launcher terputus.<lf>Game akan segera ditutup.
-<string>Game ini memerlukan koneksi online untuk dimainkan.<lf>Karena kamu offline, game akan segera ditutup.
+<string>Add-on dari wilayah lain tidak dapat<lf>digunakan karena berbeda dari versi<lf>permainan ini.
+<string>Gagal masuk ke Epic Games Launcher.<lf>Permainan akan segera ditutup.
+<string>Koneksi ke Epic Games Launcher terputus.<lf>Permainan akan segera ditutup.
+<string>Permainan ini memerlukan koneksi online untuk dimainkan.<lf>Karena kamu offline, permainan akan segera ditutup.
 <string>Pengaturan grafis diubah ke level terendah.
 <string>Perjanjian Lisensi Pengguna Akhir
 <string>Kamu dapat melihat Perjanjian Lisensi Pengguna Akhir dengan mengklik<lf>URL di bawah ini saat terhubung ke internet.<lf>Mohon pastikan untuk membaca isinya dengan saksama<lf>dan menyetujui sebelum melanjutkan.

@@ -8,4 +8,4 @@
 <string>50%
 <string>100%
 <string>200%
-<string>Tutup game.
+<string>Tutup permainan.

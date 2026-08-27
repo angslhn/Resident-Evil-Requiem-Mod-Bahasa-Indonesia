@@ -15,7 +15,7 @@
 <string>Tahan
 <string>Trigger Adaptif
 <string>Kunci Kursor
-<string>Aktifkan/nonaktifkan kunci kursor (membatasi mouse ke layar game).
+<string>Aktifkan/nonaktifkan kunci kursor (membatasi mouse ke layar permainan).
 <string>Pembalikan Tombol Mouse
 <string>Balik fungsi tombol kiri/kanan mouse.
 <string>Pembalikan Roda Gulir Mouse

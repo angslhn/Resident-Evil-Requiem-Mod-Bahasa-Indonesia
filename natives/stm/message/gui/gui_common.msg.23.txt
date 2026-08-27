@@ -141,7 +141,7 @@
 <string><ICON SHARPEN> Asah
 <string><ICON AREA_LEFT> / <ICON AREA_RIGHT> Pindahkan Slot Item
 <string><ICON DECIDE> Jeda / Putar
-<string><ICON OPTION_RESET> Ubah Mode Game
+<string><ICON OPTION_RESET> Ubah Mode Permainan
 <string><ICON DECIDE> Pasang Gantungan
 <string><ICON DECIDE> Lepas Gantungan
 <string><ICON DECIDE> Lengkapi

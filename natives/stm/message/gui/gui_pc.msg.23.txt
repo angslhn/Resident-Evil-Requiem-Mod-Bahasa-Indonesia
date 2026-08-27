@@ -125,7 +125,7 @@
 <string>{0}. {1}
 <string>Penggunaan VRAM
 <string>Beban Pemrosesan
-<string>Penggunaan Game
+<string>Penggunaan Permainan
 <string>Aplikasi Lain
 <string><COLOR preset="TextColor1">Dapat menyebabkan stutter karena beban pemrosesan yang tinggi.</COLOR>
 <string><COLOR preset="TextColor1">Dapat menyebabkan perilaku tak terduga karena penggunaan memori yang tinggi.</COLOR>

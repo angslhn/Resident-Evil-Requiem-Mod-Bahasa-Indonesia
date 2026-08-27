@@ -2,7 +2,7 @@
 <string>Tidak ada kontroler ditemukan.<lf>Sambungkan kontroler ke konsol<lf>dan tekan <ICON R_D>.
 <string>
 <string>
-<string>Ketidaksesuaian data terdeteksi.<lf>Mohon mulai ulang game.
+<string>Ketidaksesuaian data terdeteksi.<lf>Mohon mulai ulang permainan.
 <string>Menghubungkan ke jaringan.
 <string>Tidak dapat terhubung ke jaringan.
 <string>Koneksi jaringan terputus.

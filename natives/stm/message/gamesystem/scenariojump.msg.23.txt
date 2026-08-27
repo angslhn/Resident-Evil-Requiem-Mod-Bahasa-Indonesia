@@ -124,7 +124,7 @@
 <string>c351s910: Dari Rhodes Hill ke Raccoon City
 <string>Sebelum pemadaman: di luar ruang aman
 <string>Setelah pemadaman: sebelum turun
-<string>[Jangan digunakan - akan membuat game crash]
+<string>[Jangan digunakan - akan membuat permainan crash]
 <string>B1F: Setelah memulihkan daya
 <string>Setelah memulihkan daya: sebelum ruang aman
 <string>c410s200: Leon Menuju Raccoon City Bagian 1

@@ -1,10 +1,10 @@
-<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan tutup game saat ikon di atas ditampilkan.
+<string>Permainan ini memiliki fitur simpan otomatis.<lf>Jangan tutup permainan saat ikon di atas ditampilkan.
 <string>Gagal memuat data sistem.
-<string>Tidak dapat memuat data sistem.<lf><lf>Hapus semua data simpanan game dan mulai ulang game.<lf>Memulai ulang tanpa menghapus data akan mengakibatkan<lf>data simpanan tidak dapat dimuat.
-<string>Tidak ada cukup ruang tersedia di disk drive-mu.<lf>Untuk menyimpan game-mu, kamu harus memiliki setidaknya<lf>{0} MB ruang tersedia.
-<string>Tidak ada cukup ruang tersedia di penyimpanan<lf>konsol PlayStation®5. Untuk menyimpan game-mu, kamu harus<lf>memiliki setidaknya {0} MB ruang tersedia.
-<string>Tidak ada cukup ruang tersedia di penyimpanan<lf>konsol Xbox Series X|S. Untuk menyimpan game-mu, kamu harus<lf>memiliki setidaknya {0} MB ruang tersedia.
-<string>Tidak ada cukup ruang tersedia di memori sistem<lf>konsol Nintendo Switch 2. Untuk menyimpan game-mu, kamu<lf>harus memiliki setidaknya {0} MB ruang tersedia.
-<string>Mentransfer data simpanan.<lf>Mohon jangan matikan game-mu.
-<string>Data simpananmu tidak dapat digunakan karena tidak kompatibel<lf>dengan versi game ini. Mohon perbarui game ke<lf>versi terbaru.
-<string>Data simpananmu tidak dapat digunakan karena tidak kompatibel<lf>dengan versi game ini. Mohon perbarui game ke<lf>versi terbaru. Jika kamu memulai game tanpa memperbarui, data<lf>simpananmu akan ditimpa.
+<string>Tidak dapat memuat data sistem.<lf><lf>Hapus semua data simpanan permainan dan mulai ulang permainan.<lf>Memulai ulang tanpa menghapus data akan mengakibatkan<lf>data simpanan tidak dapat dimuat.
+<string>Tidak ada cukup ruang tersedia di disk drive-mu.<lf>Untuk menyimpan permainan-mu, kamu harus memiliki setidaknya<lf>{0} MB ruang tersedia.
+<string>Tidak ada cukup ruang tersedia di penyimpanan<lf>konsol PlayStation®5. Untuk menyimpan permainan-mu, kamu harus<lf>memiliki setidaknya {0} MB ruang tersedia.
+<string>Tidak ada cukup ruang tersedia di penyimpanan<lf>konsol Xbox Series X|S. Untuk menyimpan permainan-mu, kamu harus<lf>memiliki setidaknya {0} MB ruang tersedia.
+<string>Tidak ada cukup ruang tersedia di memori sistem<lf>konsol Nintendo Switch 2. Untuk menyimpan permainan-mu, kamu<lf>harus memiliki setidaknya {0} MB ruang tersedia.
+<string>Mentransfer data simpanan.<lf>Mohon jangan matikan permainan-mu.
+<string>Data simpananmu tidak dapat digunakan karena tidak kompatibel<lf>dengan versi permainan ini. Mohon perbarui permainan ke<lf>versi terbaru.
+<string>Data simpananmu tidak dapat digunakan karena tidak kompatibel<lf>dengan versi permainan ini. Mohon perbarui permainan ke<lf>versi terbaru. Jika kamu memulai permainan tanpa memperbarui, data<lf>simpananmu akan ditimpa.

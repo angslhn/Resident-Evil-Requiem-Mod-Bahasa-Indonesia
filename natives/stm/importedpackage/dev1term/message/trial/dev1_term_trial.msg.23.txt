@@ -1,2 +1,2 @@
-<string>Game ini saat ini sedang dalam pengembangan.<lf>Beberapa fungsionalitas atau aspek dari game mungkin tidak berfungsi sebagaimana mestinya.<lf>Dukungan Pelanggan juga tidak tersedia saat ini. Terima kasih atas kerja samamu.
-<string>Hentikan game dan kembali ke menu utama?
+<string>Permainan ini saat ini sedang dalam pengembangan.<lf>Beberapa fungsionalitas atau aspek dari permainan mungkin tidak berfungsi sebagaimana mestinya.<lf>Dukungan Pelanggan juga tidak tersedia saat ini. Terima kasih atas kerja samamu.
+<string>Hentikan permainan dan kembali ke menu utama?

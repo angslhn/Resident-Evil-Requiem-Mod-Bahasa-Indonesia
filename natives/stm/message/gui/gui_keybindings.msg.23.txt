@@ -27,7 +27,7 @@
 <string>Menu Item
 <string>Buka/tutup menu Item.
 <string>Menu Jeda
-<string>Buka menu Jeda untuk menjeda game.
+<string>Buka menu Jeda untuk menjeda permainan.
 <string>Jongkok
 <string>Memungkinkanmu untuk jongkok.
 <string>Bidik

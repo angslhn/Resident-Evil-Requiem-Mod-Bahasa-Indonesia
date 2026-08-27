@@ -2,12 +2,12 @@
 <string>MENU JEDA
 <string>Mulai Ulang
 <string>Keluar
-<string>Kembali ke Game
+<string>Kembali ke Permainan
 <string>Lewati
 <string>Coba Lagi
-<string>Mulai game dari data tersimpan terbarumu.
+<string>Mulai permainan dari data tersimpan terbarumu.
 <string>Kembali ke menu utama.
-<string>Kembali ke game.
+<string>Kembali ke permainan.
 <string>Lewati cutscene.
 <string>Lewati film.
 <string>Tutorial
