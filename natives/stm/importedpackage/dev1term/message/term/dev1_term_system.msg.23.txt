@@ -1,9 +1,9 @@
-<string>Controller has been disconnected.<lf>Please reconnect.
-<string>No controller found.<lf>Connect a controller to the console<lf>and press <ICON R_D>.
+<string>Kontroler telah terputus.<lf>Mohon sambungkan kembali.
+<string>Tidak ada kontroler ditemukan.<lf>Sambungkan kontroler ke konsol<lf>dan tekan <ICON R_D>.
 <string>
 <string>
-<string>Data inconsistency has been detected.<lf>Please restart the game.
-<string>Connecting to the network.
-<string>Could not connect to the network.
-<string>Network connection has been lost.
-<string>You have been signed out of PlayStation™Network.
+<string>Ketidaksesuaian data terdeteksi.<lf>Mohon mulai ulang game.
+<string>Menghubungkan ke jaringan.
+<string>Tidak dapat terhubung ke jaringan.
+<string>Koneksi jaringan terputus.
+<string>Kamu telah keluar dari PlayStation™Network.

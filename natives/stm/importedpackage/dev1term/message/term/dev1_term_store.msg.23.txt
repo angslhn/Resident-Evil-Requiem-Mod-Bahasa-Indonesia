@@ -1,11 +1,11 @@
-<string>Online Store
+<string>Toko Online
 <string>PlayStation®Store
 <string>Microsoft Store
 <string>Nintendo eShop
-<string>Go to the online store.
-<string>Go to PlayStation®Store.
-<string>Go to the Microsoft Store.
-<string>Go to Nintendo eShop.
-<string>Connect to the online store?
-<string>Connect to PlayStation®Store?
-<string>Connect to the Microsoft Store?
+<string>Pergi ke toko online.
+<string>Pergi ke PlayStation®Store.
+<string>Pergi ke Microsoft Store.
+<string>Pergi ke Nintendo eShop.
+<string>Hubungkan ke toko online?
+<string>Hubungkan ke PlayStation®Store?
+<string>Hubungkan ke Microsoft Store?

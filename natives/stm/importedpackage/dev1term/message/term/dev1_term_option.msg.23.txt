@@ -1,114 +1,114 @@
-<string>Standard
-<string>Invert Y-axis
-<string>Invert X-axis
-<string>Invert X and Y Axes
-<string>Weak
-<string>Strong
+<string>Standar
+<string>Balik Sumbu Y
+<string>Balik Sumbu X
+<string>Balik Sumbu X dan Y
+<string>Lemah
+<string>Kuat
 <string>Normal
-<string>Hold
-<string>Tap Repeatedly
-<string>Small
-<string>Large
-<string>CONTROLS
-<string>Controller Vibration
+<string>Tahan
+<string>Ketuk Berulang
+<string>Kecil
+<string>Besar
+<string>KONTROL
+<string>Getaran Kontroler
 <string>Toggle
-<string>Hold
-<string>Adaptive Triggers
-<string>Cursor Lock
-<string>Turn the cursor lock (constraining the mouse to the game screen) on/off.
-<string>Mouse Buttons Inversion
-<string>Invert the left/right mouse button functionality.
-<string>Mouse Scroll Wheel Inversion
-<string>Invert the up/down mouse scroll wheel functionality.
-<string>Button Icon Type
-<string>Button icons will be changed to the following:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B>
-<string>CAMERA
-<string>Aim Assist
-<string>GRAPHICS
-<string>Texture Quality
+<string>Tahan
+<string>Trigger Adaptif
+<string>Kunci Kursor
+<string>Aktifkan/nonaktifkan kunci kursor (membatasi mouse ke layar game).
+<string>Pembalikan Tombol Mouse
+<string>Balik fungsi tombol kiri/kanan mouse.
+<string>Pembalikan Roda Gulir Mouse
+<string>Balik fungsi roda gulir atas/bawah mouse.
+<string>Tipe Ikon Tombol
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B>
+<string>KAMERA
+<string>Bantuan Bidikan
+<string>GRAFIS
+<string>Kualitas Tekstur
 <string>Ray Tracing
-<string>Upscaling Sharpness
-<string>Adjust the upscaling function to improve<lf>visual clarity.
-<string>Configure settings to optimize upscaling<lf>and maintain high image quality at high<lf>frame rates.
+<string>Ketajaman Upscaling
+<string>Sesuaikan fungsi upscaling untuk meningkatkan<lf>kejelasan visual.
+<string>Konfigurasikan pengaturan untuk mengoptimalkan upscaling<lf>dan mempertahankan kualitas gambar tinggi pada<lf>frame rate tinggi.
 <string>FidelityFX Super Resolution 1
 <string>FidelityFX Super Resolution 2
 <string>FidelityFX Super Resolution 3
 <string>DLSS SUPER RESOLUTION
-<string>Configure settings to improve frame rate by<lf>displaying higher resolution with lower<lf>rendering loads.
-<string>Configure settings to improve frame rate<lf>by generating interpolated frames.
-<string>Configure the function to reduce input latency.
-<string>DISPLAY
-<string>Display Mode
-<string>Change the screen display mode.
-<string>Full Screen
-<string>Window
-<string>Borderless Window
-<string>Output Display Settings
-<string>Select the output display.
-<string>HDR Mode
-<string>Turn HDR Mode on/off.
-<string>Brightness
-<string>Display Area
-<string>Color Space
-<string>Adjust the color to suit your monitor setup.
+<string>Konfigurasikan pengaturan untuk meningkatkan frame rate dengan<lf>menampilkan resolusi lebih tinggi dengan<lf>beban rendering lebih rendah.
+<string>Konfigurasikan pengaturan untuk meningkatkan frame rate<lf>dengan menghasilkan frame interpolasi.
+<string>Konfigurasikan fungsi untuk mengurangi latensi input.
+<string>TAMPILAN
+<string>Mode Tampilan
+<string>Ubah mode tampilan layar.
+<string>Layar Penuh
+<string>Jendela
+<string>Jendela Tanpa Bingkai
+<string>Pengaturan Tampilan Output
+<string>Pilih tampilan output.
+<string>Mode HDR
+<string>Aktifkan/nonaktifkan Mode HDR.
+<string>Kecerahan
+<string>Area Tampilan
+<string>Ruang Warna
+<string>Sesuaikan warna agar sesuai dengan pengaturan monitormu.
 <string>sRGB
 <string>Rec. 709
 <string>Rec. 2020
-<string>Screen Resolution
-<string>Change the screen resolution.
-<string>Select whether to prioritize frame rate or resolution.
-<string>Action/Visuals Priority
-<string>Select whether to prioritize frame rate or resolution.
-<string>Reticle Display
-<string>Reticle Color
-<string>White
-<string>Red
-<string>Blue
-<string>Green
-<string>LANGUAGE
-<string>Subtitles
-<string>Turn subtitles on/off.
-<string>Voice Language
-<string>Change the voice playback language.
-<string>Display Language
-<string>Change the text and menu display language.
-<string>Japanese
-<string>English
-<string>French
-<string>Italian
-<string>German
-<string>European Spanish
-<string>Russian
-<string>Polish
-<string>Brazilian Portuguese
-<string>Traditional Chinese
-<string>Simplified Chinese
-<string>Korean
-<string>Arabic
-<string>Latin American Spanish
-<string>Mandarin Chinese
+<string>Resolusi Layar
+<string>Ubah resolusi layar.
+<string>Pilih apakah akan memprioritaskan frame rate atau resolusi.
+<string>Prioritas Aksi/Visual
+<string>Pilih apakah akan memprioritaskan frame rate atau resolusi.
+<string>Tampilan Reticle
+<string>Warna Reticle
+<string>Putih
+<string>Merah
+<string>Biru
+<string>Hijau
+<string>BAHASA
+<string>Subtitle
+<string>Aktifkan/nonaktifkan subtitle.
+<string>Bahasa Suara
+<string>Ubah bahasa pemutaran suara.
+<string>Bahasa Tampilan
+<string>Ubah bahasa tampilan teks dan menu.
+<string>Jepang
+<string>Inggris
+<string>Prancis
+<string>Italia
+<string>Jerman
+<string>Spanyol Eropa
+<string>Rusia
+<string>Polandia
+<string>Portugis Brasil
+<string>Tionghoa Tradisional
+<string>Tionghoa Sederhana
+<string>Korea
+<string>Arab
+<string>Spanyol Amerika Latin
+<string>Mandarin
 <string>AUDIO
-<string>Master Volume
-<string>Dialogue Voices
-<string>Background Music
-<string>Sound Effects
-<string>Menu Sound Effects
-<string>Change the audio output device.
+<string>Volume Utama
+<string>Suara Dialog
+<string>Musik Latar
+<string>Efek Suara
+<string>Efek Suara Menu
+<string>Ubah perangkat output audio.
 <string>TV
-<string>Headphones
+<string>Headphone
 <string>Home Theater
-<string>Change the volume range to match your surroundings.
-<string>ACCESSIBILITY
-<string>Subtitle Size
-<string>Subtitle Color
-<string>Yellow
-<string>White
-<string>Red
-<string>Blue
-<string>Green
-<string>Subtitle Background
-<string>Speaker Name Display
-<string>Speaker Name Color
-<string>Closed Captions
-<string>Dot Display
-<string>NETWORK
+<string>Ubah rentang volume agar sesuai dengan lingkunganmu.
+<string>AKSESIBILITAS
+<string>Ukuran Subtitle
+<string>Warna Subtitle
+<string>Kuning
+<string>Putih
+<string>Merah
+<string>Biru
+<string>Hijau
+<string>Latar Belakang Subtitle
+<string>Tampilan Nama Pembicara
+<string>Warna Nama Pembicara
+<string>Closed Caption
+<string>Tampilan Titik
+<string>JARINGAN

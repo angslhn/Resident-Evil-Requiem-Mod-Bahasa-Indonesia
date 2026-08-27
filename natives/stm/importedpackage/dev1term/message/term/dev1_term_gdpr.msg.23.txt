@@ -1,6 +1,6 @@
-<string>Agree
-<string>Disagree
-<string>Privacy Policy
-<string>You can view the privacy policy by pressing the<lf>Details button while connected to the internet.<lf><lf>Privacy Policy:<lf>https://www.capcom.co.jp/privacy/game/
-<string>Details
-<string>Is this your correct age?<lf>The age you entered will not affect the content of the game,<lf>but once your age has been confirmed it cannot be changed.
+<string>Setuju
+<string>Tidak Setuju
+<string>Kebijakan Privasi
+<string>Kamu dapat melihat kebijakan privasi dengan menekan<lf>tombol Detail saat terhubung ke internet.<lf><lf>Kebijakan Privasi:<lf>https://www.capcom.co.jp/privacy/game/
+<string>Detail
+<string>Apakah ini usiamu yang benar?<lf>Usia yang kamu masukkan tidak akan memengaruhi konten game,<lf>tetapi setelah usiamu dikonfirmasi, tidak dapat diubah.
