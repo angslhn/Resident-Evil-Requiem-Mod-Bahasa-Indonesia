@@ -110,7 +110,7 @@
 <string>{0} CP
 <string>Alyssa Ashcroft
 <string>{0} CP
-<string>Pria Berkerudung
+<string>Pria Berkuncung
 <string>{0} CP
 <string>Sherry Birkin
 <string>{0} CP

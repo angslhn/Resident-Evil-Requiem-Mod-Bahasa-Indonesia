@@ -1,2 +1,2 @@
 <string>Gantungan Mr. Raccoon
-<string>Gantungan misterius yang bekerja<lf>hanya dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan<lf>presisi dan tingkat serangan kritis</COLOR>.
+<string>Gantungan misterius yang bekerja<lf>hanya dengan memegangnya.<lf><COLOR preset="TextColor3">Meningkatkan presisi dan tingkat serangan kritis</COLOR>.

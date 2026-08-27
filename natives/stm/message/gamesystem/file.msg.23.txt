@@ -1,9 +1,9 @@
 <string>Panduan Kota Wrenwood
 <string>Selamat datang di kota Wrenwood yang indah<lf>dan bersejarah!<lf><lf>Datanglah dan nikmati nostalgia masa lalu<lf>dengan galeri seni yang apik, restoran klasik,<lf>dan banyak toko tempat kamu bisa berbelanja<lf>sampai puas.<lf><lf>Jika kamu ingin menjauh dari hiruk pikuk modern,<lf>Wrenwood adalah tempatnya!
 <string>Pamflet Hotel
-<string>Hotel Wrenwood telah menyambut tamu dari<lf>berbagai kalangan sejak membuka<lf>pintunya pada tahun 1928.<lf><lf>Rasakan pelukan hangat dari sejarah hampir<lf>satu abad bersama dengan tradisi<lf>Wrenwood yang telah teruji waktu.
+<string>Hotel Wrenwood telah menyambut tamu dari<lf>berbagai kalangan sejak membuka pintunya<lf>pada tahun 1928.<lf><lf>Rasakan pelukan hangat dari sejarah hampir<lf>satu abad bersama dengan tradisi Wrenwood<lf>yang telah teruji waktu.
 <string>Pemberitahuan Penutupan
-<string>Kepada seluruh karyawan,<lf><lf>Menyusul insiden baru-baru ini, manajemen<lf>telah bekerja keras untuk memulihkan kepercayaan publik.<lf><lf>Sayangnya, karena tingkat kerusakan yang ada,<lf>tidak jelas apakah akan memungkinkan untuk dibuka kembali.<lf>Oleh karena itu, dengan penuh penyesalan kami<lf>harus mengumumkan penutupan resmi<lf>Hotel Wrenwood.<lf><lf>Kami mohon maaf sebesar-besarnya atas dampak yang mungkin<lf>ditimbulkan pada kamu dan keluargamu, dan ingin<lf>menyampaikan terima kasih yang tulus atas dukungan<lf>dan kerja keras yang telah kamu berikan pada<lf>bisnis yang telah lama berdiri ini.
+<string>Kepada seluruh karyawan,<lf><lf>Menyusul insiden baru-baru ini, manajemen<lf>telah bekerja keras untuk memulihkan kepercayaan publik.<lf><lf>Sayangnya, karena tingkat kerusakan yang ada,<lf>tidak jelas apakah akan memungkinkan<lf>untuk dibuka kembali. Oleh karena itu, dengan penuh<lf>penyesalan kami harus mengumumkan penutupan resmi<lf>Hotel Wrenwood.<lf><lf>Kami mohon maaf sebesar-besarnya atas dampak<lf>yang mungkin ditimbulkan pada kamu dan keluargamu,<lf>dan ingin menyampaikan terima kasih yang tulus atas<lf>dukungan dan kerja keras yang telah kamu berikan<lf>pada bisnis yang telah lama berdiri ini.
 <string>Laporan Investigasi
 <string>Diajukan oleh:<lf>Agen Khusus FBI, Kyle Eames
 <string>Ringkasan:<lf>Pada 28 September 2026 pukul 23.20, jasad<lf>seorang pria ditemukan di sebuah hotel terbengkalai<lf>di kota midwestern Wrenwood.
@@ -14,9 +14,9 @@
 <string>Telah dikonfirmasi bahwa semua korban yang<lf>teridentifikasi adalah penyintas insiden<lf>Raccoon City.
 <string>Jasad para korban semuanya memiliki memar hitam<lf>yang luas.
 <string>Jurnal Alyssa
-<string>17 Oktober 2018<lf><lf>Pekerjaan sudah mereda dan kami akan pergi<lf>ke kota baru lusa.<lf>Aku bersyukur pekerjaan lepasku memungkinkanku<lf>bekerja di mana saja, tapi aku khawatir tentang Grace.<lf>Sulit baginya untuk berteman saat<lf>kami terus berpindah-pindah. Mungkin kami<lf>bisa menghabiskan sedikit lebih banyak waktu di kota berikutnya.
-<string>18 Oktober 2018<lf><lf>Selesai melakukan riset dan mampir di<lf>sebuah kafe saat aku melihat seorang pria berkerudung.<lf>Aku yakin dia sedang mengawasiku.<lf>Mungkin aku hanya paranoid.
-<string>19 Oktober 2018<lf><lf>Aku melihat pria berkerudung itu lagi.<lf>Dia pasti mengikutiku.<lf><lf>Kami baru saja tiba di sini, tapi aku pikir kami<lf>harus pergi. Aku tidak bisa membiarkan apa pun<lf>terjadi pada Grace.
+<string>17 Oktober 2018<lf><lf>Pekerjaan sudah mereda dan kami akan pergi<lf>ke kota baru lusa.<lf><lf>Aku bersyukur pekerjaan lepasku memungkinkanku<lf>bekerja di mana saja, tapi aku khawatir tentang Grace.<lf><lf>Sulit baginya untuk berteman saat kami terus<lf>berpindah-pindah. Mungkin kami bisa menghabiskan<lf>sedikit lebih banyak waktu di kota berikutnya.
+<string>18 Oktober 2018<lf><lf>Selesai melakukan riset dan mampir di<lf>sebuah kafe saat aku melihat seorang pria berkuncung.<lf><lf>Aku yakin dia sedang mengawasiku.<lf>Mungkin aku hanya paranoid.
+<string>19 Oktober 2018<lf><lf>Aku melihat pria berkuncung itu lagi.<lf>Dia pasti mengikutiku.<lf><lf>Kami baru saja tiba di sini, tapi aku pikir kami<lf>harus pergi. Aku tidak bisa membiarkan apa pun<lf>terjadi pada Grace.
 <string>Catatan Kemajuan
 <string>22.03 - Memulai ekstraksi darah<lf>22.05 - Memeriksa denyut nadi,<lf>               tidak ada kelainan<lf>22.11 - Memberikan Dexifil<lf>22.18 - Kondisi stabil, siap<lf>               untuk pemeriksaan lebih lanjut
 <string>Catatan di Kotak Karton

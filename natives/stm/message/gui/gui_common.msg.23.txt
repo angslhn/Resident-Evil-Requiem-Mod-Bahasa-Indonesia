@@ -224,7 +224,7 @@
 <string><ICON DISPLAY> Sembunyikan/Tampilkan Kontrol
 <string>©CAPCOM
 <string>Peta Diperbarui
-<string>Mendapat Baru
+<string>Mendapat Berkas
 <string>Peningkatan Tas (8x13)
 <string>{0} x{1}
 <string>Peta Dunia Diperbarui

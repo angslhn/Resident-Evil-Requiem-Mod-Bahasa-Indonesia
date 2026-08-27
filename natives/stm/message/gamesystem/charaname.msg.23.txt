@@ -10,7 +10,7 @@
 <string>Nathan
 <string>Harry
 <string>Alyssa
-<string>Pria Berkerudung
+<string>Pria Berkuncung
 <string>Cole
 <string>Dokter
 <string>Perawat

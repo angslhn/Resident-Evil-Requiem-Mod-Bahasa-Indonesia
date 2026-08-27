@@ -154,12 +154,12 @@
 <string>Tidak Ada
 <string>Kecepatan Kamera Sumbu Y
 <string>Sesuaikan kecepatan kamera vertikal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
-<string>Sesuaikan kecepatan kamera vertikal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera vertikal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat kamera<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
 <string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Kecepatan Kamera Sumbu X
 <string>Sesuaikan kecepatan kamera horizontal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
-<string>Sesuaikan kecepatan kamera horizontal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera horizontal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat kamera<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
 <string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Akselerasi Kamera

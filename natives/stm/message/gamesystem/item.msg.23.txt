@@ -11,7 +11,7 @@
 <string>Menampilkan basis klasik dengan komponen internal<lf>yang diperbarui, memastikan performa<lf>modern. Kompensator tetap dan sistem<lf>laras berputar meningkatkan ketahanan.
 <string>S&S M232
 <string>Pistol yang sangat andal.<lf>Grace membelinya untuk pertahanan<lf>diri dengan gaji pertamanya.
-<string>Dikembangkan pada tahun 1977 sebagai pistol dinas<lf>dan diperbarui pada tahun 1996. Meskipun bukan<lf>perlengkapan standar FBI, Grace mengadopsinya<lf>untuk penggunaan pribadi karena desainnya<lf>yang ringkas.
+<string>Dikembangkan pada tahun 1977<lf>sebagai pistol dinas dan diperbarui<lf>pada tahun 1996. Meskipun bukan<lf>perlengkapan standar FBI, Grace mengadopsinya<lf>untuk penggunaan pribadi karena desainnya<lf>yang ringkas.
 <string>Silencer 9
 <string>Pistol yang kuat dan presisi.<lf>Peredam bawaan secara efektif<lf>meredam suara semua tembakan.
 <string>Mengustomisasi jumlah sekat<lf>menyesuaikan seberapa senyap tembakannya.
