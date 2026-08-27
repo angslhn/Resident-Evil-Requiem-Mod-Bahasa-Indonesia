@@ -117,7 +117,7 @@
 <string>Kualitas VFX
 <string>Ubah kualitas efek visual.
 <string>Resolusi Kabut Volumetrik
-<string>Sesuaikan kualitas gas seperti<lf>asap dan kabut untuk visual yang lebih realistis.
+<string>Sesuaikan kualitas gas seperti asap dan kabut<lf>untuk visual yang lebih realistis.
 <string>NVIDIA DLSS Ray Reconstruction
 <string>Menghilangkan noise yang dihasilkan oleh ray tracing,<lf>meningkatkan kualitas gambar.<lf><lf>Pengaturan ini dikonfigurasi secara otomatis<lf>dan tidak dapat diubah secara manual.
 <string>Konfigurasi Otomatis Pengaturan Grafis

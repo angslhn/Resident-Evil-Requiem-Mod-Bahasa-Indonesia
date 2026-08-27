@@ -22,7 +22,7 @@
 <string>Ubah metode untuk aksi input berulang.<lf><lf>Ketuk Berulang: Ketuk tombol.<lf>Tahan: Tahan tombol.<lf><lf>(Bawaan: Ketuk Berulang)
 <string>Ubah metode untuk aksi input berulang.<lf><lf>Ketuk Berulang: Ketuk tombol.<lf>Tahan: Tahan tombol.<lf><lf>(Bawaan: Ketuk Berulang)
 <string>Saat Membidik
-<string>Atur tipe bantuan bidikan.<lf><lf>Saat memulai game baru, mode Santai akan diatur<lf>ke "Ikuti Bidikan." Mode Standar (Modern) dan Standar (Klasik)<lf>akan diatur ke "Mati." Kamu dapat mengubah pengaturan ini<lf>setelah memulai cerita utama.<lf><lf>Catatan: Bagian tertentu dari game memiliki pengaturan tetap.
+<string>Atur tipe bantuan bidikan.<lf><lf>Saat memulai game baru, mode Santai akan diatur<lf>ke "Ikuti Bidikan." Mode Standar (Modern) dan Standar<lf>(Klasik) akan diatur ke "Mati." Kamu dapat mengubah<lf>pengaturan ini setelah memulai cerita utama.<lf><lf>Catatan: Bagian tertentu dari game memiliki pengaturan tetap.
 <string>Jepret Bidikan
 <string>Ikuti Bidikan
 <string>Perlambatan Reticle
@@ -64,9 +64,9 @@
 <string>Aktifkan/nonaktifkan fungsi efek pemicu saat menyerang.<lf><lf>(Bawaan: Hidup)<lf>
 <string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS>
 <string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW>
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam game<lf>tergantung pada pengaturan kontroler Steam-mu.
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam game<lf>tergantung pada pengaturan kontroler Steam-mu.
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam game<lf>tergantung pada pengaturan kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>game tergantung pada pengaturan kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>game tergantung pada pengaturan kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>game tergantung pada pengaturan kontroler Steam-mu.
 <string>Input Stik
 <string>Input Stik
 <string>Input Stik
@@ -153,25 +153,25 @@
 <string>Ubah arah kamera bergerak<lf>saat membidik.<lf><lf>Tidak Ada: Gerakkan kamera ke arah input-mu.<lf>Balik Sumbu Y: Hanya gerakan vertikal yang dibalik.<lf>Balik Sumbu X: Hanya gerakan horizontal yang dibalik.<lf>Balik Sumbu X dan Y: Semua gerakan dibalik.<lf><lf>(Bawaan: Tidak Ada)
 <string>Tidak Ada
 <string>Kecepatan Kamera Sumbu Y
-<string>Sesuaikan kecepatan kamera vertikal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan kecepatan kamera vertikal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
-<string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera vertikal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan kecepatan kamera vertikal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan kecepatan kamera vertikal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Kecepatan Kamera Sumbu X
-<string>Sesuaikan kecepatan kamera horizontal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan kecepatan kamera horizontal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
-<string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera horizontal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan kecepatan kamera horizontal untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
+<string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan kecepatan kamera horizontal saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini sama untuk mouse dan kontroler.
 <string>Akselerasi Kamera
-<string>Sesuaikan akselerasi kamera untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan akselerasi kamera untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
-<string>Sesuaikan akselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan akselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
+<string>Sesuaikan akselerasi kamera untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan akselerasi kamera untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
+<string>Sesuaikan akselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan akselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat akselerasinya.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
 <string>Deselerasi Kamera
-<string>Sesuaikan deselerasi kamera untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan deselerasi kamera untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
-<string>Sesuaikan deselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.
-<string>Sesuaikan deselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
+<string>Sesuaikan deselerasi kamera untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan deselerasi kamera untuk gameplay normal.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
+<string>Sesuaikan deselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
+<string>Sesuaikan deselerasi kamera saat membidik.<lf>Semakin tinggi nilainya, semakin cepat kamera berhenti.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Pengaturan ini tidak memengaruhi pengaturan kamera saat<lf>menggunakan mouse.
 <string>Fungsi Sensor Gerak
 <string>Kontrol Gerak
 <string>Kamera saat membidik akan bergerak berdasarkan<lf>fungsi sensor gerak kontroler.<lf><lf>(Bawaan: Mati)
@@ -199,7 +199,7 @@
 <string>Semua Item
 <string>Hanya Item Penting
 <string>Aktifkan/nonaktifkan tampilan reticle.<lf><lf>(Bawaan: Hidup)
-<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(Tersembunyi selama cutscene dan saat membidik.)<lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan.<lf><lf>(Bawaan: Mati)
+<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(Tersembunyi selama cutscene dan saat membidik.)<lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
 <string>Warna Reticle/Titik Tengah
 <string>Ubah warna reticle dan titik tengah.<lf><lf>(Bawaan: Putih)
 <string>Warna Tengah Scope/Dot Sight
@@ -234,7 +234,7 @@
 <string><ICON CURSOR_UP>Perbesar
 <string><ICON CURSOR_DOWN>Perkecil
 <string>Motion Blur
-<string>Aktifkan/nonaktifkan motion blur.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu mengurangi<lf>mabuk gerakan. Motion blur hanya digunakan<lf>dalam cutscene dan bagian tertentu dari game.<lf><lf>(Bawaan: Hidup)
+<string>Aktifkan/nonaktifkan motion blur.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan. Motion blur hanya digunakan<lf>dalam cutscene dan bagian tertentu dari game.<lf><lf>(Bawaan: Hidup)
 <string>Volume
 <string>Sesuaikan volume keseluruhan.<lf><lf>(Bawaan: 10)
 <string>Sesuaikan volume efek suara.<lf><lf>(Bawaan: 10)
@@ -246,7 +246,7 @@
 <string>Sesuaikan kombinasi rentang dinamis<lf>dan sudut speaker agar sesuai dengan perangkat audio-mu.<lf>Kamu juga dapat mengubah setiap item secara individual.
 <string>Headphone Suara Surround
 <string>Rentang Dinamis
-<string>Ubah rentang dinamis (perbedaan antara volume minimum<lf>dan maksimum). Rentang sempit memudahkan untuk<lf>mendengar semua suara (bahkan yang pelan), sementara rentang lebar menawarkan<lf>penggambaran yang lebih akurat dari semua suara.<lf><lf>Mode Malam → Sempit → Normal → Lebar
+<string>Ubah rentang dinamis (perbedaan antara volume minimum<lf>dan maksimum). Rentang sempit memudahkan untuk<lf>mendengar semua suara (bahkan yang pelan), sementara<lf>rentang lebar menawarkan penggambaran yang lebih<lf>akurat dari semua suara.<lf><lf>Mode Malam → Sempit → Normal → Lebar
 <string>Sempit
 <string>Normal
 <string>Lebar
