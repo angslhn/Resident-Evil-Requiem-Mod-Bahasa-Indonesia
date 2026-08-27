@@ -3,7 +3,7 @@
 <string>Pamflet Hotel
 <string>Hotel Wrenwood telah menyambut tamu dari<lf>berbagai kalangan sejak membuka pintunya<lf>pada tahun 1928.<lf><lf>Rasakan pelukan hangat dari sejarah hampir<lf>satu abad bersama dengan tradisi Wrenwood<lf>yang telah teruji waktu.
 <string>Pemberitahuan Penutupan
-<string>Kepada seluruh karyawan,<lf><lf>Menyusul insiden baru-baru ini, manajemen<lf>telah bekerja keras untuk memulihkan kepercayaan publik.<lf><lf>Sayangnya, karena tingkat kerusakan yang ada,<lf>tidak jelas apakah akan memungkinkan<lf>untuk dibuka kembali. Oleh karena itu, dengan penuh<lf>penyesalan kami harus mengumumkan penutupan resmi<lf>Hotel Wrenwood.<lf><lf>Kami mohon maaf sebesar-besarnya atas dampak<lf>yang mungkin ditimbulkan pada kamu dan keluargamu,<lf>dan ingin menyampaikan terima kasih yang tulus atas<lf>dukungan dan kerja keras yang telah kamu berikan<lf>pada bisnis yang telah lama berdiri ini.
+<string>Kepada seluruh karyawan,<lf><lf>Menyusul insiden baru-baru ini, manajemen<lf>telah bekerja keras untuk memulihkan kepercayaan publik.<lf><lf>Sayangnya, karena tingkat kerusakan yang ada,<lf>tidak jelas apakah akan memungkinkan untuk<lf>dibuka kembali. Oleh karena itu, dengan penuh<lf>penyesalan kami harus mengumumkan penutupan<lf>resmi Hotel Wrenwood.<lf><lf>Kami mohon maaf sebesar-besarnya atas dampak<lf>yang mungkin ditimbulkan pada kamu dan<lf>keluargamu, dan ingin menyampaikan terima kasih<lf>yang tulus atas dukungan dan kerja keras yang telah<lf>kamu berikan pada bisnis yang telah lama berdiri<lf>ini.
 <string>Laporan Investigasi
 <string>Diajukan oleh:<lf>Agen Khusus FBI, Kyle Eames
 <string>Ringkasan:<lf>Pada 28 September 2026 pukul 23.20, jasad<lf>seorang pria ditemukan di sebuah hotel terbengkalai<lf>di kota midwestern Wrenwood.
@@ -114,7 +114,7 @@
 <string>Nama Almarhumah: Charlotte<lf>Usia: 7 tahun 2 bulan<lf>Jenis Kelamin: Perempuan<lf>Tanggal Kematian: 14 Januari 1990<lf>Komentar: Dibuang karena gejala tidak stabil.
 <string>Laporan tentang Victor Gideon
 <string>Investigator<lf>Andrew Hughes (Tim Survei DSO)<lf><lf>Orang yang Menarik<lf>Nama: Victor Gideon<lf>Usia: 54<lf>Jenis Kelamin: Laki-laki<lf>Kewarganegaraan: AS
-<string>Aku tidak bisa menggali banyak tentang Victor Gideon.<lf>Yang kami tahu adalah dia mantan karyawan<lf>Umbrella dan terlibat dalam riset<lf>T-Virus.<lf><lf>Setelah Insiden Raccoon City, dia dipanggil<lf>sebagai saksi dalam pengadilan Umbrella, tapi<lf>pengadilan tidak bisa menemukannya.
+<string>Aku tidak bisa menggali banyak tentang Victor Gideon.<lf>Yang kami tahu adalah dia mantan karyawan<lf>Umbrella dan terlibat dalam riset T-Virus.<lf><lf>Setelah Insiden Raccoon City, dia dipanggil<lf>sebagai saksi dalam pengadilan Umbrella, tapi<lf>pengadilan tidak bisa menemukannya.
 <string>Aku melacak keberadaannya ke Pusat Perawatan<lf>Kronis Rhodes Hill, sebuah institusi swasta<lf>di mana dia bertindak sebagai direktur.<lf><lf>Pusat ini juga merupakan fasilitas riset yang<lf>menangani data yang sangat sensitif. Tempat ini<lf>bersih selama bertahun-tahun dan menghindari<lf>pengawasan semua lembaga.
 <string>Catatan Tambahan:<lf>Pusat Perawatan Kronis Rhodes Hill dulunya<lf>dikelola oleh Spencer Foundation.<lf><lf>Aku akan terkejut jika kami tidak menemukan<lf>sesuatu yang janggal tentang tempat itu.
 <string>Catatan Subjek 170

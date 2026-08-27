@@ -5,7 +5,7 @@
 <string>Herbal Campuran (H+H+H)
 <string>Campuran tiga herbal hijau ini<lf>akan memulihkan kesehatanmu sepenuhnya.
 <string>Injektor Medis
-<string>Perangkat yang digunakan untuk memberikan<lf>obat dalam keadaan darurat.<lf>Memulihkan kesehatanmu sepenuhnya.
+<string>Perangkat yang digunakan untuk<lf>memberikan obat dalam keadaan<lf>darurat. Memulihkan kesehatanmu<lf>sepenuhnya.
 <string>Matilda IMP
 <string>Pistol polimer frame pertama.<lf>Mengustomisasinya untuk burst tiga peluru<lf>memungkinkan operasi seperti senapan mesin ringan.
 <string>Menampilkan basis klasik dengan komponen internal<lf>yang diperbarui, memastikan performa<lf>modern. Kompensator tetap dan sistem<lf>laras berputar meningkatkan ketahanan.
@@ -25,7 +25,7 @@
 <string>Revolver besar dengan simbol iblis<lf>terukir di gagangnya.<lf>Menggunakan peluru 12,7x55mm.
 <string>Kustomisasi Victor memungkinkannya<lf>menembakkan amunisi kaliber besar tetapi dengan<lf>akurasi rendah. Memuat lima peluru.
 <string>Alligator Snapper
-<string>Pistol semi-otomatis yang andal.<lf>Model kustom ini dikeluarkan untuk personel<lf>DSO.
+<string>Pistol semi-otomatis yang andal.<lf>Model kustom ini dikeluarkan untuk<lf>personel DSO.
 <string>Frame ukuran penuh dan slide ringkas<lf>meningkatkan kesesuaian keseluruhan<lf>kompensator. Build kustom Joe Kendo.
 <string>
 <string>
@@ -39,8 +39,8 @@
 <string>Shotgun semi-otomatis modern.<lf>Dengan pengelompokan yang sangat baik, ideal<lf>untuk tembakan presisi. Dot sight<lf>dapat dipasang.
 <string>Senjata yang mudah digunakan dengan laju<lf>tembakan tinggi. Dilengkapi dengan komponen<lf>internal karbon krom untuk pengoperasian<lf>yang mulus dan performa tahan lama.
 <string>Requiem
-<string>Revolver serbu besar yang dikeluarkan DSO<lf>menggunakan peluru 12,7x55mm. Menawarkan<lf>kemampuan tusuk daya tinggi,<lf>senjata yang dapat kamu andalkan.
-<string>Peluru ditembakkan dari ruang paling bawah<lf>untuk mengurangi angkatan moncong.<lf>Meskipun frame dirancang untuk mengurangi<lf>hentakan, tetap membutuhkan tangan yang kuat.
+<string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan tusuk daya tinggi,<lf>senjata yang dapat kamu andalkan.
+<string>Peluru ditembakkan dari ruang paling<lf>bawah untuk mengurangi angkatan<lf>moncong. Meskipun frame dirancang<lf>untuk mengurangi hentakan, tetap<lf>membutuhkan tangan yang kuat.
 <string>Gal
 <string>Senapan mesin ringan yang dikembangkan pada<lf>tahun 1950-an. Kurang akurat tetapi memiliki<lf>kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
 <string>Struktur sederhana membuatnya lebih kecil<lf>kemungkinannya macet di pasir atau lumpur.<lf>Beberapa komponen kunci distempel<lf>untuk memfasilitasi produksi massal dan<lf>sangat tahan lama.
@@ -90,7 +90,7 @@
 <string>
 <string>Kapak
 <string>Kapak yang digunakan oleh pasukan khusus.<lf>Mampu memberikan pukulan fatal,<lf>tetapi memerlukan perawatan rutin<lf>agar tetap tajam.
-<string>Alat serbaguna yang hebat untuk pertarungan<lf>jarak dekat dan membuka paksa sesuatu.<lf>Telah diadopsi secara luas sebagai item<lf>utilitas sejak tahun 2000-an, dengan pembaruan<lf>modern yang meningkatkan kegunaan.
+<string>Alat serbaguna yang hebat untuk<lf>pertarungan jarak dekat dan membuka<lf>paksa sesuatu. Telah diadopsi secara<lf>luas sebagai item utilitas sejak tahun<lf>2000-an, dengan pembaruan modern<lf>yang meningkatkan kegunaan.
 <string>Kapak tumpul. Tidak dapat digunakan begitu saja.<lf>Gunakan <ICON SHARPEN> untuk mengasah.
 <string>Pisau Darurat
 <string>Pisau buatan tangan yang kasar cocok<lf>untuk pertarungan jarak dekat. Dapat digunakan untuk<lf>melawan musuh saat dicengkeram.
@@ -381,7 +381,7 @@
 <string>Gantungan Kacamata Kekuatan
 <string>Gantungan untuk Requiem.<lf>Menawarkan <COLOR preset="TextColor3">penetrasi peluru tanpa batas<lf>dan meningkatkan daya tembak<lf>peluru terakhir di dalam silinder</COLOR>.
 <string>Amunisi Pistol
-<string>Peluru pistol yang cocok untuk<lf>pengisian otomatis. Disukai karena lintasan<lf>datar dan hentakan sedang.
+<string>Peluru pistol yang cocok untuk<lf>pengisian otomatis. Disukai karena<lf>lintasan datar dan hentakan sedang.
 <string>Peluru Shotgun
 <string>Amunisi buckshot untuk shotgun.<lf>Setiap peluru memiliki sebaran lebar,<lf>memberikan pukulan yang kuat.
 <string>Amunisi 12,7x55mm
@@ -467,7 +467,7 @@
 <string>Kotak Perhiasan Unicorn
 <string>Kotak yang dibuat dengan rumit dihiasi<lf>dengan lambang unicorn. Berbunyi<lf>saat dimiringkan.
 <string>Kunci Pintu Darurat
-<string>Kunci yang membuka pintu darurat<lf>di lantai dua Hotel<lf>Wrenwood.
+<string>Kunci yang membuka pintu darurat<lf>di lantai dua Hotel Wrenwood.
 <string>Kunci Helikopter
 <string>Kunci kontak untuk helikopter.<lf>Sedikit ternoda di beberapa bagian.
 <string>Laporan Investigasi

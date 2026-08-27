@@ -79,11 +79,11 @@
 <string>Kekuatan
 <string>Presisi
 <string>Laju Tembakan
-<string>Kecepatan Isi Ulang
+<string>Isi Ulang
 <string>Stabilitas
 <string>Ketahanan
 <string>Radius
-<string>Kapasitas Amunisi
+<string>Amunisi
 <string>Tidak ada bagian
 <string>MAKSIMAL
 <string>
