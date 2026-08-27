@@ -1,143 +1,143 @@
-<string>KEY CONFIGURATION
-<string>BUTTON CONFIGURATION {0}
-<string>BUTTON CONFIGURATION {0}
-<string>BUTTON CONFIGURATION {0}
-<string><COLOR preset="TextColor1">Action</COLOR>
+<string>KONFIGURASI TOMBOL
+<string>KONFIGURASI TOMBOL {0}
+<string>KONFIGURASI TOMBOL {0}
+<string>KONFIGURASI TOMBOL {0}
+<string><COLOR preset="TextColor1">Aksi</COLOR>
 <string><COLOR preset="TextColor1">Menu</COLOR>
-<string>Action
-<string>Keyboard and Mouse
-<string>Move
-<string>Examine
-<string>Attack
-<string>Combat
-<string>Items Menu
+<string>Aksi
+<string>Keyboard dan Mouse
+<string>Bergerak
+<string>Periksa
+<string>Serang
+<string>Pertarungan
+<string>Menu Item
 <string>Menu
-<string>Map
-<string>Item Examine Screen
-<string>Control Type
-<string>Set the Control Type to default or choose a custom layout.
-<string>Set the control type.
+<string>Peta
+<string>Layar Pemeriksaan Item
+<string>Tipe Kontrol
+<string>Atur Tipe Kontrol ke default atau pilih tata letak khusus.
+<string>Atur tipe kontrol.
 <string>Custom A
 <string>Custom B
-<string><COLOR preset="TextColor1">Assign Button</COLOR>
-<string><COLOR preset="TextColor1">There is a conflict in your control assignments.</COLOR>
-<string><COLOR preset="TextColor1">There is a conflict in another tab.</COLOR>
-<string>Open Map
-<string>Open/close the map.
-<string>Items Menu
-<string>Open/close the Items menu.
-<string>Pause Menu
-<string>Open the Pause menu to pause the game.
-<string>Crouch
-<string>Allows you to crouch.
-<string>Aim
-<string>Aims your equipped weapon.
-<string>Run
-<string>Allows you to run.
-<string>Reload
-<string>Reloads ammo.
-<string>Interact
-<string>Allows you to interact with objects<lf>and perform various actions.
-<string>Parry/Ready Melee Weapon
-<string>Parries or readies your melee weapon during combat.
-<string>Attacks with a melee weapon and<lf>fires a firearm when aiming.
-<string>Quick Turn
-<string>Allows you to rapidly turn around.
-<string>Restore Health
-<string>Uses a recovery item to quickly restore health.
-<string>Move
-<string>Moves items around in your item box and<lf>in the Items menu.
-<string>Switch Category (Left)
-<string>Cycles left through categories<lf>on various screens.
-<string>Switch Subcategory (Left)
-<string>Cycles left through subcategories<lf>on various screens.
-<string>Switch Category (Right)
-<string>Cycles right through categories<lf>on various screens.
-<string>Switch Subcategory (Right)
-<string>Cycles right through subcategories<lf>on various screens.
-<string>Reset All
-<string>Resets all settings to default.
-<string>Skip
-<string>Skips cutscenes.
-<string>Reset/Move Items
-<string>Resets settings on certain screens and moves items<lf>while accessing the item box and Items menu.
-<string>Flashlight
-<string>Turns the flashlight on/off.
-<string>Shortcut (Right)
-<string>Selects the weapons registered<lf>to the right shortcut.
-<string>Shortcut (Left)
-<string>Selects the weapons registered<lf>to the left shortcut.
-<string>Shortcut (Down)
-<string>Selects the weapons registered<lf>to the downward shortcut.
-<string>Confirm
-<string>Confirms your selection.
-<string>Cancel
-<string>Cancels your selection.
-<string>Auto-sort
-<string>Auto-sorts items in the item box<lf>and other menus.
-<string>Zoom Out
-<string>Zooms out on the item examine screen.
-<string>Zoom In
-<string>Zooms in on the item examine screen.
-<string>Rotate Item (Left)
-<string>Rotates items to the left when moving<lf>them around in your attaché case.
-<string>Rotate Item (Right)
-<string>Rotates items to the right when moving<lf>them around in your attaché case.
-<string>Run or Walk
-<string>Allows you to run or walk.
-<string>Look
-<string>Allows you to move the camera.
-<string>Select Weapon
-<string>Move Forward
-<string>Allows you to move forward.
-<string>Move Backward
-<string>Allows you to move backward.
-<string>Move Left
-<string>Allows you to move to the left.
-<string>Move Right
-<string>Allows you to move to the right.
-<string>Sharpen
-<string>Sharpens your hatchet.
-<string>Weapon Selection 1
-<string>Selects the weapon in shortcut slot 1.
-<string>Weapon Selection 2
-<string>Selects the weapon in shortcut slot 2.
-<string>Weapon Selection 3
-<string>Selects the weapon in shortcut slot 3.
-<string>Weapon Selection 4
-<string>Selects the weapon in shortcut slot 4.
-<string>Weapon Selection 5
-<string>Selects the weapon in shortcut slot 5.
-<string>Weapon Selection 6
-<string>Selects the weapon in shortcut slot 6.
-<string>Move Cursor (Up)
-<string>Moves the cursor upward on certain screens.
-<string>Move Cursor (Down)
-<string>Moves the cursor downward on certain screens.
-<string>Move Cursor (Left)
-<string>Moves the cursor left on certain screens.
-<string>Move Cursor (Right)
-<string>Moves the cursor right on certain screens.
-<string>Change Floor (Up)
-<string>Changes the floor shown on the map (up).
-<string>Change Floor (Down)
-<string>Changes the floor shown on the map (down).
-<string>Change Area (Left)
-<string>Changes the area shown on the map (left).
-<string>Change Area (Right)
-<string>Changes the area shown on the map (right).
-<string>Look Around (Up)
-<string>Moves the camera angle upwards.
-<string>Look Around (Down)
-<string>Moves the camera angle downwards.
-<string>Look Around (Left)
-<string>Moves the camera angle to the left.
-<string>Look Around (Right)
-<string>Moves the camera angle to the right.
+<string><COLOR preset="TextColor1">Tetapkan Tombol</COLOR>
+<string><COLOR preset="TextColor1">Ada konflik dalam penetapan kontrolmu.</COLOR>
+<string><COLOR preset="TextColor1">Ada konflik di tab lain.</COLOR>
+<string>Buka Peta
+<string>Buka/tutup peta.
+<string>Menu Item
+<string>Buka/tutup menu Item.
+<string>Menu Jeda
+<string>Buka menu Jeda untuk menjeda game.
+<string>Jongkok
+<string>Memungkinkanmu untuk jongkok.
+<string>Bidik
+<string>Membidik senjata yang kamu lengkapi.
+<string>Lari
+<string>Memungkinkanmu untuk berlari.
+<string>Isi Ulang
+<string>Mengisi ulang amunisi.
+<string>Interaksi
+<string>Memungkinkanmu untuk berinteraksi dengan objek<lf>dan melakukan berbagai aksi.
+<string>Tangkis/Siapkan Senjata Jarak Dekat
+<string>Menangkis atau menyiapkan senjata jarak dekatmu selama pertarungan.
+<string>Menyerang dengan senjata jarak dekat dan<lf>menembakkan senjata api saat membidik.
+<string>Putar Cepat
+<string>Memungkinkanmu untuk berputar dengan cepat.
+<string>Pulihkan Kesehatan
+<string>Menggunakan item pemulihan untuk memulihkan kesehatan dengan cepat.
+<string>Pindahkan
+<string>Memindahkan item di kotak itemmu dan<lf>di menu Item.
+<string>Ganti Kategori (Kiri)
+<string>Menggilir ke kiri melalui kategori<lf>di berbagai layar.
+<string>Ganti Subkategori (Kiri)
+<string>Menggilir ke kiri melalui subkategori<lf>di berbagai layar.
+<string>Ganti Kategori (Kanan)
+<string>Menggilir ke kanan melalui kategori<lf>di berbagai layar.
+<string>Ganti Subkategori (Kanan)
+<string>Menggilir ke kanan melalui subkategori<lf>di berbagai layar.
+<string>Reset Semua
+<string>Mereset semua pengaturan ke default.
+<string>Lewati
+<string>Melewati cutscene.
+<string>Reset/Pindahkan Item
+<string>Mereset pengaturan di layar tertentu dan memindahkan item<lf>saat mengakses kotak item dan menu Item.
+<string>Senter
+<string>Menyalakan/mematikan senter.
+<string>Shortcut (Kanan)
+<string>Memilih senjata yang terdaftar<lf>di shortcut kanan.
+<string>Shortcut (Kiri)
+<string>Memilih senjata yang terdaftar<lf>di shortcut kiri.
+<string>Shortcut (Bawah)
+<string>Memilih senjata yang terdaftar<lf>di shortcut bawah.
+<string>Konfirmasi
+<string>Mengonfirmasi pilihanmu.
+<string>Batal
+<string>Membatalkan pilihanmu.
+<string>Urutkan Otomatis
+<string>Mengurutkan item secara otomatis di kotak item<lf>dan menu lainnya.
+<string>Perkecil
+<string>Memperkecil tampilan di layar pemeriksaan item.
+<string>Perbesar
+<string>Memperbesar tampilan di layar pemeriksaan item.
+<string>Putar Item (Kiri)
+<string>Memutar item ke kiri saat memindahkannya<lf>di dalam tas itemmu.
+<string>Putar Item (Kanan)
+<string>Memutar item ke kanan saat memindahkannya<lf>di dalam tas itemmu.
+<string>Lari atau Jalan
+<string>Memungkinkanmu untuk berlari atau berjalan.
+<string>Lihat
+<string>Memungkinkanmu untuk menggerakkan kamera.
+<string>Pilih Senjata
+<string>Maju
+<string>Memungkinkanmu untuk bergerak maju.
+<string>Mundur
+<string>Memungkinkanmu untuk bergerak mundur.
+<string>Ke Kiri
+<string>Memungkinkanmu untuk bergerak ke kiri.
+<string>Ke Kanan
+<string>Memungkinkanmu untuk bergerak ke kanan.
+<string>Asah
+<string>Mengasah kapakmu.
+<string>Pilihan Senjata 1
+<string>Memilih senjata di slot shortcut 1.
+<string>Pilihan Senjata 2
+<string>Memilih senjata di slot shortcut 2.
+<string>Pilihan Senjata 3
+<string>Memilih senjata di slot shortcut 3.
+<string>Pilihan Senjata 4
+<string>Memilih senjata di slot shortcut 4.
+<string>Pilihan Senjata 5
+<string>Memilih senjata di slot shortcut 5.
+<string>Pilihan Senjata 6
+<string>Memilih senjata di slot shortcut 6.
+<string>Gerakkan Kursor (Atas)
+<string>Menggerakkan kursor ke atas di layar tertentu.
+<string>Gerakkan Kursor (Bawah)
+<string>Menggerakkan kursor ke bawah di layar tertentu.
+<string>Gerakkan Kursor (Kiri)
+<string>Menggerakkan kursor ke kiri di layar tertentu.
+<string>Gerakkan Kursor (Kanan)
+<string>Menggerakkan kursor ke kanan di layar tertentu.
+<string>Ganti Lantai (Atas)
+<string>Mengganti lantai yang ditampilkan di peta (atas).
+<string>Ganti Lantai (Bawah)
+<string>Mengganti lantai yang ditampilkan di peta (bawah).
+<string>Ganti Area (Kiri)
+<string>Mengganti area yang ditampilkan di peta (kiri).
+<string>Ganti Area (Kanan)
+<string>Mengganti area yang ditampilkan di peta (kanan).
+<string>Lihat Sekitar (Atas)
+<string>Menggerakkan sudut kamera ke atas.
+<string>Lihat Sekitar (Bawah)
+<string>Menggerakkan sudut kamera ke bawah.
+<string>Lihat Sekitar (Kiri)
+<string>Menggerakkan sudut kamera ke kiri.
+<string>Lihat Sekitar (Kanan)
+<string>Menggerakkan sudut kamera ke kanan.
 <string>
 <string>
-<string>Cancel
-<string>Cancel action in progress.
-<string>Aim Bottle
-<string>Throw
-<string>Lighter On/Off
+<string>Batal
+<string>Batalkan aksi yang sedang berlangsung.
+<string>Bidik Botol
+<string>Lempar
+<string>Korek Hidup/Mati

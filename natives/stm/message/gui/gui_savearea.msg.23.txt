@@ -1,109 +1,109 @@
 <string>Wrenwood
-<string>The Wrenwood Hotel
-<string>Chronic Care Center
-<string>Research Facility
-<string>Water Treatment
+<string>Hotel Wrenwood
+<string>Pusat Perawatan Kronis
+<string>Fasilitas Riset
+<string>Pengolahan Air
 <string>Raccoon City
-<string>Orphanage
+<string>Panti Asuhan
 <string>R.P.D.
 <string>ARK
-<string>Main Street
-<string>Employee Entrance
-<string>Room 204
-<string>Lobby
+<string>Jalan Utama
+<string>Pintu Masuk Karyawan
+<string>Kamar 204
+<string>Lobi
 <string>Lounge & Bar
-<string>Room 203
-<string>Room 201
-<string>Central Hall
-<string>Rehabilitation Ward
-<string>Central Hall
-<string>Guard Office
-<string>Custodian's Office
-<string>Medical Supply Room
-<string>Attic
+<string>Kamar 203
+<string>Kamar 201
+<string>Aula Tengah
+<string>Bangsal Rehabilitasi
+<string>Aula Tengah
+<string>Kantor Penjaga
+<string>Kantor Penjaga Gedung
+<string>Ruang Perlengkapan Medis
+<string>Loteng
 <string>Lounge
-<string>Processing
-<string>Chairman's Office
-<string>Blood Lab
-<string>Office
-<string>Lead Researcher's Office
-<string>Garage
-<string>Security Manager's Office
-<string>Medication Room
-<string>Kitchenette
-<string>Pantry
-<string>Holding Cells
-<string>Inspection
-<string>Collection Pool
-<string>Courtyard
-<string>Underground
-<string>Security Room
-<string>Elevator Hallway
-<string>Director's Office
-<string>Chapel
-<string>Roof
-<string>Courtyard
+<string>Pemrosesan
+<string>Kantor Ketua
+<string>Lab Darah
+<string>Kantor
+<string>Kantor Peneliti Utama
+<string>Garasi
+<string>Kantor Manajer Keamanan
+<string>Ruang Obat
+<string>Dapur Kecil
+<string>Pantri
+<string>Sel Tahanan
+<string>Inspeksi
+<string>Kolam Pengumpulan
+<string>Halaman Dalam
+<string>Bawah Tanah
+<string>Ruang Keamanan
+<string>Lorong Lift
+<string>Kantor Direktur
+<string>Kapel
+<string>Atap
+<string>Halaman Dalam
 <string>Helipad
-<string>Emergency Exit
-<string>Reception
-<string>Elevator
-<string>Control Room
-<string>Emergency Route
-<string>Storage Bay
-<string>Plant Entrance
-<string>Roof Hatch Controls
+<string>Pintu Darurat
+<string>Resepsionis
+<string>Lift
+<string>Ruang Kontrol
+<string>Jalur Darurat
+<string>Teluk Penyimpanan
+<string>Pintu Masuk Pabrik
+<string>Kontrol Palka Atap
 <string>B1
-<string>NF Building
-<string>Ridgewood Station
-<string>Central Camp
-<string>Logistics Warehouse
-<string>Logistics Warehouse 2F
-<string>Underground Parking Garage
-<string>Gas Station
-<string>Cedarbrook Apartments
-<string>Cedarbrook Apartments Roof
-<string>Willis Tower
-<string>West Point
-<string>Grimstone Building Rooftop
-<string>Sewage Facility
-<string>Grimstone Building Basement
-<string>Gun Shop Kendo
-<string>Main Street
-<string>Subway Station
-<string>Highway
-<string>Raccoon City Center
-<string>East Raccoon City
-<string>Main Hall
-<string>East Wing
-<string>Side Street
+<string>Gedung NF
+<string>Stasiun Ridgewood
+<string>Kamp Pusat
+<string>Gudang Logistik
+<string>Gudang Logistik Lt. 2
+<string>Garasi Parkir Bawah Tanah
+<string>Pom Bensin
+<string>Apartemen Cedarbrook
+<string>Atap Apartemen Cedarbrook
+<string>Menara Willis
+<string>Titik Barat
+<string>Atap Gedung Grimstone
+<string>Fasilitas Pembuangan
+<string>Basement Gedung Grimstone
+<string>Toko Senjata Kendo
+<string>Jalan Utama
+<string>Stasiun Bawah Tanah
+<string>Jalan Raya
+<string>Pusat Raccoon City
+<string>Raccoon City Timur
+<string>Aula Utama
+<string>Sayap Timur
+<string>Jalan Samping
 <string>
-<string>Bedroom
-<string>Main Hall
-<string>Director's Room
-<string>Underground Chapel
-<string>Research Lab
-<string>Blackthorn Station
-<string>Blackthorn Station Platform
-<string>Service Entrance
-<string>Tunnel
-<string>Tunnel
-<string>Loading Dock
-<string>Staff Room
-<string>Server Room
-<string>Service Corridor
-<string>Entrance
-<string>Archives
-<string>Lobby
-<string>Bioweapon Repository 11
-<string>Dump
-<string>Lab Entrance
-<string>Operations Room
-<string>Bioweapon Repository 12
-<string>Systems Management
-<string>B4 Staff Room
-<string>Central Portal
-<string>Central Refining System: PANDORA Bottom Floor
-<string>Dump Control Room
-<string>Gene Vault
-<string>Central Portal
-<string>Central Refining: Lowest Level
+<string>Kamar Tidur
+<string>Aula Utama
+<string>Kamar Direktur
+<string>Kapel Bawah Tanah
+<string>Lab Riset
+<string>Stasiun Blackthorn
+<string>Peron Stasiun Blackthorn
+<string>Pintu Masuk Servis
+<string>Terowongan
+<string>Terowongan
+<string>Dermaga Muat
+<string>Ruang Staf
+<string>Ruang Server
+<string>Koridor Servis
+<string>Pintu Masuk
+<string>Arsip
+<string>Lobi
+<string>Repositori Senjata Bio 11
+<string>Tempat Pembuangan
+<string>Pintu Masuk Lab
+<string>Ruang Operasi
+<string>Repositori Senjata Bio 12
+<string>Manajemen Sistem
+<string>Ruang Staf B4
+<string>Portal Tengah
+<string>Sistem Pemurnian Sentral: PANDORA Lantai Bawah
+<string>Ruang Kontrol Pembuangan
+<string>Kubah Gen
+<string>Portal Tengah
+<string>Pemurnian Sentral: Level Terendah

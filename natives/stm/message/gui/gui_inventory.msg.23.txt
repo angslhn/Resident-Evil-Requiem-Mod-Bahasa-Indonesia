@@ -1,154 +1,154 @@
-<string>ITEMS
-<string>CRAFTING
-<string>MAP
-<string>FILES
-<string>SHORTCUTS
-<string>ITEM BOX
-<string>AMMO & HEALTH
-<string>GRACE DATA
-<string>LEON DATA
-<string>CONTENTS
-<string>CONTENTS
-<string>SIZE:_/ x _/
-<string>SELECT
-<string>FILE NAME
+<string>ITEM
+<string>MERACIK
+<string>PETA
+<string>BERKAS
+<string>SHORTCUT
+<string>KOTAK ITEM
+<string>AMUNISI & KESEHATAN
+<string>DATA GRACE
+<string>DATA LEON
+<string>ISI
+<string>ISI
+<string>UKURAN:_/ x _/
+<string>PILIH
+<string>NAMA BERKAS
 <string>Ver. 4.0258001a
-<string>AREA MAP
-<string>HIERARCHY
-<string>SIGNAL: OK
-<string>BATTERY
-<string>MEMORY
-<string>DISC
-<string>INVESTIGATION BOARD
+<string>PETA AREA
+<string>HIERARKI
+<string>SINYAL: OK
+<string>BATERAI
+<string>MEMORI
+<string>DISK
+<string>PAPAN INVESTIGASI
 <string>MSN-001
-<string>MEMO AND ANALYZE
-<string>ITEM BOX
-<string>FILES
-<string>RECIPE
-<string>Use
-<string>Examine
-<string>Register Shortcut
-<string>Equip
-<string>Unequip
-<string>Attach Parts
-<string>Combine
-<string>Discard
-<string>Store
-<string>Take Out
+<string>MEMO DAN ANALISIS
+<string>KOTAK ITEM
+<string>BERKAS
+<string>RESEP
+<string>Gunakan
+<string>Periksa
+<string>Daftarkan Shortcut
+<string>Lengkapi
+<string>Lepaskan
+<string>Pasang Bagian
+<string>Gabungkan
+<string>Buang
+<string>Simpan
+<string>Keluarkan
 <string>
 <string>
-<string>Sight / Scope
-<string>Charms
-<string>Sell
-<string>Use item.
-<string>Examine item.
-<string>Register item to shortcuts.
-<string>Select a slot to register to.
-<string>Equip weapon.
-<string>Unequip item.
-<string>Customize weapon.
-<string>Combine items to create a new item.
-<string>Discard item.
-<string>Select an item to use.
-<string>Select an item to store.
-<string>Store in item box.
-<string>Select an item to take out.
-<string>Move to inventory.
-<string>Select item.
-<string>Select an area to place this item.
-<string>Select an item to craft.
-<string>You cannot combine this because you don't have enough room.
+<string>Bidikan / Scope
+<string>Gantungan
+<string>Jual
+<string>Gunakan item.
+<string>Periksa item.
+<string>Daftarkan item ke shortcut.
+<string>Pilih slot untuk mendaftarkan.
+<string>Lengkapi senjata.
+<string>Lepaskan item.
+<string>Kustomisasi senjata.
+<string>Gabungkan item untuk membuat item baru.
+<string>Buang item.
+<string>Pilih item untuk digunakan.
+<string>Pilih item untuk disimpan.
+<string>Simpan di kotak item.
+<string>Pilih item untuk dikeluarkan.
+<string>Pindahkan ke inventori.
+<string>Pilih item.
+<string>Pilih area untuk menempatkan item ini.
+<string>Pilih item untuk diracik.
+<string>Kamu tidak dapat menggabungkan ini karena tidak ada cukup ruang.
 <string>
 <string>
-<string>Attach or remove sight/scope.
-<string>Attach or remove charm.
-<string>Sell items.
-<string>Not enough space.
-<string>Item crafted.
-<string>Insert
-<string>Select the number of coins you want to insert.
-<string>
-<string>
-<string>
+<string>Pasang atau lepaskan bidikan/scope.
+<string>Pasang atau lepaskan gantungan.
+<string>Jual item.
+<string>Ruang tidak cukup.
+<string>Item berhasil diracik.
+<string>Masukkan
+<string>Pilih jumlah koin yang ingin kamu masukkan.
 <string>
 <string>
 <string>
-<string>Craftable Items
-<string>Recipe Order
-<string>SPECS
-<string>Power
-<string>Precision
-<string>Rate of Fire
-<string>Reload Speed
-<string>Stability
-<string>Durability
+<string>
+<string>
+<string>
+<string>Item yang Dapat Diracik
+<string>Urutan Resep
+<string>SPESIFIKASI
+<string>Kekuatan
+<string>Presisi
+<string>Laju Tembakan
+<string>Kecepatan Isi Ulang
+<string>Stabilitas
+<string>Ketahanan
 <string>Radius
-<string>Ammo Capacity
-<string>No parts
-<string>MAX
+<string>Kapasitas Amunisi
+<string>Tidak ada bagian
+<string>MAKSIMAL
 <string>
 <string>
 <string>
 <string>
-<string>REWARDS
-<string>NO FILES
-<string>NO DATA
+<string>HADIAH
+<string>TIDAK ADA BERKAS
+<string>TIDAK ADA DATA
 <string>Wrenwood
 <string>Rhodes Hill
 <string>Raccoon City
 <string>ARK
-<string>File Order
-<string>Newest
-<string>Storage Order
-<string>Main Weapons
-<string>Custom Parts
-<string>Sub-weapons
-<string>Ammo
-<string>Recovery
-<string>Resources
-<string>Key Items
-<string>Other
-<string>ID Order
-<string><COLOR preset="TextColor1">Cannot take out item.</COLOR>
-<string>Crafting Items
-<string>Required Materials
-<string>Crafting Items
-<string>On Hand
+<string>Urutan Berkas
+<string>Terbaru
+<string>Urutan Penyimpanan
+<string>Senjata Utama
+<string>Bagian Kustom
+<string>Senjata Sekunder
+<string>Amunisi
+<string>Pemulihan
+<string>Sumber Daya
+<string>Item Kunci
+<string>Lainnya
+<string>Urutan ID
+<string><COLOR preset="TextColor1">Tidak dapat mengeluarkan item.</COLOR>
+<string>Item Racikan
+<string>Bahan yang Diperlukan
+<string>Item Racikan
+<string>Di Tangan
 <string>???
-<string>Unlock with blood analysis.
-<string>Unlocks when a crafting item is obtained.
-<string>Unlock with a recipe.
-<string>Unlock when you get a weapon.
-<string>SHOP
-<string>Purchase
-<string>Sell
-<string>Upgrade
-<string>Enhance
-<string>Unequip
-<string>Equip
-<string>Max Out
-<string>BUY
-<string>SELL
-<string>TUNE UP
-<string>ALL
-<string>WEAPONS
-<string>ITEMS
-<string>CASE
-<string>Items
-<string>Price
-<string>To Sell / Carrying
-<string>TO SELL
+<string>Terbuka dengan analisis darah.
+<string>Terbuka saat item racikan diperoleh.
+<string>Terbuka dengan resep.
+<string>Terbuka saat kamu mendapatkan senjata.
+<string>TOKO
+<string>Beli
+<string>Jual
+<string>Tingkatkan
+<string>Perkuat
+<string>Lepaskan
+<string>Lengkapi
+<string>Maksimalkan
+<string>BELI
+<string>JUAL
+<string>PERBAIKI
+<string>SEMUA
+<string>SENJATA
+<string>ITEM
+<string>TAS
+<string>Item
+<string>Harga
+<string>Untuk Dijual / Dibawa
+<string>UNTUK DIJUAL
 <string>TOTAL
-<string>SELECTED WEAPON
-<string>OWNED WEAPONS
-<string><ICON DEFAULT> Compare Weapons
-<string>Purchase items.
-<string>Upgrade weapons to make them stronger.
-<string>Sell items.
-<string>Select items to purchase.
-<string>Select weapons to upgrade.
-<string>Select items to sell.
+<string>SENJATA DIPILIH
+<string>SENJATA DIMILIKI
+<string><ICON DEFAULT> Bandingkan Senjata
+<string>Beli item.
+<string>Tingkatkan senjata untuk membuatnya lebih kuat.
+<string>Jual item.
+<string>Pilih item untuk dibeli.
+<string>Pilih senjata untuk ditingkatkan.
+<string>Pilih item untuk dijual.
 <string><COLOR FF0000>#Rejected#</COLOR> Shop_Menu_Mission_Guide
-<string>Kills
-<string>Value
-<string>Kills x{0}
+<string>Pembunuhan
+<string>Nilai
+<string>Pembunuhan x{0}

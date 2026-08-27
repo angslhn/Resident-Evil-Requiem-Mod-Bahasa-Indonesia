@@ -1,92 +1,92 @@
-<string>Change the quality of object textures.
-<string>High (1.5 GB)
-<string>High (0.75 GB)
-<string>Screen Resolution
-<string>Change the display resolution.<lf><lf>You can apply the resolution change in the following ways:<lf> - Confirm the selection<lf> - Move the cursor to another setting<lf><lf>If you increase the resolution, it is recommended that<lf>you select Auto-Configure Graphics Settings again.
+<string>Ubah kualitas tekstur objek.
+<string>Tinggi (1,5 GB)
+<string>Tinggi (0,75 GB)
+<string>Resolusi Layar
+<string>Ubah resolusi tampilan.<lf><lf>Kamu dapat menerapkan perubahan resolusi dengan cara berikut:<lf> - Konfirmasi pilihan<lf> - Pindahkan kursor ke pengaturan lain<lf><lf>Jika kamu meningkatkan resolusi, disarankan agar<lf>kamu memilih Konfigurasi Otomatis Pengaturan Grafis lagi.
 <string>Frame Rate
-<string>Adjust the maximum number of frames<lf>rendered per second (FPS).
-<string>Up to 120 FPS
-<string>Up to 60 FPS
-<string>Up to 30 FPS
-<string>Vertical Synchronization
-<string>Turn the synchronization between the frame rate<lf>and monitor's refresh rate to prevent screen<lf>stuttering on/off.
+<string>Sesuaikan jumlah maksimum frame<lf>yang dirender per detik (FPS).
+<string>Hingga 120 FPS
+<string>Hingga 60 FPS
+<string>Hingga 30 FPS
+<string>Sinkronisasi Vertikal
+<string>Aktifkan/nonaktifkan sinkronisasi antara frame rate<lf>dan refresh rate monitor untuk mencegah<lf>stutter layar.
 <string>Anti-aliasing
-<string>Enable anti-aliasing to make object<lf>edges appear smoother.
+<string>Aktifkan anti-aliasing untuk membuat tepi<lf>objek tampak lebih halus.
 <string>TAA
 <string>FXAA+TAA
-<string>Texture Filter Quality
-<string>Adjust the visual quality of textures<lf>when they are scaled or deformed.
-<string>Medium (Trilinear)
-<string>High (ANISO x2)
-<string>High (ANISO x4)
-<string>High (ANISO x8)
-<string>High (ANISO x16)
-<string>Mesh Quality
-<string>Adjust the mesh quality that affects the<lf>appearance and movement of 3D models.
-<string>Shadow Quality
-<string>Adjust the quality of shadows.
-<string>Shadow Cache
-<string>Turn the feature that reduces rendering load<lf>by temporarily storing and reusing shadow<lf>data on/off.
-<string>Contact Shadows
-<string>Turn the rendering of detailed shadows on/off.
+<string>Kualitas Filter Tekstur
+<string>Sesuaikan kualitas visual tekstur<lf>saat diskalakan atau dideformasi.
+<string>Sedang (Trilinear)
+<string>Tinggi (ANISO x2)
+<string>Tinggi (ANISO x4)
+<string>Tinggi (ANISO x8)
+<string>Tinggi (ANISO x16)
+<string>Kualitas Mesh
+<string>Sesuaikan kualitas mesh yang memengaruhi<lf>penampilan dan pergerakan model 3D.
+<string>Kualitas Bayangan
+<string>Sesuaikan kualitas bayangan.
+<string>Cache Bayangan
+<string>Aktifkan/nonaktifkan fitur yang mengurangi beban rendering<lf>dengan menyimpan sementara dan menggunakan kembali data<lf>bayangan.
+<string>Bayangan Kontak
+<string>Aktifkan/nonaktifkan rendering bayangan detail.
 <string>Ambient Occlusion
-<string>Enable a feature that adds realistic shading<lf>to enhance visual realism.
+<string>Aktifkan fitur yang menambahkan shading realistis<lf>untuk meningkatkan realisme visual.
 <string>SSAO
 <string>FidelityFX CACAO
 <string>XeGTAO
-<string>Volumetric Lighting Quality
-<string>Adjust the quality of atmospheric lighting<lf>effects for more realistic visuals.
-<string>Lens Dirt
-<string>Turn camera lens dirt caused by bright light<lf>sources on/off.
-<string>Screen Space Reflections
-<string>Turn the effect that improves surface<lf>reflections on/off.
+<string>Kualitas Pencahayaan Volumetrik
+<string>Sesuaikan kualitas efek pencahayaan atmosferik<lf>untuk visual yang lebih realistis.
+<string>Kotoran Lensa
+<string>Aktifkan/nonaktifkan kotoran lensa kamera yang disebabkan oleh<lf>sumber cahaya terang.
+<string>Refleksi Screen Space
+<string>Aktifkan/nonaktifkan efek yang meningkatkan<lf>refleksi permukaan.
 <string>Subsurface Scattering
-<string>Adjust the feature that enhances realism<lf>of translucent materials such as skin.
-<string>Hair Strands
-<string>Turn the effect that improves hair and fur<lf>quality on/off.
-<string>Particle Lighting
-<string>Turn dust particle visual effects on/off.
-<string>Lens Flare
-<string>Adjust the level of lens flare.
-<string>Lens Distortion
-<string>Turn lens distortion on/off.
-<string>On (+Chromatic Aberration)
-<string>On
+<string>Sesuaikan fitur yang meningkatkan realisme<lf>bahan tembus cahaya seperti kulit.
+<string>Helai Rambut
+<string>Aktifkan/nonaktifkan efek yang meningkatkan kualitas<lf>rambut dan bulu.
+<string>Pencahayaan Partikel
+<string>Aktifkan/nonaktifkan efek visual partikel debu.
+<string>Lensa Flare
+<string>Sesuaikan level lensa flare.
+<string>Distorsi Lensa
+<string>Aktifkan/nonaktifkan distorsi lensa.
+<string>Hidup (+Chromatic Aberration)
+<string>Hidup
 <string>Depth of Field
-<string>Turn the effect that adjusts focus depending<lf>on the distance of objects on/off.
-<string>Shared Settings
-<string>PC Specs
-<string>See information related to your system's specifications.
+<string>Aktifkan/nonaktifkan efek yang menyesuaikan fokus<lf>tergantung pada jarak objek.
+<string>Pengaturan Bersama
+<string>Spesifikasi PC
+<string>Lihat informasi terkait spesifikasi sistemmu.
 <string>CPU
 <string>RAM
 <string>GPU
-<string>Max VRAM
-<string>GPU Driver Version
+<string>VRAM Maksimal
+<string>Versi Driver GPU
 <string><NUMBER {0}> GB
-<string>Quality Settings
-<string>Graphics Quality
-<string>Adjust the overall quality for graphics.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
-<string>Adjust the overall quality for graphics.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
+<string>Pengaturan Kualitas
+<string>Kualitas Grafis
+<string>Sesuaikan kualitas grafis secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.
+<string>Sesuaikan kualitas grafis secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
 <string><COLOR FF0000>#Rejected#</COLOR> PC_Option_RenderingQuality
 <string><COLOR FF0000>#Rejected#</COLOR> PC_Option_RenderingQuality_Text
-<string>Upscaling Quality
-<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
-<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
-<string>Adjust the overall quality for upscaling.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option cannot be changed when<lf>ray tracing is set to path tracing.
-<string>Lighting and Shadow Quality
-<string>Adjust the overall quality for lighting and shadow effects.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.
-<string>Adjust the overall quality for lighting and shadow effects.<lf><lf>Custom: Set custom values to each option.<lf>Lowest: Minimum quality graphics.<lf>Low: Prioritize performance.<lf>Normal: Prioritize graphics.<lf>High: High quality graphics.<lf>Max: Highest quality graphics.<lf><lf>This option can only be changed from the main menu.
-<string>Advanced Quality Settings
-<string>Advanced Settings
-<string>Selecting this option will expand the following<lf>preset categories, allowing you to adjust each<lf>setting individually:<lf><lf> - Graphics Quality<lf> - Upscaling Quality<lf> - Lighting and Shadow Quality
-<string>Low
-<string>High
-<string>Adjust the level of simulation for<lf>light reflection and refraction.
+<string>Kualitas Upscaling
+<string>Sesuaikan kualitas upscaling secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.
+<string>Sesuaikan kualitas upscaling secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
+<string>Sesuaikan kualitas upscaling secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini tidak dapat diubah saat<lf>ray tracing diatur ke path tracing.
+<string>Kualitas Pencahayaan dan Bayangan
+<string>Sesuaikan kualitas efek pencahayaan dan bayangan secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.
+<string>Sesuaikan kualitas efek pencahayaan dan bayangan secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
+<string>Pengaturan Kualitas Lanjutan
+<string>Pengaturan Lanjutan
+<string>Memilih opsi ini akan memperluas kategori<lf>preset berikut, memungkinkanmu untuk menyesuaikan<lf>setiap pengaturan secara individual:<lf><lf> - Kualitas Grafis<lf> - Kualitas Upscaling<lf> - Kualitas Pencahayaan dan Bayangan
+<string>Rendah
+<string>Tinggi
+<string>Sesuaikan level simulasi untuk<lf>refleksi dan refraksi cahaya.
 <string>Custom
 <string>Normal
-<string>Upscaling Technology
-<string>Configure the feature that maintains high image<lf>quality while preserving performance. Upscaling<lf>mode options will change based on this setting.
-<string>Configure the feature that maintains high image<lf>quality while preserving performance. Upscaling<lf>mode options will change based on this setting.<lf><lf>Uses: {0}
+<string>Teknologi Upscaling
+<string>Konfigurasikan fitur yang mempertahankan kualitas<lf>gambar tinggi sambil menjaga performa. Opsi mode<lf>upscaling akan berubah berdasarkan pengaturan ini.
+<string>Konfigurasikan fitur yang mempertahankan kualitas<lf>gambar tinggi sambil menjaga performa. Opsi mode<lf>upscaling akan berubah berdasarkan pengaturan ini.<lf><lf>Penggunaan: {0}
 <string>NVIDIA DLSS
 <string>AMD FSR 1
 <string>AMD FSR 3
@@ -95,46 +95,46 @@
 <string>NVIDIA DLSS 3x
 <string>NVIDIA DLSS 4x
 <string>NVIDIA Reflex Low Latency
-<string>On (+Boost)
-<string>Upscaling Mode
-<string>Adjust performance and visual quality for the chosen<lf>upscaling method.
-<string>Adjust performance and visual quality<lf>for the chosen upscaling method.<lf>Uses: {0}
-<string>Quality
-<string>Performance
-<string>Ultra Performance
-<string>Balanced
-<string>Auto
+<string>Hidup (+Boost)
+<string>Mode Upscaling
+<string>Sesuaikan performa dan kualitas visual untuk metode<lf>upscaling yang dipilih.
+<string>Sesuaikan performa dan kualitas visual<lf>untuk metode upscaling yang dipilih.<lf>Penggunaan: {0}
+<string>Kualitas
+<string>Performa
+<string>Performa Ultra
+<string>Seimbang
+<string>Otomatis
 <string>DLAA
-<string>Ultra Quality
-<string>Quality
-<string>Balanced
-<string>Performance
-<string>Ultra Performance
-<string>Native AA
+<string>Kualitas Ultra
+<string>Kualitas
+<string>Seimbang
+<string>Performa
+<string>Performa Ultra
+<string>AA Native
 <string>Path Tracing (Normal)
-<string>Path Tracing (High)
+<string>Path Tracing (Tinggi)
 <string>Path Tracing
-<string>VFX Quality
-<string>Change the quality of visual effects.
-<string>Volumetric Fog Resolution
-<string>Adjust the quality of gases such as<lf>smoke and fog for more realistic visuals.
+<string>Kualitas VFX
+<string>Ubah kualitas efek visual.
+<string>Resolusi Kabut Volumetrik
+<string>Sesuaikan kualitas gas seperti<lf>asap dan kabut untuk visual yang lebih realistis.
 <string>NVIDIA DLSS Ray Reconstruction
-<string>Removes noise generated by ray tracing,<lf>improving image quality.<lf><lf>This setting is automatically configured<lf>and cannot be changed manually.
-<string>Auto-configure Graphics Settings
-<string>Measure PC performance and automatically<lf>configure graphics settings.
+<string>Menghilangkan noise yang dihasilkan oleh ray tracing,<lf>meningkatkan kualitas gambar.<lf><lf>Pengaturan ini dikonfigurasi secara otomatis<lf>dan tidak dapat diubah secara manual.
+<string>Konfigurasi Otomatis Pengaturan Grafis
+<string>Ukur performa PC dan konfigurasikan<lf>pengaturan grafis secara otomatis.
 <string>{0}. {1}
-<string>VRAM Usage
-<string>Processing Load
-<string>Game Usage
-<string>Other Applications
-<string><COLOR preset="TextColor1">May cause stuttering due to high processing load.</COLOR>
-<string><COLOR preset="TextColor1">May cause unexpected behavior due to high memory usage.</COLOR>
-<string>This option can only be used when {0} is turned {1}.
-<string>This option cannot be changed when {0}<lf>is set to {1}.
-<string>This option is not available with your current GPU.
-<string>This option can only be used when frame generation<lf>is turned off.
-<string>This option can only be used when upscaling is turned off.
-<string>This option cannot be changed when ray tracing<lf>is set to path tracing.
-<string>This option cannot be changed when frame generation<lf>is set to DLSS.
-<string>on
-<string>off
+<string>Penggunaan VRAM
+<string>Beban Pemrosesan
+<string>Penggunaan Game
+<string>Aplikasi Lain
+<string><COLOR preset="TextColor1">Dapat menyebabkan stutter karena beban pemrosesan yang tinggi.</COLOR>
+<string><COLOR preset="TextColor1">Dapat menyebabkan perilaku tak terduga karena penggunaan memori yang tinggi.</COLOR>
+<string>Opsi ini hanya dapat digunakan saat {0} diatur {1}.
+<string>Opsi ini tidak dapat diubah saat {0}<lf>diatur ke {1}.
+<string>Opsi ini tidak tersedia dengan GPU-mu saat ini.
+<string>Opsi ini hanya dapat digunakan saat frame generation<lf>dimatikan.
+<string>Opsi ini hanya dapat digunakan saat upscaling dimatikan.
+<string>Opsi ini tidak dapat diubah saat ray tracing<lf>diatur ke path tracing.
+<string>Opsi ini tidak dapat diubah saat frame generation<lf>diatur ke DLSS.
+<string>hidup
+<string>mati

@@ -1,19 +1,19 @@
-<string>SAVE
-<string>LOAD GAME
-<string>STORY
-<string>GAME MODE
-<string>SAVES
+<string>SIMPAN
+<string>MUAT GAME
+<string>CERITA
+<string>MODE GAME
+<string>SIMPANAN
 <string>AREA
-<string>LAST SAVED
+<string>TERAKHIR DISIMPAN
 <string>{0} / {1}
-<string>LOADING
-<string>Autosave
-<string>AUTO
-<string>AUTO 01
-<string>AUTO 02
-<string>New Saved Data
-<string>NO DATA
-<string>Completed Data
-<string>Create saved data.
-<string>Overwrite saved data.
-<string>Load saved data.
+<string>MEMUAT
+<string>Simpan Otomatis
+<string>OTOMATIS
+<string>OTOMATIS 01
+<string>OTOMATIS 02
+<string>Data Simpanan Baru
+<string>TIDAK ADA DATA
+<string>Data Selesai
+<string>Buat data simpanan.
+<string>Timpa data simpanan.
+<string>Muat data simpanan.

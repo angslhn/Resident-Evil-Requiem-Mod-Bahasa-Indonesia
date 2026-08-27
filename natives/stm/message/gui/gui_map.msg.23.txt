@@ -1,285 +1,285 @@
-<string>All Items Found
-<string>Items Remaining
-<string>Unexplored
-<string>NO DATA
-<string>Current Location
-<string>Weapon
-<string>Key Item
-<string>Save Point
-<string>Item Box
-<string>Save Point
-<string>Save Point
-<string>Supply Box
-<string>1F
-<string>2F
-<string>3F
-<string>4F
-<string>5F
+<string>Semua Item Ditemukan
+<string>Item Tersisa
+<string>Belum Dijelajahi
+<string>TIDAK ADA DATA
+<string>Lokasi Saat Ini
+<string>Senjata
+<string>Item Kunci
+<string>Titik Simpan
+<string>Kotak Item
+<string>Titik Simpan
+<string>Titik Simpan
+<string>Kotak Perbekalan
+<string>Lt. 1
+<string>Lt. 2
+<string>Lt. 3
+<string>Lt. 4
+<string>Lt. 5
 <string>B1
 <string>B2
 <string>B3
 <string>B4
 <string>B5
 <string>B6
-<string>In
-<string>Out
-<string>Save Point
-<string>Item Box
-<string>Coin Cabinet
-<string>Simple Lock
-<string>Warped Closet
-<string>Safe
+<string>Masuk
+<string>Keluar
+<string>Titik Simpan
+<string>Kotak Item
+<string>Lemari Koin
+<string>Kunci Sederhana
+<string>Lemari Melengkung
+<string>Brankas
 <string>Zipline
-<string>Rope
-<string>Mr. Raccoon Memoriam
-<string>Safe
-<string>Warped Door
-<string>Ladder
-<string>Door Shut with Wire
-<string>Emergency Exit (Locked)
-<string>Door with Indents
-<string>Puzzle Box
-<string>Puzzle Box
-<string>Puzzle Box
-<string>Fuse Box
-<string>Cherub Relief Door
-<string>Fuse Box (Locked)
-<string>Security Point Lv.1
-<string>Security Point Lv.2
+<string>Tali
+<string>Memoriam Mr. Raccoon
+<string>Brankas
+<string>Pintu Melengkung
+<string>Tangga
+<string>Pintu Tertutup Kawat
+<string>Pintu Darurat (Terkunci)
+<string>Pintu dengan Lekukan
+<string>Kotak Teka-teki
+<string>Kotak Teka-teki
+<string>Kotak Teka-teki
+<string>Kotak Sekring
+<string>Pintu Relief Cherub
+<string>Kotak Sekring (Terkunci)
+<string>Titik Keamanan Lv.1
+<string>Titik Keamanan Lv.2
 <string>Forklift
-<string>Power Distributor
-<string>Power Distributor (Bolted)
-<string>Vent (Bolted)
+<string>Distributor Daya
+<string>Distributor Daya (Terbaut)
+<string>Ventilasi (Terbaut)
 <string>
-<string>East Wing Card Reader
-<string>West Wing Card Reader
-<string>Pantry Door
-<string>Door without Handwheel
-<string>Door with Indent
-<string>Security Point Lv.3
-<string>Laser Microscope
-<string>Organless Corpse
-<string>Sturdy Lock
-<string>Old Device
-<string>Torn Journal
-<string>Computer Terminal
-<string>Victor's Office
-<string>Joint Plug
-<string>Power Distributor
-<string>Roof Hatch Controls
-<string>Power Distributor
-<string>Incomplete Bomb
-<string>Power Generator
-<string>Gas Powered Generator
-<string>Apartment Building Gate
-<string>Valve Handwheel Slot
-<string>Battery Box
-<string>Fuel Tank
-<string>Container
-<string>Crank Slot
-<string>Crank
-<string>Suspended Platform Terminal
-<string>Rusted Shutter
-<string>Locker (Locked)
-<string>Signal Receiver
+<string>Pembaca Kartu Sayap Timur
+<string>Pembaca Kartu Sayap Barat
+<string>Pintu Pantri
+<string>Pintu tanpa Roda Tangan
+<string>Pintu dengan Lekukan
+<string>Titik Keamanan Lv.3
+<string>Mikroskop Laser
+<string>Mayat Tanpa Organ
+<string>Kunci Kokoh
+<string>Perangkat Tua
+<string>Jurnal Robek
+<string>Terminal Komputer
+<string>Kantor Victor
+<string>Steker Sambungan
+<string>Distributor Daya
+<string>Kontrol Palka Atap
+<string>Distributor Daya
+<string>Bom Tidak Lengkap
+<string>Generator Daya
+<string>Generator Berbahan Bakar Gas
+<string>Gerbang Gedung Apartemen
+<string>Slot Roda Tangan Katup
+<string>Kotak Baterai
+<string>Tangki Bahan Bakar
+<string>Kontainer
+<string>Slot Engkol
+<string>Engkol
+<string>Terminal Platform Gantung
+<string>Penutup Berkarat
+<string>Loker (Terkunci)
+<string>Penerima Sinyal
 <string>Distributor
-<string>Relay
-<string>Battery
-<string>Orphanage
-<string>Repair Kit
-<string>Fuel
-<string>Hatch
-<string>Bioweapon Pod
-<string>Control Panel
-<string>Crane
-<string>Key Reader
-<string>Recessed Panel
-<string>Elevator
-<string>Restroom
-<string>Elevator
-<string>Main Street
-<string>The Wrenwood<lf>Hotel
-<string>Kitchen
-<string>Restroom
-<string>Lobby
-<string>Office
+<string>Relai
+<string>Baterai
+<string>Panti Asuhan
+<string>Kit Perbaikan
+<string>Bahan Bakar
+<string>Palka
+<string>Pod Senjata Bio
+<string>Panel Kontrol
+<string>Derek
+<string>Pembaca Kunci
+<string>Panel Tersembunyi
+<string>Lift
+<string>Toilet
+<string>Lift
+<string>Jalan Utama
+<string>Hotel<lf>Wrenwood
+<string>Dapur
+<string>Toilet
+<string>Lobi
+<string>Kantor
 <string>Lounge & Bar
-<string>Employee Entrance
-<string>Rec Room
-<string>Room 204
-<string>Care Center
-<string>Central Hall
-<string>Guard<lf>Office
-<string>East Wing<lf>Lobby
-<string>Medication<lf>Room
-<string>Blood Lab
-<string>Waiting Room
-<string>Isolation Ward
-<string>Parlor
-<string>Kitchen
-<string>Dining Room
-<string>Cold Storage
-<string>Restroom
-<string>Garage
-<string>Custodian's<lf>Office
-<string>Pantry
-<string>Treatment<lf>Room
-<string>Examination<lf>Room
-<string>Closet
-<string>Rehabilitation Ward
-<string>Filing Room
-<string>Security Manager's<lf>Office
-<string>Courtyard
-<string>Consultation Office
-<string>Equipment Room
-<string>Room 203
-<string>Lead Researcher's Office
-<string>Conference<lf>Room
-<string>Central Hall
-<string>Chairman's<lf>Office
-<string>Records Room
-<string>Gallery
+<string>Pintu Masuk Karyawan
+<string>Ruang Rekreasi
+<string>Kamar 204
+<string>Pusat Perawatan
+<string>Aula Tengah
+<string>Kantor<lf>Penjaga
+<string>Lobi<lf>Sayap Timur
+<string>Ruang<lf>Obat
+<string>Lab Darah
+<string>Ruang Tunggu
+<string>Bangsal Isolasi
+<string>Ruang Tamu
+<string>Dapur
+<string>Ruang Makan
+<string>Penyimpanan Dingin
+<string>Toilet
+<string>Garasi
+<string>Kantor Penjaga<lf>Gedung
+<string>Pantri
+<string>Ruang<lf>Perawatan
+<string>Ruang<lf>Pemeriksaan
+<string>Lemari
+<string>Bangsal Rehabilitasi
+<string>Ruang Arsip
+<string>Kantor Manajer<lf>Keamanan
+<string>Halaman Dalam
+<string>Kantor Konsultasi
+<string>Ruang Peralatan
+<string>Kamar 203
+<string>Kantor Peneliti Utama
+<string>Ruang<lf>Konferensi
+<string>Aula Tengah
+<string>Kantor<lf>Ketua
+<string>Ruang Catatan
+<string>Galeri
 <string>Bar & Lounge
-<string>Room 202
-<string>Room 201
-<string>Nurses' Station
-<string>Office
-<string>Kitchenette
+<string>Kamar 202
+<string>Kamar 201
+<string>Pos Perawat
+<string>Kantor
+<string>Dapur Kecil
 <string>Salon
-<string>Attic Storage
-<string>Attic
-<string>Medical<lf>Supply Room
+<string>Penyimpanan Loteng
+<string>Loteng
+<string>Ruang Perlengkapan<lf>Medis
 <string>Lounge
-<string>Director's Office
-<string>Meeting Room
-<string>Inspection
-<string>Holding Cells
-<string>Security<lf>Room
-<string>Collection Pool
-<string>Processing
-<string>Workshop
-<string>Boiler Room
-<string>Bunkroom
-<string>Furnace
-<string>Orphanage
-<string>Director's Room
-<string>Main Hall
-<string>Bedroom
-<string>Nursery
-<string>Underground<lf>Chapel
-<string>Crypt
-<string>Storage<lf>Closet
-<string>Research Lab
-<string>Neonatal<lf>Observation Lab
-<string>Meeting Room
-<string>Care Center<lf>Courtyard
-<string>Courtyard
+<string>Kantor Direktur
+<string>Ruang Rapat
+<string>Inspeksi
+<string>Sel Tahanan
+<string>Ruang<lf>Keamanan
+<string>Kolam Pengumpulan
+<string>Pemrosesan
+<string>Bengkel
+<string>Ruang Boiler
+<string>Kamar Tidur Bersama
+<string>Tungku
+<string>Panti Asuhan
+<string>Kamar Direktur
+<string>Aula Utama
+<string>Kamar Tidur
+<string>Kamar Bayi
+<string>Kapel<lf>Bawah Tanah
+<string>Ruang Bawah Tanah
+<string>Lemari<lf>Penyimpanan
+<string>Lab Riset
+<string>Lab Observasi<lf>Neonatal
+<string>Ruang Rapat
+<string>Halaman Dalam<lf>Pusat Perawatan
+<string>Halaman Dalam
 <string>Helipad
-<string>VIP Suite
-<string>Emergency Exit
-<string>Cemetery
-<string>Chapel
-<string>Roof
-<string>Research<lf>Facility
-<string>Elevator
-<string>Reception
-<string>Collection & Testing
-<string>Development
-<string>Private Lab
-<string>Control Room
-<string>Emergency Evacuation<lf>Route
-<string>Electrical Room
-<string>Water Treatment<lf>Plant
-<string>Storage Bay
-<string>Filing Room
-<string>Storage Area
-<string>Control Room
-<string>Chemical Treatment
-<string>Sedimentation
-<string>East<lf>Raccoon City
-<string>Raccoon City<lf>Center
+<string>Suite VIP
+<string>Pintu Darurat
+<string>Pemakaman
+<string>Kapel
+<string>Atap
+<string>Fasilitas<lf>Riset
+<string>Lift
+<string>Resepsionis
+<string>Pengumpulan & Pengujian
+<string>Pengembangan
+<string>Lab Pribadi
+<string>Ruang Kontrol
+<string>Jalur Evakuasi<lf>Darurat
+<string>Ruang Elektrikal
+<string>Pabrik Pengolahan<lf>Air
+<string>Teluk Penyimpanan
+<string>Ruang Arsip
+<string>Area Penyimpanan
+<string>Ruang Kontrol
+<string>Pengolahan Kimia
+<string>Sedimentasi
+<string>Raccoon City<lf>Timur
+<string>Pusat<lf>Raccoon City
 <string>R.P.D.
-<string>Ridgewood Station
-<string>Grimstone Building<lf>Basement
-<string>Underground<lf>Parking Garage
-<string>Sewage Facility
-<string>Apartment Electrical Room
-<string>Sewage Electrical Room
-<string>The Applegate<lf>Hotel
+<string>Stasiun Ridgewood
+<string>Basement<lf>Gedung Grimstone
+<string>Garasi Parkir<lf>Bawah Tanah
+<string>Fasilitas Pembuangan
+<string>Ruang Elektrikal Apartemen
+<string>Ruang Elektrikal Pembuangan
+<string>Hotel<lf>Applegate
 <string>Café Oasis
-<string>NF Building
-<string>Gas Station
-<string>Grimstone Building<lf>Rooftop
-<string>Willis Tower
-<string>Logistics Warehouse
-<string>Cedarbrook<lf>Apartments
-<string>Central Camp
+<string>Gedung NF
+<string>Pom Bensin
+<string>Atap<lf>Gedung Grimstone
+<string>Menara Willis
+<string>Gudang Logistik
+<string>Apartemen<lf>Cedarbrook
+<string>Kamp Pusat
 <string>Zipline
-<string>East Point
-<string>Mid Point
-<string>West Point
-<string>Logistics Warehouse 1F
-<string>Logistics Warehouse 2F
-<string>Logistics Warehouse Roof
-<string>Cedarbrook<lf>Apartments 1F
-<string>Cedarbrook<lf>Apartments Roof
-<string>Main Hall
-<string>Entrance
-<string>West Office
-<string>Operations<lf>Room
-<string>Reception
-<string>East Office
-<string>Press<lf>Room
-<string>Library
+<string>Titik Timur
+<string>Titik Tengah
+<string>Titik Barat
+<string>Gudang Logistik Lt. 1
+<string>Gudang Logistik Lt. 2
+<string>Atap Gudang Logistik
+<string>Apartemen Cedarbrook<lf>Lt. 1
+<string>Atap Apartemen<lf>Cedarbrook
+<string>Aula Utama
+<string>Pintu Masuk
+<string>Kantor Barat
+<string>Ruang<lf>Operasi
+<string>Resepsionis
+<string>Kantor Timur
+<string>Ruang<lf>Pers
+<string>Perpustakaan
 <string>Lounge
-<string>S.T.A.R.S. Office
-<string>Waiting<lf>Room
-<string>Private Collection<lf>Room
-<string>Chief's<lf>Office
-<string>Library
-<string>Parking Garage
-<string>Gun Shop Kendo
-<string>Basketball Court
-<string>Blackthorn Station
-<string>Blackthorn Station<lf>Platform
-<string>Service Entrance
-<string>Tunnel
+<string>Kantor S.T.A.R.S.
+<string>Ruang<lf>Tunggu
+<string>Ruang Koleksi<lf>Pribadi
+<string>Kantor<lf>Kepala
+<string>Perpustakaan
+<string>Garasi Parkir
+<string>Toko Senjata Kendo
+<string>Lapangan Basket
+<string>Stasiun Blackthorn
+<string>Peron<lf>Stasiun Blackthorn
+<string>Pintu Masuk Servis
+<string>Terowongan
 <string>ARK
-<string>Loading Dock
-<string>Staff Room
-<string>Server Room
-<string>Guest Lounge
-<string>Entrance
-<string>Stockroom
-<string>Central Refining<lf>System: PANDORA
+<string>Dermaga Muat
+<string>Ruang Staf
+<string>Ruang Server
+<string>Lounge Tamu
+<string>Pintu Masuk
+<string>Ruang Stok
+<string>Sistem Pemurnian<lf>Sentral: PANDORA
 <string>
-<string>Central Portal
-<string>Service<lf>Corridor
-<string>Anteroom
-<string>Bioweapon Repository 05
-<string>Operations Room
-<string>Study
-<string>Archives
-<string>Lobby
-<string>Monitor<lf>Control Room
-<string>Entrance
-<string>Cleanroom
-<string>Chemical Storage
-<string>Sterilization<lf>Chamber
-<string>Bioweapon Repository 02
-<string>Lab Entrance
-<string>B4 Staff Room
-<string>Bioweapon Repository 11
-<string>Systems<lf>Management
-<string>Dump<lf>Control Room
-<string>Back Room
-<string>Dump
-<string>Bioweapon Repository 12
-<string>Generator<lf>Room
-<string>Central Refining System:<lf>PANDORA Bottom Floor
+<string>Portal Tengah
+<string>Koridor<lf>Servis
+<string>Ruang Depan
+<string>Repositori Senjata Bio 05
+<string>Ruang Operasi
+<string>Ruang Belajar
+<string>Arsip
+<string>Lobi
+<string>Ruang Kontrol<lf>Monitor
+<string>Pintu Masuk
+<string>Ruang Bersih
+<string>Penyimpanan Kimia
+<string>Ruang<lf>Sterilisasi
+<string>Repositori Senjata Bio 02
+<string>Pintu Masuk Lab
+<string>Ruang Staf B4
+<string>Repositori Senjata Bio 11
+<string>Manajemen<lf>Sistem
+<string>Ruang Kontrol<lf>Pembuangan
+<string>Ruang Belakang
+<string>Tempat Pembuangan
+<string>Repositori Senjata Bio 12
+<string>Ruang<lf>Generator
+<string>Sistem Pemurnian Sentral:<lf>PANDORA Lantai Bawah
 <string>Elbridge
 <string>Rhodes Hill
 <string>Wrenwood
-<string>East Raccoon City
-<string>Raccoon City Center
-<string>Crater Center
+<string>Raccoon City Timur
+<string>Pusat Raccoon City
+<string>Pusat Kawah

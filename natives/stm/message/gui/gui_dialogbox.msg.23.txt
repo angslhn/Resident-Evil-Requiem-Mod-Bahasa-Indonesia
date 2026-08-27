@@ -1,193 +1,193 @@
-<string>Continue with these settings?
-<string>The following can be set via the Accessibility<lf>tab of the Options menu:<lf>- Preset for Auditory Accessibility<lf>- Preset for Visual Accessibility<lf>- Preset for Physical Accessibility<lf>- Preset for Motion Sickness
-<string>Restart from the last saved data?
-<string>Close the game?
-<string>Connect to Nintendo eShop?
-<string>Would you like to save your progress?
-<string>Reset all options to their default settings?
-<string>Reset all options to their default settings?<lf><lf>Please reconfigure graphics settings after resetting:<lf>Options → Graphics → Image → Auto-Configure<lf>Graphics Settings.
-<string>Reset all options to their default settings?<lf><lf>Please return to the main menu and reconfigure<lf>graphics settings after resetting:<lf>Options → Graphics → Image → Auto-Configure<lf>Graphics Settings.
-<string>Reset all options in this category to their default settings?
-<string>Reset all options in this subcategory to their default settings?
-<string>Reset all options in this subcategory to their<lf>default settings?<lf><lf>Please reconfigure graphics settings after resetting:<lf>Options → Graphics → Image → Auto-Configure<lf>Graphics Settings.
-<string>Reset all options in this subcategory to their<lf>default settings?<lf><lf>Please return to the main menu and reconfigure<lf>graphics settings after resetting:<lf>Options → Graphics → Image → Auto-Configure<lf>Graphics Settings.
-<string>Reset all options to their default settings?
-<string>Your present environment does not support HDR output,<lf>changing display settings to SDR. To reconfigure Brightness<lf>settings, adjust them via Options → Graphics → Display.
-<string>Enable HDR?
-<string>Switched to HDR Mode.<lf>Brightness can be reconfigured via<lf>Options → Graphics → Display → Brightness.
-<string>Switched to SDR Mode.<lf>Brightness can be reconfigured via<lf>Options → Graphics → Display → Brightness.
-<string>Failed to enable HDR.<lf>Starting game with HDR Mode turned off.
-<string>Apply the following changes?<lf><lf>HUD<lf>- HUD Size: Large<lf>- Menu Text Size: Large<lf><lf>Language<lf>- Subtitle Size: Large<lf>- Subtitle Background: On
-<string>Apply the following changes?<lf><lf>Language<lf>- Subtitles: On<lf>- Closed Captions: On<lf>- Speaker Name Display: On
-<string>Apply the following changes?<lf><lf>Controls<lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off<lf>- Adaptive Triggers: Off
-<string>Apply the following changes?<lf><lf>Controls<lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Rumble: Off
-<string>Apply the following changes?<lf><lf>Controls<lf>- Repeated Input Type: Hold<lf>- Reticle Deceleration: 10<lf>- Controller Vibration: Off
-<string>Apply the following changes?<lf>HUD<lf>- Dot Display: On<lf><lf>Camera<lf>- Camera Wobble: 0<lf><lf>Graphics<lf>- Motion Blur: Off
-<string>Do you want to keep this resolution?<lf>(Reverting to previous resolution in 10 seconds.)
-<string>Discarded items cannot be recovered.<lf><lf>Discard item?
-<string>Return item to where it was before moving?
-<string>Leave item and close inventory?
-<string>There are items which cannot be discarded<lf>in the discard area.<lf>Return them to your inventory.
-<string>Close inventory without picking up the item?
-<string>Close inventory?<lf>All items not in the inventory will be discarded.
-<string>Discard these items?
-<string>This item is being used and cannot be thrown away.
-<string>Unable to craft any more items because the inventory is full.
-<string>Combine selected items?
+<string>Lanjutkan dengan pengaturan ini?
+<string>Berikut dapat diatur melalui tab Aksesibilitas<lf>di menu Opsi:<lf>- Preset untuk Aksesibilitas Auditori<lf>- Preset untuk Aksesibilitas Visual<lf>- Preset untuk Aksesibilitas Fisik<lf>- Preset untuk Mabuk Gerakan
+<string>Mulai ulang dari data tersimpan terakhir?
+<string>Tutup game?
+<string>Hubungkan ke Nintendo eShop?
+<string>Apakah kamu ingin menyimpan progresmu?
+<string>Reset semua opsi ke pengaturan default?
+<string>Reset semua opsi ke pengaturan default?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Reset semua opsi ke pengaturan default?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Reset semua opsi dalam kategori ini ke pengaturan default?
+<string>Reset semua opsi dalam subkategori ini ke pengaturan default?
+<string>Reset semua opsi dalam subkategori ini ke<lf>pengaturan default?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Reset semua opsi dalam subkategori ini ke<lf>pengaturan default?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Reset semua opsi ke pengaturan default?
+<string>Lingkunganmu saat ini tidak mendukung output HDR,<lf>mengubah pengaturan tampilan ke SDR. Untuk mengonfigurasi ulang<lf>pengaturan Kecerahan, sesuaikan melalui Opsi → Grafis → Tampilan.
+<string>Aktifkan HDR?
+<string>Beralih ke Mode HDR.<lf>Kecerahan dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Tampilan → Kecerahan.
+<string>Beralih ke Mode SDR.<lf>Kecerahan dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Tampilan → Kecerahan.
+<string>Gagal mengaktifkan HDR.<lf>Memulai game dengan Mode HDR dimatikan.
+<string>Terapkan perubahan berikut?<lf><lf>HUD<lf>- Ukuran HUD: Besar<lf>- Ukuran Teks Menu: Besar<lf><lf>Bahasa<lf>- Ukuran Subtitle: Besar<lf>- Latar Belakang Subtitle: Hidup
+<string>Terapkan perubahan berikut?<lf><lf>Bahasa<lf>- Subtitle: Hidup<lf>- Closed Caption: Hidup<lf>- Tampilan Nama Pembicara: Hidup
+<string>Terapkan perubahan berikut?<lf><lf>Kontrol<lf>- Tipe Input Berulang: Tahan<lf>- Perlambatan Reticle: 10<lf>- Getaran Kontroler: Mati<lf>- Trigger Adaptif: Mati
+<string>Terapkan perubahan berikut?<lf><lf>Kontrol<lf>- Tipe Input Berulang: Tahan<lf>- Perlambatan Reticle: 10<lf>- Rumble: Mati
+<string>Terapkan perubahan berikut?<lf><lf>Kontrol<lf>- Tipe Input Berulang: Tahan<lf>- Perlambatan Reticle: 10<lf>- Getaran Kontroler: Mati
+<string>Terapkan perubahan berikut?<lf>HUD<lf>- Tampilan Titik: Hidup<lf><lf>Kamera<lf>- Goyangan Kamera: 0<lf><lf>Grafis<lf>- Motion Blur: Mati
+<string>Apakah kamu ingin mempertahankan resolusi ini?<lf>(Kembali ke resolusi sebelumnya dalam 10 detik.)
+<string>Item yang dibuang tidak dapat dipulihkan.<lf><lf>Buang item?
+<string>Kembalikan item ke tempat semula sebelum dipindahkan?
+<string>Tinggalkan item dan tutup inventori?
+<string>Ada item yang tidak dapat dibuang<lf>di area pembuangan.<lf>Kembalikan ke inventori-mu.
+<string>Tutup inventori tanpa mengambil item?
+<string>Tutup inventori?<lf>Semua item yang tidak berada di inventori akan dibuang.
+<string>Buang item-item ini?
+<string>Item ini sedang digunakan dan tidak dapat dibuang.
+<string>Tidak dapat meracik item lagi karena inventori penuh.
+<string>Gabungkan item yang dipilih?
 <string>
 <string>
-<string>Purchase selected item?
-<string>Cancel purchase?
-<string>Close without purchasing?
-<string>Upgrade weapon?
-<string>You do not have any customizable weapons.
-<string>Sell for credits?
-<string>You do not have any sellable items.
-<string>You cannot sell all your ranged weapons.<lf>You must have at least one.
-<string>Sell all items not in your inventory?
-<string>There are items that cannot be sold in your temp items.<lf>Cancel transaction?
-<string>There is an item that you cannot sell.<lf>Please return it to your inventory.
-<string>Sell for credits?
-<string>Cancel purchase?<lf>Any items not in the inventory will be sold.
-<string>This charm is currently equipped to the following weapon.<lf><lf>{0}<lf><lf>Continue anyway?
-<string>The equipped charm was removed and can now<lf>be equipped to another weapon.
-<string>You can now craft:<lf>- <REF Item_Name_it40_00_000><lf>- <REF Item_Name_it99_50_001>
-<string>You can now craft:<lf>- <REF Item_Name_it99_02_002><lf>- <REF Item_Name_it99_02_004>
-<string>You can now craft:<lf>- <REF Item_Name_it00_01_000><lf>- <REF Item_Name_it40_02_000>
-<string>You can now craft:<lf>- <REF Item_Name_it10_20_007><lf>- <REF Item_Name_it40_00_000> x30
-<string>You can now craft:<lf>- <REF Item_Name_it20_00_002>
-<string>You can now craft:<lf>- <REF Item_Name_it20_00_005>
-<string>You can now craft:<lf>- <REF Item_Name_it20_00_005><lf>- Various other items
-<string>The following items were added to your item box.
-<string>The following items were added to your supply box.
-<string>Would you like to change the game mode to Casual?<lf><lf>Note: Once changed, this cannot be undone.
-<string>Another Choice
-<string>You can return to the point in the game just before<lf>Grace selects the password for Elpis. Would you like<lf>to alter your choice?<lf><lf>Note: You won't lose any content received from<lf>completing the game.
-<string>Second Playthrough
-<string>Save Completed Data?<lf><lf>When you load the Completed Data<lf>some things will carry over from your<lf>completed game.
-<string>Completed Data save successful.
-<string>Congratulations!<lf>You let the sweet pair hear the voice.<lf>Please check Challenges.
-<string>The following has been added.
-<string>The following content has been unlocked.
-<string>The following content has been added/unlocked.
-<string>Please check each item for more details.
-<string>New Mode Added
-<string>Unlocked
-<string>Content Added
-<string>Completion Reward:
-<string>Unlocked Insanity mode.<lf>(Available when starting a new game.)
-<string>The following content has been added to Bonuses:<lf><lf>- Behind the Scenes Video
-<string>The following content has been added to Bonuses:<lf><lf>- Grace's Report
-<string>The following content has been added to Bonuses:<lf><lf>- Behind the Scenes Video<lf>- Grace's Report
-<string>The following are now available in Bonuses:<lf><lf>- Special Content<lf>- Models<lf>- Concept Art
-<string>The following costumes and weapon skin were added:<lf><lf>- Jacket (Leon)<lf>- Jacket (Grace)<lf>- Tactical Light (Alligator Snapper)<lf><lf>Note: You can change costumes from Bonus Settings.
+<string>Beli item yang dipilih?
+<string>Batalkan pembelian?
+<string>Tutup tanpa membeli?
+<string>Tingkatkan senjata?
+<string>Kamu tidak memiliki senjata yang dapat dikustomisasi.
+<string>Jual untuk kredit?
+<string>Kamu tidak memiliki item yang dapat dijual.
+<string>Kamu tidak dapat menjual semua senjata jarak jauhmu.<lf>Kamu harus memiliki setidaknya satu.
+<string>Jual semua item yang tidak berada di inventori?
+<string>Ada item yang tidak dapat dijual di item sementaramu.<lf>Batalkan transaksi?
+<string>Ada item yang tidak dapat kamu jual.<lf>Mohon kembalikan ke inventori-mu.
+<string>Jual untuk kredit?
+<string>Batalkan pembelian?<lf>Semua item yang tidak berada di inventori akan dijual.
+<string>Gantungan ini saat ini terpasang pada senjata berikut.<lf><lf>{0}<lf><lf>Lanjutkan saja?
+<string>Gantungan yang terpasang telah dilepas dan sekarang dapat<lf>dipasang ke senjata lain.
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it40_00_000><lf>- <REF Item_Name_it99_50_001>
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it99_02_002><lf>- <REF Item_Name_it99_02_004>
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it00_01_000><lf>- <REF Item_Name_it40_02_000>
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it10_20_007><lf>- <REF Item_Name_it40_00_000> x30
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it20_00_002>
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it20_00_005>
+<string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it20_00_005><lf>- Berbagai item lainnya
+<string>Item berikut ditambahkan ke kotak itemmu.
+<string>Item berikut ditambahkan ke kotak perbekalanmu.
+<string>Apakah kamu ingin mengubah mode game ke Santai?<lf><lf>Catatan: Setelah diubah, ini tidak dapat dibatalkan.
+<string>Pilihan Lain
+<string>Kamu dapat kembali ke titik dalam game tepat sebelum<lf>Grace memilih kata sandi untuk Elpis. Apakah kamu ingin<lf>mengubah pilihanmu?<lf><lf>Catatan: Kamu tidak akan kehilangan konten apa pun yang diterima dari<lf>menyelesaikan game.
+<string>Permainan Kedua
+<string>Simpan Data Selesai?<lf><lf>Saat kamu memuat Data Selesai<lf>beberapa hal akan terbawa dari<lf>game yang kamu selesaikan.
+<string>Penyimpanan Data Selesai berhasil.
+<string>Selamat!<lf>Kamu membiarkan pasangan manis itu mendengar suara tersebut.<lf>Mohon periksa Tantangan.
+<string>Berikut telah ditambahkan.
+<string>Konten berikut telah terbuka.
+<string>Konten berikut telah ditambahkan/terbuka.
+<string>Mohon periksa setiap item untuk detail lebih lanjut.
+<string>Mode Baru Ditambahkan
+<string>Terbuka
+<string>Konten Ditambahkan
+<string>Hadiah Penyelesaian:
+<string>Mode Insanity terbuka.<lf>(Tersedia saat memulai game baru.)
+<string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Video di Balik Layar
+<string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Laporan Grace
+<string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Video di Balik Layar<lf>- Laporan Grace
+<string>Berikut sekarang tersedia di Bonus:<lf><lf>- Konten Spesial<lf>- Model<lf>- Seni Konsep
+<string>Kostum dan skin senjata berikut ditambahkan:<lf><lf>- Jaket (Leon)<lf>- Jaket (Grace)<lf>- Senter Taktis (Alligator Snapper)<lf><lf>Catatan: Kamu dapat mengubah kostum dari Pengaturan Bonus.
 <string>
 <string>Total CP: <FONT 3>{0}</FONT>
-<string>Main story complete.<lf>Challenge details have been unlocked.
-<string>Challenges Complete
-<string>You'll receive Completion Points (CP) when you complete<lf>a challenge, which can be used to obtain bonus content.
-<string>The following challenges were completed!<lf>Completion Points (CP) can be used to obtain bonus content.
-<string>End video and return to Bonuses?
-<string>Weapons and items obtained in Special Content can<lf>now be collected from the item box or supply box.
-<string>All Mr. Raccoon memoriams have been destroyed <lf>in this area. Do you still want to purchase this map?
-<string>Touch the amiibo to the NFC touchpoint.
-<string>Reading amiibo data.<lf>Please do not move the amiibo.
-<string>To use this amiibo, you must register an owner<lf>and a nickname.
-<string>Register
-<string>Please touch the amiibo to the NFC touchpoint again.
-<string>Obtained a Grace weapon skin!
-<string>You can change weapon skins via Bonus Settings.
-<string>Obtained a Leon weapon skin!
-<string>This amiibo is incompatible.
-<string>This amiibo bonus has already been obtained.
-<string>Restart from previous save?<lf>(Any unsaved data will be lost.)
-<string>Quit the game and return to the main menu?<lf>(Any unsaved data will be lost.)
-<string>Jump to the RE NET homepage?
-<string>You can change this setting via Network in the<lf>Options menu.
-<string>This game has an autosave feature.<lf>Do not close the game or turn off the power<lf>when the above icon is displayed.
-<string>This game has an autosave feature.<lf>Do not turn off your PlayStation®5 console<lf>when the above icon is displayed.
-<string>This game has an autosave feature.<lf>Do not turn off your console when<lf>the icon above is displayed.
-<string>This game has an autosave feature.<lf>Do not close the game while the above icon is displayed.
-<string>Load saved data?
-<string>This saved data is corrupted and cannot be used.
-<string>Failed to load saved data.
-<string>Loadable saved data could not be found.
-<string>This saved data is not compatible and cannot be used.
-<string>Saving...<lf>Please do not close the game.
-<string>There is a game already saved in this slot.<lf>Overwrite saved data?
-<string>The save slot you selected has Completed Data.<lf>This will be lost if you overwrite your saved data.<lf>Overwrite saved data?
-<string>An ink ribbon is required to save.<lf>Use an <COLOR preset="TextColor0">ink ribbon</COLOR>?<lf>(Available: {0})
-<string>There is already saved data in this slot.<lf>Use an <COLOR preset="TextColor0">ink ribbon</COLOR> to overwrite this saved data?<lf>(Available: {0})
-<string>You do not have enough free space.<lf>In order to save your game, you must have at least<lf>{0} KB of space available and create new saved data.
-<string>Failed to save game.
-<string>Save successful.
-<string>Cancel save?
-<string>Failed to save system saved data.
-<string>Saving system data.<lf>Please do not close the game.
-<string>You can start a New Game carrying over your data<lf>by loading Completed Data.
-<string>Go back to the main menu without saving?<lf>(Your Completed Data will not be saved.)
-<string>Completed Data save successful.
-<string>Save Completed Data?<lf><lf>Some things will be carried over from your completed<lf>game when you load Completed Data.
-<string>You will lose your Completed Data.<lf><lf>Do you wish to continue without saving?
-<string>Cancel save?<lf><lf>If you cancel, unsaved progress will not be saved.
-<string>Loaded saved data.
-<string>Return to the main menu without saving?<lf><lf>If you end the game without saving,<lf>all unsaved progress will be lost.
+<string>Cerita utama selesai.<lf>Detail tantangan telah terbuka.
+<string>Tantangan Selesai
+<string>Kamu akan menerima Completion Points (CP) saat menyelesaikan<lf>sebuah tantangan, yang dapat digunakan untuk memperoleh konten bonus.
+<string>Tantangan berikut telah selesai!<lf>Completion Points (CP) dapat digunakan untuk memperoleh konten bonus.
+<string>Akhiri video dan kembali ke Bonus?
+<string>Senjata dan item yang diperoleh di Konten Spesial sekarang<lf>dapat diambil dari kotak item atau kotak perbekalan.
+<string>Semua memoriam Mr. Raccoon telah dihancurkan<lf>di area ini. Apakah kamu masih ingin membeli peta ini?
+<string>Sentuhkan amiibo ke titik sentuh NFC.
+<string>Membaca data amiibo.<lf>Mohon jangan gerakkan amiibo.
+<string>Untuk menggunakan amiibo ini, kamu harus mendaftarkan pemilik<lf>dan nama panggilan.
+<string>Daftarkan
+<string>Mohon sentuhkan amiibo ke titik sentuh NFC lagi.
+<string>Memperoleh skin senjata Grace!
+<string>Kamu dapat mengubah skin senjata melalui Pengaturan Bonus.
+<string>Memperoleh skin senjata Leon!
+<string>Amiibo ini tidak kompatibel.
+<string>Bonus amiibo ini telah diperoleh.
+<string>Mulai ulang dari simpanan sebelumnya?<lf>(Data yang belum disimpan akan hilang.)
+<string>Keluar dari game dan kembali ke menu utama?<lf>(Data yang belum disimpan akan hilang.)
+<string>Lompat ke halaman utama RE NET?
+<string>Kamu dapat mengubah pengaturan ini melalui Jaringan di<lf>menu Opsi.
+<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan tutup game atau matikan daya<lf>saat ikon di atas ditampilkan.
+<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsol PlayStation®5-mu<lf>saat ikon di atas ditampilkan.
+<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan matikan konsolmu saat<lf>ikon di atas ditampilkan.
+<string>Game ini memiliki fitur simpan otomatis.<lf>Jangan tutup game saat ikon di atas ditampilkan.
+<string>Muat data simpanan?
+<string>Data simpanan ini rusak dan tidak dapat digunakan.
+<string>Gagal memuat data simpanan.
+<string>Data simpanan yang dapat dimuat tidak ditemukan.
+<string>Data simpanan ini tidak kompatibel dan tidak dapat digunakan.
+<string>Menyimpan...<lf>Mohon jangan tutup game.
+<string>Sudah ada game tersimpan di slot ini.<lf>Timpa data simpanan?
+<string>Slot simpanan yang kamu pilih memiliki Data Selesai.<lf>Ini akan hilang jika kamu menimpa data simpananmu.<lf>Timpa data simpanan?
+<string>Pita tinta diperlukan untuk menyimpan.<lf>Gunakan <COLOR preset="TextColor0">pita tinta</COLOR>?<lf>(Tersedia: {0})
+<string>Sudah ada data simpanan di slot ini.<lf>Gunakan <COLOR preset="TextColor0">pita tinta</COLOR> untuk menimpa data simpanan ini?<lf>(Tersedia: {0})
+<string>Kamu tidak memiliki cukup ruang kosong.<lf>Untuk menyimpan game-mu, kamu harus memiliki setidaknya<lf>{0} KB ruang tersedia dan membuat data simpanan baru.
+<string>Gagal menyimpan game.
+<string>Penyimpanan berhasil.
+<string>Batalkan penyimpanan?
+<string>Gagal menyimpan data sistem.
+<string>Menyimpan data sistem.<lf>Mohon jangan tutup game.
+<string>Kamu dapat memulai Game Baru dengan membawa datamu<lf>dengan memuat Data Selesai.
+<string>Kembali ke menu utama tanpa menyimpan?<lf>(Data Selesaimu tidak akan disimpan.)
+<string>Penyimpanan Data Selesai berhasil.
+<string>Simpan Data Selesai?<lf><lf>Beberapa hal akan terbawa dari game yang kamu<lf>selesaikan saat kamu memuat Data Selesai.
+<string>Kamu akan kehilangan Data Selesaimu.<lf><lf>Apakah kamu ingin melanjutkan tanpa menyimpan?
+<string>Batalkan penyimpanan?<lf><lf>Jika kamu membatalkan, progres yang belum disimpan tidak akan disimpan.
+<string>Data simpanan dimuat.
+<string>Kembali ke menu utama tanpa menyimpan?<lf><lf>Jika kamu mengakhiri game tanpa menyimpan,<lf>semua progres yang belum disimpan akan hilang.
 <string>
-<string>Transferring saved data will overwrite any currently saved<lf>data. This action cannot be undone.<lf><lf>Transfer saved data?
-<string>Unable to find system saved data.
-<string>Saved data was successfully overwritten.<lf>Returning to title screen.
-<string>Linked CAPCOM ID to game account.
-<string>Couldn't link CAPCOM ID to game account.
-<string>Please reissue your registration code.
-<string>Please enter the 4-digit code.
-<string>You can link your game account at any time via Network<lf>in the Options menu.
-<string>This game account has now been linked.
-<string>Game data has not finished downloading.<lf>Please wait until the download is complete.
-<string>Game data has not finished downloading.<lf>Please wait until the download is complete.<lf><lf>Once downloaded, please select Continue in the<lf>main menu if you wish to play from the autosave.
-<string>Please be aware that any autosaved<lf>data will be overwritten when you<lf>start a New Game or Load saved data.
-<string>Download still in progress.<lf>Please wait until the download is complete.
-<string>The Control Type is set to Default.<lf>Set the Control Type to Custom A<lf>or Custom B to change the configuration.
-<string><COLOR preset="TextColor1">There <PLURAL {0} "is an unset action" "are {0} unset actions">.</COLOR><lf>Set the remaining <PLURAL {0} "action" "actions"> or restore <PLURAL {0} "it to its default setting" "them to their default settings">.<lf><lf>Restore to default and return to the game?
-<string>Reset all configurations to their default settings?
-<string>Would you like to save your changes?
-<string><COLOR preset="TextColor1">There <PLURAL {0} "is a duplicate assignment" "are {0} duplicate assignments">.</COLOR><lf>Multiple commands cannot be assigned to the same key.<lf><lf>Return to game without saving?
-<string>You signed out of Xbox network.
-<string>You are not signed in to PlayStation™Network.
-<string>You are not signed in to Xbox network.
-<string>Failed to send play data.
-<string>Failed to send play data.<lf>Play data transmission will be temporarily suspended.<lf><lf>Play data transmission will resume when you<lf>go to the main menu or options.
-<string>Play data cannot be sent without a network connection.
-<string>Checking add-ons.<lf>Please do not turn off your game.
-<string>Checking add-ons.<lf>Please do not turn off your game.
-<string>Checking add-ons.<lf>Please do not turn off your game.
-<string>Checking downloadable content.<lf>Please do not turn off your game.
-<string>The following costumes have been added.
-<string>The following weapon skins have been added.
-<string>The following items have been added.
-<string>The following content has been added.
-<string>You can change costumes via Bonus Settings.
-<string>You can change weapon skins via Bonus Settings.
-<string>The above will appear in your inventory in the main story<lf>or in the item box/supply box if your inventory is full.
-<string>You can change this content via Bonus Settings.
-<string>You can access this content after<lf>progressing past a certain point.
-<string>Unable to find the following data:
-<string>Please redownload the data.
-<string>Add-ons from another region cannot<lf>be used as they differ from this version<lf>of the game.
-<string>Failed to log in to the Epic Games Launcher.<lf>The game will now close.
-<string>Connection to the Epic Games Launcher was lost.<lf>The game will now close.
-<string>This game requires an online connection to play.<lf>Because you are offline, the game will now close.
-<string>Graphics settings were changed to the lowest levels.
-<string>End User License Agreement
-<string>You can view the End User License Agreement by clicking<lf>on the URL below while connected to the internet.<lf>Please be sure to read the contents carefully<lf>and agree before proceeding.
-<string>Open the End User License Agreement website?
-<string>Measure PC performance and automatically configure settings?<lf><lf>After measurements and graphics settings have been<lf>configured you will be returned to the main menu.
-<string>Measuring your PC's performance.
-<string>Measurements complete. Graphics settings have been<lf>reconfigured to the optimal settings for your PC.<lf><lf>Graphics can be reconfigured via<lf>Options → Graphics → Image.
-<string>Measurements complete. Graphics settings have been<lf>reconfigured to the optimal settings for your PC.<lf><lf>Returning to the main menu.
-<string>Select preferred priority settings for image quality.
-<string>Prioritize Performance
-<string>Prioritize Quality
-<string>Change graphics settings to prioritize performance?
-<string>Change graphics settings to prioritize quality?
-<string>Failed to automatically configure graphics settings.<lf><lf>To ensure a smooth playing experience, lower<lf>the resolution of your PC monitor and try<lf>configuring the settings again.
-<string>Changing this setting to Path Tracing will automatically<lf>adjust settings related to upscaling.<lf><lf>Would you like to proceed?
+<string>Mentransfer data simpanan akan menimpa data yang saat ini<lf>tersimpan. Tindakan ini tidak dapat dibatalkan.<lf><lf>Transfer data simpanan?
+<string>Tidak dapat menemukan data simpanan sistem.
+<string>Data simpanan berhasil ditimpa.<lf>Kembali ke layar judul.
+<string>CAPCOM ID terhubung ke akun game.
+<string>Tidak dapat menghubungkan CAPCOM ID ke akun game.
+<string>Mohon terbitkan ulang kode registrasimu.
+<string>Mohon masukkan kode 4 digit.
+<string>Kamu dapat menghubungkan akun game-mu kapan saja melalui Jaringan<lf>di menu Opsi.
+<string>Akun game ini sekarang telah terhubung.
+<string>Data game belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.
+<string>Data game belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.<lf><lf>Setelah diunduh, mohon pilih Lanjutkan di<lf>menu utama jika kamu ingin bermain dari simpan otomatis.
+<string>Mohon perhatikan bahwa data simpan otomatis<lf>akan ditimpa saat kamu<lf>memulai Game Baru atau Memuat data simpanan.
+<string>Unduhan masih berlangsung.<lf>Mohon tunggu hingga unduhan selesai.
+<string>Tipe Kontrol diatur ke Default.<lf>Atur Tipe Kontrol ke Custom A<lf>atau Custom B untuk mengubah konfigurasi.
+<string><COLOR preset="TextColor1">Ada <PLURAL {0} "aksi yang belum diatur" "{0} aksi yang belum diatur">.</COLOR><lf>Atur sisa <PLURAL {0} "aksi" "aksi"> atau pulihkan <PLURAL {0} "ke pengaturan default" "ke pengaturan default">.<lf><lf>Pulihkan ke default dan kembali ke game?
+<string>Reset semua konfigurasi ke pengaturan default?
+<string>Apakah kamu ingin menyimpan perubahanmu?
+<string><COLOR preset="TextColor1">Ada <PLURAL {0} "penetapan duplikat" "{0} penetapan duplikat">.</COLOR><lf>Beberapa perintah tidak dapat ditetapkan ke tombol yang sama.<lf><lf>Kembali ke game tanpa menyimpan?
+<string>Kamu keluar dari jaringan Xbox.
+<string>Kamu tidak masuk ke PlayStation™Network.
+<string>Kamu tidak masuk ke jaringan Xbox.
+<string>Gagal mengirim data permainan.
+<string>Gagal mengirim data permainan.<lf>Pengiriman data permainan akan ditangguhkan sementara.<lf><lf>Pengiriman data permainan akan dilanjutkan saat kamu<lf>pergi ke menu utama atau opsi.
+<string>Data permainan tidak dapat dikirim tanpa koneksi jaringan.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
+<string>Memeriksa add-on.<lf>Mohon jangan matikan game-mu.
+<string>Memeriksa konten unduhan.<lf>Mohon jangan matikan game-mu.
+<string>Kostum berikut telah ditambahkan.
+<string>Skin senjata berikut telah ditambahkan.
+<string>Item berikut telah ditambahkan.
+<string>Konten berikut telah ditambahkan.
+<string>Kamu dapat mengubah kostum melalui Pengaturan Bonus.
+<string>Kamu dapat mengubah skin senjata melalui Pengaturan Bonus.
+<string>Di atas akan muncul di inventori-mu dalam cerita utama<lf>atau di kotak item/kotak perbekalan jika inventori-mu penuh.
+<string>Kamu dapat mengubah konten ini melalui Pengaturan Bonus.
+<string>Kamu dapat mengakses konten ini setelah<lf>maju melewati titik tertentu.
+<string>Tidak dapat menemukan data berikut:
+<string>Mohon unduh ulang datanya.
+<string>Add-on dari wilayah lain tidak dapat<lf>digunakan karena berbeda dari versi<lf>game ini.
+<string>Gagal masuk ke Epic Games Launcher.<lf>Game akan segera ditutup.
+<string>Koneksi ke Epic Games Launcher terputus.<lf>Game akan segera ditutup.
+<string>Game ini memerlukan koneksi online untuk dimainkan.<lf>Karena kamu offline, game akan segera ditutup.
+<string>Pengaturan grafis diubah ke level terendah.
+<string>Perjanjian Lisensi Pengguna Akhir
+<string>Kamu dapat melihat Perjanjian Lisensi Pengguna Akhir dengan mengklik<lf>URL di bawah ini saat terhubung ke internet.<lf>Mohon pastikan untuk membaca isinya dengan saksama<lf>dan menyetujui sebelum melanjutkan.
+<string>Buka situs web Perjanjian Lisensi Pengguna Akhir?
+<string>Ukur performa PC dan konfigurasikan pengaturan secara otomatis?<lf><lf>Setelah pengukuran dan pengaturan grafis telah<lf>dikonfigurasi, kamu akan dikembalikan ke menu utama.
+<string>Mengukur performa PC-mu.
+<string>Pengukuran selesai. Pengaturan grafis telah<lf>dikonfigurasi ulang ke pengaturan optimal untuk PC-mu.<lf><lf>Grafis dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Gambar.
+<string>Pengukuran selesai. Pengaturan grafis telah<lf>dikonfigurasi ulang ke pengaturan optimal untuk PC-mu.<lf><lf>Kembali ke menu utama.
+<string>Pilih pengaturan prioritas yang kamu inginkan untuk kualitas gambar.
+<string>Prioritaskan Performa
+<string>Prioritaskan Kualitas
+<string>Ubah pengaturan grafis untuk memprioritaskan performa?
+<string>Ubah pengaturan grafis untuk memprioritaskan kualitas?
+<string>Gagal mengonfigurasi pengaturan grafis secara otomatis.<lf><lf>Untuk memastikan pengalaman bermain yang lancar, turunkan<lf>resolusi monitor PC-mu dan coba<lf>konfigurasikan pengaturannya lagi.
+<string>Mengubah pengaturan ini ke Path Tracing akan secara otomatis<lf>menyesuaikan pengaturan terkait upscaling.<lf><lf>Apakah kamu ingin melanjutkan?
