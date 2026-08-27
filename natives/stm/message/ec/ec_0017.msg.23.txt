@@ -1,28 +1,28 @@
-<string>From Meryl to Mommy
-<string>Mommy,<lf><lf>Good morning, sleepy head.<lf>Don't get mad, but I decided<lf>I'll go get Daddy by myself!
-<string>I'm bored of staying inside.<lf>Those people won't let us out<lf>even when we say pretty please.<lf><lf>But it's OK, I'm small and can<lf>sneak through the fence!
-<string>I'll look at the <COLOR preset="TextColor0">gas station</COLOR> first.<lf>Daddy really likes the candy there.<lf>Maybe he stopped to buy some!<lf><lf>I love you Mommy! See you soon!<lf>Meryl
-<string>From Meryl to Mommy 2
-<string>Mommy,<lf><lf>If you are reading this, please go back<lf>to the hotel.<lf><lf>There are lots of creepy people around.<lf>They make strange noises. There are fires.<lf><lf>Mommy, it's really scary.
-<string>I'm OK.<lf>I met Daddy's friend, Mr. George.<lf>Remember him? He's going to evacuumate<lf>me to the police station in his police car.<lf>I'm sure Daddy will be there!<lf><lf>Love you, Mommy!
-<string>From Meryl to Mommy 3
-<string>Mommy,<lf>Did I do something wrong? Daddy got mad at me.<lf><lf>He yelled WHY ARE YOU HERE? really really loud.<lf>He didn't let me in the police station.
-<string>I'm hiding with Mr. George now.<lf>He said we can get inside by the <COLOR preset="TextColor0">parking garage</COLOR>.<lf>But first we are resting.
-<string>He's really nice, Mommy.<lf>I'll give him one of my kitty bandages<lf>to cover up the owwie on his hand.<lf><lf>Love you lots,<lf>Meryl
-<string>From Meryl to Mommy 4
-<string>Mommy,<lf><lf>What do I do? Help me, Mommy!<lf>Mr. George is hurt really bad.<lf>He's bleeding lots and all the bandages<lf>are too small. It won't stop.
-<string>There are so many scary people here now.<lf>I'm going to run to <COLOR preset="TextColor0">Mr. Kendo's store</COLOR>.<lf><lf>If anyone reads this, please help.<lf>My name is Meryl Branagh.
+<string>Dari Meryl untuk Mama
+<string>Mama,<lf><lf>Selamat pagi, tukang tidur.<lf>Jangan marah, tapi aku memutuskan<lf>akan pergi mencari Ayah sendirian!
+<string>Aku bosan diam di dalam.<lf>Orang-orang itu tidak membiarkan kami keluar<lf>bahkan saat kami memohon dengan manis.<lf><lf>Tapi tidak apa-apa, aku kecil dan bisa<lf>menyelinap lewat pagar!
+<string>Aku akan melihat <COLOR preset="TextColor0">pom bensin</COLOR> dulu.<lf>Ayah sangat suka permen di sana.<lf>Mungkin dia mampir untuk membeli!<lf><lf>Aku sayang Mama! Sampai jumpa!<lf>Meryl
+<string>Dari Meryl untuk Mama 2
+<string>Mama,<lf><lf>Jika kau membaca ini, tolong kembali<lf>ke hotel.<lf><lf>Ada banyak orang menyeramkan di sekitar.<lf>Mereka membuat suara aneh. Ada kebakaran.<lf><lf>Mama, ini sangat menakutkan.
+<string>Aku baik-baik saja.<lf>Aku bertemu teman Ayah, Tuan George.<lf>Ingat dia? Dia akan mengungsikan<lf>aku ke kantor polisi dengan mobil polisinya.<lf>Aku yakin Ayah akan ada di sana!<lf><lf>Sayang Mama!
+<string>Dari Meryl untuk Mama 3
+<string>Mama,<lf>Apakah aku melakukan kesalahan? Ayah marah padaku.<lf><lf>Dia berteriak KENAPA KAU DI SINI? sangat sangat keras.<lf>Dia tidak membiarkanku masuk ke kantor polisi.
+<string>Aku bersembunyi dengan Tuan George sekarang.<lf>Dia bilang kita bisa masuk lewat <COLOR preset="TextColor0">garasi parkir</COLOR>.<lf>Tapi pertama kita istirahat.
+<string>Dia sangat baik, Mama.<lf>Aku akan memberinya satu plester kucingku<lf>untuk menutupi luka di tangannya.<lf><lf>Sayang Mama banyak,<lf>Meryl
+<string>Dari Meryl untuk Mama 4
+<string>Mama,<lf><lf>Apa yang harus kulakukan? Tolong aku, Mama!<lf>Tuan George terluka sangat parah.<lf>Dia berdarah banyak dan semua plester<lf>terlalu kecil. Tidak mau berhenti.
+<string>Ada begitu banyak orang menakutkan di sini sekarang.<lf>Aku akan lari ke <COLOR preset="TextColor0">toko Tuan Kendo</COLOR>.<lf><lf>Jika ada yang membaca ini, tolong bantu.<lf>Namaku Meryl Branagh.
 <string><lf><lf><lf><lf><lf><lf><lf>
-<string>I'm scared, Mommy.<lf><lf>I want to see Daddy.
-<string>From Meryl to Mommy 5
+<string>Aku takut, Mama.<lf><lf>Aku ingin bertemu Ayah.
+<string>Dari Meryl untuk Mama 5
 <string>
-<string>1998 Letters
-<string>R.P.D. Charm
-<string>A key chain Marvin gave to his daughter.<lf>Can be used as a charm for any gun.<lf><COLOR preset="TextColor3">Increases firepower when near death</COLOR>.
+<string>Surat-surat 1998
+<string>Gantungan R.P.D.
+<string>Gantungan kunci yang Marvin berikan kepada putrinya.<lf>Dapat digunakan sebagai gantungan untuk senjata apa pun.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak saat hampir mati</COLOR>.
 <string>
-<string>This girl... It can't be.
+<string>Gadis ini... Tidak mungkin.
 <string>
-<string>I'm sorry I was too late.
-<string>R.P.D. Charm (Leon)
-<string>A key chain Marvin gave to his daughter.<lf>Can be used as a charm for any gun.<lf><COLOR preset="TextColor3">Increases firepower when near death</COLOR>.
-<string>Complete "Letters from 1998" by hunting down<lf>and investigating certain files in the main story.
+<string>Maafkan aku terlambat.
+<string>Gantungan R.P.D. (Leon)
+<string>Gantungan kunci yang Marvin berikan kepada putrinya.<lf>Dapat digunakan sebagai gantungan untuk senjata apa pun.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak saat hampir mati</COLOR>.
+<string>Selesaikan "Surat dari 1998" dengan mencari<lf>dan menyelidiki berkas-berkas tertentu di cerita utama.

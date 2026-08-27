@@ -1,2 +1,2 @@
-<string>Mr. Raccoon Charm
-<string>A mysterious charm that works just<lf>by holding it. <COLOR preset="TextColor3">Increases precision<lf>and critical hit rate</COLOR>.
+<string>Gantungan Mr. Raccoon
+<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan presisi<lf>dan tingkat serangan kritis</COLOR>.

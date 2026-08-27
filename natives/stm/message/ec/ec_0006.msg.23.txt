@@ -1,3 +1,3 @@
 <string>Leon (Film Noir)
-<string>Obtain this costume.
+<string>Dapatkan kostum ini.
 <string>Film Noir

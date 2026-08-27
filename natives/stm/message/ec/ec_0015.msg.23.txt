@@ -1,2 +1,2 @@
-<string>DSO Emblem Charm
-<string>A charm for handguns.<lf><COLOR preset="TextColor3">Increases precision and<lf>critical hit rate</COLOR>.
+<string>Gantungan Emblem DSO
+<string>Gantungan untuk pistol.<lf><COLOR preset="TextColor3">Meningkatkan presisi dan<lf>tingkat serangan kritis</COLOR>.
