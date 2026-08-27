@@ -1,52 +1,52 @@
 <string>
 <string>
 <string>
-<string>[earpiece beeps]
-<string>[earpiece beeps]
+<string>[earpiece berbunyi bip]
+<string>[earpiece berbunyi bip]
 <string>
-<string>[generator rumbling]
+<string>[generator bergemuruh]
 <string>
-<string>[earpiece beeps]
-<string>[click]
+<string>[earpiece berbunyi bip]
+<string>[klik]
 <string>
-<string>[helicopter blades whirring]
-<string>
-<string>
-<string>[fastener rips]
+<string>[baling-baling helikopter berdengung]
 <string>
 <string>
-<string>
-<string>[gun magazines click]
-<string>[blood splattering]
-<string>[gunfire]
-<string>[blood splattering]
-<string>[blood splattering]
-<string>[blood splattering]
-<string>[blood splattering]
-<string>[blood splattering]
-<string>[blood splattering]
-<string>
-<string>[gunshot]
-<string>
-<string>
-<string>[helicopter blades whirring]
-<string>
-<string>
-<string>[rustling]
-<string>
-<string>[cables groan and snap]
-<string>
-<string>
-<string>[cables groan and snap]
+<string>[pengait robek]
 <string>
 <string>
 <string>
-<string>[timer beeping]
-<string>[explosion]
+<string>[magasin senjata berbunyi klik]
+<string>[darah muncrat]
+<string>[tembakan bertubi-tubi]
+<string>[darah muncrat]
+<string>[darah muncrat]
+<string>[darah muncrat]
+<string>[darah muncrat]
+<string>[darah muncrat]
+<string>[darah muncrat]
+<string>
+<string>[tembakan]
+<string>
+<string>
+<string>[baling-baling helikopter berdengung]
+<string>
+<string>
+<string>[gemerisik]
+<string>
+<string>[kabel berderit dan putus]
+<string>
+<string>
+<string>[kabel berderit dan putus]
 <string>
 <string>
 <string>
-<string>[engine whirrs]
-<string>[engine revs]
+<string>[pengatur waktu berbunyi bip]
+<string>[ledakan]
+<string>
+<string>
+<string>
+<string>[mesin berdengung]
+<string>[mesin digeber]
 <string>
 <string>

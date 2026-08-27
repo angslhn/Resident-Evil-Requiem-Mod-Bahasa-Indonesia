@@ -1,10 +1,10 @@
 <string>
 <string>
-<string>[Nathan clearing his throat]
+<string>[Nathan berdeham]
 <string>
 <string>
 <string>
 <string>
-<string>[radio static]
+<string>[derau radio]
 <string>
 <string>

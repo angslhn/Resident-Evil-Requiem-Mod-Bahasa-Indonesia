@@ -1,8 +1,8 @@
 <string>
 <string>
 <string>
-<string>[swallowing]
-<string>[sigh]
+<string>[menelan]
+<string>[helaan napas]
 <string>
 <string>
 <string>
@@ -12,25 +12,25 @@
 <string>
 <string>
 <string>
-<string>[bones crack]
-<string>[spider chittering]
+<string>[tulang berderak]
+<string>[laba-laba berbunyi nyaring]
 <string>
-<string>[roar]
-<string>
-<string>
-<string>[squeal]
-<string>[thud]
-<string>[rumbling and cracking]
-<string>
-<string>[screech]
+<string>[raungan]
 <string>
 <string>
-<string>[screeching]
-<string>[roar]
+<string>[pekikan]
+<string>[debuman]
+<string>[gemuruh dan derak]
 <string>
-<string>[thudding]
-<string>[floor crumbles]
+<string>[jeritan]
 <string>
-<string>[dying screech]
+<string>
+<string>[menjerit]
+<string>[raungan]
+<string>
+<string>[berdebum]
+<string>[lantai runtuh]
+<string>
+<string>[jeritan sekarat]
 <string>
 <string>

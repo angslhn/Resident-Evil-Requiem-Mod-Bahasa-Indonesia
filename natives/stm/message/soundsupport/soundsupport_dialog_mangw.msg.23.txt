@@ -1,65 +1,65 @@
 <string>
 <string>
-<string>[pained whimpering]
+<string>[rintihan kesakitan]
 <string>
 <string>
 <string>
-<string>[loud clanking]
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>[hatch clanking open]
-<string>[hatch stops and power cuts]
-<string>
-<string>
-<string>[shrieks]
-<string>
-<string>[melting]
-<string>
-<string>
-<string>
-<string>[door scrapes open]
-<string>
-<string>[counting compressions]
-<string>[sobbing]
-<string>[hand clanks against metal]
-<string>[gasping scream]
-<string>
-<string>[struggling screams]
-<string>[bubbling and cracking]
-<string>
-<string>
-<string>[gunshot]
-<string>
-<string>
-<string>[fading screech]
+<string>[dentang keras]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[thunk]
-<string>
-<string>[sigh]
-<string>[wet cough]
-<string>
-<string>[spits]
+<string>[palka terbuka dengan bunyi dentang]
+<string>[palka berhenti dan listrik padam]
 <string>
 <string>
-<string>[sniffling]
+<string>[jeritan melengking]
 <string>
-<string>[chuckles]
-<string>
-<string>
-<string>[shutter glides open]
-<string>
-<string>[helicopter blades whirring]
+<string>[meleleh]
 <string>
 <string>
 <string>
+<string>[pintu terbuka dengan gesekan]
 <string>
-<string>[metallic bang]
+<string>[menghitung kompresi]
+<string>[terisak]
+<string>[tangan berdenting mengenai logam]
+<string>[jeritan terengah]
+<string>
+<string>[jeritan sambil melawan]
+<string>[menggelembung dan berderak]
+<string>
+<string>
+<string>[tembakan]
+<string>
+<string>
+<string>[jeritan yang memudar]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[debum]
+<string>
+<string>[helaan napas]
+<string>[batuk basah]
+<string>
+<string>[meludah]
+<string>
+<string>
+<string>[terisak pelan]
+<string>
+<string>[terkekeh]
+<string>
+<string>
+<string>[penutup jendela terbuka perlahan]
+<string>
+<string>[baling-baling helikopter berdengung]
+<string>
+<string>
+<string>
+<string>
+<string>[dentuman logam]

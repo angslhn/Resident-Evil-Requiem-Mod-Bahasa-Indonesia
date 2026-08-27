@@ -2,95 +2,95 @@
 <string>
 <string>
 <string>
-<string>[engine stops]
+<string>[mesin berhenti]
 <string>
 <string>
 <string>
 <string>
-<string>[screaming]
+<string>[berteriak]
 <string>
 <string>
-<string>[earpiece beeps]
+<string>[earpiece berbunyi bip]
 <string>
-<string>[silence]
-<string>
-<string>
+<string>[keheningan]
 <string>
 <string>
-<string>[monitor pings faintly]
+<string>
+<string>
+<string>[monitor berbunyi ping samar]
 <string>
 <string>
 <string>[ping]
-<string>[earpiece beeps]
+<string>[earpiece berbunyi bip]
 <string>
 <string>
-<string>[earpiece beeps]
+<string>[earpiece berbunyi bip]
 <string>
-<string>[silence]
-<string>
-<string>
-<string>
-<string>
-<string>[computer pings faintly]
-<string>
-<string>
-<string>[computer pings]
-<string>[earpiece beeps]
-<string>
-<string>
-<string>
-<string>[keyboard clicks]
-<string>
-<string>[Grace exhales]
-<string>
-<string>[keyboard clicks]
+<string>[keheningan]
 <string>
 <string>
 <string>
 <string>
-<string>[keyboard clicks]
+<string>[komputer berbunyi ping samar]
+<string>
+<string>
+<string>[komputer berbunyi ping]
+<string>[earpiece berbunyi bip]
 <string>
 <string>
 <string>
-<string>[ragged breathing]
+<string>[keyboard diketik]
 <string>
-<string>[gunshots]
-<string>[huge crash]
+<string>[Grace menghembuskan napas]
 <string>
-<string>[gunshots]
-<string>
-<string>
-<string>[groans]
-<string>
-<string>[gunshot]
-<string>[ceiling crumbles]
-<string>
-<string>
-<string>[rumbling]
-<string>
-<string>[helicopter blades whirring]
-<string>
-<string>[rain pouring]
-<string>
-<string>[metal door squeaks]
+<string>[keyboard diketik]
 <string>
 <string>
 <string>
 <string>
-<string>[large impact thud]
+<string>[keyboard diketik]
+<string>
+<string>
+<string>
+<string>[napas tersengal]
+<string>
+<string>[tembakan-tembakan]
+<string>[benturan besar]
+<string>
+<string>[tembakan-tembakan]
+<string>
+<string>
+<string>[mengerang]
+<string>
+<string>[tembakan]
+<string>[langit-langit runtuh]
+<string>
+<string>
+<string>[bergemuruh]
+<string>
+<string>[baling-baling helikopter berdengung]
+<string>
+<string>[hujan turun deras]
+<string>
+<string>[pintu logam berdecit]
 <string>
 <string>
 <string>
 <string>
-<string>[missile whooshes through the air]
-<string>[explosion]
+<string>[debuman benturan besar]
 <string>
-<string>[groans]
-<string>[heavy thud]
-<string>[gunshot]
 <string>
-<string>[explosion]
-<string>[muscles and sinew squelch]
 <string>
-<string>[blood spurts violently]
+<string>
+<string>[rudal melesat di udara]
+<string>[ledakan]
+<string>
+<string>[mengerang]
+<string>[debuman keras]
+<string>[tembakan]
+<string>
+<string>[ledakan]
+<string>[otot dan urat berbunyi lembek]
+<string>
+<string>[darah menyembur deras]
 <string>

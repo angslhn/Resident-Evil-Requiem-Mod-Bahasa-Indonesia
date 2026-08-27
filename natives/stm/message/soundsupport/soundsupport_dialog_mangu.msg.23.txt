@@ -1,54 +1,54 @@
 <string>
-<string>[flashlight clatters]
+<string>[senter berdentang jatuh]
 <string>
 <string>
 <string>
 <string>
-<string>[panicked breathing]
+<string>[napas panik]
 <string>
-<string>[growling]
-<string>[Grace gasps]
-<string>
-<string>
-<string>[Grace gasps]
-<string>
-<string>[bars rattling]
+<string>[menggeram]
+<string>[Grace terengah]
 <string>
 <string>
+<string>[Grace terengah]
 <string>
-<string>
-<string>[metallic clanking]
-<string>[alarm blaring]
-<string>
-<string>[Emily screaming]
-<string>
-<string>[elevator doors thumping]
+<string>[jeruji berdentang]
 <string>
 <string>
 <string>
 <string>
+<string>[dentang logam]
+<string>[alarm meraung]
 <string>
+<string>[Emily berteriak]
 <string>
-<string>[scream]
-<string>
-<string>
-<string>[cables snapping]
+<string>[pintu lift berdebum]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[screaming]
-<string>[sobbing]
-<string>[blood spurts and splatters]
+<string>[jeritan]
+<string>
+<string>
+<string>[kabel putus]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[Grace crying]
-<string>[deep breaths]
+<string>[berteriak]
+<string>[terisak]
+<string>[darah menyembur dan memercik]
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>[Grace menangis]
+<string>[napas dalam-dalam]
 <string>
 <string>

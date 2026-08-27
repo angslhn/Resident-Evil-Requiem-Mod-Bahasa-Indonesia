@@ -5,40 +5,40 @@
 <string>
 <string>
 <string>
-<string>[gasps]
+<string>[terengah]
 <string>
 <string>
-<string>[groaning]
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>[strap clicks open]
-<string>
-<string>[lock beeps]
+<string>[mengerang]
 <string>
 <string>
 <string>
 <string>
 <string>
+<string>[tali pengikat terbuka dengan bunyi klik]
 <string>
-<string>[distant groaning]
-<string>
-<string>[murmur of agreement]
-<string>
+<string>[kunci berbunyi bip]
 <string>
 <string>
 <string>
-<string>[loud crash]
-<string>[chains jangling]
-<string>
-<string>[Emily screaming]
-<string>
-<string>
-<string>[muscles and sinew squelch]
 <string>
 <string>
 <string>
-<string>[deep breaths]
-<string>[screams]
+<string>[erangan dari kejauhan]
+<string>
+<string>[gumaman setuju]
+<string>
+<string>
+<string>
+<string>
+<string>[benturan keras]
+<string>[rantai berdentang]
+<string>
+<string>[Emily berteriak]
+<string>
+<string>
+<string>[otot dan urat berbunyi lembek]
+<string>
+<string>
+<string>
+<string>[napas dalam-dalam]
+<string>[berteriak]

@@ -1,41 +1,41 @@
 <string>
-<string>[keyboard clicks]
+<string>[keyboard diketik]
 <string>
-<string>[heavy running footsteps]
-<string>
-<string>
-<string>
-<string>[gunshots]
-<string>[weapons twang]
-<string>
-<string>[glass shatters]
-<string>
-<string>[heavy clank]
-<string>[cough]
+<string>[langkah kaki berat berlari]
 <string>
 <string>
 <string>
-<string>[mechanical whirring]
+<string>[tembakan-tembakan]
+<string>[senjata berdenting]
 <string>
+<string>[kaca pecah]
 <string>
-<string>[skin cracking]
-<string>[gunshots]
-<string>
-<string>[thwack]
-<string>[gasping]
-<string>[muscles squelch]
-<string>
-<string>
-<string>
-<string>[groaning]
-<string>[blood splattering]
+<string>[dentang keras]
+<string>[batuk]
 <string>
 <string>
 <string>
-<string>[gunshot]
-<string>[metal groaning]
-<string>[scream]
+<string>[dengungan mekanis]
 <string>
-<string>[coughing]
+<string>
+<string>[kulit berderak]
+<string>[tembakan-tembakan]
+<string>
+<string>[bunyi pukulan keras]
+<string>[terengah-engah]
+<string>[otot berbunyi lembek]
+<string>
+<string>
+<string>
+<string>[mengerang]
+<string>[darah muncrat]
+<string>
+<string>
+<string>
+<string>[tembakan]
+<string>[logam berderit]
+<string>[jeritan]
+<string>
+<string>[batuk]
 <string>
 <string>

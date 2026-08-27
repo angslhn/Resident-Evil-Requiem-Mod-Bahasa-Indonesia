@@ -1,2 +1,2 @@
-<string>[generator exploding]
-<string>[generator explodes]
+<string>[generator meledak]
+<string>[generator meledak]

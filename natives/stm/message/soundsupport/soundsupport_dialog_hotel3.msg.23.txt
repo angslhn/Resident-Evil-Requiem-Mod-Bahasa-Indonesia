@@ -1,12 +1,12 @@
 <string>
 <string>
 <string>
-<string>[keyboard clicking]
+<string>[keyboard diketik]
 <string>
 <string>
-<string>[mouse clicks]
+<string>[mouse diklik]
 <string>
-<string>[rapid knocking]
+<string>[ketukan cepat]
 <string>
 <string>
 <string>
@@ -15,148 +15,148 @@
 <string>
 <string>
 <string>
-<string>[rain pouring]
+<string>[hujan turun deras]
 <string>
 <string>
 <string>
-<string>[grumbles]
+<string>[menggerutu]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[rustling]
+<string>[gemerisik]
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[creaking]
+<string>[berderit]
 <string>
-<string>[creaking]
-<string>[shaky breathing]
+<string>[berderit]
+<string>[napas gemetar]
 <string>
-<string>[door slams]
-<string>[gasps]
+<string>[pintu dibanting]
+<string>[terengah]
 <string>
 <string>
-<string>[frantic rustling]
+<string>[gemerisik panik]
 <string>
-<string>[thump]
+<string>[debuman]
 <string>
 <string>
 <string>
 <string>
-<string>[keyboard clicking]
-<string>[door opens and shuts]
+<string>[keyboard diketik]
+<string>[pintu terbuka dan tertutup]
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[Grace scoffs]
+<string>[Grace mendengus mengejek]
 <string>
 <string>
-<string>[phone ringing]
+<string>[telepon berdering]
 <string>
 <string>
-<string>[call disconnects]
+<string>[panggilan terputus]
 <string>
 <string>
-<string>[loud click]
+<string>[bunyi klik keras]
 <string>
-<string>[frantic rustling]
+<string>[gemerisik panik]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[gun barrel clicks]
+<string>[laras senjata berbunyi klik]
 <string>
 <string>
 <string>
-<string>[shuffling and gasping]
+<string>[langkah terseret dan terengah]
 <string>
-<string>[manager choking]
+<string>[manajer tersedak]
 <string>
 <string>
-<string>[gunshots]
-<string>[body falls]
+<string>[tembakan-tembakan]
+<string>[tubuh terjatuh]
 <string>
-<string>[hyperventilating]
+<string>[bernapas terlalu cepat]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[gasping breaths]
-<string>[metal clinking]
+<string>[napas terengah-engah]
+<string>[logam berdenting]
 <string>
 <string>
-<string>[screaming in horror]
+<string>[berteriak ketakutan]
 <string>
-<string>[blood spurting]
+<string>[darah menyembur]
 <string>
 <string>
-<string>[flames hiss and spread]
-<string>[wailing]
-<string>[flames crackling]
+<string>[api mendesis dan menyebar]
+<string>[meraung]
+<string>[api berderak]
 <string>
 <string>
-<string>[sniffling]
-<string>[phone ringing]
+<string>[terisak pelan]
+<string>[telepon berdering]
 <string>
 <string>
-<string>[ringing continues]
+<string>[dering berlanjut]
 <string>
 <string>
-<string>[click]
-<string>[silence]
+<string>[klik]
+<string>[keheningan]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[SFX screech]
+<string>[SFX jeritan]
 <string>
-<string>[pained choking]
-<string>[blood splatters]
+<string>[tersedak kesakitan]
+<string>[darah memercik]
 <string>
-<string>[fabric straining]
+<string>[kain tertarik keras]
 <string>
 <string>
-<string>[gunshot]
+<string>[tembakan]
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[window shatters]
+<string>[jendela pecah]
 <string>
-<string>[glass clattering]
+<string>[kaca berdentang]
 <string>
-<string>[groaning]
-<string>[♪ classical music]
+<string>[mengerang]
+<string>[♪ musik klasik]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[thunder]
+<string>[guntur]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[lock clicks]
+<string>[kunci berbunyi klik]
 <string>
 <string>
 <string>
-<string>[choking]
-<string>[chuckle]
+<string>[tersedak]
+<string>[terkekeh]

@@ -2,20 +2,20 @@
 <string>
 <string>
 <string>
-<string>[gasp]
+<string>[terengah]
 <string>
 <string>
 <string>
-<string>[alarm blaring]
-<string>[monitor beeping]
-<string>[oozing]
-<string>
-<string>
-<string>
-<string>
-<string>[receding footsteps]
+<string>[alarm meraung]
+<string>[monitor berbunyi bip]
+<string>[merembes]
 <string>
 <string>
 <string>
 <string>
-<string>[wristband clinks]
+<string>[langkah kaki menjauh]
+<string>
+<string>
+<string>
+<string>
+<string>[gelang berdenting]

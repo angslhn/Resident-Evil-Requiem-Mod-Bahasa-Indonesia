@@ -1,71 +1,71 @@
 <string>
-<string>[water dripping]
-<string>[sniffles]
-<string>[coughing]
+<string>[air menetes]
+<string>[terisak pelan]
+<string>[batuk]
 <string>
-<string>[coughing]
-<string>
-<string>
-<string>[coughing]
+<string>[batuk]
 <string>
 <string>
+<string>[batuk]
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[grunting]
+<string>
+<string>
+<string>[mendengus]
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>[coughing]
+<string>[batuk]
 <string>
 <string>
 <string>
-<string>[metallic scraping]
-<string>[lock clicks open]
+<string>[gesekan logam]
+<string>[kunci terbuka dengan bunyi klik]
 <string>
-<string>[button clicks]
-<string>[beeping]
-<string>
-<string>
-<string>
-<string>[beep]
-<string>[button click]
-<string>[static]
-<string>[static]
-<string>[metal straining, dirt trickling]
-<string>[grunt]
-<string>
-<string>
-<string>[grunts]
-<string>[coughs]
-<string>
-<string>[button clicks]
-<string>[cane tapping]
-<string>[door clicks open]
-<string>
-<string>[Spencer chortles]
-<string>
-<string>[door clicks shut]
-<string>
-<string>
-<string>[sharp beeping]
-<string>[blood splattering]
-<string>[wet coughing]
-<string>
-<string>[soft groan]
-<string>
-<string>
-<string>[coughing]
+<string>[tombol diklik]
+<string>[bunyi bip]
 <string>
 <string>
 <string>
+<string>[bip]
+<string>[tombol diklik]
+<string>[derau]
+<string>[derau]
+<string>[logam tertarik keras, tanah berjatuhan]
+<string>[mendengus]
 <string>
-<string>[coughing]
 <string>
-<string>[Leon coughing]
+<string>[mendengus]
+<string>[batuk]
+<string>
+<string>[tombol diklik]
+<string>[tongkat mengetuk]
+<string>[pintu terbuka dengan bunyi klik]
+<string>
+<string>[Spencer tergelak]
+<string>
+<string>[pintu tertutup dengan bunyi klik]
+<string>
+<string>
+<string>[bunyi bip tajam]
+<string>[darah muncrat]
+<string>[batuk basah]
+<string>
+<string>[erangan pelan]
+<string>
+<string>
+<string>[batuk]
+<string>
+<string>
+<string>
+<string>
+<string>[batuk]
+<string>
+<string>[Leon batuk]
 <string>

@@ -3,64 +3,64 @@
 <string>
 <string>
 <string>
-<string>[mechanical whirring]
+<string>[dengungan mekanis]
 <string>
 <string>
 <string>
-<string>[silence]
+<string>[keheningan]
 <string>
 <string>
-<string>[door clicks shut]
-<string>[thunder claps]
-<string>
-<string>
-<string>
-<string>[mechanical whirring]
-<string>
-<string>[intercom squeaks]
-<string>
-<string>
-<string>[doctor groaning]
-<string>
-<string>[screams]
+<string>[pintu tertutup dengan bunyi klik]
+<string>[guntur menggelegar]
 <string>
 <string>
 <string>
-<string>[screaming]
+<string>[dengungan mekanis]
 <string>
-<string>[chainsaw revving]
-<string>
-<string>
-<string>[chainsaw revving]
-<string>[chainsaw revving]
-<string>
-<string>[screech]
+<string>[interkom berdecit]
 <string>
 <string>
-<string>[pained groaning]
+<string>[dokter mengerang]
 <string>
-<string>
-<string>[screaming]
-<string>[gunshot]
-<string>
-<string>[gunshot]
-<string>
-<string>[gunshot]
-<string>
-<string>
-<string>[flesh splattering]
-<string>
-<string>
-<string>[shaky breathing]
-<string>
-<string>[metallic grinding and slamming]
-<string>[shutter closing]
+<string>[berteriak]
 <string>
 <string>
 <string>
+<string>[berteriak]
 <string>
-<string>[gunshot]
+<string>[gergaji mesin meraung]
 <string>
-<string>[Leon groaning]
-<string>[mechanical whirring]
+<string>
+<string>[gergaji mesin meraung]
+<string>[gergaji mesin meraung]
+<string>
+<string>[jeritan]
+<string>
+<string>
+<string>[erangan kesakitan]
+<string>
+<string>
+<string>[berteriak]
+<string>[tembakan]
+<string>
+<string>[tembakan]
+<string>
+<string>[tembakan]
+<string>
+<string>
+<string>[daging muncrat]
+<string>
+<string>
+<string>[napas gemetar]
+<string>
+<string>[gesekan dan bantingan logam]
+<string>[penutup jendela menutup]
+<string>
+<string>
+<string>
+<string>
+<string>[tembakan]
+<string>
+<string>[Leon mengerang]
+<string>[dengungan mekanis]
 <string>

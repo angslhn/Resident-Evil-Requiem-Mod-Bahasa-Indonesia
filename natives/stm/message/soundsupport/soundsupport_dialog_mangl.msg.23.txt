@@ -1,40 +1,40 @@
 <string>
-<string>[lock beeps]
+<string>[kunci berbunyi bip]
 <string>
-<string>[nervous breathing]
-<string>[test tube clinks]
-<string>
-<string>
-<string>
-<string>[maniacal laughing]
-<string>
-<string>
-<string>[alarm blaring]
-<string>[building crumbling]
-<string>
-<string>[zombies groaning]
-<string>[fence rattling]
-<string>
-<string>[metallic twang]
-<string>
-<string>[switches flicking]
-<string>
-<string>
-<string>[engine whirs to life]
+<string>[napas gugup]
+<string>[tabung reaksi berdenting]
 <string>
 <string>
 <string>
-<string>[Grace and Emily screaming]
-<string>
-<string>[banging]
-<string>[Emily screaming]
+<string>[tawa gila]
 <string>
 <string>
+<string>[alarm meraung]
+<string>[bangunan runtuh]
+<string>
+<string>[zombi mengerang]
+<string>[pagar bergetar]
+<string>
+<string>[denting logam]
+<string>
+<string>[saklar dinyalakan]
 <string>
 <string>
-<string>[alarm beeping]
-<string>[glass shatters]
+<string>[mesin menyala berdengung]
 <string>
-<string>[crashing]
-<string>[screams]
+<string>
+<string>
+<string>[Grace dan Emily berteriak]
+<string>
+<string>[gedebukan]
+<string>[Emily berteriak]
+<string>
+<string>
+<string>
+<string>
+<string>[alarm berbunyi bip]
+<string>[kaca pecah]
+<string>
+<string>[berbenturan]
+<string>[berteriak]
 <string>

@@ -1,3 +1,3 @@
-<string>[zombies groaning and banging on door]
-<string>[thunder claps]
-<string>[shutter clanking open]
+<string>[zombi mengerang dan memukul pintu]
+<string>[guntur menggelegar]
+<string>[penutup jendela terbuka dengan bunyi dentang]

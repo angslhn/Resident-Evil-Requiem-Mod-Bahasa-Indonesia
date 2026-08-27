@@ -1,4 +1,4 @@
-<string>[explosion]
-<string>[wind whistling]
-<string>[metal creaking]
-<string>[snapping]
+<string>[ledakan]
+<string>[angin bersiul]
+<string>[logam berderit]
+<string>[berderak patah]

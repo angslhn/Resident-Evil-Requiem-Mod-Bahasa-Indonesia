@@ -1,78 +1,78 @@
 <string>
-<string>[silence]
+<string>[keheningan]
 <string>
-<string>[depressurizing hiss]
-<string>[vial clinks]
-<string>
-<string>
-<string>[Elpis dispensing]
-<string>
-<string>[Zeno grunts]
-<string>
-<string>[Grace screams]
-<string>[bodies thud]
-<string>[Victor laughing]
+<string>[desisan tekanan udara berkurang]
+<string>[vial berdenting]
 <string>
 <string>
-<string>[Zeno chuckles]
-<string>[Victor snarls]
+<string>[Elpis mengeluarkan cairan]
+<string>
+<string>[Zeno mendengus]
+<string>
+<string>[Grace berteriak]
+<string>[tubuh berdebum]
+<string>[Victor tertawa]
 <string>
 <string>
-<string>
-<string>
-<string>[Elpis dispensing]
-<string>
-<string>[Grace groaning]
-<string>
-<string>[keyboard clicking]
-<string>
-<string>[metal groaning and collapsing]
-<string>[Grace screaming]
-<string>
-<string>[structure falling]
-<string>
-<string>[crazed yelling]
-<string>[body violently mutating]
-<string>
-<string>
-<string>
-<string>[roar]
-<string>
-<string>[banging and crashing]
-<string>[gunshot]
-<string>[gunshot]
-<string>
-<string>[gunshot]
-<string>[dying scream]
-<string>[grunt]
-<string>
-<string>[pained yell]
-<string>[building crumbling]
-<string>[spotlight clicks on loudly]
-<string>
-<string>[rappelling noises]
+<string>[Zeno terkekeh]
+<string>[Victor menggeram]
 <string>
 <string>
 <string>
 <string>
+<string>[Elpis mengeluarkan cairan]
+<string>
+<string>[Grace mengerang]
+<string>
+<string>[keyboard diketik]
+<string>
+<string>[logam berderit dan runtuh]
+<string>[Grace berteriak]
+<string>
+<string>[struktur runtuh]
+<string>
+<string>[teriakan histeris]
+<string>[tubuh bermutasi secara ganas]
 <string>
 <string>
-<string>[helicopter blades whirring]
 <string>
-<string>[helicopter blades whirring]
-<string>[helicopter blades whirring]
+<string>[raungan]
 <string>
-<string>[silence]
-<string>[facility crumbling]
-<string>[squelch as hatchet connects]
+<string>[gedebukan dan benturan keras]
+<string>[tembakan]
+<string>[tembakan]
+<string>
+<string>[tembakan]
+<string>[jeritan sekarat]
+<string>[mendengus]
+<string>
+<string>[teriakan kesakitan]
+<string>[bangunan runtuh]
+<string>[lampu sorot menyala dengan bunyi klik keras]
+<string>
+<string>[suara turun tali]
 <string>
 <string>
 <string>
 <string>
-<string>[gunshot]
-<string>[facility collapsing]
-<string>
-<string>[elevator gears whirring]
 <string>
 <string>
-<string>[helicopter blades whirring]
+<string>[baling-baling helikopter berdengung]
+<string>
+<string>[baling-baling helikopter berdengung]
+<string>[baling-baling helikopter berdengung]
+<string>
+<string>[keheningan]
+<string>[fasilitas runtuh]
+<string>[bunyi lembek saat kapak mengenai sasaran]
+<string>
+<string>
+<string>
+<string>
+<string>[tembakan]
+<string>[fasilitas runtuh]
+<string>
+<string>[roda gigi lift berdengung]
+<string>
+<string>
+<string>[baling-baling helikopter berdengung]

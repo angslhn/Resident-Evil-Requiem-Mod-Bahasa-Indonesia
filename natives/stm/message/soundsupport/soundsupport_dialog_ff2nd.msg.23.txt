@@ -1,44 +1,44 @@
 <string>
-<string>[running footsteps]
-<string>[glass shatters, researcher screams]
+<string>[langkah kaki berlari]
+<string>[kaca pecah, peneliti berteriak]
 <string>
 <string>
-<string>[banging]
-<string>[screaming]
+<string>[gedebukan]
+<string>[berteriak]
 <string>
 <string>
-<string>[giggling]
-<string>[gunshot]
-<string>[flesh squelches]
-<string>[gunshot]
+<string>[terkikik]
+<string>[tembakan]
+<string>[daging berbunyi lembek]
+<string>[tembakan]
 <string>
-<string>[gunshot]
-<string>
-<string>
-<string>[giggling]
-<string>[screaming in agony]
-<string>[neck snaps]
-<string>
-<string>[shaky breathing]
+<string>[tembakan]
 <string>
 <string>
-<string>[Chloe gasps]
+<string>[terkikik]
+<string>[berteriak kesakitan]
+<string>[leher patah]
 <string>
-<string>[coffin lids thump, Chloe screams]
-<string>
-<string>[Chloe screams]
-<string>
-<string>
-<string>[metallic thudding]
-<string>[giggling]
-<string>
-<string>[panicked breathing]
+<string>[napas gemetar]
 <string>
 <string>
-<string>[giggling]
-<string>[clang]
+<string>[Chloe terengah]
 <string>
-<string>[projector humming]
+<string>[tutup peti mati berdebum, Chloe berteriak]
+<string>
+<string>[Chloe berteriak]
+<string>
+<string>
+<string>[debuman logam]
+<string>[terkikik]
+<string>
+<string>[napas panik]
+<string>
+<string>
+<string>[terkikik]
+<string>[denting logam]
+<string>
+<string>[proyektor berdengung]
 <string>
 <string>
 <string>

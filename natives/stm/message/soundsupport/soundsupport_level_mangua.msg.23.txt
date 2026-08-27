@@ -1,4 +1,4 @@
-<string>[mechanical click]
-<string>[crickets chirping]
-<string>[metallic sliding]
-<string>[door clicks shut]
+<string>[bunyi klik mekanis]
+<string>[jangkrik berbunyi]
+<string>[logam bergeser]
+<string>[pintu tertutup dengan bunyi klik]

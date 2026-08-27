@@ -1,6 +1,6 @@
 <string>
 <string>
-<string>[sighs]
+<string>[menghela napas]
 <string>
 <string>
 <string>
@@ -14,5 +14,5 @@
 <string>
 <string>
 <string>
-<string>[seatbelt clicks]
+<string>[sabuk pengaman berbunyi klik]
 <string>

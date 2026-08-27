@@ -1,31 +1,31 @@
 <string>
 <string>
-<string>[zombies growling]
+<string>[zombi menggeram]
 <string>
 <string>
-<string>[Grace screams]
-<string>[window shatters]
+<string>[Grace berteriak]
+<string>[jendela pecah]
 <string>
-<string>[gunshots]
-<string>[gunshot]
+<string>[tembakan-tembakan]
+<string>[tembakan]
 <string>
-<string>[wet footsteps]
-<string>[gurgling roar]
-<string>
-<string>
-<string>[sighs]
-<string>
-<string>[flames crackling]
-<string>[door creaks]
-<string>[eerie silence]
-<string>
-<string>[helicopter blades whirring]
-<string>[loud crash]
-<string>
-<string>[crashes to a stop]
+<string>[langkah kaki basah]
+<string>[raungan tercekik]
 <string>
 <string>
+<string>[menghela napas]
+<string>
+<string>[api berderak]
+<string>[pintu berderit]
+<string>[keheningan mencekam]
+<string>
+<string>[baling-baling helikopter berdengung]
+<string>[benturan keras]
+<string>
+<string>[berhenti dengan benturan]
 <string>
 <string>
-<string>[Emily gasps painfully]
-<string>[zombies groaning]
+<string>
+<string>
+<string>[Emily terengah kesakitan]
+<string>[zombi mengerang]

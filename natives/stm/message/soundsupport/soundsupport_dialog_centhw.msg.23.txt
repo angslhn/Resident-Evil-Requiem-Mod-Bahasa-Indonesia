@@ -2,29 +2,29 @@
 <string>
 <string>
 <string>
-<string>[rocket launcher blast]
-<string>[explosion]
+<string>[ledakan peluncur roket]
+<string>[ledakan]
 <string>
-<string>[creatures snarling]
-<string>
-<string>
-<string>
-<string>
-<string>[explosion]
-<string>[thwack]
-<string>[gunfire]
+<string>[makhluk menggeram]
 <string>
 <string>
 <string>
-<string>[gasoline dripping]
 <string>
-<string>[coughing]
-<string>[engine revs]
+<string>[ledakan]
+<string>[bunyi pukulan keras]
+<string>[tembakan bertubi-tubi]
 <string>
-<string>[flames spark]
 <string>
-<string>[screaming]
-<string>[explosion]
+<string>
+<string>[bensin menetes]
+<string>
+<string>[batuk]
+<string>[mesin digeber]
+<string>
+<string>[api memercik]
+<string>
+<string>[berteriak]
+<string>[ledakan]
 <string>
 <string>
 <string>

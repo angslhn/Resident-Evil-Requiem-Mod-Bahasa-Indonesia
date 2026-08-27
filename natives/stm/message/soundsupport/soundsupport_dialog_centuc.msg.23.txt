@@ -1,14 +1,14 @@
 <string>
-<string>[loud creaking of metal]
+<string>[derit logam yang keras]
 <string>
 <string>
 <string>
-<string>[explosion]
-<string>[Plant 43 screams]
+<string>[ledakan]
+<string>[Plant 43 berteriak]
 <string>
 <string>
 <string>
-<string>[gears turning, metal clanking]
+<string>[roda gigi berputar, logam berdentang]
 <string>
-<string>[earpiece beeps]
-<string>[door whirs shut]
+<string>[earpiece berbunyi bip]
+<string>[pintu tertutup dengan dengungan]
