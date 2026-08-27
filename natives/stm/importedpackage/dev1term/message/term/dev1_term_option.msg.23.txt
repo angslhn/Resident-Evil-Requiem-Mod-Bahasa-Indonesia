@@ -73,7 +73,7 @@
 <string>Bahasa Tampilan
 <string>Ubah bahasa tampilan teks dan menu.
 <string>Jepang
-<string>Inggris
+<string>Indonesia
 <string>Prancis
 <string>Italia
 <string>Jerman
