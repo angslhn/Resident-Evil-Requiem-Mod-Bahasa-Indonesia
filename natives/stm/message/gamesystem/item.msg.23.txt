@@ -39,7 +39,7 @@
 <string>Shotgun semi-otomatis modern.<lf>Dengan pengelompokan yang sangat baik, ideal<lf>untuk tembakan presisi. Dot sight<lf>dapat dipasang.
 <string>Senjata yang mudah digunakan dengan laju<lf>tembakan tinggi. Dilengkapi dengan komponen<lf>internal karbon krom untuk pengoperasian<lf>yang mulus dan performa tahan lama.
 <string>Requiem
-<string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan tusuk daya tinggi,<lf>senjata yang dapat kamu andalkan.
+<string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan daya tinggi,<lf>senjata yang dapat kamu andalkan.
 <string>Peluru ditembakkan dari ruang paling<lf>bawah untuk mengurangi angkatan<lf>moncong. Meskipun frame dirancang<lf>untuk mengurangi hentakan, tetap<lf>membutuhkan tangan yang kuat.
 <string>Gal
 <string>Senapan mesin ringan yang dikembangkan pada<lf>tahun 1950-an. Kurang akurat tetapi memiliki<lf>kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
@@ -89,8 +89,8 @@
 <string>
 <string>
 <string>Kapak
-<string>Kapak yang digunakan oleh pasukan khusus.<lf>Mampu memberikan pukulan fatal,<lf>tetapi memerlukan perawatan rutin<lf>agar tetap tajam.
-<string>Alat serbaguna yang hebat untuk<lf>pertarungan jarak dekat dan membuka<lf>paksa sesuatu. Telah diadopsi secara<lf>luas sebagai item utilitas sejak tahun<lf>2000-an, dengan pembaruan modern<lf>yang meningkatkan kegunaan.
+<string>Kapak yang digunakan oleh pasukan<lf>khusus. Mampu memberikan pukulan<lf>fatal, tetapi memerlukan perawatan<lf>rutin agar tetap tajam.
+<string>Alat serbaguna yang hebat untuk<lf>pertarungan jarak dekat dan membuka<lf>paksa sesuatu. Telah diadopsi secara<lf>luas sebagai item utilitas sejak tahun<lf>2000-an, dengan pembaruan modern.
 <string>Kapak tumpul. Tidak dapat digunakan begitu saja.<lf>Gunakan <ICON SHARPEN> untuk mengasah.
 <string>Pisau Darurat
 <string>Pisau buatan tangan yang kasar cocok<lf>untuk pertarungan jarak dekat. Dapat digunakan untuk<lf>melawan musuh saat dicengkeram.
@@ -187,7 +187,7 @@
 <string>Koktail Molotov
 <string>Botol berisi cairan mudah terbakar.<lf>Saat terkena benturan, akan melanda<lf>area sekitar dengan api.
 <string>Botol Kosong
-<string>Botol kaca kosong dengan bau<lf>obat yang samar. Akan pecah dan menarik<lf>perhatian orang di sekitar<lf>saat dilempar.
+<string>Botol kaca kosong dengan bau obat<lf>yang samar. Akan pecah dan menarik<lf>perhatian orang di sekitar saat<lf>dilempar.
 <string>Granat Tangan Ganda
 <string>Granat tangan dengan satu lagi<lf>terpasang di dasarnya. Granat ganda,<lf>ledakan ganda.
 <string>Botol Asam

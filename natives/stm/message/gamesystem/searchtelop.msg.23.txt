@@ -34,7 +34,7 @@
 <string>Itu banyak darah.
 <string>Rusak.
 <string>Tidak ada daya.
-<string>Kereta menghalanginya.
+<string>Lemari menghalanginya.
 <string>Tidak dapat menjangkaunya. Perlu sesuatu untuk dipijak.
 <string>Perlu alat untuk memecahkan bautnya.
 <string>Model skala pusat perawatan.

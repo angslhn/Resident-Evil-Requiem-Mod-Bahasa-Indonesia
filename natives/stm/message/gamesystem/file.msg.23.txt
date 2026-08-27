@@ -20,7 +20,7 @@
 <string>Catatan Kemajuan
 <string>22.03 - Memulai ekstraksi darah<lf>22.05 - Memeriksa denyut nadi,<lf>               tidak ada kelainan<lf>22.11 - Memberikan Dexifil<lf>22.18 - Kondisi stabil, siap<lf>               untuk pemeriksaan lebih lanjut
 <string>Catatan di Kotak Karton
-<string>Kepada Staf,<lf><lf>Aku telah memindahkan beberapa item dari lemari.<lf><lf><COLOR preset="TextColor0">Obeng</COLOR> sekarang ada di <COLOR preset="TextColor0">kotak perkakas di<lf>pos perawat</COLOR>.<lf><lf>Kit jahit ada di [teks kabur dan tidak terbaca]
+<string>Kepada Staf,<lf><lf>Aku telah memindahkan beberapa item dari lemari.<lf><lf><COLOR preset="TextColor0">Obeng</COLOR> sekarang ada di <COLOR preset="TextColor0">kotak perkakas di pos<lf>perawat</COLOR>.<lf><lf>Kit jahit ada di [teks kabur dan tidak terbaca]
 <string>Coretan Papan Tulis
 <string>Ruang Obat<lf><lf>Personel yang tidak berwenang tidak diizinkan<lf>melewati titik ini.<lf><lf>Jika terjadi kejanggalan, hubungi<lf>peneliti utama segera.<lf><lf>Dalam keadaan darurat—
 <string>Pamflet Pusat Perawatan

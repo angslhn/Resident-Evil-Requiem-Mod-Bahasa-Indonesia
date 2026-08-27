@@ -2,7 +2,7 @@
 <string>[tembakan]
 <string>[Cole mengisi ulang senapan]
 <string>[kain tertarik keras]
-<string>[kereta dorong berdentang]
+<string>[keranjang dorong berdentang]
 <string>[teriakan histeris]
 <string>[Grace berteriak]
 <string>[Grace berteriak]
