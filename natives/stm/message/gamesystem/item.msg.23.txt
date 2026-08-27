@@ -16,7 +16,7 @@
 <string>Pistol yang kuat dan presisi.<lf>Peredam bawaan secara efektif<lf>meredam suara semua tembakan.
 <string>Mengustomisasi jumlah sekat<lf>menyesuaikan seberapa senyap tembakannya.
 <string>B934
-<string>Pistol straight blowback.<lf>Desain dasar antarperang ini<lf>memprioritaskan ketahanan daripada<lf>daya tembak.
+<string>Pistol straight blowback.<lf>Desain dasar antarperang ini<lf>memprioritaskan ketahanan<lf>daripada daya tembak.
 <string>Pistol Italia ini awalnya adalah senjata api<lf>militer kelas atas. Versi Amerika juga dirilis<lf>dan tampaknya telah menjadi senjata pertahanan<lf>diri utama pusat perawatan.
 <string>Redemption
 <string>Pistol break-action tembakan tunggal.<lf>Versi kustom dari model pertengahan abad<lf>ke-20 ini memberikan daya tembak<lf>yang luar biasa. Menggunakan amunisi senapan.
@@ -427,17 +427,17 @@
 <string>Kunci Forklift
 <string>Kunci kontak untuk forklift.<lf>Kotoran bertahun-tahun melapisi permukaannya yang kusam.
 <string>Kartu Kunci Sayap Barat
-<string>Kartu kunci emas yang berlumuran darah.<lf>Membuka pintu ke kantor administrasi<lf>sayap barat.
+<string>Kartu kunci emas yang berlumuran<lf>darah. Membuka pintu ke kantor<lf>administrasi sayap barat.
 <string>Kartu Kunci Sayap Timur
 <string>Kartu kunci perak yang penuh goresan.<lf>Membuka pintu ke bangsal rumah sakit<lf>sayap timur.
 <string>Permata Merah
 <string>Batu permata merah antik. Berkilau<lf>mengerikan seperti darah segar.
 <string>Kuarsa Matahari
-<string>Perangkat kubik yang terbuat dari kuarsa.<lf>Dihiasi dengan matahari.
+<string>Perangkat kubik yang terbuat dari<lf>kuarsa. Dihiasi dengan matahari.
 <string>Kuarsa Bulan
-<string>Perangkat kubik yang terbuat dari kuarsa.<lf>Dihiasi dengan bulan.
+<string>Perangkat kubik yang terbuat dari<lf>kuarsa. Dihiasi dengan bulan.
 <string>Kuarsa Bintang
-<string>Perangkat kubik yang terbuat dari kuarsa.<lf>Dihiasi dengan bintang.
+<string>Perangkat kubik yang terbuat dari<lf>kuarsa. Dihiasi dengan bintang.
 <string>Jantung Buatan
 <string>Organ buatan. Berfungsi sebagai<lf>jantung saat ditanam di dalam tubuh.
 <string>Paru-paru Buatan
@@ -605,7 +605,7 @@
 <string>Pita Tinta
 <string>Pita tinta.<lf>Diperlukan saat menggunakan mesin ketik.
 <string>Koin Antik
-<string>Koin logam tua yang digunakan untuk permainan.<lf>Dapat ditukar dengan hadiah<lf>di ruang tamu.
+<string>Koin logam tua yang digunakan untuk<lf>permainan. Dapat ditukar dengan<lf>hadiah di ruang tamu.
 <string>Kunci Picking
 <string>Alat untuk membuka kunci sederhana.<lf>Masing-masing hanya dapat digunakan sekali.
 <string>Tactical Tracker

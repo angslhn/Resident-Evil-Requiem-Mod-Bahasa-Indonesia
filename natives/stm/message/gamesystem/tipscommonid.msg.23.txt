@@ -33,7 +33,7 @@
 <string>Jika kamu kesulitan dengan musuh yang<lf>sangat tangguh, coba tingkatkan senjatamu<lf>dan beli pelindung tubuh.<lf><lf>Kalahkan musuh dan ambil modul pelacak<lf>untuk mengumpulkan kredit untuk kotak perbekalan.
 <string><REF TutorialList_057_Description>
 <string><REF TutorialList_035_Description>
-<string>Beberapa zombie terpaku pada kebiasaan yang mereka<lf>miliki saat masih manusia. Mengamati<lf>gerakan mereka dapat memudahkan untuk menghindarinya.
+<string>Beberapa zombie terpaku pada kebiasaan<lf>yang mereka miliki saat masih manusia.<lf>Mengamati gerakan mereka dapat memudahkan<lf>untuk menghindarinya.
 <string>Gergaji mesin yang dijatuhkan dapat diambil.<lf>Hati-hati saat mengambil gergaji mesin yang<lf>masih menyala, kontak dengan rantainya akan<lf>menimbulkan kerusakan.
 <string>Jika kamu belum terlihat oleh Gadis Itu,<lf>kamu dapat mengalihkan perhatiannya dengan melempar<lf>botol kosong.
 <string><REF TutorialList_023_Description>

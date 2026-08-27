@@ -37,7 +37,7 @@
 <string>Menggunakan Senjata Musuh
 <string>Senjata musuh dapat diambil dan dilempar<lf>ke musuh lain untuk membuat mereka terhuyung, tetapi hanya<lf>sekali saat target dalam jangkauan.
 <string>Zombie Sensitif Cahaya
-<string>Di antara yang terinfeksi, ada yang<lf>menunjukkan keengganan terhadap cahaya. Mereka akan<lf>secara kompulsif mematikan lampu di sekitar<lf>mereka, jadi gunakan ini untuk memancing mereka ke tempat<lf>yang kamu inginkan.
+<string>Di antara yang terinfeksi, ada yang menunjukkan<lf>keengganan terhadap cahaya. Mereka akan secara<lf>kompulsif mematikan lampu di sekitar mereka,<lf>jadi gunakan ini untuk memancing mereka ke<lf>tempat yang kamu inginkan.
 <string>Zombie Sensitif Suara
 <string>Infeksi tertentu sangat sensitif<lf>terhadap suara, dan akan mengamuk saat<lf>mendengar suara keras. Namun karena mereka akan menyerang<lf>sumber suara tanpa pandang bulu, mereka<lf>bahkan mungkin menyerang infeksi lain.
 <string>Koin Antik
@@ -78,7 +78,7 @@
 <string>Gadis Itu
 <string>Gadis Itu membenci cahaya. Jika kamu mendengar<lf>dia datang, pergilah ke ruangan terang.
 <string>Membersihkan Jalan
-<string>Kamu perlu menjatuhkan cukup banyak musuh untuk membersihkan<lf>jalur pelarian. Tentukan musuh mana yang paling<lf>banyak menimbulkan masalah.
+<string>Kamu perlu menjatuhkan cukup banyak musuh<lf>untuk membersihkan jalur pelarian. Tentukan<lf>musuh mana yang paling banyak menimbulkan<lf>masalah.
 <string>Serangan Tertarget
 <string>Bidik kepala atau kaki untuk membuat musuh terhuyung.<lf>Setelah terhuyung, kamu dapat melontarkan mereka<lf>menggunakan serangan jarak dekat dengan <ICON INTERACT_MARTIAL_ARTS>.
 <string>Hasil Darah Lebih Tinggi

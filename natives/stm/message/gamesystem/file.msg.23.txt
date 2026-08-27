@@ -30,9 +30,9 @@
 <string>Pesan Peneliti Utama
 <string>Untuk sekretarisku,<lf><lf>Aku salah menaruh kunci untuk gembok kotak<lf>teka-teki. Tidak ada eksekutif lain<lf>yang boleh tahu.<lf><lf>Aku perlu kamu menemukannya secara diam-diam sebelum<lf>rapat minggu depan. Jika kamu tidak bisa menemukannya,<lf>ambil botol <COLOR preset="TextColor0">korosif</COLOR> dari<lf><COLOR preset="TextColor0">ruang konferensi</COLOR> dan lelehkan gemboknya.
 <string>Catatan Terlipat
-<string>Aku harus segera pergi dari sini, tapi seluruh<lf>gedung dikunci. Aku harus meminta<lf><COLOR preset="TextColor0">ketua</COLOR> untuk mengambilkan <COLOR preset="TextColor0">kuarsanya</COLOR> untukku.<lf><lf>Aku baru saja mendengar teriakan lagi.<lf>Rekan-rekanku saling membunuh.<lf>Apa yang sedang terjadi?
+<string>Aku harus segera pergi dari sini, tapi seluruh<lf>gedung dikunci. Aku harus meminta <COLOR preset="TextColor0">ketua</COLOR><lf>untuk mengambilkan <COLOR preset="TextColor0">kuarsanya</COLOR> untukku.<lf><lf>Aku baru saja mendengar teriakan lagi.<lf>Rekan-rekanku saling membunuh.<lf>Apa yang sedang terjadi?
 <string>Salinan Email ke Manajer
-<string>Subjek: Perubahan Personel<lf>Dari: Mitchell Bennett<lf><lf>Karyawan baru itu menunjukkan potensi saat rapat<lf>makan malam bulan lalu. Naikkan izinnya<lf>satu level dan siapkan dia<lf>untuk bekerja pada proyek ini.<lf><lf>Kirim peneliti saat ini untuk diproses<lf>sekaligus.
+<string>Subjek: Perubahan Personel<lf>Dari: Mitchell Bennett<lf><lf>Karyawan baru itu menunjukkan potensi<lf>saat rapat makan malam bulan lalu.<lf>Naikkan izinnya satu level dan siapkan dia<lf>untuk bekerja pada proyek ini.<lf><lf>Kirim peneliti saat ini untuk diproses<lf>sekaligus.
 <string>Penggantian Brankas
 <string>Kepada seluruh staf,<lf><lf>Kami akan memperbarui brankas-brankas berikut<lf>di fasilitas:<lf><lf><COLOR preset="TextColor0">- Sayap timur Lt. 1: Ruang Tunggu</COLOR><lf><COLOR preset="TextColor0">- Sayap barat Lt. 2: Bar & Lounge</COLOR><lf>- Sayap timur Lt. 1: [kabur dan tidak terbaca]<lf><lf>Brankas yang tersisa akan diganti di lain<lf>waktu.
 <string>Sintesis Senyawa Darah
@@ -45,7 +45,7 @@
 <string>Pemberitahuan Konstruksi
 <string>Karena infrastruktur yang menua, konstruksi<lf>pada garasi akan dilakukan selama<lf>tanggal berikut.<lf><lf>21-28 Oktober<lf><lf>Jangan memasuki area kerja kecuali diizinkan.
 <string>Catatan untuk Ketua
-<string>Aku menduga kita akan menerima kunjungan dari<lf>DSO dalam waktu dekat.<lf><lf>Aku ingin kamu memberlakukan Kode Enam pada pukul 23.30.<lf>Aku telah mencapai tujuanku dan tidak lagi<lf>membutuhkan tempat ini.<lf><lf>V
+<string>Aku menduga kita akan menerima kunjungan<lf>dari DSO dalam waktu dekat.<lf><lf>Aku ingin kamu memberlakukan Kode Enam<lf>pada pukul 23.30. Aku telah mencapai tujuanku<lf>dan tidak lagi membutuhkan tempat ini.<lf><lf>V
 <string>Catatan Ketua
 <string>Bulan<lf>Matahari<lf>Bintang<lf>Bulan
 <string>Kode Brankas Ruang Pemeriksaan
