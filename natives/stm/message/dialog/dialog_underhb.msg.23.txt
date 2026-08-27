@@ -2,78 +2,78 @@
 <string>Licker!
 <string><Sound Team ID>
 <string>
-<string>Where is that?
+<string>Di mana itu?
 <string>OK.
-<string>Huh?
+<string>Hah?
 <string>
-<string>I'm gettin' the feeling I'm not<lf>wanted around here.
+<string>Aku merasa aku tidak<lf>diinginkan di sekitar sini.
 <string>
 <string>
 <string>
-<string>Here at ARK, your movements<lf>will be constantly monitored.
-<string>Do not leave the designated areas without<lf>authorization.
-<string>The recording and transmitting of information<lf>is strictly prohibited.
+<string>Di sini di ARK, gerakanmu<lf>akan terus dipantau.
+<string>Jangan tinggalkan area yang ditentukan tanpa<lf>otorisasi.
+<string>Merekam dan mengirimkan informasi<lf>sangat dilarang.
 <string>
-<string>Grace should be just up ahead.
+<string>Grace seharusnya ada tepat di depan.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Backup is on the way.
-<string>Not necessary.<lf>I'll neutralize the target myself.
+<string>Bantuan sedang dalam perjalanan.
+<string>Tidak perlu.<lf>Aku akan melumpuhkan targetnya sendiri.
 <string>Leon Kennedy.
-<string>We finally meet.
+<string>Akhirnya kita bertemu.
 <string>
-<string>Didn't realize I had such a big fan.<lf>How about an autograph?
-<string>I heard you were a smart-ass.
+<string>Tidak sadar aku punya penggemar sebesar ini.<lf>Bagaimana kalau tanda tangan?
+<string>Kudengar kau tukang belagak.
 <string>
-<string>Not bad for someone at death's door.
-<string>Worried about me? How sweet.
+<string>Lumayan untuk orang di ambang kematian.
+<string>Khawatir padaku? Manis sekali.
 <string>
-<string>Sneaky bastard.
+<string>Bajingan licik.
 <string>
-<string>Getting a little handsy, aren't we?
-<string>Make no mistake. Nothing will stand in my way.<lf>I will complete this mission.
+<string>Mulai berani menyentuh, ya?
+<string>Jangan salah paham. Tidak ada yang akan menghalangi jalanku.<lf>Aku akan menyelesaikan misi ini.
 <string>
-<string>Ran into trouble. This guy was one tough bastard.
-<string>Coming from you, that's quite the compliment.
+<string>Menemui masalah. Orang ini bajingan yang tangguh.
+<string>Dari mulutmu, itu pujian yang cukup besar.
 <string>
-<string>Grace should be nearby.<lf>Time to finally get some answers.
+<string>Grace seharusnya dekat.<lf>Waktunya akhirnya mendapat jawaban.
 <string>
-<string>Target neutralized. Mission accomplished.
+<string>Target dilumpuhkan. Misi selesai.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Grace, this is where we are.
-<string>The world is under threat.
-<string>The technology to control<lf>another's will already exists.
-<string>But it's not efficient at infecting others.
-<string>I believe Spencer solved that with Elpis.
-<string>The Connections sealed Raccoon<lf>City to save it for themselves.
-<string>And it's been waiting here ever since.
-<string>"What does the creator desire?"
-<string>This is as far as we could get.
-<string>If the wrong password is entered, the ARK will<lf>be destroyed, and Elpis will be lost forever.
-<string>So tell me, Grace.
-<string>What's the password?
-<string>I-I don't know.
-<string>Of course you do. You're the—
+<string>Grace, di sinilah kita.
+<string>Dunia sedang terancam.
+<string>Teknologi untuk mengendalikan<lf>kehendak orang lain sudah ada.
+<string>Tapi itu tidak efisien dalam menginfeksi orang lain.
+<string>Aku percaya Spencer memecahkannya dengan Elpis.
+<string>The Connections menutup Raccoon<lf>City untuk menyimpannya bagi diri mereka sendiri.
+<string>Dan sudah menunggu di sini sejak saat itu.
+<string>"Apa yang diinginkan sang pencipta?"
+<string>Ini sejauh yang bisa kami capai.
+<string>Jika kata sandi yang salah dimasukkan, ARK akan<lf>dihancurkan, dan Elpis akan hilang selamanya.
+<string>Jadi katakan padaku, Grace.
+<string>Apa kata sandinya?
+<string>A-Aku tidak tahu.
+<string>Tentu saja kau tahu. Kau adalah—
 <string>Leon!
-<string>Don't embarrass yourself, Mr. Kennedy.
-<string>You can't beat me.
-<string>Aren't we fancy?
-<string>Don't move!
-<string>W-Wait!
-<string>You still need me, right?
-<string>Come on!
-<string>Grab tight!
-<string>I got you.
-<string>Are you OK?
-<string>Me?
-<string>Feel like a million bucks.
-<string>Where does this take us?
-<string>Your guess is as good as mine.
-<string>Time to get off. Come on.
-<string>What now?
+<string>Jangan mempermalukan dirimu, Tuan Kennedy.
+<string>Kau tidak bisa mengalahkanku.
+<string>Bukankah kita mewah?
+<string>Jangan bergerak!
+<string>T-Tunggu!
+<string>Kau masih membutuhkanku, kan?
+<string>Ayo!
+<string>Pegang erat!
+<string>Aku pegang kau.
+<string>Kau baik-baik saja?
+<string>Aku?
+<string>Serasa sejuta dolar.
+<string>Ini membawa kita ke mana?
+<string>Tebakanmu sama bagusnya dengan tebakanku.
+<string>Waktunya turun. Ayo.
+<string>Sekarang apa?
 <string>Leon?
 <string>Leon!

@@ -1,19 +1,19 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>And Sherry's OK?
-<string>Good, I'm so glad.
+<string>Dan Sherry baik-baik saja?
+<string>Bagus, aku sangat lega.
 <string>Emily?
-<string>Yeah, uh, she's doing great.
-<string>I'm actually teaching her how to read.
+<string>Ya, uh, dia baik-baik saja.
+<string>Aku sebenarnya sedang mengajarinya membaca.
 <string>Grace!
 <string>Grace!
-<string>Where's that report?
-<string>Sorry.
-<string>Leon, gotta go. Catch up soon.
+<string>Di mana laporan itu?
+<string>Maaf.
+<string>Leon, aku harus pergi. Segera kita lanjutkan.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey! Respond! What's your status!?
-<string>Remaining BSAA forces have been neutralized.
-<string>Retrieving the objective before<lf>they send in the "wolves."
+<string>Hei! Jawab! Bagaimana statusmu!?
+<string>Pasukan BSAA yang tersisa telah dilumpuhkan.
+<string>Mengambil target sebelum<lf>mereka mengirim "serigala".

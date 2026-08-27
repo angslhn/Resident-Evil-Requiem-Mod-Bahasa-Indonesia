@@ -2,107 +2,107 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Why are you here?
-<string>Is it for me?
-<string>Or for her?
-<string>We can talk.
-<string>Right.
-<string>Or we can begin your "treatment."
-<string>The silent treatment, I hope.
-<string>You're an investigator, right?
-<string>Well, investigate.
-<string>What do you wanna know?
-<string>Is this where I conduct my research?
-<string>Yes.
-<string>Are the answers to your disease here?
-<string>...Yes.
-<string>You know, I do have a question.
-<string>When was the last time you brushed<lf>your teeth?
-<string>You...
-<string>are an ignorant...fool.
-<string>Do you believe in human evolution?
-<string>I have devoted my life to studying it.
-<string>While you have devoted your life...
-<string>to failure.
-<string>You're a dead man walking!
-<string>Hey, can you hear me?
-<string>Leon? I've been trying to reach you.
-<string>Sorry, I was a little tied up.
-<string>Did you get what I asked for?
-<string>The floor plan? Yeah, sending it now.
-<string>I had a talk with Victor.
-<string>He is batshit crazy.
-<string>Gonna make my way to his office.
+<string>Kenapa kau di sini?
+<string>Apakah untukku?
+<string>Atau untuknya?
+<string>Kita bisa bicara.
+<string>Benar.
+<string>Atau kita bisa memulai "perawatanmu."
+<string>Perawatan diam, kuharap.
+<string>Kau investigator, kan?
+<string>Yah, selidikilah.
+<string>Apa yang ingin kau ketahui?
+<string>Apakah ini tempat aku melakukan risetku?
+<string>Ya.
+<string>Apakah jawaban untuk penyakitmu ada di sini?
+<string>...Ya.
+<string>Kau tahu, aku punya pertanyaan.
+<string>Kapan terakhir kali kau menyikat<lf>gigimu?
+<string>Kau...
+<string>adalah orang bodoh...yang tak tahu apa-apa.
+<string>Apakah kau percaya pada evolusi manusia?
+<string>Aku telah mengabdikan hidupku untuk mempelajarinya.
+<string>Sementara kau telah mengabdikan hidupmu...
+<string>untuk kegagalan.
+<string>Kau mayat hidup!
+<string>Hei, bisa dengar aku?
+<string>Leon? Aku sudah mencoba menghubungimu.
+<string>Maaf, tadi aku sedikit sibuk.
+<string>Kau dapat yang kuminta?
+<string>Denah lantai? Ya, mengirimnya sekarang.
+<string>Aku berbicara dengan Victor.
+<string>Dia benar-benar gila.
+<string>Akan menuju kantornya.
 <string>
-<string>Glad that FBI agent got away.
+<string>Senang agen FBI itu bisa lolos.
 <string>FBI?
-<string>Yeah, Grace Ashcroft. Victor kidnapped her.
-<string>What? Why?
-<string>I don't know. But I intend to find out.
+<string>Ya, Grace Ashcroft. Victor menculiknya.
+<string>Apa? Kenapa?
+<string>Aku tidak tahu. Tapi aku berniat mencari tahu.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Hope I'm not next.
+<string>Semoga bukan aku berikutnya.
 <string><Sound Team ID>
 <string>
-<string>Stay still.
-<string>You felt that one, huh?
+<string>Diam di tempat.
+<string>Kau merasakan yang itu, ya?
 <string><Sound Team ID>
 <string>
-<string>You felt that one, huh?
+<string>Kau merasakan yang itu, ya?
 <string>
-<string>Sorry, but I'm not on the menu.
-<string><Sound Team ID>
-<string>
-<string>
-<string>
-<string>His office should be upstairs.
-<string>
-<string>What a fuckin' shame.
-<string>
-<string>One thing after another...
+<string>Maaf, tapi aku tidak ada di menu.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Every single time.
+<string>Kantornya seharusnya di atas.
 <string>
-<string>Well, that's my cardio for the week.
+<string>Sungguh sialan.
 <string>
-<string>OK...door's open now.
+<string>Satu demi satu...
+<string><Sound Team ID>
 <string>
-<string>I should get going.
+<string>
+<string>
+<string>Setiap saat.
+<string>
+<string>Yah, itu kardio mingguanku.
+<string>
+<string>OK...pintunya sudah terbuka sekarang.
+<string>
+<string>Aku harus pergi.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Pretty sure I found Victor's private office.
-<string>Nice work. Lock it up.
-<string>Yes, ma'am.
-<string>Bingo. I have the IP address.
-<string>Just give me a minute...and...
-<string>I'm in.
-<string>OK, hit me.
-<string>"...T-Virus within the body mutates..."
-<string>Sherry, you're killing me.
-<string>I found some information about our illness.
-<string>Our symptoms confirm a T-Virus infection.
-<string>Well, fuck.
-<string>Well, hey. At least we're in it together, right?
-<string>Alright, what've we got?
+<string>Cukup yakin aku menemukan kantor pribadi Victor.
+<string>Kerja bagus. Amankan.
+<string>Siap, nona.
+<string>Bingo. Aku punya alamat IP-nya.
+<string>Beri aku satu menit...dan...
+<string>Aku masuk.
+<string>OK, beri tahu aku.
+<string>"...T-Virus di dalam tubuh bermutasi..."
+<string>Sherry, kau membunuhku.
+<string>Aku menemukan beberapa informasi tentang penyakit kita.
+<string>Gejala kita mengonfirmasi infeksi T-Virus.
+<string>Yah, sial.
+<string>Yah, hei. Setidaknya kita bersama dalam ini, kan?
+<string>Baik, apa yang kita punya?
 <string>Elpis?
 <string>Grace?
-<string>What's she got to do with this?
+<string>Apa hubungannya dia dengan ini?
 <string>
-<string>This place is infested.
+<string>Tempat ini penuh sarang.
 <string>
-<string>Sorry to cut your act short.
+<string>Maaf memotong aksimu.
 <string>
-<string>What the fuck are you cutting<lf>with that thing? Elephants?
+<string>Apa yang kau potong<lf>dengan benda itu? Gajah?
 <string>
-<string>You know, happy people live longer.
+<string>Kau tahu, orang bahagia hidup lebih lama.
 <string>
-<string>Jeez, someone needs to work on their parking.
+<string>Astaga, seseorang perlu belajar parkir.
 <string><Sound Team ID>
 <string>
 <string>
@@ -120,69 +120,69 @@
 <string>
 <string>
 <string>
-<string>Moorrrre! Moooorrreee!
+<string>Leeebih! Leeebih!
 <string>
-<string>My fooood!
+<string>Makanankuuu!
 <string>
-<string>My food...!
+<string>Makananku...!
 <string>
-<string>My food!
+<string>Makananku!
 <string>
-<string>My food!
+<string>Makananku!
 <string>
-<string>My food!
+<string>Makananku!
 <string>
-<string>Neeeed...ittt.
+<string>Perluuu...ituuu.
 <string>
-<string>Need it...
+<string>Perlu itu...
 <string>
-<string>More...!
+<string>Lagi...!
 <string>
-<string>Mooorrree!
+<string>Leeebih!
 <string>
-<string>Gimme!
+<string>Berikan!
 <string>
-<string>Gimme.
+<string>Berikan.
 <string>
-<string>Neeeed...moorree.
+<string>Perluuu...leebih.
 <string>
-<string>Neeeed...mooreee.
+<string>Perluuu...leebih.
 <string>
-<string>Still huunngrry...
+<string>Masih lapaar...
 <string>
-<string>Still hungry...
+<string>Masih lapar...
 <string>
-<string>Gimme...it! Gimme!
+<string>Berikan...itu! Berikan!
 <string>
-<string>Gimme! Gimmmeee!
+<string>Berikan! Berikaaan!
 <string>
-<string>Whyyy!? Whyyy!?
+<string>Kenapaaa!? Kenapaaa!?
 <string>
-<string>Why!? Whyyy!?
+<string>Kenapa!? Kenapaaa!?
 <string>
-<string>Fooood... Foooo...!
+<string>Makanaaan... Makanaaa...!
 <string>
-<string>Fooood! Fooood!
+<string>Makanaaan! Makanaaan!
 <string>
-<string>All mine!
-<string>Mine, mine, mine, mine!
-<string>Food, food, food, food! Food!
+<string>Semua milikku!
+<string>Milikku, milikku, milikku, milikku!
+<string>Makanan, makanan, makanan, makanan! Makanan!
 <string>
-<string>All mine!
-<string>Eat! Eat! Eat! Eat!
-<string>Mine! Mine! Mine! Mine!
+<string>Semua milikku!
+<string>Makan! Makan! Makan! Makan!
+<string>Milikku! Milikku! Milikku! Milikku!
 <string>
-<string>Food! Food! Food!
+<string>Makanan! Makanan! Makanan!
 <string>
-<string>Food! Food! Food! Food!
+<string>Makanan! Makanan! Makanan! Makanan!
 <string>
-<string>Eat! Eat! Eat! Eat!
+<string>Makan! Makan! Makan! Makan!
 <string>
-<string>Eat! Eat! Eat!
+<string>Makan! Makan! Makan!
 <string>
-<string>Mine! Mine! Mine! Mine!
+<string>Milikku! Milikku! Milikku! Milikku!
 <string>
-<string>Mine! Mine! Mine!
+<string>Milikku! Milikku! Milikku!
 <string>
-<string>More, more.
-<string>Mine! Mine!
+<string>Lagi, lagi.
+<string>Milikku! Milikku!

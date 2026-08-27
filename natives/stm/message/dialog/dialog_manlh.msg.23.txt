@@ -1,212 +1,212 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Mr. Kennedy, welcome.<lf>Dr. Gideon has been expecting you.
-<string>Funny. I don't remember getting an invitation.
-<string>Well, he's waiting for you.
-<string>Can't have that, can we?
-<string>Follow me, please.
-<string>Lead the way.
-<string>So how long have you worked for,<lf>uh...Dr. Gideon?
-<string>Not long. I just recently joined the team.
+<string>Tuan Kennedy, selamat datang.<lf>Dr. Gideon telah menantikanmu.
+<string>Lucu. Aku tidak ingat menerima undangan.
+<string>Yah, dia menunggumu.
+<string>Tidak bisa begitu, kan?
+<string>Ikuti aku, tolong.
+<string>Silakan pimpin jalan.
+<string>Jadi sudah berapa lama kau bekerja untuk,<lf>uh...Dr. Gideon?
+<string>Tidak lama. Aku baru saja bergabung dengan tim.
 <string>
-<string>We care for quite a few<lf>long-term patients here.
-<string>All undergoing experimental therapies<lf>developed by Dr. Gideon.
+<string>Kami merawat cukup banyak<lf>pasien jangka panjang di sini.
+<string>Semua menjalani terapi eksperimental<lf>yang dikembangkan oleh Dr. Gideon.
 <string>
-<string>Experimental therapies?
-<string>Yes, it's all very cutting edge.
-<string>The facility keeps a low profile due<lf>to the sensitive nature of the research.
-<string>Oh, I bet it does.
+<string>Terapi eksperimental?
+<string>Ya, semuanya sangat mutakhir.
+<string>Fasilitas ini menjaga profil rendah karena<lf>sifat risetnya yang sensitif.
+<string>Oh, aku yakin begitu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Please, wait here.
-<string>Code Six! Code Six! All staff,<lf>initiate emergency protocols!
-<string>Mr. Kennedy, we need to leave immediately!
-<string>What's going on?
-<string>I don't know what's happening.
-<string>Some kind of mass hysteria.<lf>The hospital is on lockdown.
-<string>Doctor?
-<string>Cut...out...
-<string>I think I want a second opinion.
+<string>Silakan tunggu di sini.
+<string>Kode Enam! Kode Enam! Semua staf,<lf>mulai protokol darurat!
+<string>Tuan Kennedy, kita harus segera pergi!
+<string>Apa yang terjadi?
+<string>Aku tidak tahu apa yang terjadi.
+<string>Semacam histeria massal.<lf>Rumah sakit sedang dikunci.
+<string>Dokter?
+<string>Hentikan...itu...
+<string>Kurasa aku ingin pendapat kedua.
 <string>
-<string>Nice.
+<string>Bagus.
 <string>
-<string>Well, that went well.
+<string>Yah, itu berjalan dengan baik.
 <string>
-<string>That bastard did it again.
-<string>How are things on your end?
-<string>I just hacked into the center's network.
-<string>Good, good...<lf>Can you find me the floor plan?
-<string>I'll see what I can do.
-<string>Well, in the meantime, I'll try to track him down.
-<string>Keep me posted.
-<string>Will do.
+<string>Bajingan itu melakukannya lagi.
+<string>Bagaimana keadaan di sisimu?
+<string>Aku baru saja meretas jaringan pusat ini.
+<string>Bagus, bagus...<lf>Bisakah kau carikan denah lantainya?
+<string>Akan kulihat apa yang bisa kulakukan.
+<string>Yah, sementara itu, aku akan mencoba melacaknya.
+<string>Beri kabar terus.
+<string>Siap.
 <string><Sound Team ID>
 <string>
-<string>Come on, come on, come on,<lf>come on, come on!
+<string>Ayolah, ayolah, ayolah,<lf>ayolah, ayolah!
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey! Over here!
-<string>Breathe... Breathe...
-<string>You OK?
-<string>Y-Yeah. Th-Thanks...
+<string>Hei! Di sini!
+<string>Bernapas... Bernapas...
+<string>Kau baik-baik saja?
+<string>Y-Ya. Te-Terima kasih...
 <string>Leon Kennedy, DSO.
 <string>DSO?
-<string>I-I'm Grace, um... Ashcroft. Uh, FBI.
+<string>A-Aku Grace, um... Ashcroft. Uh, FBI.
 <string>FBI?
-<string>What are you doing here?
-<string>Someone kidnapped me.
+<string>Apa yang kau lakukan di sini?
+<string>Seseorang menculikku.
 <string>Victor Gideon?
-<string>I-I don't know.
-<string>Well, we should leave.
-<string>What does Victor want with you?
-<string>What? I, um, I—
+<string>A-Aku tidak tahu.
+<string>Yah, kita harus pergi.
+<string>Apa yang Victor inginkan darimu?
+<string>Apa? Aku, um, aku—
 <string>Grace.
-<string>Wh-What do you mean?
-<string>He grabbed you for a reason.
-<string>Wait! Y-You're DSO.
-<string>That's the, ah, uh...<lf>The counter-bioterrorism agency, right?
-<string>Take this.
-<string>You're sure?
-<string>You might need it.
-<string>Now go.
-<string>Get outta here.
-<string>She won't get away, you know.
+<string>A-Apa maksudmu?
+<string>Dia menculikmu karena suatu alasan.
+<string>Tunggu! K-Kau DSO.
+<string>Itu, ah, uh...<lf>Badan kontra-bioterorisme, kan?
+<string>Ambil ini.
+<string>Kau yakin?
+<string>Kau mungkin membutuhkannya.
+<string>Sekarang pergi.
+<string>Keluar dari sini.
+<string>Dia tidak akan lolos, kau tahu.
 <string>Dr. Gideon.
-<string>So nice to finally meet you, Leon.
-<string>Why don't we have a little talk?
-<string>Too slow.
-<string>I see you're exhibiting symptoms, too.
-<string>Umbrella's curse.
+<string>Senang akhirnya bertemu denganmu, Leon.
+<string>Kenapa kita tidak mengobrol sebentar?
+<string>Terlalu lambat.
+<string>Kulihat kau juga menunjukkan gejala.
+<string>Kutukan Umbrella.
 <string>Shh...
 <string>
-<string>Not...my fauuult...
+<string>Bukan...salahkuuu...
 <string>
-<string>Not my fauulllt...
+<string>Bukan salahkuuu...
 <string>
-<string>Notttt my fault.
+<string>Bukannn salahku.
 <string>
-<string>Not my fauuuul...!
+<string>Bukan salahkuuuu...!
 <string>
-<string>III'm not sick!
+<string>Akuuu tidak sakit!
 <string>
-<string>Not...siiick!
+<string>Tidak...saaakit!
 <string>
-<string>Stop iiit!
+<string>Hentikan iiitu!
 <string>
-<string>Not siiick...
+<string>Tidak saaakit...
 <string>
-<string>I-I'm not...sick...
+<string>A-Aku tidak...sakit...
 <string>
-<string>Stooop...iiit...
+<string>Heentikan...iiitu...
 <string>
-<string>Nooot...siiick...
+<string>Tidaaak...saaakit...
 <string>
-<string>Stooop...it...
+<string>Heentikan...itu...
 <string>
-<string>Stooop! It!
+<string>Heentikan! Itu!
 <string>
-<string>I'm...nnnot...siiick!
+<string>Aku...tidaaak...saaakit!
 <string>
-<string>Stooop! It!
+<string>Heentikan! Itu!
 <string>
-<string>Nooot siiick!
+<string>Tidaaak saaakit!
 <string>
-<string>Agh... Not sick!
+<string>Agh... Tidak sakit!
 <string>
-<string>Not sick, not s-...not sick.
+<string>Tidak sakit, tidak s-...tidak sakit.
 <string>
-<string>Stop! Stop! Stop!
+<string>Hentikan! Hentikan! Hentikan!
 <string>
-<string>Not sick!
+<string>Tidak sakit!
 <string>
-<string>Stop it!
+<string>Hentikan!
 <string>
-<string>Nooot siiick!
+<string>Tidaaak saaakit!
 <string>
-<string>Nooo!!!
+<string>Tidaaak!!!
 <string>
-<string>Daaayy after day...
+<string>Harii demi hari...
 <string>
-<string>Damn patients!
+<string>Pasien sialan!
 <string>
-<string>Damn...patients!
+<string>Pasien...sialan!
 <string>
-<string>Day...after...
+<string>Hari...demi...
 <string>
-<string>Damn patients...
+<string>Pasien sialan...
 <string>
-<string>Damn... Patients...patients.
+<string>Sialan... Pasien...pasien.
 <string>
-<string>Damn...p-patients...
+<string>Sialan...p-pasien...
 <string>
-<string>Day...after...day...
+<string>Hari...demi...hari...
 <string>
-<string>Damn patients!
+<string>Pasien sialan!
 <string>
-<string>Damn!
+<string>Sialan!
 <string>
-<string>Damn pa...patients!
+<string>Pasien sia...sialan!
 <string>
-<string>Day after...day!
+<string>Hari demi...hari!
 <string>
-<string>Damn patients!
+<string>Pasien sialan!
 <string>
-<string>Damn!
+<string>Sialan!
 <string>
-<string>Day after... Day after...!
+<string>Hari demi... Hari demi...!
 <string>
-<string>Day after day! After day!
+<string>Hari demi hari! Demi hari!
 <string>
-<string>Day...Damn patients...
+<string>Hari...Pasien sialan...
 <string>
-<string>Damn...patients!
+<string>Sialan...pasien!
 <string>
-<string>Damn! Patients!
+<string>Sialan! Pasien!
 <string>
-<string>Damn patiiieeents!
+<string>Pasien sialaaan!
 <string>
-<string>Daaammn patiiients!
+<string>Pasien sialaaan!
 <string>
-<string>It huuurts!
+<string>Saaakit!
 <string>
-<string>Get ooout!
+<string>Keluaaar!
 <string>
-<string>Geeet ooout!
+<string>Keluaaar!
 <string>
-<string>It huuurt...
+<string>Saaakit...
 <string>
-<string>It...huuurts...
+<string>Saaakit...
 <string>
-<string>It huuurt...
+<string>Saaakit...
 <string>
-<string>It-It...h-hurt...
+<string>S-Sa...sakit...
 <string>
-<string>Get...o-ooout!
+<string>Keluar...k-keluaaar!
 <string>
-<string>It! H-Hurt!
+<string>Sakit! S-Sakit!
 <string>
-<string>Get ooout! GET OOOUT!
+<string>Keluaaar! KELUAAAR!
 <string>
-<string>Get! O-Out!
+<string>Keluar! K-Keluar!
 <string>
-<string>Huuurts...huuurts!
+<string>Saaakit...saaakit!
 <string>
-<string>It...huuurts...
+<string>Saaakit...
 <string>
-<string>Hurts...it hurts!
+<string>Sakit...sakit!
 <string>
-<string>It hurt, it hurt, it hurt, it hurt!
+<string>Sakit, sakit, sakit, sakit!
 <string>
-<string>Get out! Get out!
+<string>Keluar! Keluar!
 <string>
-<string>Get...out!
+<string>Keluar...keluar!
 <string>
-<string>It huuurt!
+<string>Saaakit!
 <string>
-<string>Get ooout!
+<string>Keluaaar!

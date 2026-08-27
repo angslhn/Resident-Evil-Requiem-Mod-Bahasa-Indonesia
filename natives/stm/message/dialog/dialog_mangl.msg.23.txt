@@ -1,148 +1,148 @@
 <string>
-<string>What the hell?
+<string>Apa-apaan?
 <string>
-<string>Found you.
+<string>Ketemu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Yes, Zeno, that's correct.
-<string>All tests have come back positive.<lf>I can confirm that she is indeed...
-<string>the one that we've been searching for.
-<string>If all goes as planned, Elpis will<lf>soon be in our hands.
-<string>Of course.
-<string>But first, I must initiate the protocol.
-<string>I've done it.
-<string>I've done it.
-<string>I've done it!
-<string>Oh no.
-<string>The self-destruct protocol has been initiated.
-<string>All staff, please evacuate.
-<string>I repeat, the self-destruct<lf>protocol has been initiated.
-<string>Oh, shit.
-<string>All staff, please evacuate.
+<string>Ya, Zeno, itu benar.
+<string>Semua tes kembali positif.<lf>Aku bisa memastikan bahwa dia memang...
+<string>orang yang selama ini kita cari.
+<string>Jika semua berjalan sesuai rencana, Elpis akan<lf>segera berada di tangan kita.
+<string>Tentu saja.
+<string>Tapi pertama, aku harus memulai protokolnya.
+<string>Aku berhasil.
+<string>Aku berhasil.
+<string>Aku berhasil!
+<string>Oh tidak.
+<string>Protokol penghancuran diri telah dimulai.
+<string>Semua staf, mohon evakuasi.
+<string>Kulangi, protokol penghancuran<lf>diri telah dimulai.
+<string>Oh, sial.
+<string>Semua staf, mohon evakuasi.
 <string>
-<string>Where's the room!? What the hell!?
+<string>Di mana ruangannya!? Apa-apaan!?
 <string>
 <string>
 <string>
-<string>Shit, OK.
+<string>Sial, OK.
 <string>
-<string>Damn it!
+<string>Sialan!
 <string>
-<string>Please work!
+<string>Kumohon berfungsi!
 <string>
 <string>O-OK.
 <string>
-<string>Shit, shit, shit!
+<string>Sial, sial, sial!
 <string>
 <string>
-<string>Fuck! Oh my god...
+<string>Sial! Ya Tuhan...
 <string>
 <string>
 <string>
-<string>Help! Help!
+<string>Tolong! Tolong!
 <string>
-<string>I made it!
-<string>OK...I'm coming, Emily.
+<string>Aku berhasil!
+<string>OK...aku datang, Emily.
 <string>
-<string>I need to get to the helicopter.
+<string>Aku harus ke helikopter.
 <string>
-<string>Why does this shit keep happening!?
+<string>Kenapa ini terus terjadi!?
 <string>
-<string>The self-destruct protocol has been initiated.<lf>All staff, please evacuate.
-<string>I repeat, all staff, please evacuate.
+<string>Protokol penghancuran diri telah dimulai.<lf>Semua staf, mohon evakuasi.
+<string>Kulangi, semua staf, mohon evakuasi.
 <string>
-<string>The self-destruct protocol has been initiated.<lf>Unlocking disposal tanks.
-<string>All personnel, dispose of specimens<lf>and evacuate immediately.
+<string>Protokol penghancuran diri telah dimulai.<lf>Membuka tangki pembuangan.
+<string>Semua personel, buang spesimen<lf>dan evakuasi segera.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>You get it!?
-<string>Yeah!
-<string>Good.
-<string>Oh my god.
+<string>Kau bisa!?
+<string>Ya!
+<string>Bagus.
+<string>Ya Tuhan.
 <string>
-<string>What the fuck did you do?
+<string>Apa yang kau lakukan?
 <string>Grace?
-<string>Grace, what's happening?
-<string>It's OK, Emily. I'm here.
-<string>Emily? It's gonna get a little bumpy.
-<string>I'm right next to you.
-<string>No, lady. I'm gonna need you up front.
-<string>It's OK, I'm all right.
+<string>Grace, apa yang terjadi?
+<string>Tidak apa-apa, Emily. Aku di sini.
+<string>Emily? Ini akan sedikit berguncang.
+<string>Aku tepat di sebelahmu.
+<string>Tidak, nona. Aku butuh kau di depan.
+<string>Tidak apa-apa, aku baik-baik saja.
 <string>OK.
-<string>Come on, come on, come on.
-<string>Oh, there are so many of them!
-<string>Strap in!
+<string>Ayolah, ayolah, ayolah.
+<string>Oh, ada banyak sekali!
+<string>Pasang sabuk!
 <string>
-<string>Come on!
-<string>What's it look like I'm doing!?
-<string>Hurry! Hurry!
-<string>No shit!
-<string>Hold tight, I'm taking off!
-<string>Get off me!
-<string>Get the fuck off me!
-<string>You bastard!
-<string>Get the fuck—
-<string>Emily, are you OK!?
+<string>Ayolah!
+<string>Menurutmu apa yang sedang kulakukan!?
+<string>Cepat! Cepat!
+<string>Astaga!
+<string>Pegang erat, aku lepas landas!
+<string>Lepaskan aku!
+<string>Lepaskan aku, sialan!
+<string>Kau bajingan!
+<string>Lepaskan—
+<string>Emily, kau baik-baik saja!?
 <string>Emily...
 <string>
-<string>I don't...wanna...die!
+<string>Aku tidak...mau...mati!
 <string>
-<string>I don't wanna diiie!
+<string>Aku tidak mau matii!
 <string>
-<string>I don't want ta diiie!
+<string>Aku tidak mau matii!
 <string>
-<string>H-Heeelp...me!
+<string>To-Toolong...aku!
 <string>
-<string>Heeelp me!
+<string>Toolong aku!
 <string>
-<string>Heeelp meee!
+<string>Toolong akuu!
 <string>
-<string>Let me ooout!
+<string>Biarkan aku keluuar!
 <string>
-<string>Let me ooout!
+<string>Biarkan aku keluuar!
 <string>
-<string>Stop it!
+<string>Hentikan!
 <string>
-<string>Stop...i-it!
+<string>Hentikan...i-itu!
 <string>
-<string>Stooop iiit!
+<string>Heentikan iiitu!
 <string>
-<string>I want to go home!
+<string>Aku ingin pulang!
 <string>
-<string>I want to go home!
+<string>Aku ingin pulang!
 <string>
-<string>Leeet me ooout!
+<string>Biarkan aku keluuar!
 <string>
-<string>I wanna go home!
+<string>Aku ingin pulang!
 <string>
-<string>I wanna go home...
+<string>Aku ingin pulang...
 <string>
-<string>Stop iiit...
+<string>Hentikan iiitu...
 <string>
-<string>I wanna go hooome...
+<string>Aku ingin pulaaang...
 <string>
-<string>Help meee...
+<string>Tolong akuu...
 <string>
-<string>Heeelp meee!
+<string>Toolong akuu!
 <string>
-<string>H-Help...me!
+<string>To-Tolong...aku!
 <string>
-<string>I want to gooo...
+<string>Aku ingin pulaaang...
 <string>
-<string>I want to go hooome!
+<string>Aku ingin pulaaang!
 <string>
-<string>St-Stop! Stop it!
+<string>He-Hentikan! Hentikan!
 <string>
-<string>I...wanta go hooome!
+<string>Aku...ingin pulaaang!
 <string>
-<string>Stop iiit!
+<string>Hentikan iiitu!
 <string>
-<string>Can't...breeeathe...
+<string>Tidak bisa...bernaaafas...
 <string>
-<string>Let me ooout!
+<string>Biarkan aku keluuar!
 <string>
-<string>Can't breeeathe!
+<string>Tidak bisa bernaaafas!

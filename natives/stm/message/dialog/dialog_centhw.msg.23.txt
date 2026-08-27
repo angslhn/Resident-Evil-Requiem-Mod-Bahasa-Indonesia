@@ -6,31 +6,31 @@
 <string>
 <string>
 <string>
-<string>Alright, should make it there in no time.
-<string>Good to hear. How're the roads?
+<string>Baik, seharusnya sampai di sana dalam waktu singkat.
+<string>Bagus. Bagaimana jalannya?
 <string>
 <string>Leon?
-<string>Just a few...potholes.
+<string>Hanya beberapa...lubang.
 <string>
 <string>
 <string>
-<string>This day just keeps getting better and better.
+<string>Hari ini terus bertambah buruk.
 <string>
 <string>
 <string>
-<string>These pups could use more training.
+<string>Anak-anak ini butuh lebih banyak latihan.
 <string>
 <string>
 <string>
-<string>Die, you fool!
+<string>Matilah, bodoh!
 <string>
-<string>Jesus!
+<string>Astaga!
 <string>
 <string>
-<string>So much for the direct route.
+<string>Begitulah rute langsung.
 <string>
-<string>Again. Seriously?
-<string>I don't give up that easy.
+<string>Lagi. Serius?
+<string>Aku tidak menyerah semudah itu.
 <string>
 <string>
 <string>
@@ -40,10 +40,10 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I've had enough of you!
-<string>I know the feeling!
-<string>Come on!
+<string>Aku sudah muak denganmu!
+<string>Aku tahu rasanya!
+<string>Ayolah!
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Should've worn a helmet.
+<string>Seharusnya kupakai helm.

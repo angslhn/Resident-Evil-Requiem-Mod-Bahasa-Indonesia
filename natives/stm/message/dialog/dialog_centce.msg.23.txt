@@ -9,196 +9,196 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>OK, Sherry, I've hit the barricade.
-<string>Looks like someone else was here first...
-<string>And they were planning on busting their way in.
-<string>Know a way around?
-<string>The Army Corps of Engineers<lf>erected it to seal the city.
-<string>It goes on for miles.
-<string>Guess the only way in is through then.
+<string>OK, Sherry, aku sudah sampai di barikade.
+<string>Sepertinya ada orang lain di sini lebih dulu...
+<string>Dan mereka berencana mendobrak masuk.
+<string>Kau tahu jalan lain?
+<string>Korps Insinyur Angkatan Darat<lf>mendirikannya untuk menutup kota.
+<string>Ini membentang bermil-mil.
+<string>Kurasa satu-satunya jalan masuk adalah lewat sini.
 <string>
-<string>Now whose camp is this?
+<string>Kamp siapa ini?
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Sherry, there's an old BSAA camp here.
-<string>Place is trashed.
-<string>Looks like they left in a hurry.
-<string>What were the BSAA doing in Raccoon City?
-<string>Interesting.
-<string>What is it?
-<string>The computer's not locked.
-<string>And they were also headed<lf>to the center of Raccoon City.
-<string>Interesting too...
-<string>That reminds me.
-<string>I dug a little deeper in the Pentagon's<lf>database, and I noticed...
-<string>something's missing.
-<string>What's that?
-<string>There's no record of anyone ordering<lf>the missile strike on Raccoon City.
-<string>Well if not them, then who?
-<string>Leon triggered the alarm.
-<string>Looks like your campaign to make the DSO<lf>stand down really didn't work, Zeno.
-<string>I'll leave this matter to you, then.
+<string>Sherry, ada kamp BSAA tua di sini.
+<string>Tempatnya berantakan.
+<string>Sepertinya mereka pergi terburu-buru.
+<string>Apa yang dilakukan BSAA di Raccoon City?
+<string>Menarik.
+<string>Apa itu?
+<string>Komputernya tidak terkunci.
+<string>Dan mereka juga menuju<lf>ke pusat Raccoon City.
+<string>Menarik juga...
+<string>Itu mengingatkanku.
+<string>Aku menggali lebih dalam di database<lf>Pentagon, dan aku menyadari...
+<string>ada sesuatu yang hilang.
+<string>Apa itu?
+<string>Tidak ada catatan siapa pun yang memerintahkan<lf>serangan misil ke Raccoon City.
+<string>Yah, jika bukan mereka, lalu siapa?
+<string>Leon memicu alarm.
+<string>Sepertinya kampanyemu untuk membuat DSO<lf>mundur benar-benar tidak berhasil, Zeno.
+<string>Kalau begitu, aku serahkan masalah ini padamu.
 <string>
-<string>I should check the camp some more.
+<string>Aku harus memeriksa kamp ini lebih lanjut.
 <string>
-<string>Strange. Where are all the bodies?
+<string>Aneh. Di mana semua mayatnya?
 <string>
-<string>Busted. I'll have to shoot it down.
+<string>Rusak. Aku harus menembaknya jatuh.
 <string>
-<string>Bad news, Sherry, this place<lf>is overrun with zombies.
-<string>What? That's impossible. They should've<lf>all been wiped out by the missile.
-<string>Yeah. They should've.
+<string>Kabar buruk, Sherry, tempat ini<lf>dipenuhi zombie.
+<string>Apa? Itu mustahil. Mereka seharusnya<lf>sudah dimusnahkan oleh misil.
+<string>Ya. Seharusnya begitu.
 <string>
-<string>There should be a part for the detonator<lf>somewhere around here.
+<string>Seharusnya ada bagian untuk detonator<lf>di suatu tempat di sekitar sini.
 <string>
-<string>I should check around here first.
+<string>Aku harus memeriksa sekitar sini dulu.
 <string>
-<string>Sherry, found the distributor. Two more parts<lf>and I can jerry-rig the detonator for that gate.
-<string>Great. Can you see any more from your position?
+<string>Sherry, ketemu distributor. Dua bagian lagi<lf>dan aku bisa merakit detonator untuk gerbang itu.
+<string>Bagus. Bisa kau lihat yang lain dari posisimu?
 <string>
-<string>Another BSAA camp... That should<lf>have the signal receiver.
+<string>Kamp BSAA lain... Itu seharusnya<lf>punya penerima sinyal.
 <string>
-<string>The relay's over there, huh?<lf>That should be a fun trip.
+<string>Relai di sana, ya?<lf>Itu seharusnya perjalanan yang menyenangkan.
 <string>
-<string>Got the location for those parts.<lf>Going to collect them now.
-<string>OK. I'll look into the BSAA in the meantime.
+<string>Dapat lokasi bagian-bagian itu.<lf>Pergi mengumpulkannya sekarang.
+<string>OK. Aku akan menyelidiki BSAA sementara itu.
 <string>
-<string>The battery should be in this room.
+<string>Baterainya seharusnya ada di ruangan ini.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>I'll need some kind of bridge to get over there.
+<string>Aku butuh semacam jembatan untuk ke sana.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>We encountered three infected<lf>and eliminated them.
-<string>That's correct, sir. Do we proceed?
-<string>So the rumors were true.
-<string>What rumors?
-<string>The missile wasn't just<lf>about stopping the spread.
-<string>Don't be ridiculous.
-<string>Affirmative.
-<string>Listen up!
-<string>Our objective hasn't changed.
-<string>We rendezvous with the advance party in<lf>the center of Raccoon City, then head for ARK.
-<string>Our mission is to retrieve Elpis.
-<string>Move out!
-<string>Man down! Man down!
-<string>Return fi—
-<string>Contact left! Contact left!
-<string>Ah! Jesus fuck!
+<string>Kami menemukan tiga yang terinfeksi<lf>dan melenyapkan mereka.
+<string>Benar, pak. Apakah kami lanjutkan?
+<string>Jadi rumor itu benar.
+<string>Rumor apa?
+<string>Misilnya bukan hanya<lf>untuk menghentikan penyebaran.
+<string>Jangan konyol.
+<string>Ditegaskan.
+<string>Dengar semuanya!
+<string>Tujuan kita tidak berubah.
+<string>Kita bertemu dengan tim pendahulu di<lf>pusat Raccoon City, lalu menuju ARK.
+<string>Misi kita adalah mengambil Elpis.
+<string>Bergerak!
+<string>Orang jatuh! Orang jatuh!
+<string>Balas temb—
+<string>Kontak kiri! Kontak kiri!
+<string>Ah! Sialan!
 <string>
-<string>Where is he? I'm fucking blind here!
-<string>Oh god! Oh, my fucking leg!
-<string>Fuck! Get cover! Get cover!
-<string>Please, help me!
-<string>Holy shit.
+<string>Di mana dia? Aku buta di sini!
+<string>Ya Tuhan! Kakiku!
+<string>Sial! Cari perlindungan! Cari perlindungan!
+<string>Tolong, bantu aku!
+<string>Sialan.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I thought I had a short fuse.
-<string>What are we doing here?
-<string>All in good time. You'll see.
+<string>Kupikir aku punya sumbu pendek.
+<string>Apa yang kita lakukan di sini?
+<string>Semua pada waktunya. Kau akan lihat.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Sent some footage your way, Sherry.
-<string>What the hell?
-<string>The guy at the end. White suit.<lf>Can you find anything on him?
-<string>Yeah, hold on.
-<string>The database is coming up empty.
-<string>So there are ghosts involved with Elpis, too.
+<string>Kukirim beberapa rekaman untukmu, Sherry.
+<string>Apa-apaan ini?
+<string>Orang di akhir. Setelan putih.<lf>Bisa kau temukan sesuatu tentang dia?
+<string>Ya, tunggu sebentar.
+<string>Database kosong.
+<string>Jadi ada hantu yang terlibat dengan Elpis juga.
 <string>
-<string>Gotta fill this up.
+<string>Harus mengisi ini.
 <string>
-<string>Let me guess, you must be the town lumberjack.
+<string>Coba kutebak, kau pasti penebang kayu kota.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Don't mind if I do.
+<string>Kalau begitu, kuterima.
 <string>
-<string>Alright.
+<string>Baik.
 <string>
-<string>Damn, they brought in the big guns.
+<string>Sial, mereka membawa senjata besar.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>One of the parts should be just up here.
+<string>Salah satu bagiannya seharusnya ada di atas sini.
 <string>
-<string>Alright, I can use that.
+<string>Baik, aku bisa gunakan itu.
 <string>
-<string>Beautiful. Just need to get through that gate.
+<string>Indah. Tinggal melewati gerbang itu.
 <string>
-<string>Found the signal receiver...<lf>or at least what's left of it.
-<string>OK. One component left.<lf>By the way...
-<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
-<string>It appears the North American branch<lf>has been moving independently.
-<string>Heard they had an internal dispute...<lf>Think it's related?
-<string>That's all I've got. There's been an increase<lf>in government surveillance.
-<string>Looks like my fan base is growing.
-<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>Ketemu penerima sinyal...<lf>atau setidaknya yang tersisa.
+<string>OK. Tinggal satu komponen.<lf>Ngomong-ngomong...
+<string>Aku menemukan bukti Pentagon<lf>menekan BSAA.
+<string>Tampaknya cabang Amerika Utara<lf>telah bergerak secara independen.
+<string>Kudengar mereka punya perselisihan internal...<lf>Kupikir itu terkait?
+<string>Itu saja yang kudapat. Ada peningkatan<lf>pengawasan pemerintah.
+<string>Sepertinya basis penggemarku bertambah.
+<string>Beberapa hal tidak pernah berubah. Jaga<lf>dirimu. Aku akan menghubungimu lagi segera.
 <string>
-<string>Found the signal receiver...<lf>Shit, it's broken.
-<string>Can you fix it?
-<string>I'll see what I can do.
+<string>Ketemu penerima sinyal...<lf>Sial, rusak.
+<string>Bisa kau perbaiki?
+<string>Akan kulihat apa yang bisa kulakukan.
 <string>
-<string>Sherry, got the signal receiver.
-<string>OK. One component left.<lf>By the way...
-<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
-<string>It appears the North American branch<lf>has been moving independently.
-<string>Heard they had an internal dispute...<lf>Think it's related?
-<string>That's all I've got. There's been an increase<lf>in government surveillance.
-<string>Looks like my fan base is growing.
-<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>Sherry, dapat penerima sinyal.
+<string>OK. Tinggal satu komponen.<lf>Ngomong-ngomong...
+<string>Aku menemukan bukti Pentagon<lf>menekan BSAA.
+<string>Tampaknya cabang Amerika Utara<lf>telah bergerak secara independen.
+<string>Kudengar mereka punya perselisihan internal...<lf>Kupikir itu terkait?
+<string>Itu saja yang kudapat. Ada peningkatan<lf>pengawasan pemerintah.
+<string>Sepertinya basis penggemarku bertambah.
+<string>Beberapa hal tidak pernah berubah. Jaga<lf>dirimu. Aku akan menghubungimu lagi segera.
 <string>
-<string>Sherry, got the signal receiver.
-<string>Great work. Time to head back to the gate<lf>and put it all together.
-<string>That's the plan.
+<string>Sherry, dapat penerima sinyal.
+<string>Kerja bagus. Waktunya kembali ke gerbang<lf>dan merakit semuanya.
+<string>Itu rencananya.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Need to figure out how to get over there.
+<string>Perlu mencari cara untuk ke sana.
 <string>
-<string>Damn it.
+<string>Sialan.
 <string>
-<string>Oh fuck.
+<string>Oh sial.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Time to find a way up.
+<string>Waktunya cari jalan naik.
 <string>
-<string>OK, let's find those detonator parts.
+<string>OK, ayo cari bagian-bagian detonator itu.
 <string>
-<string>Picked up the relay.
-<string>OK. One component left.<lf>By the way...
-<string>I found some evidence of the Pentagon<lf>putting pressure on the BSAA.
-<string>It appears the North American branch<lf>has been moving independently.
-<string>Heard they had an internal dispute...<lf>Think it's related?
-<string>That's all I've got. There's been an increase<lf>in government surveillance.
-<string>Looks like my fan base is growing.
-<string>Some things never change. Watch your<lf>back. I'll contact you again soon.
+<string>Ambil relai.
+<string>OK. Tinggal satu komponen.<lf>Ngomong-ngomong...
+<string>Aku menemukan bukti Pentagon<lf>menekan BSAA.
+<string>Tampaknya cabang Amerika Utara<lf>telah bergerak secara independen.
+<string>Kudengar mereka punya perselisihan internal...<lf>Kupikir itu terkait?
+<string>Itu saja yang kudapat. Ada peningkatan<lf>pengawasan pemerintah.
+<string>Sepertinya basis penggemarku bertambah.
+<string>Beberapa hal tidak pernah berubah. Jaga<lf>dirimu. Aku akan menghubungimu lagi segera.
 <string>
-<string>Picked up the relay.
-<string>Great job. Now to get through that gate.
-<string>Yeah. Just gotta figure out how to get<lf>down from here first.
+<string>Ambil relai.
+<string>Kerja bagus. Sekarang untuk melewati gerbang itu.
+<string>Ya. Hanya perlu mencari cara untuk<lf>turun dari sini dulu.
 <string>
-<string>Picked up the relay.
-<string>Were you able to fix that broken part?
-<string>Not yet. I need a tool or something for it.
+<string>Ambil relai.
+<string>Bisa kau perbaiki bagian yang rusak itu?
+<string>Belum. Aku butuh alat atau sesuatu untuk itu.
 <string>
-<string>That'll get me down.
+<string>Itu akan membuatku turun.
 <string><Sound Team ID>
 <string>
 <string>
@@ -206,29 +206,29 @@
 <string>
 <string>
 <string>
-<string>Now for the other side.
+<string>Sekarang untuk sisi lain.
 <string>
-<string>Hopefully this thing still works.
+<string>Semoga benda ini masih berfungsi.
 <string>
-<string>Now what?
+<string>Sekarang apa?
 <string>
-<string>You'll have to take the next one.
+<string>Kau yang harus mengambil yang berikutnya.
 <string><Sound Team ID>
 <string>
-<string>Oh no.
+<string>Oh tidak.
 <string>
-<string>This is my lucky day.
+<string>Ini hari keberuntunganku.
 <string>
-<string>That took longer than planned.
-<string>Luckily I found a bike—it should<lf>make up for lost time.
-<string>Great, you'll need it. It's 15 miles<lf>to the city center on the 419.
+<string>Itu lebih lama dari rencana.
+<string>Untungnya aku menemukan motor—itu seharusnya<lf>menutupi waktu yang hilang.
+<string>Bagus, kau akan membutuhkannya. Jaraknya 15 mil<lf>ke pusat kota lewat 419.
 <string>
-<string>Hey, Leon. Do you still think<lf>about what happened there?
-<string>Every day.
-<string>That night, I was just a kid.<lf>Scared and confused...
-<string>I imagine Grace must feel the same right now.
+<string>Hei, Leon. Apakah kau masih memikirkan<lf>apa yang terjadi di sana?
+<string>Setiap hari.
+<string>Malam itu, aku masih anak-anak.<lf>Ketakutan dan bingung...
+<string>Aku membayangkan Grace pasti merasakan hal yang sama sekarang.
 <string>Sherry...
-<string>Sorry. This isn't the time, we need to focus.
+<string>Maaf. Ini bukan waktunya, kita harus fokus.
 <string><Sound Team ID>
 <string>
 <string>

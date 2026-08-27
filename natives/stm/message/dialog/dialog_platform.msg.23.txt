@@ -1,78 +1,78 @@
 <string>
-<string>That did it!
+<string>Itu berhasil!
 <string>
-<string>Thanks. Uh...thank you.
+<string>Terima kasih. Uh...terima kasih.
 <string>
-<string>D-Don't worry, it's OK.
+<string>J-Jangan khawatir, tidak apa-apa.
 <string>
-<string>Alright!
+<string>Baiklah!
 <string>
-<string>I'm here. I'm here.
+<string>Aku di sini. Aku di sini.
 <string>
-<string>Remember your training, Grace.
+<string>Ingat pelatihanmu, Grace.
 <string>
-<string>That did it!
+<string>Itu berhasil!
 <string>
-<string>Just a sec.
+<string>Tunggu sebentar.
 <string>
-<string>Oh, I see.
+<string>Oh, begitu.
 <string>
-<string>I, uh... I-I think so.
+<string>Aku, uh... K-Kurasa begitu.
 <string>
-<string>This looks important...maybe.
+<string>Ini terlihat penting...mungkin.
 <string>
-<string>What is this?
+<string>Apa ini?
 <string>
-<string>Stay calm, Grace...
+<string>Tetap tenang, Grace...
 <string>
-<string>Think...
+<string>Berpikir...
 <string>
-<string>What? I, um, I—
+<string>Apa? Aku, um, aku—
 <string>
-<string>Maybe I'm missing something...
+<string>Mungkin aku melewatkan sesuatu...
 <string>
-<string>Where have I seen this...?
+<string>Di mana aku pernah melihat ini...?
 <string>
-<string>Oh no!
+<string>Oh tidak!
 <string>
-<string>What is this?
+<string>Apa ini?
 <string>
-<string>Alright, I can use that.
+<string>Baik, aku bisa gunakan itu.
 <string>
-<string>I don't give up that easy.
+<string>Aku tidak menyerah semudah itu.
 <string>
-<string>Look, I get it. Trust me, I get it.
+<string>Dengar, aku paham. Percayalah, aku paham.
 <string>
-<string>Story of my life.
+<string>Kisah hidupku.
 <string>
-<string>Heh... Never a dull day.
+<string>Heh... Tidak pernah ada hari yang membosankan.
 <string>
-<string>This is my lucky day.
+<string>Ini hari keberuntunganku.
 <string>
-<string>Alright, I can use that.
+<string>Baik, aku bisa gunakan itu.
 <string>
-<string>Alright, now what?
+<string>Baik, sekarang apa?
 <string>
-<string>Every single time.
+<string>Setiap saat.
 <string>
-<string>No, not this way.
+<string>Tidak, bukan lewat sini.
 <string>
-<string>Well, that went well.
+<string>Yah, itu berjalan dengan baik.
 <string>
-<string>I don't have time to deal with this.
+<string>Aku tidak punya waktu untuk mengurus ini.
 <string>
-<string>Seriously.
+<string>Serius.
 <string>
-<string>No... No, this is different.
+<string>Tidak... Tidak, ini berbeda.
 <string>
-<string>What is this?
+<string>Apa ini?
 <string>
-<string>It's tough being popular.
+<string>Sulit menjadi populer.
 <string>
-<string>Hello, gorgeous.
+<string>Halo, cantik.
 <string>
-<string>I remember you.
+<string>Aku mengingatmu.
 <string>
-<string>This day just keeps getting better and better.
+<string>Hari ini terus bertambah buruk.
 <string>
-<string>Don't mind if I do.
+<string>Kalau begitu, kuterima.

@@ -1,94 +1,94 @@
 <string><Sound Team ID>
 <string>
-<string>No...
-<string>No!
+<string>Tidak...
+<string>Tidak!
 <string>
-<string>The hell?
-<string>Oh shit.
-<string>What is this?
-<string>Hey! Help!
-<string>No... No, no, no...
-<string>You gotta stay calm.
-<string>You gotta stay cool. Come on.
-<string>Think.
-<string>Think, Grace, think.
-<string>Yes.
+<string>Apa-apaan?
+<string>Oh sial.
+<string>Apa ini?
+<string>Hei! Tolong!
+<string>Tidak... Tidak, tidak, tidak...
+<string>Kau harus tetap tenang.
+<string>Kau harus tetap dingin. Ayolah.
+<string>Berpikir.
+<string>Berpikir, Grace, berpikir.
+<string>Ya.
 <string>
-<string>Yes!
-<string>Come on.
+<string>Ya!
+<string>Ayolah.
 <string>
-<string>What did he do to me?
-<string>Come on.
+<string>Apa yang dia lakukan padaku?
+<string>Ayolah.
 <string>
-<string>Where the hell am I?
-<string>
-<string>
-<string><Sound Team ID>
-<string>
-<string>Dead.
-<string>
-<string>
-<string>
-<string>There's got to be somewhere I've missed.
-<string><Sound Team ID>
-<string>
+<string>Di mana aku?
 <string>
 <string>
 <string><Sound Team ID>
 <string>
-<string>He's dead.
-<string>Infected.
+<string>Mati.
 <string>
 <string>
-<string>Shit! Wh-What the fuck!?
 <string>
-<string>Oh god!
-<string>
-<string>What the hell was that thing!?
-<string>
-<string>Maybe I should check the<lf>room where that...thing was.
-<string>
-<string>Oh... Oh my god.
+<string>Pasti ada tempat yang kulewatkan.
 <string><Sound Team ID>
-<string>
-<string>Oh, shit!
-<string>
-<string>Not this way. Not this way. Not this way.
-<string>
-<string>
-<string><Sound Team ID>
-<string>
-<string>Damn it!
-<string>
-<string>
-<string>
-<string>Yes!
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>Oh, please no...
-<string>
-<string>
-<string><Sound Team ID>
-<string>
-<string>Alright.
-<string>Oh my god.
-<string>
 <string>
 <string>
 <string>
 <string><Sound Team ID>
 <string>
-<string>Come on, come on, come on,<lf>come on, come on!
-<string>Let go!
+<string>Dia mati.
+<string>Terinfeksi.
 <string>
-<string>This looks important...maybe.
 <string>
-<string>It can't hurt to pick some, I guess.
+<string>Sial! A-Apa-apaan!?
 <string>
-<string>I don't wanna die yet...
+<string>Ya Tuhan!
+<string>
+<string>Apa-apaan makhluk itu tadi!?
+<string>
+<string>Mungkin aku harus memeriksa<lf>ruangan di mana...makhluk itu berada.
+<string>
+<string>Oh... Ya Tuhan.
+<string><Sound Team ID>
+<string>
+<string>Oh, sial!
+<string>
+<string>Bukan lewat sini. Bukan lewat sini. Bukan lewat sini.
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Sialan!
+<string>
+<string>
+<string>
+<string>Ya!
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Oh, kumohon jangan...
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Baiklah.
+<string>Ya Tuhan.
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string>
+<string>Ayolah, ayolah, ayolah,<lf>ayolah, ayolah!
+<string>Lepaskan!
+<string>
+<string>Ini terlihat penting...mungkin.
+<string>
+<string>Tidak ada salahnya memetik beberapa, kurasa.
+<string>
+<string>Aku belum ingin mati...
 <string>
 <string>
 <string>

@@ -2,100 +2,100 @@
 <string><Sound Team ID>
 <string>
 <string>
-<string>Leon. Are you OK?
-<string>How long was I out?
-<string>I-I don't know...
-<string>A-A while.
-<string>Those marks...
-<string>It's T-Virus.
-<string>Stage three infection.
-<string>I-If you're so sick,
-<string>why would you come here?
-<string>This place...
-<string>Raccoon City was where it all began for me.
-<string>When it all happened, I-I couldn't—
-<string>I couldn't make a difference.
-<string>So I am here, now.
-<string>W-We can't stop Zeno.
-<string>He said something about you having a password.
-<string>What was he talking about?
-<string>I-I don't know!
-<string>I'm sorry, I...
-<string>Here.
-<string>I'm going back.
-<string>I'm gonna destroy Elpis.
-<string>I-I'm coming with you.
-<string>No, you're not.
-<string>I don't want any more regrets!
-<string>Whatever it takes, count me in.
-<string>If anything happens to me...
-<string>You promise...
-<string>you'll end this.
-<string>I promise.
+<string>Leon. Kau baik-baik saja?
+<string>Berapa lama aku pingsan?
+<string>A-Aku tidak tahu...
+<string>L-Lumayan lama.
+<string>Tanda-tanda itu...
+<string>Itu T-Virus.
+<string>Infeksi tahap tiga.
+<string>J-Jika kau begitu sakit,
+<string>kenapa kau datang ke sini?
+<string>Tempat ini...
+<string>Raccoon City adalah tempat semuanya dimulai bagiku.
+<string>Saat semuanya terjadi, a-aku tidak bisa—
+<string>Aku tidak bisa membuat perbedaan.
+<string>Jadi aku di sini, sekarang.
+<string>K-Kita tidak bisa menghentikan Zeno.
+<string>Dia bilang sesuatu tentang kau memiliki kata sandi.
+<string>Apa yang dia bicarakan?
+<string>A-Aku tidak tahu!
+<string>Maaf, aku...
+<string>Ini.
+<string>Aku akan kembali.
+<string>Aku akan menghancurkan Elpis.
+<string>A-Aku ikut denganmu.
+<string>Tidak, kau tidak.
+<string>Aku tidak ingin penyesalan lagi!
+<string>Apapun yang terjadi, aku ikut.
+<string>Jika sesuatu terjadi padaku...
+<string>Kau berjanji...
+<string>kau akan mengakhiri ini.
+<string>Aku berjanji.
 <string>
-<string>Come on.
+<string>Ayo.
 <string>
-<string>Look, there's a door over there.
-<string>Crane's blocking it though.
+<string>Lihat, ada pintu di sebelah sana.
+<string>Tapi derek menghalanginya.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I can check it out for us.
-<string>You think you can give me a boost?
-<string>Guess we're about to find out.
-<string>Come on.
-<string>Watch out for yourself up there, yeah?
-<string>I will.
+<string>Aku bisa memeriksanya untuk kita.
+<string>Kau pikir kau bisa mengangkatku?
+<string>Kurasa kita akan segera tahu.
+<string>Ayo.
+<string>Hati-hati di atas sana, ya?
+<string>Baik.
 <string>
-<string>Once I go down...there's no getting back up.
+<string>Sekali aku turun...tidak ada jalan kembali.
 <string>
-<string>System locked. Override key<lf>required for reactivation.
+<string>Sistem terkunci. Kunci override<lf>diperlukan untuk pengaktifan ulang.
 <string>
-<string>Warning: Threat level "Orange"<lf>confirmed in storage sector.
-<string>Critical error: Containment lockdown failure.
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>It...can't see?
-<string>
-<string>Shit!
+<string>Peringatan: Level ancaman "Oranye"<lf>terkonfirmasi di sektor penyimpanan.
+<string>Kesalahan kritis: Kegagalan penguncian kontainmen.
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>Found it.
+<string>Itu...tidak bisa melihat?
+<string>
+<string>Sial!
 <string>
 <string>
 <string>
-<string>Alright...I'm not dead yet.
+<string>
+<string>
+<string>Ketemu.
 <string>
 <string>
 <string>
-<string>Alright, Leon. Be careful.
-<string>
-<string>Need to get going too.
-<string>
-<string>Nice.
-<string>
-<string>Threat level "Red" in storage sector.
-<string>Rebooting AI control center N0-AH.
-<string>Oh no.
-<string>
-<string>OK, just beyond here.
-<string>
-<string>This is it. I did it.
-<string>
-<string>AI control center N0-AH<lf>reboot failure: No response.
-<string>Containment protocol: Inactive
-<string>Containment protocol: Inactive
+<string>Baiklah...aku belum mati.
 <string>
 <string>
 <string>
-<string>Still have a ways to go.
-<string>I wonder if Leon's made it yet.
+<string>Baik, Leon. Hati-hati.
+<string>
+<string>Aku juga harus pergi.
+<string>
+<string>Bagus.
+<string>
+<string>Level ancaman "Merah" di sektor penyimpanan.
+<string>Menyalakan ulang pusat kontrol AI N0-AH.
+<string>Oh tidak.
+<string>
+<string>OK, tepat di luar sini.
+<string>
+<string>Ini dia. Aku berhasil.
+<string>
+<string>Pusat kontrol AI N0-AH<lf>kegagalan boot ulang: Tidak ada respons.
+<string>Protokol kontainmen: Tidak aktif
+<string>Protokol kontainmen: Tidak aktif
+<string>
+<string>
+<string>
+<string>Masih jauh.
+<string>Aku ingin tahu apakah Leon sudah sampai.
 <string>
 <string>Whoa.
 <string><Sound Team ID>
@@ -104,164 +104,164 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Where have I seen this...?
-<string>Something important.
-<string>I'll explain later.
-<string>Shutting yourself away in a dark room<lf>like this is quite the change for you...
-<string>after the life you've lead.
-<string>Life takes unexpected turns, don't you think?
-<string>Looking back, do you feel that the choices<lf>you've made have contributed to...
-<string>your present circumstances?
-<string>Of course.
-<string>What you sow, you reap.
-<string>Isn't that the natural order?
-<string>So, tell me, Lord Spencer...
-<string>what would you like the world to know?
-<string>The truth.
-<string>But, uh...
-<string>a short break before we begin, Miss Ashcroft.
-<string>I'm not a young man. I don't<lf>have the energy I once did.
-<string>Why would Mom hide this?
+<string>Di mana aku pernah melihat ini...?
+<string>Sesuatu yang penting.
+<string>Aku akan jelaskan nanti.
+<string>Mengurung diri di ruangan gelap<lf>seperti ini adalah perubahan besar bagimu...
+<string>setelah kehidupan yang kau jalani.
+<string>Hidup berbelok tak terduga, bukan?
+<string>Melihat ke belakang, apakah kau merasa pilihan<lf>yang kau buat telah berkontribusi pada...
+<string>keadaanmu saat ini?
+<string>Tentu saja.
+<string>Apa yang kau tabur, itu yang kau tuai.
+<string>Bukankah itu tatanan alami?
+<string>Jadi, katakan padaku, Tuan Spencer...
+<string>apa yang ingin kau sampaikan pada dunia?
+<string>Kebenaran.
+<string>Tapi, uh...
+<string>istirahat sebentar sebelum kita mulai, Nona Ashcroft.
+<string>Aku bukan pria muda. Aku tidak<lf>punya energi seperti dulu.
+<string>Kenapa Ibu menyembunyikan ini?
 <string>OK...
-<string>Back in busi—
-<string>Fuck.
-<string>You all right, Leon?
-<string>I am now.
-<string>Grace cleared the way for me.
-<string>That's not what I'm talking about.
-<string>Your body can't take much more.
-<string>I'm gonna settle this.
-<string>You just send us a chopper<lf>for immediate evacuation.
+<string>Kembali beraksi—
+<string>Sial.
+<string>Kau baik-baik saja, Leon?
+<string>Sekarang baik.
+<string>Grace membuka jalan untukku.
+<string>Bukan itu yang kubicarakan.
+<string>Tubuhmu tidak bisa menahan lebih banyak lagi.
+<string>Aku akan menyelesaikan ini.
+<string>Kau kirimkan helikopter<lf>untuk evakuasi segera.
 <string>
-<string>Containment breach. System-wide<lf>surveillance failure detected.
+<string>Pelanggaran kontainmen. Kegagalan pengawasan<lf>seluruh sistem terdeteksi.
 <string>
-<string>Over there? Easy as pie.
+<string>Di sebelah sana? Mudah sekali.
 <string>
-<string>Security threat detected. Elevator shutdown<lf>in effect. Override key authorization required.
+<string>Ancaman keamanan terdeteksi. Penghentian lift<lf>berlaku. Otorisasi kunci override diperlukan.
 <string>
-<string>This must be the room.
+<string>Ini pasti ruangannya.
 <string>
-<string>I'll take out as many of you fuckers as I can.
+<string>Aku akan menjatuhkan sebanyak mungkin dari kalian.
 <string>
-<string>Ah, shit. You've gotta be kidding me...
+<string>Ah, sial. Kau pasti bercanda...
 <string>
-<string>Haven't changed much, have you?
+<string>Tidak banyak berubah, ya?
 <string>
 <string>
 <string>
-<string>Yeah yeah... Let's get this over with.
+<string>Ya ya... Ayo selesaikan ini.
 <string>
-<string>Warning: Autoclave compromised.<lf>Pod lockdown unavailable.
-<string>Memory corrupt. Self-repair functionality offline.
+<string>Peringatan: Autoclave terganggu.<lf>Penguncian pod tidak tersedia.
+<string>Memori rusak. Fungsi perbaikan mandiri offline.
 <string>
-<string>Aerosol monitor warning.<lf>Pod lockdown unavailable.
+<string>Peringatan monitor aerosol.<lf>Penguncian pod tidak tersedia.
 <string>
-<string>The elevator will arrive shortly.
+<string>Lift akan segera tiba.
 <string>
-<string>The elevator has arrived.
+<string>Lift telah tiba.
 <string>
-<string>I can't waste anymore time here. I need to go.
+<string>Aku tidak bisa buang waktu lagi di sini. Aku harus pergi.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Almost there, Sherry.
+<string>Hampir sampai, Sherry.
 <string>...Leon...
-<string>Shit...
+<string>Sial...
 <string>
-<string>Not done yet...
+<string>Belum selesai...
 <string>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>What kind of legacy do<lf>you want to leave behind?
-<string>My research opened Pandora's box,
-<string>unleashing disaster upon the world.
-<string>Except Elpis...the goddess of hope?
-<string>Or so the myth goes.
-<string>A blind hope.
-<string>What do you mean?
-<string>Humans cannot predict when<lf>death will come for them.
-<string>This is why they have hope.
-<string>I was wrong...
-<string>and I am plagued by guilt.
-<string>Happiness cannot be achieved<lf>at the expense of others.
-<string>I think that's enough for today.
-<string>Why did you accept my<lf>request for an interview?
+<string>Warisan seperti apa yang<lf>ingin kau tinggalkan?
+<string>Risetku membuka kotak Pandora,
+<string>melepaskan bencana ke dunia.
+<string>Kecuali Elpis...dewi harapan?
+<string>Atau begitu kata mitosnya.
+<string>Harapan yang buta.
+<string>Apa maksudmu?
+<string>Manusia tidak bisa memprediksi kapan<lf>kematian akan datang.
+<string>Itulah mengapa mereka punya harapan.
+<string>Aku salah...
+<string>dan aku dihantui rasa bersalah.
+<string>Kebahagiaan tidak bisa dicapai<lf>dengan mengorbankan orang lain.
+<string>Kurasa itu cukup untuk hari ini.
+<string>Kenapa kau menerima<lf>permintaan wawancaraku?
 <string>
-<string>Who is th—?
-<string>Is that one of your subjects?
-<string>Of course not.
-<string>She was alone in the world.
-<string>I took her in to make amends.
-<string>Is she...?
-<string>Perfectly normal.
-<string>Just an average child needing a home.
-<string>She...
-<string>is my hope.
-<string>Aren't you beautiful?
-<string>Would you like to hold her?
+<string>Siapa itu—?
+<string>Apakah itu salah satu subjekmu?
+<string>Tentu saja bukan.
+<string>Dia sendirian di dunia.
+<string>Aku membawanya untuk menebus kesalahan.
+<string>Apakah dia...?
+<string>Normal sempurna.
+<string>Hanya anak biasa yang butuh rumah.
+<string>Dia...
+<string>adalah harapanku.
+<string>Bukankah kau cantik?
+<string>Mau menggendongnya?
 <string>Oh! Um...
 <string>OK.
-<string>She's adorable.
-<string>What's her name?
+<string>Dia menggemaskan.
+<string>Siapa namanya?
 <string>Grace.
 <string>Grace.
-<string>Is there anything else you'd like to tell me?
-<string>I've said my piece.
-<string>I only hope it serves as a requiem<lf>for those who have passed.
+<string>Ada hal lain yang ingin kau sampaikan padaku?
+<string>Aku sudah sampaikan semuanya.
+<string>Aku hanya berharap ini menjadi requiem<lf>bagi mereka yang telah tiada.
 <string>Leon?
 <string>Leon!
 <string>
-<string>I need to hurry.
+<string>Aku harus cepat.
 <string>
-<string>This is finally my chance to do something.
-<string>
-<string>Leon!
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string><Sound Team ID>
+<string>Ini akhirnya kesempatanku untuk melakukan sesuatu.
 <string>
 <string>Leon!
-<string>Oh no.
-<string>Hey! It's me, it's Grace.
-<string>Please wake up.
-<string>Come on. Wake up, wake up.
-<string>Hey! Hey.
-<string>Hey you.
-<string>I was just resting my eyes.
-<string>You're OK.
-<string>Let me help you.
-<string>Let's do this.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Leon!
+<string>Oh tidak.
+<string>Hei! Ini aku, ini Grace.
+<string>Kumohon bangun.
+<string>Ayo. Bangun, bangun.
+<string>Hei! Hei.
+<string>Hei kamu.
+<string>Aku hanya mengistirahatkan mataku.
+<string>Kau baik-baik saja.
+<string>Biarkan aku membantumu.
+<string>Ayo lakukan ini.
 <string>OK.
-<string>I-I don't know the password.
-<string>It's OK, Zeno left it wide open for us.
-<string>Any wrong code will do.<lf>It'll destroy Elpis.
-<string>Let's try.
-<string>Grace, whatever it takes...
-<string>I can buy you some time.
-<string>No. No, no, I have an idea.
-<string>I trust you. I trust you.
-<string>So, the prodigal daughter returns.
-<string>I know the password.
-<string>Fulfill your destiny, and all will be forgiven.
-<string>O-Only if you let Leon live.
-<string>Very well.
-<string>サウンド用ID
+<string>A-Aku tidak tahu kata sandinya.
+<string>Tidak apa-apa, Zeno membiarkannya terbuka lebar untuk kita.
+<string>Kode salah apa pun bisa.<lf>Itu akan menghancurkan Elpis.
+<string>Ayo coba.
+<string>Grace, apa pun yang terjadi...
+<string>Aku bisa memberimu waktu.
+<string>Tidak. Tidak, tidak, aku punya ide.
+<string>Aku percaya padamu. Aku percaya padamu.
+<string>Jadi, putri yang hilang kembali.
+<string>Aku tahu kata sandinya.
+<string>Penuhi takdirmu, dan semuanya akan dimaafkan.
+<string>H-Hanya jika kau membiarkan Leon hidup.
+<string>Baiklah.
+<string><Sound Team ID>
 <string>
-<string>Please know that you are my hope.
-<string>She is my hope.
-<string>A blind hope.
+<string>Ketahuilah bahwa kau adalah harapanku.
+<string>Dia adalah harapanku.
+<string>Harapan yang buta.
 <string>
 <string>OK...
 <string>
 <string>
-<string>サウンド用ID
+<string><Sound Team ID>
 <string>
-<string>I was wrong, and I am plagued by guilt.
-<string>I'm gonna destroy Elpis.
-<string>You promise...you'll end this.
+<string>Aku salah, dan aku dihantui rasa bersalah.
+<string>Aku akan menghancurkan Elpis.
+<string>Kau berjanji...kau akan mengakhiri ini.
 <string>
-<string>This is it.
+<string>Ini dia.
 <string>
-<string>Wait...is it really this?
+<string>Tunggu...benarkah ini?

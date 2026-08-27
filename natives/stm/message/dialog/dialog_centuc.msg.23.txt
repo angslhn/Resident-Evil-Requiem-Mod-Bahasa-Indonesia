@@ -4,14 +4,14 @@
 <string>
 <string>
 <string>
-<string>Seriously.
+<string>Serius.
 <string>
-<string>I guess this is my stop.
+<string>Kurasa ini perhentianku.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>BSAA left something behind.
+<string>BSAA meninggalkan sesuatu.
 <string><Sound Team ID>
 <string>
 <string>
@@ -19,24 +19,24 @@
 <string>
 <string>
 <string>
-<string>It just keeps going.
+<string>Ini terus berlanjut.
 <string>
-<string>Finally reached the bottom.<lf>This is one very deep hole.
-<string>The perfect place to hide something.
+<string>Akhirnya mencapai dasar.<lf>Ini lubang yang sangat dalam.
+<string>Tempat yang sempurna untuk menyembunyikan sesuatu.
 <string>
-<string>These flowers really have it in for me.
+<string>Bunga-bunga ini benar-benar mengincarku.
 <string>
-<string>Just so you know, I've killed every plant I've ever had.
+<string>Kau tahu, aku pernah membunuh semua tanaman yang pernah kupunya.
 <string>
-<string>Stubborn weed, aren't you?
-<string>Time to burn you out from the roots!
+<string>Gulma bandel, ya?
+<string>Waktunya membakarmu sampai ke akar!
 <string>
-<string>This must be it.
+<string>Ini pasti tempatnya.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Sherry, I found some kind<lf>of massive facility.
-<string>What do you think it is?
-<string>I'm seeing supplies with the<lf>logos of the usual suspects.
-<string>Well, whatever it is, it clearly<lf>wasn't meant to be found.
-<string>Yeah, you're telling me.
+<string>Sherry, aku menemukan semacam<lf>fasilitas besar.
+<string>Menurutmu apa itu?
+<string>Aku melihat perbekalan dengan<lf>logo-logo tersangka biasa.
+<string>Yah, apa pun itu, jelas<lf>tidak dimaksudkan untuk ditemukan.
+<string>Ya, kau benar.

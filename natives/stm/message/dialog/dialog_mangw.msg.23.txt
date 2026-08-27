@@ -1,80 +1,80 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I'll get you out, Emily.
+<string>Aku akan mengeluarkanmu, Emily.
 <string>
 <string>
-<string>There's gotta be a way<lf>to get to the surface.
+<string>Pasti ada cara<lf>untuk naik ke permukaan.
 <string>
 <string>Ngh...
 <string>
-<string>I'm sorry. I know it hurts.
-<string>I'm so sorry.
+<string>Maaf. Aku tahu ini sakit.
+<string>Aku sangat menyesal.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Dead end...
-<string>I can't let that thing hurt her.
-<string>It's OK, Emily.
-<string>Here. Rest here.
-<string>Here you go.
-<string>I need to keep you safe.
+<string>Jalan buntu...
+<string>Aku tidak bisa membiarkan makhluk itu melukainya.
+<string>Tidak apa-apa, Emily.
+<string>Ini. Istirahat di sini.
+<string>Ini untukmu.
+<string>Aku harus menjagamu tetap aman.
 <string>OK.
 <string>
-<string>There has to be a way to kill that thing.
+<string>Pasti ada cara untuk membunuh makhluk itu.
 <string>
-<string>Insufficient power. Reset the power<lf>distribution units on the lower floor.
+<string>Daya tidak cukup. Nyalakan ulang unit<lf>distribusi daya di lantai bawah.
 <string>
-<string>Gotta get the power on.<lf>It's my only chance.
+<string>Harus menyalakan daya.<lf>Ini satu-satunya kesempatanku.
 <string>
-<string>I need to find those power units.
+<string>Aku harus menemukan unit daya itu.
 <string>
-<string>Two to go.
+<string>Tinggal dua.
 <string>
-<string>Only one more.
+<string>Tinggal satu lagi.
 <string>
-<string>This should open the hatch.<lf>I need to hurry.
+<string>Ini seharusnya membuka palka.<lf>Aku harus cepat.
 <string>
-<string>Power has been successfully restored.
+<string>Daya telah berhasil dipulihkan.
 <string>
-<string>We're getting out of here.<lf>Get out of the fucking way!
+<string>Kita keluar dari sini.<lf>Minggir!
 <string>
-<string>Come on! Open!
+<string>Ayo! Buka!
 <string>
-<string>Ugh, finally...
+<string>Ugh, akhirnya...
 <string>
-<string>Emily, please be OK.
+<string>Emily, kumohon tetap baik-baik saja.
 <string>
-<string>No! No, no, no, no, no, no, no!<lf>That's Emily! It's Emily!
+<string>Tidak! Tidak, tidak, tidak, tidak, tidak, tidak, tidak!<lf>Itu Emily! Itu Emily!
 <string>
-<string>No, please stop! Please!<lf>Please stop, Please!
+<string>Tidak, kumohon berhenti! Kumohon!<lf>Kumohon berhenti, kumohon!
 <string>
-<string>Please listen to me! Leon, listen to me!
+<string>Kumohon dengarkan aku! Leon, dengarkan aku!
 <string>
-<string>Are you listening? I said stop!<lf>That's—that's Emily!
+<string>Kau dengar? Kubilang berhenti!<lf>Itu—itu Emily!
 <string>
-<string>Stay back!
+<string>Mundur!
 <string>
-<string>Give me a break.
+<string>Beri aku istirahat.
 <string>
-<string>Just die already!
+<string>Matilah!
 <string>
-<string>It worked.
+<string>Berhasil.
 <string>
-<string>Close one.
+<string>Hampir saja.
 <string>
-<string>Why won't it stop!?
+<string>Kenapa tidak berhenti!?
 <string>
-<string>Where're those power units?
+<string>Di mana unit daya itu?
 <string>
-<string>Where's that power unit?
+<string>Di mana unit daya itu?
 <string>
-<string>What the fuck!?
+<string>Apa-apaan!?
 <string>
-<string>No lever...
-<string>There has to be one somewhere.
+<string>Tidak ada tuas...
+<string>Pasti ada di suatu tempat.
 <string>
-<string>Why...is it...so stiff?
+<string>Kenapa...ini...begitu kaku?
 <string><Sound Team ID>
 <string>
 <string>
@@ -95,55 +95,55 @@
 <string><Sound Team ID>
 <string>
 <string>
-<string>Emily, it's me!
+<string>Emily, ini aku!
 <string>Emily?
-<string>Oh no. Oh no. Oh no!
-<string>Wake up! Come on!
-<string>Oh shit.
-<string>Oh no.
+<string>Oh tidak. Oh tidak. Oh tidak!
+<string>Bangun! Ayo!
+<string>Oh sial.
+<string>Oh tidak.
 <string>Emily!
-<string>Come on, Emily.
-<string>Wake up, Emily!
-<string>Come on!
-<string>Come on!
+<string>Ayo, Emily.
+<string>Bangun, Emily!
+<string>Ayo!
+<string>Ayo!
 <string>Emily!
-<string>I failed you.
-<string>Emily!? Hi, it's me.<lf>I-I'm right here.
-<string>You're OK. You're OK.
+<string>Aku gagal melindungimu.
+<string>Emily!? Hai, ini aku.<lf>A-Aku di sini.
+<string>Kau baik-baik saja. Kau baik-baik saja.
 <string>E-Emily!?
 <string>Emily!
 <string>Emily?
-<string>No! No, no, no, no, no, no, no!
-<string>That's Emily! It's Emily!
-<string>I'm sorry.
+<string>Tidak! Tidak, tidak, tidak, tidak, tidak, tidak, tidak!
+<string>Itu Emily! Itu Emily!
+<string>Maafkan aku.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>No!
-<string>No, no, no, no, no!
-<string>No, no, no, no, no—Emily!
-<string>I wanted to save her!
-<string>You don't understand, that's wh—
-<string>No! I never would have escaped without her.
-<string>This is all my fault. Again!
-<string>Look, I get it. Trust me, I get it.
-<string>But we're still alive.<lf>We have to keep going.
-<string>No.
+<string>Tidak!
+<string>Tidak, tidak, tidak, tidak, tidak!
+<string>Tidak, tidak, tidak, tidak, tidak—Emily!
+<string>Aku ingin menyelamatkannya!
+<string>Kau tidak mengerti, itu—
+<string>Tidak! Aku tidak akan pernah bisa kabur tanpanya.
+<string>Ini semua salahku. Lagi!
+<string>Dengar, aku paham. Percayalah, aku paham.
+<string>Tapi kita masih hidup.<lf>Kita harus terus berjalan.
+<string>Tidak.
 <string>Grace...
-<string>Elpis is within reach, Grace.
-<string>I'd like you to come with me.
-<string>Come with you?
-<string>Oh, you feel lost, but you're not.
-<string>You're exactly where you need to be.
-<string>I've been waiting for you, Grace.
-<string>Who are you?
+<string>Elpis sudah dalam jangkauan, Grace.
+<string>Aku ingin kau ikut denganku.
+<string>Ikut denganmu?
+<string>Oh, kau merasa tersesat, tapi tidak.
+<string>Kau tepat di tempat yang seharusnya.
+<string>Aku sudah menunggumu, Grace.
+<string>Siapa kau?
 <string>Raccoon City...
-<string>You're the reason for its destruction.
-<string>But you're also the key to building<lf>a brave new world.
-<string>You're the final piece.
-<string>Let us show you your true purpose.
+<string>Kau alasan kehancurannya.
+<string>Tapi kau juga kunci untuk membangun<lf>dunia baru yang berani.
+<string>Kau potongan terakhir.
+<string>Biarkan kami menunjukkan tujuan sejatimu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>

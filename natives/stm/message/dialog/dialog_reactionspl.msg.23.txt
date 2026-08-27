@@ -197,7 +197,7 @@
 <string>
 <string>
 <string>
-<string>Don't come any closer!
+<string>Jangan mendekat!
 <string>
 <string>
 <string>
@@ -205,7 +205,7 @@
 <string>
 <string>
 <string>
-<string>Oh no.
+<string>Oh tidak.
 <string>
 <string>
 <string>
@@ -213,7 +213,7 @@
 <string>
 <string>
 <string>
-<string>What the fuck!?
+<string>Apa-apaan!?
 <string>
 <string>
 <string>

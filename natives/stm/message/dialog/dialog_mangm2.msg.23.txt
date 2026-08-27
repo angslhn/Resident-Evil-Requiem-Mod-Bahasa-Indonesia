@@ -1,89 +1,89 @@
 <string><Sound Team ID>
 <string>
-<string>I'll be fine.
-<string>I hope.
+<string>Aku akan baik-baik saja.
+<string>Kuharap.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Oh, god...
-<string>What on earth—?
-<string>Who's there?
-<string>Is someone there?
-<string>I-I'm sorry if I, um, surprised you.
-<string>Cataracts...
-<string>You can't see, can you?
-<string>Who are you?
-<string>Was there someone in the other cell?
-<string>Why are you in there?
-<string>Everyone's gone.
-<string>Stay away from her!
-<string>Are you all right!?
-<string>Get away!
-<string>Get away...
-<string>No, no! Hold on!
-<string>No! No, no!
-<string>I'm sorry.
-<string>What is happening here?
+<string>Oh, tuhan...
+<string>Apa yang—?
+<string>Siapa di sana?
+<string>Ada seseorang di sana?
+<string>M-Maaf jika aku, um, mengagetkanmu.
+<string>Katarak...
+<string>Kau tidak bisa melihat, ya?
+<string>Siapa kau?
+<string>Apakah ada orang di sel lain?
+<string>Kenapa kau ada di sana?
+<string>Semua orang sudah pergi.
+<string>Jauhi dia!
+<string>Kau baik-baik saja!?
+<string>Menjauh!
+<string>Menjauh...
+<string>Tidak, tidak! Tunggu!
+<string>Tidak! Tidak, tidak!
+<string>Maafkan aku.
+<string>Apa yang terjadi di sini?
 <string><Sound Team ID>
 <string>
-<string>These girls... They look just like...
-<string>You're the one that locked her up.
-<string>I-I'm gonna borrow this.
-<string>I bet she can read that.
+<string>Gadis-gadis ini... Mereka terlihat seperti...
+<string>Kau yang menguncinya.
+<string>A-Aku akan meminjam ini.
+<string>Aku yakin dia bisa membaca itu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey...
-<string>Why did they put you in there?
-<string>I don't know. I've always been here.
-<string>Do you mind if I come in?
-<string>I don't...mind.
-<string>I... So, um...
-<string>Sorry. Ah, I-I'm with the police.
-<string>...Police?
-<string>Yes... I'd like you to come with me.
-<string>Why?
-<string>I'm Grace.
-<string>What's your name?
+<string>Hei...
+<string>Kenapa mereka menaruhmu di sana?
+<string>Aku tidak tahu. Aku selalu di sini.
+<string>Apakah kau keberatan jika aku masuk?
+<string>Aku tidak...keberatan.
+<string>Aku... Jadi, um...
+<string>Maaf. Ah, a-aku dari polisi.
+<string>...Polisi?
+<string>Ya... Aku ingin kau ikut denganku.
+<string>Kenapa?
+<string>Aku Grace.
+<string>Siapa namamu?
 <string>...Emily.
 <string>Emily.
-<string>You like reading?
-<string>Yeah.
-<string>Do you think you could read something for me?
-<string>Please, I-I really need your help.
+<string>Kau suka membaca?
+<string>Ya.
+<string>Bisakah kau membacakan sesuatu untukku?
+<string>Kumohon, a-aku sangat butuh bantuanmu.
 <string>...OK.
-<string>Thank you.
-<string>I-I'll take you there.
-<string>There are steps. How about I carry you?
+<string>Terima kasih.
+<string>A-Aku akan membawamu ke sana.
+<string>Ada tangga. Bagaimana kalau aku menggendongmu?
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Here it is.
-<string>You think you can read it?
-<string>I can try.
-<string>It's like a giant puzzle box!
+<string>Ini dia.
+<string>Kau pikir kau bisa membacanya?
+<string>Aku bisa mencoba.
+<string>Ini seperti kotak teka-teki raksasa!
 <string>
 <string>
-<string>Stay here, Emily.
-<string>You handle this.
-<string>I'll...
-<string>handle...
-<string>that.
+<string>Tetap di sini, Emily.
+<string>Kau urus ini.
+<string>Aku akan...
+<string>mengurus...
+<string>itu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I'm here. I'm here.
-<string>I found this.
-<string>Well done, Emily. Thank you.
+<string>Aku di sini. Aku di sini.
+<string>Aku menemukan ini.
+<string>Bagus sekali, Emily. Terima kasih.
 <string>
 <string>Emily!?
-<string>Help me! Help!
+<string>Tolong aku! Tolong!
 <string>Emily!
 <string><Sound Team ID>
 <string>
-<string>This is all my fault.
-<string>I can't just leave her...
-<string>Oh, god...
+<string>Ini semua salahku.
+<string>Aku tidak bisa meninggalkannya...
+<string>Oh, tuhan...
 <string>OK.

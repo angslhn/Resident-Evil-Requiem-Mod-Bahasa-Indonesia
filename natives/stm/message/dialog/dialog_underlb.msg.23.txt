@@ -3,164 +3,164 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>What're you doing, Grace?
-<string>Spencer regretted what he did! He n—
-<string>Well done.
-<string>Y-You promised.
-<string>Yes, that I would let him live.
-<string>Mr. Kennedy...
-<string>I give you the honor of experiencing<lf>my power firsthand.
-<string>I-I'm not sure Elpis is what you think it is.
-<string>There's nothing special about me.
-<string>I-I was never any key.
-<string>Spencer wanted to make amends. He...
-<string>But you released Elpis.
-<string>What is it?
-<string>Tell me!
+<string>Apa yang kau lakukan, Grace?
+<string>Spencer menyesali perbuatannya! Dia ti—
+<string>Bagus sekali.
+<string>K-Kau berjanji.
+<string>Ya, bahwa aku akan membiarkannya hidup.
+<string>Tuan Kennedy...
+<string>Kuberi kau kehormatan untuk merasakan<lf>kekuatanku secara langsung.
+<string>A-Aku tidak yakin Elpis seperti yang kau pikirkan.
+<string>Tidak ada yang spesial dariku.
+<string>A-Aku tidak pernah menjadi kunci apa pun.
+<string>Spencer ingin menebus kesalahan. Dia...
+<string>Tapi kau melepaskan Elpis.
+<string>Apa itu?
+<string>Katakan padaku!
 <string>Leon!
-<string>Why? My powers...
-<string>Elpis is Spencer's atonement.
-<string>It's an antiviral.
-<string>Amazing.
-<string>I am humbled by my master's genius.
-<string>Your research was wrong.
-<string>Elpis wasn't a weapon.
-<string>There was never a key.
-<string>Spencer's paper was obviously incomplete.
-<string>There was no connection between Grace and Emily.
-<string>Do you know how much time<lf>and money I wasted on this?
-<string>Don't you see the genius?
-<string>With Elpis, all virus-based<lf>weapons are useless.
-<string>The world order will be thrown into chaos.
-<string>We wanted a weapon.
-<string>Instead Spencer gave us anarchy.
-<string>I will carry his torch and<lf>bring his vision to life.
-<string>You?
-<string>You and Spencer were a means to an end.
-<string>Yet he outwitted you all.
-<string>Spencer defied us and paid<lf>the price with his life.
-<string>He was nothing.
-<string>You are nothing but an imitation.
-<string>It's over, Victor.
-<string>The Connections is done with you.
-<string>We can't let him have it.
-<string>Your ignorance is staggering.
-<string>Leon. It's a cure.
-<string>It's working...
-<string>Leon, it's working! Wake up!
-<string>Now...
-<string>Let it all come down.
-<string>All of it.
-<string>Grace, what happened?
-<string>It's gonna go!
-<string>Grab something!
+<string>Kenapa? Kekuatanku...
+<string>Elpis adalah penebusan Spencer.
+<string>Itu antivirus.
+<string>Luar biasa.
+<string>Aku terhina oleh kejeniusan tuanku.
+<string>Risetmu salah.
+<string>Elpis bukanlah senjata.
+<string>Tidak pernah ada kunci.
+<string>Makalah Spencer jelas tidak lengkap.
+<string>Tidak ada hubungan antara Grace dan Emily.
+<string>Kau tahu berapa banyak waktu<lf>dan uang yang kubuang untuk ini?
+<string>Tidakkah kau melihat kejeniusannya?
+<string>Dengan Elpis, semua senjata berbasis<lf>virus tidak berguna.
+<string>Tatanan dunia akan kacau.
+<string>Kami menginginkan senjata.
+<string>Sebaliknya Spencer memberi kami anarki.
+<string>Aku akan meneruskan obornya dan<lf>membawa visinya menjadi kenyataan.
+<string>Kau?
+<string>Kau dan Spencer hanyalah alat untuk tujuan.
+<string>Namun dia mengakali kalian semua.
+<string>Spencer menentang kami dan membayar<lf>harganya dengan nyawanya.
+<string>Dia bukan siapa-siapa.
+<string>Kau bukan apa-apa selain tiruan.
+<string>Sudah berakhir, Victor.
+<string>The Connections sudah selesai denganmu.
+<string>Kita tidak bisa membiarkannya mendapatkannya.
+<string>Ketidaktahuanmu mengejutkan.
+<string>Leon. Ini obatnya.
+<string>Berhasil...
+<string>Leon, ini berhasil! Bangun!
+<string>Sekarang...
+<string>Biarkan semuanya runtuh.
+<string>Semuanya.
+<string>Grace, apa yang terjadi?
+<string>Ini akan meledak!
+<string>Pegang sesuatu!
 <string>Grace.
 <string>Grace!
-<string>Time to bury Umbrella's last skeleton.
+<string>Waktunya mengubur kerangka terakhir Umbrella.
 <string>
-<string>Spencer's vision lives through me,<lf>and I will see that it is brought to fruition!
-<string>And how many more will have to die<lf>for that "vision"?
+<string>Visi Spencer hidup melalui diriku,<lf>dan aku akan memastikan itu terwujud!
+<string>Dan berapa banyak lagi yang harus mati<lf>untuk "visi" itu?
 <string>
-<string>Sacrifices must be made! In the grand<lf>scheme of things, a few lives are nothing.
-<string>Not to me. I swore that I'd always<lf>protect those lives.
+<string>Pengorbanan harus dilakukan! Dalam skema<lf>besar, beberapa nyawa bukan apa-apa.
+<string>Tidak bagiku. Aku bersumpah akan selalu<lf>melindungi nyawa-nyawa itu.
 <string>
-<string>Open your eyes! Humanity is full<lf>of drooling imbeciles.
-<string>They need me, a leader to guide<lf>them...into a glorious new future.
-<string>The humanity I know is far more capable than<lf>you realize. They don't want your leadership.
+<string>Buka matamu! Umat manusia penuh<lf>dengan orang-orang bodoh.
+<string>Mereka membutuhkanku, seorang pemimpin untuk membimbing<lf>mereka...menuju masa depan baru yang gemilang.
+<string>Umat manusia yang kukenal jauh lebih mampu dari<lf>yang kau sadari. Mereka tidak menginginkan kepemimpinanmu.
 <string>
-<string>Even if I die, my master's vision will live on.<lf>Forever.
-<string>I'll make sure that fucked up vision<lf>dies with you.
+<string>Bahkan jika aku mati, visi tuanku akan tetap hidup.<lf>Selamanya.
+<string>Aku akan memastikan visi sialan itu<lf>mati bersamamu.
 <string>
-<string>Raccoon City...wasn't it...magnificent?
-<string>Genuine transformation cannot happen<lf>without chaos and destruction.
-<string>It was a living nightmare.<lf>I will never let that happen again.
+<string>Raccoon City...bukankah itu...luar biasa?
+<string>Transformasi sejati tidak bisa terjadi<lf>tanpa kekacauan dan kehancuran.
+<string>Itu mimpi buruk yang hidup.<lf>Aku tidak akan pernah membiarkannya terjadi lagi.
 <string>
-<string>Nuisance!
+<string>Pengganggu!
 <string>
-<string>Insolent fool!
+<string>Bodoh yang kurang ajar!
 <string>
-<string>You damn pest!
+<string>Kau hama sialan!
 <string>
-<string>Get out of my way!
+<string>Minggir!
 <string>
-<string>It seems your skills have...diminished.
+<string>Tampaknya kemampuanmu telah...menurun.
 <string>
-<string>You are an idiot for not realizing my master's vision!
+<string>Kau idiot karena tidak menyadari visi tuanku!
 <string>
-<string>The world my master envisioned is within my grasp!
+<string>Dunia yang dibayangkan tuanku ada dalam genggamanku!
 <string>
-<string>Your efforts are futile!
+<string>Usahamu sia-sia!
 <string>
-<string>Such impudence!
+<string>Kurang ajar!
 <string>
-<string>You vermin!
+<string>Kau hama!
 <string>
-<string>You don't have the power to save anyone!
+<string>Kau tidak punya kekuatan untuk menyelamatkan siapa pun!
 <string><Sound Team ID>
 <string>
-<string>It's over.
-<string>Good riddance.
-<string>A Nemesis...
-<string>No wonder you're so damn relentless.
+<string>Sudah berakhir.
+<string>Baguslah.
+<string>Nemesis...
+<string>Tidak heran kau begitu gigih.
 <string>
-<string>You insufferable...fool... My master's<lf>future...is absolute.
-<string>Seems you're reaching your limit.
+<string>Kau...bodoh...yang tak tertahankan... Masa depan<lf>tuanku...adalah mutlak.
+<string>Tampaknya kau mencapai batasmu.
 <string>
-<string>Humanity...w-will...evolve!<lf>His ideals...are absolute!
-<string>I will not let those ideals win. Give it up.
+<string>Umat manusia...a-akan...berevolusi!<lf>Idealnya...mutlak!
+<string>Aku tidak akan membiarkan ideal itu menang. Menyerahlah.
 <string>
-<string>D-Die!
+<string>M-Mati!
 <string>
-<string>Fu-Futile!
+<string>Si-Sia-sia!
 <string>
-<string>Take...this!
+<string>Rasakan...ini!
 <string>
-<string>Thisss...is...over!
+<string>Iniii...sudah...berakhir!
 <string>
-<string>You're...weak!
+<string>Kau...lemah!
 <string>
-<string>Stop...struggling. Die!
+<string>Berhenti...melawan. Mati!
 <string>
-<string>I am...righteous!
+<string>Aku...benar!
 <string>
-<string>I've had...enough!
+<string>Aku sudah...cukup!
 <string>
-<string>You—!
+<string>Kau—!
 <string>
-<string>Ig...Ignorance!
+<string>Ke...Ketidaktahuan!
 <string>
-<string>Worthless...scum! You'll...die!
+<string>Sampah...tak berguna! Kau...akan mati!
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>This time, you ain't getting back up.
+<string>Kali ini, kau tidak akan bangkit lagi.
 <string>Grace!
-<string>Grace, where are you!?
+<string>Grace, di mana kau!?
 <string>Sherry?
-<string>Sherry, come in.
+<string>Sherry, jawab.
 <string>Sherry!
-<string>Shit.
+<string>Sial.
 <string>Grace!
-<string>Grace, hang on.
-<string>Fuck.
+<string>Grace, bertahanlah.
+<string>Sial.
 <string>Grace.
 <string>Grace.
 <string>Leon...
-<string>We need to get you outta here.
-<string>Come on...
-<string>Let's get you up.
-<string>There's no way out, is there?
-<string>Well, I'm not gonna leave your side.
-<string>I'm gonna sit right here with you.
-<string>I guess this is it then.
+<string>Kita harus mengeluarkanmu dari sini.
+<string>Ayo...
+<string>Ayo bangun.
+<string>Tidak ada jalan keluar, kan?
+<string>Yah, aku tidak akan meninggalkan sisimu.
+<string>Aku akan duduk di sini bersamamu.
+<string>Kurasa ini akhirnya.
 <string>Leon S. Kennedy?
-<string>Depends who's asking.
-<string>Alpha. Do you read me, sir?
-<string>Yeah, they're safe. I got 'em.
-<string>Yes, sir.
-<string>Mr. Kennedy...
-<string>I have a message from Captain Redfield.
+<string>Tergantung siapa yang bertanya.
+<string>Alpha. Kau dengar, pak?
+<string>Ya, mereka aman. Aku dapatkan mereka.
+<string>Siap, pak.
+<string>Tuan Kennedy...
+<string>Aku punya pesan dari Kapten Redfield.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
@@ -168,58 +168,58 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I'll be damned. Can't believe<lf>that antiviral actually worked.
-<string>I feel better than I have in ages.
-<string>Thank god. I'm glad you're OK.
-<string>I've got a dose with your name on it.
-<string>You'll be back in action in no time.
-<string>Thank you, Leon.
-<string>Would have been a lot smoother if<lf>Chris hadn't been so late to the party.
-<string>Where is Chris anyway?
-<string>No idea.
-<string>I'm sure I'll run into him at some point.
-<string>I'll call you back.
-<string>It's over, then.
-<string>Yeah.
-<string>Elpis really was our last hope.
-<string>Well let's pray Umbrella hasn't left<lf>us any more nasty surprises.
-<string>I wish we could've saved Emily.
-<string>Grace, I didn't hit any of her vitals.
-<string>She could still be alive.
-<string>What are you saying?
-<string>Maybe we can save her.
-<string>The government has confirmed the existence<lf>of an actively trading bioweapons lab
-<string>located here in the ruins of Raccoon City,
-<string>the origin point for the worldwide<lf>spread of bio-organic weapons.
-<string>This illegal facility appears to have<lf>been in operation for decades.
-<string>Sources say that the extension of the lockdown<lf>and the recent series of mysterious deaths
-<string>may be related to tragic events in<lf>Raccoon City 28 years ago.
-<string>Evidence seized in Raccoon City<lf>has led the justice department
-<string>to reopen its investigation into Ozwell Spencer<lf>and the long defunct Umbrella Corporation.
-<string>Some believe the government deliberately<lf>drove Umbrella into bankruptcy.
-<string>The late Alyssa Ashcroft is credited with<lf>cracking the Ozwell Spencer story.
-<string>Conspiracy theorists are already claiming<lf>that she was killed in a cover-up
-<string>and that the organization responsible is<lf>secretly controlling our government.
-<string>Tonight, in a speech from the Oval Office,<lf>the president is expected to reject allegations
-<string>of any government involvement<lf>since the Raccoon City Incident.
+<string>Sialan. Tidak percaya<lf>antivirus itu benar-benar bekerja.
+<string>Aku merasa lebih baik dari sebelumnya.
+<string>Syukurlah. Aku senang kau baik-baik saja.
+<string>Aku punya satu dosis dengan namamu di atasnya.
+<string>Kau akan kembali beraksi dalam waktu singkat.
+<string>Terima kasih, Leon.
+<string>Akan jauh lebih mulus jika<lf>Chris tidak terlambat ke pesta.
+<string>Di mana Chris sekarang?
+<string>Tidak tahu.
+<string>Aku yakin akan bertemu dengannya suatu saat.
+<string>Aku akan meneleponmu kembali.
+<string>Sudah berakhir, ya.
+<string>Ya.
+<string>Elpis benar-benar harapan terakhir kita.
+<string>Yah, mari berdoa Umbrella tidak meninggalkan<lf>kejutan buruk lagi untuk kita.
+<string>Aku berharap kita bisa menyelamatkan Emily.
+<string>Grace, aku tidak mengenai organ vitalnya.
+<string>Dia mungkin masih hidup.
+<string>Apa maksudmu?
+<string>Mungkin kita bisa menyelamatkannya.
+<string>Pemerintah telah mengonfirmasi keberadaan<lf>laboratorium senjata bio yang aktif berdagang
+<string>terletak di sini di reruntuhan Raccoon City,
+<string>titik asal penyebaran senjata<lf>bio-organik di seluruh dunia.
+<string>Fasilitas ilegal ini tampaknya telah<lf>beroperasi selama puluhan tahun.
+<string>Sumber mengatakan bahwa perpanjangan penguncian<lf>dan serangkaian kematian misterius baru-baru ini
+<string>mungkin terkait dengan peristiwa tragis di<lf>Raccoon City 28 tahun lalu.
+<string>Bukti yang disita di Raccoon City<lf>telah membuat departemen kehakiman
+<string>membuka kembali investigasi terhadap Ozwell Spencer<lf>dan Umbrella Corporation yang telah lama mati.
+<string>Sebagian percaya pemerintah dengan sengaja<lf>mendorong Umbrella ke kebangkrutan.
+<string>Almarhumah Alyssa Ashcroft diakui atas<lf>pengungkapan cerita Ozwell Spencer.
+<string>Para ahli teori konspirasi sudah mengklaim<lf>bahwa dia dibunuh dalam penutupan
+<string>dan bahwa organisasi yang bertanggung jawab<lf>secara diam-diam mengendalikan pemerintah kita.
+<string>Malam ini, dalam pidato dari Ruang Oval,<lf>presiden diharapkan menolak tuduhan
+<string>adanya keterlibatan pemerintah<lf>sejak Insiden Raccoon City.
 <string>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>What did you do?
-<string>What I had to.
-<string>Grace, get out of here!
-<string>Go! I'm right behind you!
+<string>Apa yang kau lakukan?
+<string>Apa yang harus kulakukan.
+<string>Grace, pergilah dari sini!
+<string>Pergi! Aku tepat di belakangmu!
 <string>Leon!
-<string>What are you doing!? Come on!
+<string>Apa yang kau lakukan!? Ayo!
 <string>Leon!
 <string>
 <string>Leon!
-<string>No! No!
+<string>Tidak! Tidak!
 <string>Leon!
-<string>At least...I could save you.
-<string>No, no, no, no, no, no, no!
+<string>Setidaknya...aku bisa menyelamatkanmu.
+<string>Tidak, tidak, tidak, tidak, tidak, tidak, tidak!
 <string><Sound Team ID>
 <string>
-<string>I wish I could've saved you, Leon.
+<string>Kuharap aku bisa menyelamatkanmu, Leon.

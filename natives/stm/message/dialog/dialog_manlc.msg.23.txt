@@ -1,38 +1,38 @@
 <string>
-<string>Sherry, Grace is still here.
-<string>The FBI agent?
-<string>Yeah. Found some files on Victor's computer.<lf>She's connected to this somehow.
+<string>Sherry, Grace masih di sini.
+<string>Agen FBI itu?
+<string>Ya. Menemukan beberapa berkas di komputer Victor.<lf>Dia terhubung dengan ini entah bagaimana.
 <string>
-<string>Is she OK?
-<string>No, but I've got her covered.
+<string>Apakah dia baik-baik saja?
+<string>Tidak, tapi aku sudah mengamankannya.
 <string>
 <string>
 <string>
-<string>Next.
+<string>Berikutnya.
 <string>
-<string>Hit.
+<string>Kena.
 <string>
 <string>OK.
 <string>
-<string>Looks like they went ahead.
+<string>Sepertinya mereka pergi duluan.
 <string>
-<string>Must be time for the evening service.
+<string>Pasti waktunya kebaktian malam.
 <string>
-<string>Hang in there, Grace.
+<string>Bertahanlah, Grace.
 <string>
-<string>Alright.
+<string>Baiklah.
 <string>
-<string>'Scuse me.
+<string>Permisi.
 <string>
-<string>It can mutate others.
+<string>Itu bisa memutasi yang lain.
 <string>
-<string>Time to clear out the rest.
+<string>Waktunya membersihkan sisanya.
 <string>
-<string>Get away from us!
+<string>Menjauh dari kami!
 <string>
-<string>Ugh... Help! Help!
+<string>Ugh... Tolong! Tolong!
 <string>
-<string>Get off!
+<string>Lepaskan!
 <string>
 <string>
 <string>
@@ -44,26 +44,26 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Stay with me.
-<string>Oh god.
+<string>Tetap bersamaku.
+<string>Ya tuhan.
 <string>Grace.
 <string>Leon!
-<string>Who is she?
-<string>This is Emily.
-<string>Help me! I-I can't stop the bleeding.
-<string>Hey, hey, look at me.
-<string>We're gonna be OK.
-<string>Yeah?
-<string>Can't stay here.
-<string>That should be the way to<lf>the water treatment plant.
-<string>It's our way out.
-<string>Let's go.
-<string>They just don't give up.
-<string>Take her.
-<string>Get her safe.
-<string>Go!
-<string>Now!
-<string>I'll keep our friends busy.
+<string>Siapa dia?
+<string>Ini Emily.
+<string>Tolong aku! A-Aku tidak bisa menghentikan pendarahannya.
+<string>Hei, hei, lihat aku.
+<string>Kita akan baik-baik saja.
+<string>Ya?
+<string>Tidak bisa tinggal di sini.
+<string>Itu seharusnya jalan menuju<lf>pabrik pengolahan air.
+<string>Itu jalan keluar kita.
+<string>Ayo.
+<string>Mereka tidak menyerah.
+<string>Bawa dia.
+<string>Amankan dia.
+<string>Pergi!
+<string>Sekarang!
+<string>Aku akan menyibukkan teman-teman kita.
 <string><Sound Team ID>
 <string>
 <string>
@@ -78,8 +78,8 @@
 <string>
 <string>Elpis?
 <string>Grace?
-<string>What's she got to do with this?
-<string>Hello, gorgeous.
-<string>Come on, Emily.
-<string>Oh shit.
-<string>That girl just can't stay out of trouble.
+<string>Apa hubungannya dia dengan ini?
+<string>Halo, cantik.
+<string>Ayo, Emily.
+<string>Oh sial.
+<string>Gadis itu tidak bisa jauh dari masalah.

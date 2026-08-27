@@ -2,208 +2,208 @@
 <string>
 <string><Sound Team ID>
 <string>
-<string>Jesus!
+<string>Astaga!
 <string>
-<string>That's too effective.
+<string>Itu terlalu efektif.
 <string>
-<string>Shit... 
+<string>Sial...
 <string>
-<string>Oh god, what?
+<string>Ya Tuhan, apa?
 <string>
-<string>What was that!?
+<string>Apa itu tadi!?
 <string>
-<string>I hate this place.
-<string>What if I can't get out?
+<string>Aku benci tempat ini.
+<string>Bagaimana jika aku tidak bisa keluar?
 <string>
-<string>I-I don't want to die here...
+<string>A-Aku tidak ingin mati di sini...
 <string>
-<string>Why is this happening?
+<string>Kenapa ini terjadi?
 <string>
-<string>I have to keep going.
+<string>Aku harus terus berjalan.
 <string>
-<string>Shit... Was that not enough?
+<string>Sial... Apa itu belum cukup?
 <string>
-<string>What the fuck!?
-<string>
-<string>
-<string>Well, at least it's easier to walk around now.
+<string>Apa-apaan!?
 <string>
 <string>
-<string>Oh, what the fuck!?
-<string>
-<string>This looks like it leads outside.
-<string>
-<string>Gotta hide.
-<string>
-<string>Oh shit!
+<string>Yah, setidaknya sekarang lebih mudah berjalan.
 <string>
 <string>
+<string>Oh, apa-apaan!?
+<string>
+<string>Ini sepertinya mengarah ke luar.
+<string>
+<string>Harus sembunyi.
+<string>
+<string>Oh sial!
 <string>
 <string>
 <string>
 <string>
-<string>No bullets.
+<string>
+<string>
+<string>Tidak ada peluru.
 <string><Sound Team ID>
 <string>
-<string>Damn it.
+<string>Sialan.
 <string>
 <string>
 <string>
-<string>What is this?
+<string>Apa ini?
 <string>
-<string>Maybe I'm missing something...
-<string>
-<string>
-<string>
-<string>A perfect fit. Guess I need two more.
-<string>
-<string>A perfect fit. Only one left.
+<string>Mungkin aku melewatkan sesuatu...
 <string>
 <string>
-<string>Shit...
 <string>
-<string>Weird. How do people normally get in here?
+<string>Pas sempurna. Kurasa butuh dua lagi.
 <string>
-<string>Wait, this is mine.
+<string>Pas sempurna. Tinggal satu.
 <string>
-<string>Ugh, sorry about this.
+<string>
+<string>Sial...
+<string>
+<string>Aneh. Bagaimana orang biasanya masuk ke sini?
+<string>
+<string>Tunggu, ini milikku.
+<string>
+<string>Ugh, maaf soal ini.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey...
-<string>A-Are you all right?
-<string>You're the lady from before.
-<string>...Yeah.
-<string>This is, um... You're, um...
-<string>Did anyone hurt you?
-<string>Because I can't see?
-<string>Oh, no. No. Th-That's...um...<lf>th-that's not what I meant. Uh...
-<string>It's not my fault.
-<string>The doctors gave us both medicine.
-<string>It made our eyes go bad.
-<string>So... So there was someone in there?
-<string>There's another bed in this, uh...
-<string>My friend, Marie.
-<string>One day she just...disappeared.
+<string>Hei...
+<string>A-Apa kau baik-baik saja?
+<string>Kau nona dari sebelumnya.
+<string>...Ya.
+<string>Ini, um... Kau, um...
+<string>Apakah ada yang menyakitimu?
+<string>Karena aku tidak bisa melihat?
+<string>Oh, tidak. Tidak. I-Itu...um...<lf>b-bukan itu maksudku. Uh...
+<string>Ini bukan salahku.
+<string>Para dokter memberi kami berdua obat.
+<string>Itu membuat mata kami rusak.
+<string>Jadi... Jadi ada orang di sana?
+<string>Ada tempat tidur lain di, uh...
+<string>Temanku, Marie.
+<string>Suatu hari dia...menghilang.
 <string>Oh...
-<string>I-I'm sorry.
-<string>When it happened, I was happy it wasn't me.
-<string>Is that bad?
-<string>I'm just gonna...keep looking around.
+<string>A-Aku minta maaf.
+<string>Saat itu terjadi, aku senang bukan aku.
+<string>Apakah itu buruk?
+<string>Aku hanya akan...terus melihat-lihat.
 <string>
-<string>Oh god.
+<string>Ya Tuhan.
 <string>
-<string>This might be useful.
+<string>Ini mungkin berguna.
 <string>
-<string>Locked tight.
+<string>Terkunci rapat.
 <string>
-<string>Huh. What...is this?
+<string>Hah. Apa...ini?
 <string>
-<string>I wonder if they wrote the<lf>combination somewhere...
+<string>Aku ingin tahu apakah mereka menulis<lf>kombinasinya di suatu tempat...
 <string>
-<string>O-Oh shit!
+<string>O-Oh sial!
 <string>
-<string>What the fuck was that!?
+<string>Apa-apaan itu tadi!?
 <string>
-<string>This'll do!
+<string>Ini cukup!
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Ah, Miss Ashcroft. Come in. I won't harm you.
-<string>I was just looking for Dr. Richardson.
-<string>Wh-Why did you kidnap me?
-<string>Kidnap you?
-<string>I liberated you.
-<string>Who are you?
-<string>Oh, forgive me.
+<string>Ah, Nona Ashcroft. Masuklah. Aku tidak akan menyakitimu.
+<string>Aku hanya mencari Dr. Richardson.
+<string>Ke-Kenapa kau menculikku?
+<string>Menculikmu?
+<string>Aku membebaskanmu.
+<string>Siapa kau?
+<string>Oh, maafkan aku.
 <string>Dr. Victor Gideon.
-<string>I run this center.
-<string>It took forever to find you.
-<string>You're not like other people, you know.
-<string>You're quite...unique.
-<string>Through you, Elpis can finally be...set free.
-<string>Wh-Why me?
-<string>Because my master made you who you are.
-<string>Ah, phase two is about to begin.
-<string>Would you like to see what's hidden<lf>under the hood?
+<string>Aku menjalankan pusat ini.
+<string>Butuh waktu lama untuk menemukanmu.
+<string>Kau tidak seperti orang lain, kau tahu.
+<string>Kau cukup...unik.
+<string>Melaluimu, Elpis akhirnya bisa...dibebaskan.
+<string>Ke-Kenapa aku?
+<string>Karena tuanku menjadikanmu seperti sekarang.
+<string>Ah, fase dua akan segera dimulai.
+<string>Mau kau lihat apa yang tersembunyi<lf>di balik kap mesin?
 <string>Grace!
-<string>Wait! Grace!
+<string>Tunggu! Grace!
 <string>Grace?
 <string>Grace!
-<string>There's no escaping your destiny!
+<string>Tidak ada jalan keluar dari takdirmu!
 <string>
-<string>Wh-Wh-What the fuck does<lf>he mean, "destiny"!?
-<string>
-<string>
+<string>A-A-Apa maksudnya<lf>"takdir"!?
 <string>
 <string>
 <string>
-<string>What the fuck!?
-<string>
-<string>Why's it still moving!?
 <string>
 <string>
+<string>Apa-apaan!?
 <string>
-<string>Give me a fucking break!
+<string>Kenapa masih bergerak!?
+<string>
+<string>
+<string>
+<string>Beri aku istirahat, sialan!
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Ah, fuck.
+<string>Ah, sial.
 <string>
-<string>Of course it gets up.
+<string>Tentu saja dia bangkit.
 <string>
-<string>I can't tell which button's which...
+<string>Aku tidak bisa membedakan tombolnya...
 <string>
-<string>This must be it.
+<string>Ini pasti tempatnya.
 <string><Sound Team ID>
 <string>
 <string>Braille...
-<string>These girls... They look just like...
-<string>You're the one that locked her up.
-<string>I'm gonna borrow this.
-<string>I bet she can read that.
+<string>Gadis-gadis ini... Mereka terlihat seperti...
+<string>Kau yang menguncinya.
+<string>Aku akan meminjam ini.
+<string>Aku yakin dia bisa membaca itu.
 <string>
-<string>I have to keep it together.
+<string>Aku harus tetap tenang.
 <string>
-<string>What do you want me to read?
-<string>Umm... There's some buttons with,<lf>uh, braille on them.
-<string>Can you read them and then, um, push the buttons<lf>in this order? Star, star, moon, sun.
-<string>Um...sure.
-<string>Thanks. Uh...thank you.
+<string>Apa yang kau ingin aku baca?
+<string>Umm... Ada beberapa tombol dengan,<lf>uh, braille di atasnya.
+<string>Bisa kau membacanya lalu, um, tekan tombolnya<lf>dalam urutan ini? Bintang, bintang, bulan, matahari.
+<string>Um...tentu.
+<string>Terima kasih. Uh...terima kasih.
 <string>
-<string>Here, uh... Sit.
-<string>I'll be right back.
+<string>Ini, uh... Duduk.
+<string>Aku akan segera kembali.
 <string>
-<string>I'm just gonna...
+<string>Aku hanya akan...
 <string>
-<string>Thank god...
+<string>Syukurlah...
 <string>
 <string>
 <string>
-<string>D-Don't worry, it's OK.
+<string>J-Jangan khawatir, tidak apa-apa.
 <string>
-<string>We're uh... We're close now.
+<string>Kita uh... Kita sudah dekat sekarang.
 <string>
-<string>Grace! I did it!
+<string>Grace! Aku berhasil!
 <string>
-<string>Emily said she was finished.
+<string>Emily bilang dia sudah selesai.
 <string>
-<string>I thought that thing was dead!
+<string>Kupikir makhluk itu sudah mati!
 <string>
-<string>Dinner...at siiix...
-<string>Aaat six...
-<string>Right...awaaay.
-<string>Nooot enough...ingredients...
-<string>Not...enough.
-<string>Main...diiisssh...
+<string>Makan malam...jam enaaam...
+<string>Jaaam enam...
+<string>Segeraaa...
+<string>Tidaaak cukup...bahan...
+<string>Tidak...cukup.
+<string>Hidangan...utaamaaa...
 <string>
-<string>Dinnnner...at siiix...
-<string>Aaat six...
-<string>Right...away!
-<string>Not...enough...ingredients.
-<string>Not...enough.
-<string>Main...disssh...
+<string>Makan malam...jam enaaam...
+<string>Jaaam enam...
+<string>Segera!
+<string>Tidak...cukup...bahan.
+<string>Tidak...cukup.
+<string>Hidangan...utaamaaa...
 <string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3002_0000
 <string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3002_0010_ch4300
 <string><COLOR FF0000>#Rejected#</COLOR> ManGM3_3003_0000
@@ -217,619 +217,619 @@
 <string>
 <string>
 <string>
-<string>M-Meat...
+<string>D-Daging...
 <string>
-<string>Priiiime...
+<string>Utaaama...
 <string>
-<string>Tonight...is...shoulder...roassst.
+<string>Malam ini...adalah...bahu...panganggang.
 <string>
-<string>Slice...along the...spine.
+<string>Iris...sepanjang...tulang belakang.
 <string>
-<string>Oven's...piping...ngh...hot!
+<string>Oven...panas...ngh...sekali!
 <string>
-<string>Grrround meat! Todaaay...
+<string>Daging giling! Hari iniii...
 <string>
-<string>Grooound meat to-day!
+<string>Daging giling hari ini!
 <string>
-<string>Chooop it uuup!
+<string>Potong-potong!
 <string>
-<string>Chop it...uuup!
+<string>Potong...potong!
 <string>
-<string>Chop...chop!
+<string>Potong...potong!
 <string>
-<string>Chop...chop!
+<string>Potong...potong!
 <string>
-<string>In...Ingredients aaare!
+<string>Ba-Bahannyaaa!
 <string>
-<string>Today's ingredients!
+<string>Bahan-bahan hari ini!
 <string>
-<string>Aaall fresh!
+<string>Semuanya segar!
 <string>
-<string>All...fresh!
+<string>Semua...segar!
 <string>
-<string>Stilllll...moving!
+<string>Masiiih...bergerak!
 <string>
-<string>Stilllll moving...
+<string>Masiiih bergerak...
 <string>
-<string>So boney!
+<string>Kurus sekali!
 <string>
-<string>So boney!
+<string>Kurus sekali!
 <string>
-<string>Pluck...it clean!
+<string>Cabuti...sampai bersih!
 <string>
-<string>Pluck it cleeean!
+<string>Cabuti sampai bersiiih!
 <string>
-<string>Wrong...wrong...wrooong.
+<string>Salah...salah...salaaah.
 <string>
-<string>W-Wrong...wrooong.
+<string>S-Salah...salaaah.
 <string>
-<string>Wrong...wro...wrooong.
+<string>Salah...sala...salaaah.
 <string>
-<string>Nnn...Nex...t.
+<string>Nnn...Beriku...tnya.
 <string>
-<string>Next.
+<string>Berikutnya.
 <string>
-<string>Neeext.
+<string>Beriiikutnya.
 <string>
-<string>Next iiis...
+<string>Berikutnya adalaaah...
 <string>
-<string>Neeext is...
+<string>Beriiikutnya adalah...
 <string>
-<string>Next is...
+<string>Berikutnya adalah...
 <string>
-<string>A m-mess...
-<string>So messssy!
+<string>B-Berantakan...
+<string>Berantakan sekaliiii!
 <string>
-<string>Damn spot.
-<string>Damn spot.
-<string>Damn spot...
+<string>Noda sialan.
+<string>Noda sialan.
+<string>Noda sialan...
 <string>
-<string>Wooon't come ouuut.
-<string>Won't come ouuut!
+<string>Tidaaak mau hilaaang.
+<string>Tidak mau hilaaang!
 <string>
-<string>A messss.
-<string>A...mess.
-<string>So me...ssy!
+<string>Berantakaaan.
+<string>Berantakan...
+<string>Berantakan sekaliii!
 <string>
-<string>Damn spottt!
-<string>Damn ssspot.
+<string>Noda sialaaan!
+<string>Noda ssialan.
 <string>
-<string>It-It's ruined.
-<string>It's ruuuined!
-<string>Ruin...ruined!
+<string>Ru-Rusak.
+<string>Rusaaak!
+<string>Rusak...rusak!
 <string>
-<string>Ruuuinnn...
-<string>It's...ruuuined...
+<string>Rusaaak...
+<string>Rusaaak...
 <string>
-<string>Blood! Blood!
+<string>Darah! Darah!
 <string>
-<string>Nevvver ends.
-<string>Never ends...
+<string>Tidaaak pernah berakhir.
+<string>Tidak pernah berakhir...
 <string>
-<string>Come...out.
-<string>Come out, come out...come out!
-<string>Come o-o-out!
+<string>Keluar...keluar.
+<string>Keluar, keluar...keluar!
+<string>Keluar k-k-keluar!
 <string>
-<string>Blood...
-<string>Blood...ev...ery...where...
+<string>Darah...
+<string>Darah...di...mana...mana...
 <string>
-<string>Blood every...where.
+<string>Darah di mana...mana.
 <string>
-<string>Come out, come...out.
+<string>Keluar, keluar...keluar.
 <string>
-<string>It never en...ds!
+<string>Tidak pernah berak...hir!
 <string>
-<string>Muuust...clean...
+<string>Haruuus...membersihkan...
 <string>
-<string>Must clean.
+<string>Harus membersihkan.
 <string>
-<string>Muuust...clean.
+<string>Haruuus...membersihkan.
 <string>
-<string>Who made a mess?
+<string>Siapa yang membuat berantakan?
 <string>
-<string>Who made...mess?
+<string>Siapa yang membuat...berantakan?
 <string>
-<string>Who...made a...mess?
+<string>Siapa...yang membuat...berantakan?
 <string>
-<string>Why the mess!?
+<string>Kenapa berantakan!?
 <string>
-<string>Why the mess!?
+<string>Kenapa berantakan!?
 <string>
-<string>Whyyy the messss!?
+<string>Kenapaaa berantakaaan!?
 <string>
-<string>Come ooout!
+<string>Keluaaar!
 <string>
-<string>What a...messss.
+<string>Berantakan...sekali.
 <string>
-<string>It s...mells.
+<string>Bau...
 <string>
-<string>Smells.
+<string>Bau.
 <string>
-<string>Smells.
+<string>Bau.
 <string>
-<string>Come out, come ouuuttt!
+<string>Keluar, keluaaarr!
 <string>
-<string>Trasssh!
+<string>Saaampah!
 <string>
-<string>Thisss trasssh!
+<string>Saaampah ini!
 <string>
-<string>Must clean!
+<string>Harus bersihkan!
 <string>
-<string>Come out...come out!
+<string>Keluar...keluar!
 <string>
-<string>It's ruined! It's r-ruined!
+<string>Rusak! Ru-rusak!
 <string>
-<string>A messss! A messss!
+<string>Berantakan! Berantakan!
 <string>
-<string>Lights out...
+<string>Lampu mati...
 <string>
-<string>Lights...o-out...
+<string>Lampu...m-mati...
 <string>
-<string>Turn off ligh...ts.
+<string>Matikan lampu...
 <string>
-<string>T-Turn off...lights...
+<string>M-Matikan...lampu...
 <string>
-<string>Follow r-rules.
+<string>Ikuti a-aturan.
 <string>
-<string>Follow the-the rules.
+<string>Ikuti aturan.
 <string>
-<string>L-Lights...ou-out...
+<string>L-Lampu...m-mati...
 <string>
-<string>Too briiight.
+<string>Terlalu teraaang.
 <string>
-<string>T-Too b-bright.
+<string>T-Terlalu t-terang.
 <string>
-<string>Too b-briiight...
+<string>Terlalu t-teraaang...
 <string>
-<string>Ligh...Light's on.
+<string>Lam...Lampunya menyala.
 <string>
-<string>L-Light...is onnn.
+<string>L-Lampu...menyalaaa.
 <string>
-<string>Liiight's on...
+<string>Laaampunya menyala...
 <string>
-<string>L-L...Light's...o-on.
+<string>L-L...Lampunya...m-menyala.
 <string>
-<string>Too briiight!
+<string>Terlalu teraaang!
 <string>
-<string>Too briiight!
+<string>Terlalu teraaang!
 <string>
-<string>Too b-bright!
+<string>Terlalu t-terang!
 <string>
-<string>Quieeet...
+<string>Diaaam...
 <string>
-<string>Sooo loooud...
+<string>Beriisik sekalii...
 <string>
-<string>Stop it...
+<string>Hentikan...
 <string>
-<string>God...damn it.
+<string>Ya...Tuhan.
 <string>
-<string>Shaddap...
+<string>Diaaam...
 <string>
-<string>Quiet...
+<string>Diam...
 <string>
-<string>My...head...
+<string>Kepala...ku...
 <string>
-<string>Shut! Up! Uh!
+<string>Diam! Diam! Uh!
 <string>
-<string>Quiet!!!
+<string>Diaaam!!!
 <string>
-<string>Quiet!!!
+<string>Diaaam!!!
 <string>
-<string>Keep it dooown!!!
+<string>Pelan suaramuuu!!!
 <string>
-<string>Keep it dooown!
+<string>Pelan suaramuuu!
 <string>
-<string>Keep it dooown!
+<string>Pelan suaramuuu!
 <string>
-<string>Theeere!
+<string>Situuu!
 <string>
-<string>Where is it!?
+<string>Di mana itu!?
 <string>
-<string>O-Ooover there!?
+<string>D-Di seeeebelah sana!?
 <string>
-<string>Over there!?
+<string>Di sebelah sana!?
 <string>
-<string>That way!?
+<string>Ke sana!?
 <string>
-<string>Kill-il-il-il! Kill iiit!
+<string>Bunuh-bunuh-bunuh-bunuh! Bunuh ituuu!
 <string>
-<string>Kill iiit! Killll ittt.
+<string>Bunuh ituuu! Bunuuuh ituuu.
 <string>
-<string>I'll kill it!
+<string>Aku akan membunuhnya!
 <string>
-<string>Kill it! Kiiill ittt.
+<string>Bunuh itu! Bunuuuh ituuu.
 <string>
-<string>I'LL! Kill. Kill, kill, kill. I'll kill!
+<string>AKU! Bunuh. Bunuh, bunuh, bunuh. Aku akan bunuh!
 <string>
-<string>I'll kill! I'll kill! I'll kill!
+<string>Aku akan bunuh! Aku akan bunuh! Aku akan bunuh!
 <string>
-<string>I'll...kill! I'll kill...I'll killll!
+<string>Aku...bunuh! Aku bunuh...aku bunuuuh!
 <string>
-<string>Kill! Kill! Kill...
+<string>Bunuh! Bunuh! Bunuh...
 <string>
-<string>III'll...Kiiill!
+<string>Akuuu...Bunuuuh!
 <string>
-<string>Diiie!
+<string>Matiii!
 <string>
-<string>Die, die, DIE!
+<string>Mati, mati, MATI!
 <string>
-<string>Shut UP!
+<string>Diaaam!
 <string>
-<string>Stooop iiit!
+<string>Heentikan iiitu!
 <string>
-<string>Diiie!
+<string>Matiii!
 <string>
-<string>Shut up!
+<string>Diam!
 <string>
-<string>God damn it!
+<string>Ya Tuhan!
 <string>
-<string>Filthy animal!
+<string>Hewan kotor!
 <string>
-<string>Filthy animaaal!!!
+<string>Hewan kotoooor!!!
 <string>
-<string>Filthy aaanimaaal!!!
+<string>Hewan kotooor!!!
 <string>
-<string>Filthy! Filthy animal!!!
+<string>Kotor! Hewan kotor!!!
 <string>
-<string>I'mmm sooorrrry.
+<string>Akuuu miiinta maaaf.
 <string>
-<string>I'mmm s...sorrrry.
+<string>Akuuu m...maaaf.
 <string>
-<string>A mistaaake...
+<string>Sebuah kesalaaahan...
 <string>
-<string>I'm s...orrrry.
+<string>Aku m...aaaf.
 <string>
-<string>I'llll dooo be...tttter.
+<string>Akuuu akan lebih baaaiiiik.
 <string>
-<string>A missstaaake...
+<string>Kesalaaahan...
 <string>
-<string>I'mmm soorrrry!
+<string>Akuuu maaaf!
 <string>
-<string>A...missstaaaake.
+<string>Kesalaaahan...
 <string>
-<string>I'mm s...orry.
+<string>Akuu m...aaf.
 <string>
-<string>I'm sorry.
+<string>Aku minta maaf.
 <string>
-<string>The liver is more marvelous than the brain...
+<string>Hati lebih menakjubkan daripada otak...
 <string>
-<string>The pancreas moves parallel on the shelf...
+<string>Pankreas bergerak sejajar di rak...
 <string>
-<string>The cavities of the spine are beautifully empty!
+<string>Rongga tulang belakang kosong dengan indah!
 <string>
-<string>Cannot deny how fine the gastrointestinal tract is.
+<string>Tidak bisa menyangkal betapa bagusnya saluran pencernaan.
 <string>
-<string>Cranium is not a cloud by any means.
+<string>Tengkorak bukanlah awan sama sekali.
 <string>
-<string>It is time to...rotate the pelvis.
+<string>Sudah waktunya untuk...memutar panggul.
 <string>
-<string>The front teeth go deep in the heart, perhaps?
+<string>Gigi depan masuk dalam ke jantung, mungkin?
 <string>
-<string>Go straight up, passing the thyroid.
+<string>Lurus ke atas, melewati tiroid.
 <string>
-<string>Fetch your bladder and...go home!
+<string>Ambil kandung kemihmu dan...pulang!
 <string>
-<string>The right lung has lost all common sense.
+<string>Paru-paru kanan telah kehilangan akal sehat.
 <string>
-<string>The gallbladder naturally improves the disposition.
+<string>Kantung empedu secara alami memperbaiki watak.
 <string>
-<string>Light can be...heeeard from the small intestine.
+<string>Cahaya bisa...terdeeengar dari usus kecil.
 <string>
-<string>Today's...experiment...
+<string>Eksperimen...hari ini...
 <string>
-<string>Worthwhile!
+<string>Berharga!
 <string>
-<string>Today's...experiment...
+<string>Eksperimen...hari ini...
 <string>
-<string>Patients, form...line.
+<string>Pasien, bariiiis.
 <string>
-<string>Five...seven...
+<string>Lima...tujuh...
 <string>
-<string>Administer...at once...
+<string>Berikan...sekaligus...
 <string>
-<string>Patients...form...liiine.
+<string>Pasien...bariiiis.
 <string>
-<string>Today's...is.
+<string>Hari ini...adalah.
 <string>
-<string>Deranged...
+<string>Terganggu...
 <string>
-<string>Worthwhile...
+<string>Berharga...
 <string>
-<string>Seven...
+<string>Tujuh...
 <string>
-<string>De...ranged...state.
+<string>Keadaan...terganggu.
 <string>
-<string>Ad...minister...
+<string>Ber...ikan...
 <string>
-<string>Proceeeeed...
+<string>Lanjutkaaaan...
 <string>
-<string>Keep an eye onnn...
+<string>Awasi...
 <string>
-<string>Keep an eeeyyye...
+<string>Awaaasi...
 <string>
-<string>Five mili...
+<string>Lima mili...
 <string>
-<string>Two...weeeeks...
+<string>Dua...minggu...
 <string>
-<string>Give...psychostimuuu...
+<string>Beri...psikostimulaaannn...
 <string>
-<string>Don't leave me.
+<string>Jangan tinggalkan aku.
 <string>
-<string>Don't leeeave me.
+<string>Jangan tinggalkan aku.
 <string>
-<string>Pleeease...
+<string>Kumooohon...
 <string>
-<string>Dooon't...gooo.
+<string>Jaaangan...pergiii.
 <string>
-<string>Heeey.
+<string>Heeei.
 <string>
-<string>Pleeease.
+<string>Kumooohon.
 <string>
-<string>Don't leeeave me...
+<string>Jangan tinggalkan aku...
 <string>
-<string>Don't gooo...
+<string>Jangan pergiii...
 <string>
-<string>Don't leave me.
+<string>Jangan tinggalkan aku.
 <string>
-<string>Y-You're fired.
+<string>K-Kau dipecat.
 <string>
-<string>Yooou're fired...
+<string>Kauuu dipecat...
 <string>
-<string>Listen heeere...
+<string>Dengarkan sini...
 <string>
-<string>Y-You stuuupiiid?
+<string>K-Kau bodooooh?
 <string>
-<string>U...Useless worm.
+<string>C-Cacing tak berguna.
 <string>
-<string>Lazy-ass shiiit...
+<string>Pemalaaas...
 <string>
-<string>Comin' throoough! Outta the waaay!
+<string>Lewaaat! Minggiiir!
 <string>
-<string>Watch ooout!
+<string>Awaaas!
 <string>
-<string>Watch ooout!
+<string>Awaaas!
 <string>
-<string>Helmet...ooon!
+<string>Helm...paaakai!
 <string>
-<string>Heeelmet...ooon!
+<string>Heeelm...paaakai!
 <string>
-<string>No...o-on-site...accidents!
+<string>Tidak...ada kecelakaan...di tempat!
 <string>
-<string>No on-site accideeents!
+<string>Tidak ada kecelakaan di tempat!
 <string>
-<string>Waaatch ooout!
+<string>Awaaas!
 <string>
-<string>Comiiin' throoough!
+<string>Lewaaat!
 <string>
-<string>Emergency!
+<string>Darurat!
 <string>
-<string>They're...i-infected!
+<string>Mereka...t-terinfeksi!
 <string>
-<string>Evacuate!
+<string>Evakuasi!
 <string>
-<string>Code siiix...
+<string>Kode enaaam...
 <string>
-<string>'Fected...
+<string>Terinfeksi...
 <string>
-<string>Outbreeeak!
+<string>Wabaah!
 <string>
-<string>Emergency...
+<string>Darurat...
 <string>
-<string>Evacuate!
+<string>Evakuasi!
 <string>
-<string>Ooout...breeeak.
+<string>Wa...bah.
 <string>
-<string>Eva-a...cuate...
+<string>Eva-a...kuasi...
 <string>
-<string>Infected.
+<string>Terinfeksi.
 <string>
-<string>Light...out...
+<string>Lampu...mati...
 <string>
-<string>Lights out...
+<string>Lampu mati...
 <string>
-<string>Turn off lights...
+<string>Matikan lampu...
 <string>
-<string>Turn oooff...lights.
+<string>Matikaaan...lampu.
 <string>
-<string>Follow the rule...
+<string>Ikuti aturan...
 <string>
-<string>Follow...the...rule...
+<string>Ikuti...aturan...
 <string>
-<string>Light...out.
+<string>Lampu...mati.
 <string>
-<string>T-Too...briiight...
+<string>T-Terlalu...teraaang...
 <string>
-<string>Too...briiight...
+<string>Terlalu...teraaang...
 <string>
-<string>Briiigh...
+<string>Teraaang...
 <string>
-<string>Liiigh...ooon...
+<string>Laaampu...menyalaaa...
 <string>
-<string>Liiigh...ooon...
+<string>Laaampu...menyalaaa...
 <string>
-<string>Liiight...on...
+<string>Laaampu...menyala...
 <string>
-<string>Light's ooon...
+<string>Lampunya menyalaaa...
 <string>
-<string>Too briiight...
+<string>Terlalu teraaang...
 <string>
-<string>Too bright!
+<string>Terlalu terang!
 <string>
-<string>Too...bright!
+<string>Terlalu...terang!
 <string>
-<string>Damn spot.
-<string>...mmh...ot...
+<string>Noda sialan.
+<string>...mmh...panas...
 <string>
-<string>Ruuuined!
-<string>It's ruuuined!!!
-<string>Ruuuined...
+<string>Rusaaak!
+<string>Rusaaak!!!
+<string>Rusaaak...
 <string>
-<string>M...mess...
-<string>What a...mmmess!
+<string>B...berantakan...
+<string>Berantakan...sekali!
 <string>
-<string>Blood... Blood...
+<string>Darah... Darah...
 <string>
-<string>Never...ends!
-<string>Never ennnds.
+<string>Tidak...pernah berakhir!
+<string>Tidak pernah berakhiiir.
 <string>
-<string>Come out!
-<string>Come out... Come out...
-<string>Come out, out!
+<string>Keluar!
+<string>Keluar... Keluar...
+<string>Keluar, keluar!
 <string>
-<string>Won't come out!
-<string>O...out...
+<string>Tidak mau keluar!
+<string>K...keluar...
 <string>
-<string>Blood...everywhere...
+<string>Darah...di mana-mana...
 <string>
-<string>Come...out! Come...out!!!
+<string>Keluar...keluar! Keluar...keluar!!!
 <string>
-<string>Neverrr ends...
+<string>Tidak pernah berakhir...
 <string>
-<string>Muuust cleeean...
+<string>Haruuus membersihkan...
 <string>
-<string>Mussst cleeean...
+<string>Harus membersihkan...
 <string>
-<string>...Cleaaan... Must...
+<string>...Membersihkan... Harus...
 <string>
-<string>...Who made a messss?
+<string>...Siapa yang membuat berantakan?
 <string>
-<string>Who...made...a mess...?
+<string>Siapa...yang membuat...berantakan...?
 <string>
-<string>Who made a messss!?
+<string>Siapa yang membuat berantakan!?
 <string>
-<string>Whyyy the messss!?
+<string>Kenapaaa berantakan!?
 <string>
-<string>Mo...why the messss!?
+<string>...Kenapa berantakan!?
 <string>
-<string>Whyyyy the messss!?
+<string>Kenapaaa berantakan!?
 <string>
-<string>Come...ouuut!
+<string>Keluar...keluaaar!
 <string>
-<string>A m...messss...
+<string>Berantakan...sekali...
 <string>
-<string>It...smeeelllls.
+<string>...Baaau.
 <string>
-<string>Smelllls...
+<string>Baaau...
 <string>
-<string>Come out!
+<string>Keluar!
 <string>
-<string>C-Commme ouuut!
+<string>K-Keluaaar!
 <string>
-<string>This traaasssh!
+<string>Saaampah ini!
 <string>
-<string>...Thisss traaasssh!!!
+<string>...Saaampah ini!!!
 <string>
-<string>Muuust...cleeean!
+<string>Haruuus...membersihkan!
 <string>
-<string>Come out! Come ouu...come out!
+<string>Keluar! Keluaa...keluar!
 <string>
-<string>...R-Ruined! RUINED!
+<string>...R-Rusak! RUSAK!
 <string>
-<string>A mess! A messss!
+<string>Berantakan! Berantakan!
 <string>
-<string>G...Good...i-idea...
+<string>B...Bagus...i-ide...
 <string>
-<string>Not! B-Baaad...
+<string>Tidak! B-Buruk...
 <string>
-<string>C-Caaare...ful now...
+<string>H-Hatiii...hati sekarang...
 <string>
-<string>Easy-y d-does iiit...
+<string>Pelan-pelan...
 <string>
-<string>Change...o-optic nerve.
+<string>Ganti...saraf optik.
 <string>
-<string>Abnormal pattern.
+<string>Pola abnormal.
 <string>
-<string>Dosage!
+<string>Dosis!
 <string>
-<string>Epilepsy...
+<string>Epilepsi...
 <string>
-<string>Not conscious!
+<string>Tidak sadar!
 <string>
-<string>React to light!
+<string>Bereaksi terhadap cahaya!
 <string>
-<string>Irre...gu...lar...
+<string>Tidak...ter...atur...
 <string>
-<string>Irre...gu...lar...
+<string>Tidak...ter...atur...
 <string>
-<string>Quiet!
+<string>Diam!
 <string>
-<string>So loud...
+<string>Berisik sekali...
 <string>
-<string>Stooop iiit.
+<string>Heentikan iiitu.
 <string>
-<string>Oh m' god...
+<string>Ya Tuhan...
 <string>
-<string>Shut up!
+<string>Diam!
 <string>
-<string>Quieeet!
+<string>Diaaam!
 <string>
-<string>My heeead...
+<string>Kepalakuuu...
 <string>
-<string>Shut...up!!!
+<string>Diam...diam!!!
 <string>
-<string>So loooud!!!
+<string>Berisik sekaliii!!!
 <string>
-<string>So loooud!!!
+<string>Berisik sekaliii!!!
 <string>
-<string>Keep it dooown!!!
+<string>Pelan suaramuuu!!!
 <string>
-<string>Keep...it...dooown!!!
+<string>Pelan...suaramuuu!!!
 <string>
-<string>Keeeep it...dooown!!!
+<string>Pelaaaan suaramuuu!!!
 <string>
-<string>There!
+<string>Situ!
 <string>
-<string>Where...Where is iiit!?
+<string>Di mana...Di mana itu!?
 <string>
-<string>Theeere!!!
+<string>Situuu!!!
 <string>
-<string>Over there!
+<string>Di sebelah sana!
 <string>
-<string>That way!
+<string>Ke sana!
 <string>
-<string>Kill! Kill, kill, kill, kill! Kill!
+<string>Bunuh! Bunuh, bunuh, bunuh, bunuh! Bunuh!
 <string>
-<string>I'll...kill iiit!!! Kill it!
+<string>Aku...bunuh ituuu!!! Bunuh itu!
 <string>
-<string>I'll KIIILL it!!!
+<string>Aku BUNUUUH itu!!!
 <string>
-<string>Kill! Kill! Killlll!
+<string>Bunuh! Bunuh! Bunuuuh!
 <string>
-<string>Kill! Kill it!!! Kill!
+<string>Bunuh! Bunuh itu!!! Bunuh!
 <string>
-<string>Kill, kill, kill it! Kill it! Kill iiiit!
+<string>Bunuh, bunuh, bunuh itu! Bunuh itu! Bunuh ituuu!
 <string>
-<string>Fffuckin' kiiill!!!
+<string>Bunuuuh!!!
 <string>
-<string>I'll...kill...it!
+<string>Aku...bunuh...itu!
 <string>
-<string>I'll...kill IT!
+<string>Aku...bunuh ITU!
 <string>
-<string>Filthyyy...ANIMAAAL!
+<string>Kotooor...HEWAAAN!
 <string>
-<string>Filthyyy...animaaal!
+<string>Kotooor...hewaaan!
 <string>
-<string>Filthy animal!!!
+<string>Hewan kotor!!!
 <string>
-<string>DIIIE!!!
+<string>MATIII!!!
 <string>
-<string>Die! Diiie!!!
+<string>Mati! Matiii!!!
 <string>
-<string>Shut uuup!
+<string>Diaaam!
 <string>
-<string>Stop it!!!
+<string>Hentikan!!!
 <string>
-<string>D-Diiie!!!
+<string>M-Matiii!!!
 <string>
-<string>Shut uuup!!!
+<string>Diaaam!!!
 <string>
-<string>God damn it!!!
+<string>Ya Tuhan!!!
 <string>
-<string>Theeere!!!
+<string>Situuu!!!
 <string>
-<string>Don...fuck...with me.
+<string>Jangan...main-main...denganku.
 <string>
-<string>...Don't...fuck with me!
+<string>...Jangan...main-main denganku!
 <string>
 <string>
 <string>
@@ -841,41 +841,41 @@
 <string>
 <string>
 <string>
-<string>I said stop ittt!
+<string>Kubilang hentikan!
 <string>
-<string>I said...STTTOP ITTT!
+<string>Kubilang...HEEENTIKAN!
 <string>
-<string>It's your fucking faauuult!
+<string>Ini salahmu!
 <string>
-<string>It's your...fucking fauuult!
+<string>Ini...salahmu!
 <string>
-<string>Won't forgive yooou!
+<string>Tidak akan memaafkanmu!
 <string>
-<string>Won't forgive...yooou!
+<string>Tidak akan memaafkan...mu!
 <string>
-<string>Leave me alooonnne!
+<string>Tinggalkan aku sendirian!
 <string>
-<string>Leave...me alooone!
+<string>Tinggalkan...aku sendiri!
 <string>
-<string>Yours! It's your fauuult!
+<string>Kau! Ini salahmu!
 <string>
-<string>Stop...lauughiiing!
+<string>Berhenti...tertawaaa!
 <string>
-<string>Stop laughiiing!
+<string>Berhenti tertawaaa!
 <string>
-<string>Eat...shiiit!
+<string>Makan...taaai!
 <string>
-<string>Eat shiii...!
+<string>Makan taaii...!
 <string>
-<string>D-Deseeerve it!
+<string>P-Pantas saja!
 <string>
-<string>You deseeerve it!
+<string>Kau pantas menerimanya!
 <string>
-<string>Won't...forgiiii...
+<string>Tidak...akan memaaaf...
 <string>
 <string>
-<string>...Your fuuucking fauuult...
+<string>...Salahmuuu...
 <string>
-<string>Eat...shit! Eat shit! Eat shit!
-<string>You laugh... Laughed at me!
-<string>Don't...fuck with...me!
+<string>Makan...tai! Makan tai! Makan tai!
+<string>Kau tertawa... Tertawa padaku!
+<string>Jangan...main-main...denganku!

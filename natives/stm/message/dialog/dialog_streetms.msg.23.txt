@@ -1,194 +1,194 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Talk to me. Is this one like the others?
-<string>Same black blotches.
-<string>And it's not postmortem lividity?
-<string>No...
-<string>No, this is different.
-<string>That's six now.
-<string>Six survivors of Raccoon City<lf>all dead from the same thing.
-<string>Yeah, that's...not good.
-<string>No... No, it's not.
-<string>But...I have something for you.
-<string>The team has settled on<lf>a person of interest.
-<string>Someone with ties to Umbrella.
+<string>Bicara padaku. Apakah yang ini seperti yang lain?
+<string>Bercak hitam yang sama.
+<string>Dan itu bukan lebam mayat?
+<string>Tidak...
+<string>Tidak, ini berbeda.
+<string>Sudah enam sekarang.
+<string>Enam penyintas Raccoon City<lf>semua mati karena hal yang sama.
+<string>Ya, itu...tidak bagus.
+<string>Tidak... Tidak, tidak bagus.
+<string>Tapi...aku punya sesuatu untukmu.
+<string>Tim sudah menetapkan<lf>satu orang yang menarik.
+<string>Seseorang dengan hubungan ke Umbrella.
 <string>Victor Gideon.
-<string>Who is he?
-<string>A former T-Virus researcher.
-<string>Hey, I just got a report of<lf>a missing police officer.
-<string>It might be unrelated, but he disappeared<lf>near where the fifth body was found.
-<string>You there, Leon?
-<string>Yeah. I'm here.
-<string>You OK?
-<string>Send me the address.
-<string>I'll check it out.
+<string>Siapa dia?
+<string>Mantan peneliti T-Virus.
+<string>Hei, aku baru dapat laporan<lf>polisi hilang.
+<string>Mungkin tidak terkait, tapi dia menghilang<lf>di dekat tempat mayat kelima ditemukan.
+<string>Kau di sana, Leon?
+<string>Ya. Aku di sini.
+<string>Kau baik-baik saja?
+<string>Kirimi aku alamatnya.
+<string>Akan kuperiksa.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>You almost there?
-<string>Just about.
-<string>Stuck in traffic.
-<string>You've got to be shitting me.
-<string>What's going on?
-<string>Is she OK?
-<string>Oh, she's fine.
-<string>I'm just taking her home.
+<string>Kau hampir sampai?
+<string>Hampir.
+<string>Terjebak macet.
+<string>Kau pasti bercanda.
+<string>Apa yang terjadi?
+<string>Apakah dia baik-baik saja?
+<string>Oh, dia baik-baik saja.
+<string>Aku hanya mengantarnya pulang.
 <string>
 <string>
-<string>Leon, what's your sitrep?
-<string>I'm going after Victor.
+<string>Leon, bagaimana situasimu?
+<string>Aku mengejar Victor.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Help me!
-<string>Are you OK?
-<string>What are you doing!?
+<string>Tolong aku!
+<string>Kau baik-baik saja?
+<string>Apa yang kau lakukan!?
 <string>
-<string>Whoa! Whoa, whoa, whoa!<lf>Hey! What the hell, lady!?
+<string>Whoa! Whoa, whoa, whoa!<lf>Hei! Apa-apaan, nona!?
 <string>
-<string>How...am I...?
+<string>Bagaimana...aku...?
 <string>
-<string>The hell?
-<string>
-<string>
-<string>
-<string>S-Sorry...
-<string>
-<string>Hey, whoa!
-<string>
-<string>Get Wrenwood locked down.
-<string>What? Is it something do with Victor?
-<string>Yeah, he's the one to thank for all the excitement.
-<string>
-<string>Someone help me!
-<string>Shit!
-<string>
-<string>Thank you...Thank you!
-<string>Get out of here, now!
+<string>Apa-apaan?
 <string>
 <string>
 <string>
-<string>'Scuse me!
+<string>M-Maaf...
 <string>
-<string>Well, fuck. Let's make this quick.
+<string>Hei, whoa!
 <string>
-<string>Run!
+<string>Kunci Wrenwood.
+<string>Apa? Ada hubungannya dengan Victor?
+<string>Ya, dia yang harus berterima kasih atas semua kekacauan ini.
 <string>
-<string>Help!
+<string>Seseorang tolong aku!
+<string>Sial!
 <string>
-<string>Hurry!
-<string>
-<string>Move it!
-<string>
-<string>
-<string>
-<string>What's happening!?
-<string>
-<string>C-Call the police!
-<string>
-<string>Outta the way!
-<string>
-<string>Get away!
-<string>
-<string>Move it!
+<string>Terima kasih...Terima kasih!
+<string>Pergi dari sini, sekarang!
 <string>
 <string>
 <string>
+<string>Permisi!
+<string>
+<string>Yah, sial. Ayo cepat selesaikan ini.
+<string>
+<string>Lari!
+<string>
+<string>Tolong!
+<string>
+<string>Cepat!
+<string>
+<string>Minggir!
 <string>
 <string>
-<string>What the fuck!?
 <string>
-<string>Watch it!
+<string>Apa yang terjadi!?
 <string>
-<string>Hey!
+<string>P-Panggil polisi!
 <string>
-<string>Rude!
+<string>Minggir!
 <string>
-<string>Move it!
+<string>Menjauh!
+<string>
+<string>Minggir!
 <string>
 <string>
 <string>
-<string>Don't do anything stupid.
-<string>Me? Never.
 <string>
-<string>Can't let him get away.
+<string>
+<string>Apa-apaan!?
+<string>
+<string>Awas!
+<string>
+<string>Hei!
+<string>
+<string>Kasar!
+<string>
+<string>Minggir!
+<string>
+<string>
+<string>
+<string>Jangan lakukan sesuatu yang bodoh.
+<string>Aku? Tidak pernah.
+<string>
+<string>Tidak bisa membiarkannya kabur.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Leon, have you located Victor?
-<string>No, I lost him.
-<string>Back to square one.
-<string>Not necessarily.
-<string>Victor purchased a building after<lf>Umbrella went under.
-<string>The Rhodes Hill Chronic Care Center.<lf>I'll send you the address.
+<string>Leon, kau menemukan Victor?
+<string>Tidak, aku kehilangan dia.
+<string>Kembali ke awal.
+<string>Belum tentu.
+<string>Victor membeli sebuah gedung setelah<lf>Umbrella bangkrut.
+<string>Pusat Perawatan Kronis Rhodes Hill.<lf>Akan kukirim alamatnya.
 <string>Leon...
-<string>We're running out of time.
+<string>Waktu kita hampir habis.
 <string>
-<string>Found you!
+<string>Ketemu kau!
 <string>
-<string>Come here!
+<string>Kemarilah!
 <string>
-<string>Found you! Found you!
+<string>Ketemu kau! Ketemu kau!
 <string>
-<string>Don't leave...me.
+<string>Jangan tinggalkan...aku.
 <string>
-<string>He's gone.
+<string>Dia pergi.
 <string>
-<string>Can't see...
+<string>Tidak bisa melihat...
 <string>
-<string>Where...are you?
+<string>Di mana...kau?
 <string>
-<string>Meeting to...
+<string>Rapat...untuk...
 <string>
-<string>Will con...tact soon.
+<string>Akan...segera menghubungi.
 <string>
-<string>Con...tact.
+<string>Menghu...bungi.
 <string>
-<string>Caaall you...back.
+<string>Akan...meneleponmu...kembali.
 <string>
-<string>Meeeeting...today.
+<string>Raaapat...hari ini.
 <string>
-<string>Anyyy...questionnns?
+<string>Adaaa...pertanyaan?
 <string>
-<string>I'm fiiine! Fiiine!
+<string>Aku baaik! Baaik!
 <string>
-<string>Be...careful!
+<string>Hati...hati!
 <string>
-<string>Beee! Careful!
+<string>Haaati! Hati!
 <string>
-<string>Beee...
+<string>Haaati...
 <string>
-<string>Careful!
+<string>Hati-hati!
 <string>
-<string>Alwayyys!
+<string>Selaaluu!
 <string>
-<string>Get...theee axe!
+<string>Ambil...kapaknya!
 <string>
-<string>Get...the axe.
+<string>Ambil...kapaknya.
 <string>
-<string>No...cutting corners...
+<string>Tidak...boleh...curang...
 <string>
-<string>No...cutting...corners.
+<string>Tidak...boleh...curang.
 <string>
-<string>Nooo ressst...
+<string>Tidaaak...istirahat...
 <string>
-<string>No rest for...wicked!
+<string>Tidak ada istirahat untuk...yang jahat!
 <string>
-<string>No...cuttinggg...corners!
+<string>Tidak...boleh...curang!
 <string>
-<string>It's...all overrr!
+<string>Semuanya...sudah berakhirrr!
 <string>
-<string>Everyyyone...deeead.
+<string>Semua...maaatii.
 <string>
-<string>Everrryone deeead!
+<string>Semuanyaaa maaatii!
 <string>
-<string>It's all ooover!
+<string>Semuanya sudaah berakhirrr!
 <string>
-<string>Eeend...of the wooorld!
+<string>Aaakhir...dunia!
 <string>
-<string>End! Of the world!
+<string>Akhir! Dunia!
 <string>
-<string>It's...ooover...
+<string>Sudah...berakhirrr...

@@ -1,80 +1,80 @@
 <string>
-<string><ITALIC>Cold rain seeps to my soul</ITALIC>
-<string><ITALIC>Old wounds, I can't forget</ITALIC>
-<string><ITALIC>Night steals away my sight</ITALIC>
-<string><ITALIC>Screams, I can't shut them out</ITALIC>
-<string><ITALIC>What if I had reached out to you?</ITALIC>
-<string><ITALIC>I wouldn't have walked alone</ITALIC>
-<string><ITALIC>Fighting the darkness holding me</ITALIC>
-<string><ITALIC>Dragging me to the ground</ITALIC>
-<string><ITALIC>Facing the pain that's controlling me</ITALIC>
-<string><ITALIC>I won't let it keep me down</ITALIC>
-<string><ITALIC>I'll make it through to the other side</ITALIC>
-<string><ITALIC>Scarred hands tired and worn</ITALIC>
-<string><ITALIC>Warmth of a new dawn on my face</ITALIC>
-<string><ITALIC>I'll never let it go again</ITALIC>
+<string><ITALIC>Hujan dingin meresap ke jiwaku</ITALIC>
+<string><ITALIC>Luka lama, tak bisa kulupakan</ITALIC>
+<string><ITALIC>Malam merenggut penglihatanku</ITALIC>
+<string><ITALIC>Jeritan, tak bisa kubungkam</ITALIC>
+<string><ITALIC>Bagaimana jika dulu kuraih tanganmu?</ITALIC>
+<string><ITALIC>Aku tak akan berjalan sendirian</ITALIC>
+<string><ITALIC>Melawan kegelapan yang mencengkeramku</ITALIC>
+<string><ITALIC>Menyeretku ke tanah</ITALIC>
+<string><ITALIC>Menghadapi rasa sakit yang mengendalikanku</ITALIC>
+<string><ITALIC>Aku tak akan biarkan itu menjatuhkanku</ITALIC>
+<string><ITALIC>Aku akan menyeberang ke sisi lain</ITALIC>
+<string><ITALIC>Tangan penuh luka lelah dan aus</ITALIC>
+<string><ITALIC>Hangat fajar baru di wajahku</ITALIC>
+<string><ITALIC>Aku tak akan melepaskannya lagi</ITALIC>
 <string>
 <string>
 <string>
-<string>I-If this is about the report<lf>you asked for yesterday,
-<string>it'll be ready in three—
-<string>no, no, two days, tops.
-<string>Put a hold on that for now.
-<string>We found another body.
-<string>One that exhibits the same pathology as<lf>the others we've been investigating.
-<string>They asked for Miss Ashcroft<lf>and then they hung up on me.
-<string>Rude.
-<string>What the...?
-<string>They asked for Miss Ashcroft<lf>and then they hung up on me.
-<string>Rude.
-<string>What the...?
-<string>They're coming.
-<string>Grace, we need to go.
-<string>Go where?
-<string>Mom, what's going on?
-<string>Hurry!
-<string>Wait, who's coming? What's wrong?
-<string>We need to keep our voices down.
-<string>This is ridiculous.
-<string>Come on!
-<string>Wh-What do I do? Um...
-<string>Oh, shit...
-<string>Can't...
-<string>Come on!
-<string>Go...in there!
-<string>Can't...go...in there!
-<string>H-Hello?
-<string>It hasn't been easy.
-<string>But after much effort, here we finally are.
-<string>Who are you?
-<string>I know now that you're the one<lf>that I've been searching for.
-<string>The special one. The chosen one.
-<string>Miss Ashcroft.
-<string>Help me!
-<string>Are you OK?
-<string>What are you doing!?
-<string>The hell?
-<string>Oh shit.
-<string>The hell?
-<string>Oh shit.
-<string>What is this?
-<string>Hey! Help!
-<string>No... No, no, no...
-<string>Alright.
-<string>Oh my god.
-<string>Alright.
-<string>Oh my god.
-<string>Oh, there are so many of them!
-<string>Strap in!
-<string>Emily, are you OK!?
+<string>J-Jika ini tentang laporan<lf>yang kau minta kemarin,
+<string>itu akan siap dalam tiga—
+<string>tidak, tidak, dua hari, maksimal.
+<string>Tahan dulu untuk sekarang.
+<string>Kami menemukan mayat lain.
+<string>Satu yang menunjukkan patologi yang sama dengan<lf>yang lain yang sedang kami selidiki.
+<string>Mereka meminta Nona Ashcroft<lf>lalu menutup teleponnya.
+<string>Kasar.
+<string>Apa yang...?
+<string>Mereka meminta Nona Ashcroft<lf>lalu menutup teleponnya.
+<string>Kasar.
+<string>Apa yang...?
+<string>Mereka datang.
+<string>Grace, kita harus pergi.
+<string>Pergi ke mana?
+<string>Ibu, apa yang terjadi?
+<string>Cepat!
+<string>Tunggu, siapa yang datang? Ada apa?
+<string>Kita harus merendahkan suara.
+<string>Ini konyol.
+<string>Ayo!
+<string>A-Apa yang harus kulakukan? Um...
+<string>Oh, sial...
+<string>Tidak bisa...
+<string>Ayo!
+<string>Masuk...ke situ!
+<string>Tidak bisa...masuk...ke situ!
+<string>H-Halo?
+<string>Ini tidak mudah.
+<string>Tapi setelah banyak usaha, akhirnya kita di sini.
+<string>Siapa kau?
+<string>Aku tahu sekarang bahwa kau adalah orang<lf>yang selama ini kucari.
+<string>Yang spesial. Yang terpilih.
+<string>Nona Ashcroft.
+<string>Tolong aku!
+<string>Kau baik-baik saja?
+<string>Apa yang kau lakukan!?
+<string>Apa-apaan?
+<string>Oh sial.
+<string>Apa-apaan?
+<string>Oh sial.
+<string>Apa ini?
+<string>Hei! Tolong!
+<string>Tidak... Tidak, tidak, tidak...
+<string>Baiklah.
+<string>Ya Tuhan.
+<string>Baiklah.
+<string>Ya Tuhan.
+<string>Oh, ada banyak sekali!
+<string>Pasang sabuk!
+<string>Emily, kau baik-baik saja!?
 <string>Emily.
-<string>Backup is on the way.
-<string>Not necessary.<lf>I'll neutralize the target myself.
-<string>Don't move!
-<string>W-Wait!
-<string>You still need me, right?
-<string>Let it all come down.
-<string>All of it.
+<string>Bantuan sedang dalam perjalanan.
+<string>Tidak perlu.<lf>Aku akan melumpuhkan targetnya sendiri.
+<string>Jangan bergerak!
+<string>T-Tunggu!
+<string>Kau masih membutuhkanku, kan?
+<string>Biarkan semuanya runtuh.
+<string>Semuanya.
 <string>Grace.
 <string>Grace!
-<string>Time to bury Umbrella's last skeleton.
+<string>Waktunya mengubur kerangka terakhir Umbrella.

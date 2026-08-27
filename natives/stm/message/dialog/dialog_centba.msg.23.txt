@@ -1,69 +1,69 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey, checking in.
-<string>Good timing.
-<string>Did you find anything on Elpis?
-<string>Not yet.
-<string>Nothing on the servers at the CIA<lf>or the Pentagon.
-<string>Maybe we need a higher clearance.
-<string>I requested one and I was told<lf>to shut down the investigation.
-<string>What? Why?
-<string>They didn't say.
-<string>Orders from on high.
-<string>Look, we don't need you taking<lf>a hit for this. I'll just go it alone.
-<string>We're in this together. Till the end.
-<string>I've always been good at<lf>working in the shadows.
-<string>Just don't do anything too risky, yeah?
-<string>Me? Never.
-<string>I'm gonna find Grace.
-<string>She definitely has something to do with Elpis.
+<string>Hei, cek masuk.
+<string>Waktunya tepat.
+<string>Kau menemukan sesuatu tentang Elpis?
+<string>Belum.
+<string>Tidak ada di server CIA<lf>atau Pentagon.
+<string>Mungkin kita butuh izin yang lebih tinggi.
+<string>Aku memintanya dan aku disuruh<lf>menghentikan investigasi.
+<string>Apa? Kenapa?
+<string>Mereka tidak bilang.
+<string>Perintah dari atas.
+<string>Dengar, kita tidak perlu membuatmu<lf>kena dampak untuk ini. Aku akan jalan sendiri.
+<string>Kita dalam ini bersama. Sampai akhir.
+<string>Aku selalu pandai<lf>bekerja dalam bayang-bayang.
+<string>Jangan lakukan sesuatu yang terlalu berisiko, ya?
+<string>Aku? Tidak pernah.
+<string>Aku akan mencari Grace.
+<string>Dia pasti ada hubungannya dengan Elpis.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
 <string>
-<string>Well, the road's gone.
-<string>Gonna have to find another way around.
-<string>Alright. I'll leave that to you.
-<string>I think I found a clue as to where they might be.
-<string>Some coordinates on Victor's computer.
-<string>Got it, thanks.
-<string>Right in the center of Raccoon City.
+<string>Yah, jalannya sudah hilang.
+<string>Harus cari jalan lain.
+<string>Baik. Itu kuserahkan padamu.
+<string>Kurasa aku menemukan petunjuk ke mana mereka mungkin pergi.
+<string>Beberapa koordinat di komputer Victor.
+<string>Dapat, terima kasih.
+<string>Tepat di tengah Raccoon City.
 <string>
-<string>No, not this way.
+<string>Tidak, bukan lewat sini.
 <string><Sound Team ID>
 <string>
-<string>Oh, holy shit.
-<string>Oh, fuck.
+<string>Oh, sial.
+<string>Oh, sialan.
 <string>
 <string>
-<string>It's like time stopped here.
-<string>If not for Umbrella, it could've<lf>just been a normal city.
-<string>Yeah. Now it's nothing but ash and memories.
-<string><Sound Team ID>
-<string>
-<string>
+<string>Seperti waktu berhenti di sini.
+<string>Jika bukan karena Umbrella, ini bisa saja<lf>hanya kota biasa.
+<string>Ya. Sekarang tidak ada apa-apa selain abu dan kenangan.
 <string><Sound Team ID>
 <string>
 <string>
 <string><Sound Team ID>
 <string>
 <string>
-<string>
-<string>Alright, now what?
-<string>
-<string>You're a real pest, you know that?
-<string>
-<string>Guess I've gotta squash you.
-<string>
-<string>Where are ya?
-<string>
-<string>Why don't you find someone else to chew on?
-<string>
-<string>Hasn't anyone taught you how to play nice?
-<string>
-<string>Haven't you had enough? I don't<lf>have time for pest control.
 <string><Sound Team ID>
 <string>
 <string>
-<string>I missed that Raccoon City hospitality.
+<string>
+<string>Baik, sekarang apa?
+<string>
+<string>Kau benar-benar pengganggu, kau tahu?
+<string>
+<string>Kurasa aku harus memukulmu rata.
+<string>
+<string>Di mana kau?
+<string>
+<string>Kenapa tidak cari orang lain untuk dikunyah?
+<string>
+<string>Tidak adakah yang mengajarimu bermain dengan baik?
+<string>
+<string>Belum cukup? Aku tidak<lf>punya waktu untuk pembasmian hama.
+<string><Sound Team ID>
+<string>
+<string>
+<string>Aku rindu keramahan Raccoon City.

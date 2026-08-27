@@ -1,8 +1,8 @@
 <string>
-<string>Hey, Emily, um... Do you maybe...<lf>wanna leave with me?
-<string>It's not safe here.
+<string>Hei, Emily, um... Apakah kau mungkin...<lf>ingin pergi denganku?
+<string>Di sini tidak aman.
 <string>Um... OK.
-<string>Good. That's good.
+<string>Bagus. Itu bagus.
 <string><Sound Team ID>
 <string>
 <string>
@@ -10,86 +10,86 @@
 <string>
 <string>
 <string>
-<string>I can't leave Emily behind.
+<string>Aku tidak bisa meninggalkan Emily.
 <string>
-<string>Finally...we made it. We did it...
+<string>Akhirnya...kita berhasil. Kita berhasil...
 <string>
-<string>Emily? Are you all right?
+<string>Emily? Kau baik-baik saja?
 <string>
 <string>Emily?
-<string>...I dunno.
-<string>Well, let's just, uh... We need to<lf>keep moving, OK? Emily?
+<string>...Aku tidak tahu.
+<string>Yah, ayo kita, uh... Kita harus<lf>terus bergerak, OK? Emily?
 <string>OK.
 <string>
-<string>Oh, my god...
+<string>Oh, ya tuhan...
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey!
-<string>Stay right there.
-<string>I-It's OK, w-we're not infected...
-<string>So you're normal?
-<string>I, uh... I-I think so.
-<string>Thank fuck.
-<string>Those...things still running around?
-<string>Wh-Who are you?
-<string>You don't need to worry about me.
-<string>I'm tired.
-<string>I know.
-<string>That your kid?
-<string>Uh, what's—!?
-<string>Uh, this?
-<string>Old war wound.
-<string>I can't run away even if I wanted to.
-<string>Can you fly this?
-<string>Sure can. My bastard boss took the key.
-<string>You know...
-<string>I could fly us all out of here...
-<string>if you go get it for me.
-<string>It's in there.
-<string>I'd go myself, but I...
-<string>I can't outrun those things.<lf>Not with this leg.
-<string>Are you lying to me?
-<string>What?
-<string>Have you seen the same shit I've seen!?
-<string>Look, lady, we're out of options here.
-<string>How much longer do you think<lf>any of us can survive?
-<string>Can I go back to my room now?
-<string>It's not safe.
-<string>Hey... We can help each other.
-<string>I'll protect her...if you get the key.
-<string>I'll keep her safe.
-<string>I promise.
-<string>I-It's a deal.
-<string>Come on.
-<string>I got you.
-<string>Ready...?
-<string>No, no, no.
-<string>Come on.
-<string>Gotta strap you in.
+<string>Hei!
+<string>Tetap di situ.
+<string>T-Tidak apa-apa, k-kami tidak terinfeksi...
+<string>Jadi kau normal?
+<string>Aku, uh... K-Kurasa begitu.
+<string>Syukurlah.
+<string>Makhluk-makhluk...itu masih berkeliaran?
+<string>Si-Siapa kau?
+<string>Kau tidak perlu mengkhawatirkanku.
+<string>Aku lelah.
+<string>Aku tahu.
+<string>Itu anakmu?
+<string>Uh, apa—!?
+<string>Uh, ini?
+<string>Luka perang lama.
+<string>Aku tidak bisa lari bahkan jika aku mau.
+<string>Bisa kau menerbangkan ini?
+<string>Tentu bisa. Bos bajinganku mengambil kuncinya.
+<string>Kau tahu...
+<string>Aku bisa menerbangkan kita semua keluar dari sini...
+<string>jika kau mengambilkannya untukku.
+<string>Itu di dalam sana.
+<string>Aku akan pergi sendiri, tapi aku...
+<string>Aku tidak bisa berlari lebih cepat dari makhluk-makhluk itu.<lf>Tidak dengan kaki ini.
+<string>Kau berbohong padaku?
+<string>Apa?
+<string>Kau lihat hal yang sama seperti yang kulihat!?
+<string>Dengar, nona, kita kehabisan pilihan di sini.
+<string>Menurutmu berapa lama lagi<lf>kita bisa bertahan?
+<string>Bisakah aku kembali ke kamarku sekarang?
+<string>Itu tidak aman.
+<string>Hei... Kita bisa saling membantu.
+<string>Aku akan melindunginya...jika kau ambil kuncinya.
+<string>Aku akan menjaganya tetap aman.
+<string>Aku janji.
+<string>B-Baiklah.
+<string>Ayo.
+<string>Aku pegang kau.
+<string>Siap...?
+<string>Tidak, tidak, tidak.
+<string>Ayo.
+<string>Harus memasang sabukmu.
 <string>Oh...uh...
-<string>I-I'm Grace, by the way.
-<string>Th-This is Emily.
+<string>A-Aku Grace, ngomong-ngomong.
+<string>I-Ini Emily.
 <string>Harry.
-<string>Thank you, Harry.
-<string>No problem.
-<string>I'll be right back.
+<string>Terima kasih, Harry.
+<string>Tidak masalah.
+<string>Aku akan segera kembali.
 <string>
-<string>Fuck are you doing! You tryin' ta kill me!?
+<string>Apa yang kau lakukan! Kau mencoba membunuhku!?
 <string>
-<string>Ah! Hey, stop fucking around!
+<string>Ah! Hei, berhenti main-main!
 <string>
-<string>Have you lost your mind!?
+<string>Kau sudah gila!?
 <string>
-<string>Hey! Could ya hurry up with that key!?
+<string>Hei! Bisa cepat dengan kunci itu!?
 <string>
-<string>What're you doing?<lf>The boss took the key in there!
+<string>Apa yang kau lakukan?<lf>Bos mengambil kuncinya ke dalam sana!
 <string>
-<string>Please...just let it be in here.
+<string>Kumohon...biarkan itu ada di sini.
 <string>
 <string>
 <string>
-<string>Oh, I see.
+<string>Oh, begitu.
 <string>
-<string>Wh-What!?
+<string>A-Apa!?

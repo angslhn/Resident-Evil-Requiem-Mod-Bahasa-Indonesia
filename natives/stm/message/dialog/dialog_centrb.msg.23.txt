@@ -1,205 +1,205 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>You should be close to the coordinates.
-<string>Yeah.
-<string>Looks like it.
-<string>I'll take a look around then.
+<string>Kau seharusnya sudah dekat dengan koordinatnya.
+<string>Ya.
+<string>Sepertinya begitu.
+<string>Aku akan lihat-lihat sekitar.
 <string>
-<string>Can't believe it's still standing.
+<string>Tidak percaya masih berdiri.
 <string><Sound Team ID>
 <string>
-<string>It's on you now.
-<string><Sound Team ID>
-<string>
-<string>
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string>
-<string>Sherry, I'm in R.P.D.
-<string>It's been a while since you've been back there...
-<string>Yeah.
-<string>Looks like the BSAA set up HQ here.
-<string>Abandoned?
-<string>Not sure.
-<string>
-<string>That fucking guy...
-<string>And Grace.
-<string>Shit, she's in danger.
-<string>Sherry, I found Grace.
-<string>At R.P.D.?
-<string>Yeah, exactly.
-<string>And someone's been expecting us.
-<string>Got a lock on her location.
-<string>Headed there now.
-<string>Copy that.
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string>
-<string>Sherry, I'm in R.P.D.
-<string>It's been a while since you've been back there...
-<string>Yeah.
-<string>Looks like the BSAA set up HQ here.
-<string>Abandoned?
-<string>Not sure.
-<string>
-<string>That fucking guy...
-<string>And Grace.
-<string>Shit, she's in danger.
-<string>Sherry, I found Grace.
-<string>At R.P.D.?
-<string>Yeah, exactly.
-<string>And someone's been expecting us.
-<string>Got a lock on her location.
-<string>Headed there now.
-<string>Copy that.
-<string>
-<string>Shit. Need to pry this open.
-<string>
-<string>Hey, Lieutenant Branagh.<lf>Kennedy...reporting for duty.
-<string>
-<string>Jesus.
-<string>
-<string>Rest easy, officer.
-<string>
-<string>Good lives needlessly lost...
-<string>
-<string>Old faithful.
-<string>
-<string>Time to crack open that shutter.
+<string>Sekarang terserah padamu.
 <string><Sound Team ID>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>
-<string>You need to understand.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Covert military units from every country on Earth<lf>come to Raccoon City for one purpose...
-<string>To find Elpis.
-<string>Wh-What is Elpis?
-<string>The power to upset the military balance<lf>of the world.
-<string>The last virus created by Spencer.
-<string>Designed to control human consciousness.
-<string>Mind control?
-<string>They couldn't let it be stolen.
-<string>So they launched the missile strike to hide it.
-<string>To hide a virus... Why do something so extreme?
-<string>Extreme?
-<string>Is it?
-<string>When the president tried to investigate,<lf>they had him assassinated.
-<string>And you are the key to retrieving Elpis.
+<string>Sherry, aku di R.P.D.
+<string>Sudah lama sejak terakhir kau kembali ke sana...
+<string>Ya.
+<string>Sepertinya BSAA mendirikan markas di sini.
+<string>Ditinggalkan?
+<string>Tidak yakin.
+<string>
+<string>Pria sialan itu...
+<string>Dan Grace.
+<string>Sial, dia dalam bahaya.
+<string>Sherry, aku menemukan Grace.
+<string>Di R.P.D.?
+<string>Ya, tepatnya.
+<string>Dan seseorang telah menunggu kita.
+<string>Mendapat kunci lokasinya.
+<string>Menuju ke sana sekarang.
+<string>Diterima.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Sherry, aku di R.P.D.
+<string>Sudah lama sejak terakhir kau kembali ke sana...
+<string>Ya.
+<string>Sepertinya BSAA mendirikan markas di sini.
+<string>Ditinggalkan?
+<string>Tidak yakin.
+<string>
+<string>Pria sialan itu...
+<string>Dan Grace.
+<string>Sial, dia dalam bahaya.
+<string>Sherry, aku menemukan Grace.
+<string>Di R.P.D.?
+<string>Ya, tepatnya.
+<string>Dan seseorang telah menunggu kita.
+<string>Mendapat kunci lokasinya.
+<string>Menuju ke sana sekarang.
+<string>Diterima.
+<string>
+<string>Sial. Perlu mencongkel ini agar terbuka.
+<string>
+<string>Hei, Letnan Branagh.<lf>Kennedy...melapor untuk bertugas.
+<string>
+<string>Astaga.
+<string>
+<string>Beristirahatlah dengan tenang, petugas.
+<string>
+<string>Nyawa baik hilang sia-sia...
+<string>
+<string>Yang lama yang setia.
+<string>
+<string>Waktunya membuka penutup itu.
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>
+<string>Kau harus mengerti.
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Unit militer rahasia dari setiap negara di Bumi<lf>datang ke Raccoon City untuk satu tujuan...
+<string>Untuk menemukan Elpis.
+<string>A-Apa itu Elpis?
+<string>Kekuatan untuk mengganggu keseimbangan militer<lf>dunia.
+<string>Virus terakhir yang diciptakan oleh Spencer.
+<string>Dirancang untuk mengendalikan kesadaran manusia.
+<string>Kontrol pikiran?
+<string>Mereka tidak bisa membiarkannya dicuri.
+<string>Jadi mereka meluncurkan serangan misil untuk menyembunyikannya.
+<string>Untuk menyembunyikan virus... Kenapa melakukan sesuatu yang begitu ekstrem?
+<string>Ekstrem?
+<string>Apakah itu?
+<string>Saat presiden mencoba menyelidiki,<lf>mereka membunuhnya.
+<string>Dan kau adalah kunci untuk mengambil Elpis.
 <string>Emily?
-<string>In a way, but not the girl you met.
-<string>So many attempts.
-<string>So many failures.
-<string>Such a waste.
-<string>Wh-What do you mean?
-<string>Copies, crafted to duplicate you.
-<string>All useless.
-<string>All scrapped.
-<string>They each have their own sad story.
+<string>Di satu sisi, tapi bukan gadis yang kau temui.
+<string>Begitu banyak percobaan.
+<string>Begitu banyak kegagalan.
+<string>Sungguh sia-sia.
+<string>A-Apa maksudmu?
+<string>Tiruan, dibuat untuk menduplikasi dirimu.
+<string>Semua tidak berguna.
+<string>Semua dibuang.
+<string>Mereka masing-masing punya kisah sedihnya sendiri.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>They weren't able to recreate Spencer's key.
-<string>But now we have the original.
-<string>We have you.
-<string>You can unlock Elpis at ARK.
-<string>That's where we'll go.
-<string>So, wh-what? I-I...
-<string>I was made?
-<string>Correct.
-<string>S-So it really was all my fault?
-<string>What was?
-<string>Th-That Mom was m-murdered and...
-<string>Oh god, that Emily, sh-she turned<lf>into that...that thing.
-<string>What's done is done.
-<string>You need to focus on the future.
-<string>Was she even really my mother?
-<string>It's time to embrace your destiny.
+<string>Mereka tidak bisa menciptakan ulang kunci Spencer.
+<string>Tapi sekarang kita punya yang asli.
+<string>Kita punya dirimu.
+<string>Kau bisa membuka Elpis di ARK.
+<string>Di situlah kita akan pergi.
+<string>Jadi, a-apa? A-aku...
+<string>Aku diciptakan?
+<string>Benar.
+<string>J-Jadi itu benar-benar salahku?
+<string>Apa?
+<string>Bahwa Ibu d-dibunuh dan...
+<string>Ya Tuhan, bahwa Emily, d-dia berubah<lf>menjadi...makhluk itu.
+<string>Apa yang sudah terjadi biarlah terjadi.
+<string>Kau harus fokus pada masa depan.
+<string>Apakah dia benar-benar ibuku?
+<string>Sudah waktunya menerima takdirmu.
 <string>Grace!
-<string>Mom...
-<string>What the...?
-<string>Mr. Kennedy.
-<string>I had a feeling you'd make an appearance.
-<string>Sorry, but I don't have time to spare.
-<string>Have fun.
-<string>I remember you.
-<string>I remember that, too.
+<string>Ibu...
+<string>Apa yang...?
+<string>Tuan Kennedy.
+<string>Aku sudah menduga kau akan muncul.
+<string>Maaf, tapi aku tidak punya waktu luang.
+<string>Bersenang-senanglah.
+<string>Aku mengingatmu.
+<string>Aku juga mengingat itu.
 <string>Sherry.
-<string>Wasn't there an orphanage around here?
-<string>Yes, there was. Why?
-<string>I'm gonna do some digging.
+<string>Bukankah ada panti asuhan di sekitar sini?
+<string>Ya, ada. Kenapa?
+<string>Aku akan menggali sesuatu.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Everything all right, Leon?
-<string>Yeah.
-<string>I'm good.
-<string>So, why'd you ask about the orphanage?
-<string>They're taking Grace to ARK.
-<string>The orphanage is the entrance.
+<string>Semua baik-baik saja, Leon?
+<string>Ya.
+<string>Aku baik.
+<string>Jadi, kenapa kau bertanya tentang panti asuhan?
+<string>Mereka membawa Grace ke ARK.
+<string>Panti asuhan adalah pintu masuknya.
 <string>
-<string>I just sent you the coordinates.
-<string><Sound Team ID>
-<string>
-<string>
+<string>Aku baru saja mengirimmu koordinatnya.
 <string><Sound Team ID>
 <string>
 <string>
 <string><Sound Team ID>
 <string>
 <string>
-<string>
-<string>Give me a goddamn break!
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>I don't have time to deal with this.
+<string>Beri aku istirahat, sialan!
+<string><Sound Team ID>
 <string>
-<string>What is ARK?
-<string>Not sure, but apparently<lf>it's someplace important.
 <string>
-<string>It hasn't changed...
+<string>
+<string>Aku tidak punya waktu untuk mengurus ini.
+<string>
+<string>Apa itu ARK?
+<string>Tidak yakin, tapi tampaknya<lf>itu tempat yang penting.
+<string>
+<string>Ini tidak berubah...
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>"Terminate"? That's my fucking daughter!
-<string>You're a cop.
-<string>You're supposed to know something—<lf>how did this happen!?
-<string>"Umbrella Corporation - Prescription<lf>Robert Kendo"
-<string>Those fuckin' things outside...<lf>Look what they did to us.
-<string>I am so sorry.
-<string>Never again.
+<string>"Terminasi"? Itu putriku, sialan!
+<string>Kau polisi.
+<string>Kau seharusnya tahu sesuatu—<lf>bagaimana ini bisa terjadi!?
+<string>"Umbrella Corporation - Resep<lf>Robert Kendo"
+<string>Makhluk-makhluk sialan di luar itu...<lf>Lihat apa yang mereka lakukan pada kami.
+<string>Aku sangat menyesal.
+<string>Tidak akan lagi.
 <string><Sound Team ID>
 <string>
-<string>Fuck me.
-<string>I couldn't save them...
-<string>But I can stop bastards like you.
+<string>Sialan aku.
+<string>Aku tidak bisa menyelamatkan mereka...
+<string>Tapi aku bisa menghentikan bajingan sepertimu.
 <string>
 <string>
-<string>Die already, you son of a bitch.
+<string>Matilah, brengsek.
 <string>
 <string>
-<string>If it weren't for you bastards...
+<string>Jika bukan karena kalian para bajingan...
 <string>
-<string>Not...yet...
+<string>Belum...saatnya...
 <string>
-<string>I'll stop you as many times as I have to.
+<string>Aku akan menghentikanmu sebanyak yang diperlukan.
 <string>
-<string>Made it.
+<string>Berhasil.
 <string>
-<string>I'm at the orphanage, Sherry.<lf>There's not much left of it.
-<string>Heading underground to look for Grace.
-<string>Understood.
+<string>Aku di panti asuhan, Sherry.<lf>Tidak banyak yang tersisa.
+<string>Menuju bawah tanah untuk mencari Grace.
+<string>Dimengerti.

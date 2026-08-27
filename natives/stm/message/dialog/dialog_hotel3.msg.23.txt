@@ -12,72 +12,69 @@
 <string>Grace!
 <string>Grace!
 <string>Grace Ashcroft.
-<string>Uh, yes?
-<string>My office.
+<string>Uh, ya?
+<string>Ke kantorku.
 <string>Oh... Umm...
-<string>Coming!
-<string>Oh, shit.
-<string>I-If this is about the report<lf>you asked for yesterday,
-<string>it'll be ready in three—
-<string>no, no, two days, tops.
-<string>Put a hold on that for now.
-<string>We found another body.
-<string>One that exhibits the same pathology as<lf>the others we've been investigating.
-<string>Now I need a good technical analyst on this.
+<string>Datang!
+<string>Oh, sial.
+<string>J-Jika ini tentang laporan<lf>yang kau minta kemarin,
+<string>itu akan siap dalam tiga—
+<string>tidak, tidak, dua hari, maksimal.
+<string>Tahan dulu untuk sekarang.
+<string>Kami menemukan mayat lain.
+<string>Satu yang menunjukkan patologi yang sama dengan<lf>yang lain yang sedang kami selidiki.
+<string>Sekarang aku butuh analis teknis yang baik untuk ini.
 <string>OK.
-<string>I need your eyes on the crime scene.
-<string>The Wrenwood Hotel.
-<string>Look...
-<string>I know that's where your<lf>mother was murdered...
-<string>and I know it'll be upsetting for you.
-<string>Alyssa died eight years ago.
-<string>Perhaps it's time for you to face the past?
-<string>Confront that fear head-on.
+<string>Aku butuh matamu di TKP.
+<string>Hotel Wrenwood.
+<string>Dengar...
+<string>Aku tahu itu tempat di mana<lf>ibumu dibunuh...
+<string>dan aku tahu itu akan membuatmu sedih.
+<string>Alyssa meninggal delapan tahun lalu.
+<string>Mungkin sudah waktunya bagimu untuk menghadapi masa lalu?
+<string>Hadapi ketakutan itu secara langsung.
 <string>Grace...
-<string>I won't force you to go,
-<string>but do you think you can do this for me?
-<string>Investigate that crime scene and report<lf>back to me with your findings.
-<string>That's all for now.
+<string>Aku tidak akan memaksamu pergi,
+<string>tapi apa kau pikir kau bisa melakukan ini untukku?
+<string>Selidiki TKP itu dan laporkan<lf>kembali padaku dengan temuanmu.
+<string>Itu saja untuk sekarang.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Sorry.
+<string>Maaf.
 <string>
 <string>
-<string>I need to head to the hotel.
+<string>Aku harus pergi ke hotel.
 <string>
-<string>It should be around here.
+<string>Seharusnya ada di sekitar sini.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey, miss?
-<string>Hey, that's a restricted area.
-<string>You can't go in there.
+<string>Hei, nona?
+<string>Hei, itu area terlarang.
+<string>Kau tidak bisa masuk ke sana.
 <string>A-Ah, oh, um...
-<string>Wh-Why?
-<string>It's an active crime scene.
-<string>Oh! Right, sorry. Um...
-<string>Just a sec.
-<string>Oh, you're FBI?
-<string>I am.
-<string>Investigating all these<lf>strange deaths, huh?
+<string>Ke-Kenapa?
+<string>Ini TKP aktif.
+<string>Oh! Benar, maaf. Um...
+<string>Tunggu sebentar.
+<string>Oh, kau FBI?
+<string>Ya.
+<string>Menyelidiki semua<lf>kematian aneh ini, ya?
 <string>Mm-hmm.
-<string>This the fifth one, now, right?
-<string>I heard they all have the same weird bruises.
-<string>So you think it's something infectious,<lf>or terrorism, or...?
-<string>Why else would the FBI<lf>be investigating, right?
-<string>Hey, are you with me?
+<string>Ini yang kelima sekarang, kan?
+<string>Kudengar mereka semua punya memar aneh yang sama.
+<string>Jadi menurutmu ini sesuatu yang menular,<lf>atau terorisme, atau...?
+<string>Kenapa lagi FBI<lf>menyelidiki, kan?
+<string>Hei, kau mendengarku?
 <string>Oh, um. Uh...
-<string>There might be answers inside.
-<string>Yeah. Sure. Right.
-<string>Be careful in there.
-<string>Whole building's condemned—word is they're<lf>finally gonna bring the whole place down.
-<string>Yeah. Thanks.
+<string>Mungkin ada jawaban di dalam.
+<string>Ya. Tentu. Benar.
+<string>Hati-hati di dalam sana.
+<string>Seluruh gedung sudah tidak layak—katanya mereka<lf>akhirnya akan merobohkan seluruh tempat.
+<string>Ya. Terima kasih.
 <string>
-<string>Why am I even here?
-<string>
-<string>
-<string><Sound Team ID>
+<string>Kenapa aku ada di sini?
 <string>
 <string>
 <string><Sound Team ID>
@@ -85,29 +82,32 @@
 <string>
 <string><Sound Team ID>
 <string>
-<string>I can't...
-<string>It's too much.
-<string>Come on, Grace.
+<string>
+<string><Sound Team ID>
+<string>
+<string>Aku tidak bisa...
+<string>Ini terlalu berat.
+<string>Ayo, Grace.
 <string>
 <string>
 <string>
 <string>
 <string><Sound Team ID>
 <string>
-<string>Wh-Who's there!?
-<string>Oh my god.
-<string>Wh-What do I do?
+<string>Si-Siapa di sana!?
+<string>Ya Tuhan.
+<string>A-Apa yang harus kulakukan?
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>The body of a man...Elbridge this...
-<string>The police...string of mysterious deaths...
+<string>Mayat seorang pria...Elbridge ini...
+<string>Polisi...serangkaian kematian misterius...
 <string>
-<string>Shit...
+<string>Sial...
 <string>
-<string>What? Who...?
+<string>Apa? Siapa...?
 <string><Sound Team ID>
 <string>
 <string>
@@ -115,196 +115,175 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey, hun.
-<string>Hi, Mom.
-<string>You have been on that thing all day.
-<string>Well, if you're gonna work so late...
-<string>Get some sleep, eh?
-<string>I'm almost done. Just a sec.
-<string>What am I going to do with you?
-<string>What you always do.<lf>Nag at me until I go to bed.
-<string>It's really coming down hard.
-<string>Mom, phone.
-<string>Mom.
-<string>It's right beside you.
-<string>Ugh, fine!
-<string>Hello?
-<string>Miss Ashcroft?
-<string>Yes.
-<string>Who was it?
-<string>Dunno.
-<string>They asked for Miss Ashcroft<lf>and then they hung up on me.
-<string>Rude.
-<string>What the...?
-<string>They're coming.
-<string>Grace, we need to go.
-<string>Go where?
-<string>Mom, what's going on?
-<string>Hurry!
-<string>Wait, who's coming? What's wrong?
-<string>We need to keep our voices down.
-<string>This is ridiculous.
-<string>Come on!
-<string>Tell me what's going on.
-<string>Now is not the time.
+<string>Hei, sayang.
+<string>Hai, Bu.
+<string>Kau sudah di benda itu seharian.
+<string>Yah, jika kau akan bekerja selarut ini...
+<string>Tidurlah, ya?
+<string>Aku hampir selesai. Tunggu sebentar.
+<string>Apa yang harus kulakukan denganmu?
+<string>Apa yang selalu kau lakukan.<lf>Cerewet sampai aku tidur.
+<string>Hujannya deras sekali.
+<string>Bu, telepon.
+<string>Bu.
+<string>Itu tepat di sebelahmu.
+<string>Ugh, baiklah!
+<string>Halo?
+<string>Nona Ashcroft?
+<string>Ya.
+<string>Siapa itu?
+<string>Tidak tahu.
+<string>Mereka meminta Nona Ashcroft<lf>lalu menutup teleponnya.
+<string>Kasar.
+<string>Apa yang...?
+<string>Mereka datang.
+<string>Grace, kita harus pergi.
+<string>Pergi ke mana?
+<string>Bu, apa yang terjadi?
+<string>Cepat!
+<string>Tunggu, siapa yang datang? Ada apa?
+<string>Kita harus merendahkan suara.
+<string>Ini konyol.
+<string>Ayo!
+<string>Katakan apa yang terjadi.
+<string>Sekarang bukan waktunya.
 <string><Sound Team ID>
 <string>
-<string>Grace! Hurry!
-<string>Keep moving!
+<string>Grace! Cepat!
+<string>Terus bergerak!
 <string><Sound Team ID>
 <string>
-<string>Stay close.
-<string>Grace! Come on, keep moving.
+<string>Tetap dekat.
+<string>Grace! Ayo, terus bergerak.
 <string>
-<string>Mom, wait!
+<string>Bu, tunggu!
 <string>
-<string>Grace, please focus.
+<string>Grace, tolong fokus.
 <string>
-<string>I'm coming!
+<string>Aku datang!
 <string>
-<string>Grace. Stay close to me.
+<string>Grace. Tetap dekat denganku.
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hello?
-<string>Who's there?
+<string>Halo?
+<string>Siapa di sana?
 <string>Oh!
-<string>I'm so sorry about the power outage.
-<string>Uh, what happened?
-<string>Oh, it's probably the electrical panel.
-<string>It's forty years old, so it doesn't<lf>take much to trip it.
-<string>It's really no excuse, and I apologize<lf>for the inconvenience.
-<string>Oh, no, it's fine.
-<string>Yeah, don't worry about it.
-<string>I should have it fixed soon,
-<string>I just need to find my—
-<string>Oh my god!
-<string>Mom!
-<string>What the hell, Mom!?
-<string>No, no, no! Grace! No.
-<string>Grace, stay close to me.
-<string>Are you gonna tell me what's going on!?
+<string>Aku sangat menyesal tentang matinya listrik.
+<string>Uh, apa yang terjadi?
+<string>Oh, mungkin panel listriknya.
+<string>Umurnya empat puluh tahun, jadi tidak<lf>butuh banyak untuk membuatnya mati.
+<string>Ini benar-benar bukan alasan, dan aku minta maaf<lf>atas ketidaknyamanannya.
+<string>Oh, tidak, tidak apa-apa.
+<string>Ya, jangan khawatir.
+<string>Aku akan segera memperbaikinya,
+<string>aku hanya perlu mencari—
+<string>Ya Tuhan!
+<string>Bu!
+<string>Apa-apaan, Bu!?
+<string>Tidak, tidak, tidak! Grace! Tidak.
+<string>Grace, tetap dekat denganku.
+<string>Maukah kau memberitahuku apa yang terjadi!?
 <string>
-<string>Mom, what are you doing!?
-<string>Something important.
-<string>What did you hide behind that painting?
-<string>I'll explain later.
-<string>We need to find another way out.
+<string>Bu, apa yang kau lakukan!?
+<string>Sesuatu yang penting.
+<string>Apa yang kau sembunyikan di balik lukisan itu?
+<string>Aku akan jelaskan nanti.
+<string>Kita harus cari jalan keluar lain.
 <string><Sound Team ID>
 <string>
-<string>Grace! Come on!
+<string>Grace! Ayo!
 <string>
-<string>Keep moving, Grace. Keep moving.
-<string><Sound Team ID>
-<string>
-<string>Come on, Grace!
-<string>Come on, hurry!
-<string><Sound Team ID>
-<string><Sound Team ID>
+<string>Terus bergerak, Grace. Terus bergerak.
 <string><Sound Team ID>
 <string>
-<string>Come on in now, Grace.
-<string>I'm calling the police!
-<string>No! Don't call the police!
-<string>No, no, no! Shh!
-<string>Hello?
-<string>Yes, I want to report a murder...<lf>No, murders!
+<string>Ayo, Grace!
+<string>Ayo, cepat!
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Masuklah sekarang, Grace.
+<string>Aku akan menelepon polisi!
+<string>Tidak! Jangan panggil polisi!
+<string>Tidak, tidak, tidak! Shh!
+<string>Halo?
+<string>Ya, aku ingin melaporkan pembunuhan...<lf>Tidak, pembunuhan-pembunuhan!
 <string>Grace!
-<string>Th-The Wrenwood Hotel.
-<string>Yes. Hurry! Please.
-<string>The police are on their way.
-<string>Oh my god.
-<string>Mom, I feel like...<lf>I'm gonna throw up.
+<string>H-Hotel Wrenwood.
+<string>Ya. Cepat! Kumohon.
+<string>Polisi sedang dalam perjalanan.
+<string>Ya Tuhan.
+<string>Bu, aku merasa...<lf>aku mau muntah.
 <string>Grace?
-<string>Grace, look at me.<lf>Grab my hands.
-<string>OK, look at me. Look at me.
-<string>In...and out... Breathe in, and out.
-<string>Oh, Grace. I promise you I will explain<lf>this all to you one of these days.
+<string>Grace, lihat aku.<lf>Pegang tanganku.
+<string>OK, lihat aku. Lihat aku.
+<string>Tarik...dan buang... Tarik napas, dan buang.
+<string>Oh, Grace. Aku berjanji akan menjelaskan<lf>semua ini padamu suatu hari nanti.
 <string>Grace.
-<string>Please know that you are my hope.
-<string>Never forget that.
-<string>What are you talking about?
-<string>Just...
-<string>I love you.
-<string>I love you too.
+<string>Ketahuilah bahwa kau adalah harapanku.
+<string>Jangan pernah lupakan itu.
+<string>Apa yang kau bicarakan?
+<string>Hanya...
+<string>Aku mencintaimu.
+<string>Aku juga mencintaimu.
 <string>OK?
-<string>Mom, I'm scared!
-<string>No, no, no. We need to find<lf>a way out of here now.
-<string>B-But we don't have any of our stuff, though.
-<string>We can come back for it later, Grace.
-<string>I don't under—
-<string>Found you.
-<string>No... No!
-<string>Mom! Mom, please!
-<string>No...Mom!
-<string>No, please, no!
+<string>Bu, aku takut!
+<string>Tidak, tidak, tidak. Kita harus cari<lf>jalan keluar dari sini sekarang.
+<string>T-Tapi kita tidak punya barang-barang kita.
+<string>Kita bisa kembali untuk itu nanti, Grace.
+<string>Aku tidak menger—
+<string>Ketemu.
+<string>Tidak... Tidak!
+<string>Bu! Bu, kumohon!
+<string>Tidak...Bu!
+<string>Tidak, kumohon, tidak!
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>I'm so sorry, Mom.
-<string>This is all my fault.
-<string>Hello?
-<string>Who is this?
-<string>I need to get out of here.
-<string>Something important.
-<string>I'll explain later.
-<string>What did you hide behind that painting?
+<string>Aku sangat menyesal, Bu.
+<string>Ini semua salahku.
+<string>Halo?
+<string>Siapa ini?
+<string>Aku harus keluar dari sini.
+<string>Sesuatu yang penting.
+<string>Aku akan jelaskan nanti.
+<string>Apa yang kau sembunyikan di balik lukisan itu?
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>It wasn't this way.
+<string>Bukan lewat sini.
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>I'm sure it was the painting in the lobby.<lf>Whatever she hid could still be there.
+<string>Aku yakin itu lukisan di lobi.<lf>Apa pun yang dia sembunyikan mungkin masih di sana.
 <string><Sound Team ID>
-<string>
-<string>
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string>
-<string>S-Sorry, Officer.
-<string>What's wrong?
-<string>Something...stung me.
-<string>Are you OK?
-<string>Wh-What do I do? Um...
-<string>Oh, shit...
-<string>Can't...
-<string>Come on!
-<string>Go...in there!
-<string>Can't...go...in there!
-<string>I'm stuck!
-<string>
-<string>W-Wait! What are you doing!?
-<string>
-<string>Stop! Stop shooting!
-<string>
-<string>
-<string>
-<string>
 <string>
 <string>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
+<string>M-Maaf, Pak Polisi.
+<string>Ada apa?
+<string>Sesuatu...menyengatku.
+<string>Kau baik-baik saja?
+<string>A-Apa yang harus kulakukan? Um...
+<string>Oh, sial...
+<string>Tidak bisa...
+<string>Ayo!
+<string>Masuk...ke situ!
+<string>Tidak bisa...masuk...ke situ!
+<string>Aku terjebak!
+<string>
+<string>T-Tunggu! Apa yang kau lakukan!?
+<string>
+<string>Berhenti! Berhenti menembak!
 <string>
 <string>
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string>
-<string>Get away! G-Get away from me!
-<string>
-<string><Sound Team ID>
-<string><Sound Team ID>
-<string>
-<string>Shit! Stay away!
-<string>
-<string>
-<string>What the hell!? What the hell!?<lf>What the hell!? What the hell!?
 <string>
 <string>
 <string>
@@ -317,6 +296,27 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
+<string>Menjauh! M-Menjauh dariku!
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>Sial! Menjauh!
+<string>
+<string>
+<string>Apa-apaan!? Apa-apaan!?<lf>Apa-apaan!? Apa-apaan!?
+<string>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
+<string>
+<string>
+<string><Sound Team ID>
+<string><Sound Team ID>
+<string>
 <string>
 <string>
 <string><Sound Team ID>
@@ -324,79 +324,79 @@
 <string><Sound Team ID>
 <string>
 <string>
-<string>What the...?
-<string>I-Is...
-<string>Is anyone there?
-<string>H-Hello?
-<string>It hasn't been easy.
-<string>But after much effort, here we finally are.
-<string>Who are you?
-<string>I'm the one who planted that body.
-<string>I'm the one that brought you here.
-<string>I know now that you're the one<lf>that I've been searching for.
-<string>The special one. The chosen one.
-<string>Miss Ashcroft.
+<string>Apa yang...?
+<string>A-Apakah...
+<string>Ada orang di sana?
+<string>H-Halo?
+<string>Ini tidak mudah.
+<string>Tapi setelah banyak usaha, akhirnya kita di sini.
+<string>Siapa kau?
+<string>Aku yang menanam mayat itu.
+<string>Aku yang membawamu ke sini.
+<string>Aku tahu sekarang bahwa kau adalah orang<lf>yang selama ini kucari.
+<string>Yang spesial. Yang terpilih.
+<string>Nona Ashcroft.
 <string>Shh...
-<string>Rest now, Grace.
-<string>We have so much to do.
+<string>Istirahatlah sekarang, Grace.
+<string>Kita punya banyak hal untuk dilakukan.
 <string>
-<string>Yes, I know.
+<string>Ya, aku tahu.
 <string>
 <string>Uh-huh.
 <string>
-<string>No, no that's fine.
+<string>Tidak, tidak apa-apa.
 <string>
-<string>Yeah, I understand.
+<string>Ya, aku mengerti.
 <string>
-<string>Oh, no trouble at all.
+<string>Oh, tidak masalah sama sekali.
 <string>
-<string>Yeah...uh-huh. Of course.
+<string>Ya...uh-huh. Tentu saja.
 <string>
-<string>Yes. I will get right on it.
+<string>Ya. Aku akan segera mengerjakannya.
 <string>
-<string>What is it?
+<string>Ada apa?
 <string>
-<string>Yeah, I know that.
+<string>Ya, aku tahu itu.
 <string>
 <string>[tch]
 <string>
-<string>Hello?
+<string>Halo?
 <string>
-<string>Give me a break.
+<string>Beri aku istirahat.
 <string>
-<string>Do I sound like I care?
+<string>Apakah aku terdengar peduli?
 <string>
-<string>Yeah, that's right.
+<string>Ya, benar.
 <string>
-<string>I need you to handle it.
+<string>Aku butuh kau menanganinya.
 <string>
-<string>So? What happened with the missus?
-<string>Man, she was pissed. But she forgave me in the end.
-<string>You got off easy. Not going to do anything<lf>stupid like that again, are you?
-<string>No way. I swear I'll never do it again.
-<string>Anyway, how about you?
-<string>Same as always. Can't complain.
-<string>You're no fun is what you mean.
-<string>Not my fault you're all drama.
+<string>Jadi? Apa yang terjadi dengan istrimu?
+<string>Dia marah besar. Tapi dia memaafkanku pada akhirnya.
+<string>Kau lolos dengan mudah. Tidak akan melakukan<lf>hal bodoh seperti itu lagi, kan?
+<string>Tidak mungkin. Aku bersumpah tidak akan melakukannya lagi.
+<string>Ngomong-ngomong, bagaimana denganmu?
+<string>Sama seperti biasa. Tidak bisa mengeluh.
+<string>Maksudmu kau tidak menyenangkan.
+<string>Bukan salahku kalau kau drama.
 <string>
-<string>Sorry I'm late!
-<string>It's fine. I only just got here myself.
-<string>Where's Kevin?
-<string>He's late too.
+<string>Maaf aku terlambat!
+<string>Tidak apa-apa. Aku juga baru saja tiba.
+<string>Di mana Kevin?
+<string>Dia juga terlambat.
 <string>
-<string>So. Where are we going today?
-<string>That restaurant I heard about.<lf>The really popular one. Finally managed to book a table.
-<string>Really? Can't wait!
-<string>Well, you're going to have to.
-<string>Kevin's really late this time.<lf>I hope he didn't forget.
-<string>Looks like the meal's on him then.
-<string>You got that right.
+<string>Jadi. Ke mana kita pergi hari ini?
+<string>Restoran yang kudengar itu.<lf>Yang sangat populer. Akhirnya bisa pesan meja.
+<string>Sungguh? Tidak sabar!
+<string>Yah, kau harus menunggu.
+<string>Kevin sangat terlambat kali ini.<lf>Kuharap dia tidak lupa.
+<string>Kalau begitu makanannya ditraktir dia.
+<string>Kau benar.
 <string>
-<string>Did you hear Eric was promoted?
-<string>That asshole? What the hell<lf>are the managers thinking?
-<string>Yeah, right? He's a kiss ass who goofs off<lf>while we do all the damn work.
-<string>The weather's so bad today.
-<string>Yeah, can't remember the last time it wasn't.
-<string>The weather report said it was going to be clear.
-<string>Guess they were wrong.
-<string>Augh. This sucks.
+<string>Kau dengar Eric dipromosikan?
+<string>Bajingan itu? Apa yang<lf>dipikirkan para manajer?
+<string>Ya, kan? Dia penjilat yang bermalas-malasan<lf>sementara kita yang melakukan semua kerjaan.
+<string>Cuaca hari ini buruk sekali.
+<string>Ya, tak ingat kapan terakhir tidak buruk.
+<string>Laporan cuaca bilang akan cerah.
+<string>Kurasa mereka salah.
+<string>Augh. Ini menyebalkan.

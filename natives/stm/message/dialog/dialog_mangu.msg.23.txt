@@ -1,37 +1,27 @@
 <string><Sound Team ID>
 <string>
-<string>Come on.
-<string>Hang on, Emily. I'm coming.
+<string>Ayo.
+<string>Bertahanlah, Emily. Aku datang.
 <string>
-<string>Why is this under the hospital?
+<string>Kenapa ini ada di bawah rumah sakit?
 <string>
-<string>Is that Emily?
+<string>Apakah itu Emily?
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
 <string>Emily!
 <string>
-<string>Oh, thank goodness.
+<string>Oh, syukurlah.
 <string>Emily!
-<string>It collects things.
+<string>Itu mengumpulkan sesuatu.
 <string>
-<string>No good.
+<string>Tidak bagus.
 <string>
-<string>You can do this.
-<string>
-<string>
-<string>
-<string>Not again...
+<string>Kau bisa melakukannya.
 <string>
 <string>
 <string>
-<string>
-<string>
-<string>
-<string>
-<string>Barely made it.
-<string>
-<string>That's two.
+<string>Tidak lagi...
 <string>
 <string>
 <string>
@@ -39,82 +29,92 @@
 <string>
 <string>
 <string>
-<string>Oh, fuck...
+<string>Hampir tidak berhasil.
+<string>
+<string>Itu dua.
 <string>
 <string>
 <string>
-<string>Hold on, Emily.
 <string>
-<string>Oh my god, those are...
+<string>
+<string>
+<string>
+<string>Oh, sial...
+<string>
+<string>
+<string>
+<string>Bertahanlah, Emily.
+<string>
+<string>Ya Tuhan, itu...
 <string><Sound Team ID>
 <string>
 <string>
 <string>
-<string>Oh god, I really don't wanna go in there.
+<string>Ya Tuhan, aku benar-benar tidak mau masuk ke sana.
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>Stay calm, Grace...
+<string>Tetap tenang, Grace...
 <string>
 <string>
 <string>
-<string>The smell...
-<string>
-<string>
-<string>
-<string>
-<string>Oh fuck...
-<string>
-<string>Wait, what?
-<string>
-<string>Fluid drainage complete.<lf>Processing will now begin.
-<string>
-<string>
-<string>
-<string>Processing!? Shit, no. No, no!
-<string>
-<string>
-<string>
-<string>Processing is almost complete.
-<string>
-<string>Processing complete in 10 seconds.
-<string>
-<string>Processing complete.
-<string>
-<string>It stopped... It finally stopped. Thank god.
-<string>
-<string>The last one!
-<string>Now to free Emily and get out of this place.
+<string>Baunya...
 <string>
 <string>
 <string>
 <string>
-<string>Ugh, it got in my mouth...
+<string>Oh sial...
+<string>
+<string>Tunggu, apa?
+<string>
+<string>Drainase cairan selesai.<lf>Pemrosesan akan dimulai.
+<string>
+<string>
+<string>
+<string>Pemrosesan!? Sial, tidak. Tidak, tidak!
+<string>
+<string>
+<string>
+<string>Pemrosesan hampir selesai.
+<string>
+<string>Pemrosesan selesai dalam 10 detik.
+<string>
+<string>Pemrosesan selesai.
+<string>
+<string>Berhenti... Akhirnya berhenti. Syukurlah.
+<string>
+<string>Yang terakhir!
+<string>Sekarang bebaskan Emily dan keluar dari tempat ini.
+<string>
+<string>
+<string>
+<string>
+<string>Ugh, masuk ke mulutku...
 <string>
 <string>
 <string>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hey, hey!
-<string>It's me! It's me. It's Grace, it's Grace!
-<string>Calm down.
+<string>Hei, hei!
+<string>Ini aku! Ini aku. Ini Grace, ini Grace!
+<string>Tenang.
 <string>Grace?
-<string>Yeah. We gotta get out of here.
+<string>Ya. Kita harus keluar dari sini.
 <string>
-<string>Hold on tight!
-<string>I'm scared... Why's it so loud?
-<string>U-Um... It's going to be OK. J-Just don't let go.
+<string>Pegang erat!
+<string>Aku takut... Kenapa berisik sekali?
+<string>U-Um... Ini akan baik-baik saja. J-Jangan lepaskan.
 <string>
-<string>Come on! Come on!
+<string>Ayo! Ayo!
 <string>
 <string>
 <string>
-<string>Just putting you down.
+<string>Menurunkanmu.
 <string>
-<string>Why won't they close?
+<string>Kenapa tidak mau menutup?
 <string>
 <string>
 <string>
@@ -122,167 +122,167 @@
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Ahh, stay away!
+<string>Ahh, menjauh!
 <string>
 <string>
-<string>Come on! Go faster!
+<string>Ayo! Lebih cepat!
 <string>
 <string>
 <string>
 <string>
 <string>Grace?
-<string>Are you hurt?
-<string>No... I'm OK.
-<string>Th-That's good. Good, Emily.
+<string>Kau terluka?
+<string>Tidak... Aku baik-baik saja.
+<string>I-Itu bagus. Bagus, Emily.
 <string>
 <string>
 <string>
-<string>What's going on?
+<string>Apa yang terjadi?
 <string>
 <string>
 <string>
 <string>
 <string>
 <string>
-<string>We gotta get outta here!
+<string>Kita harus keluar dari sini!
 <string>
 <string>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string><Sound Team ID>
 <string>
-<string>Hurry! Go!
-<string>Oh shit...
-<string>Let's...plaaay.
+<string>Cepat! Pergi!
+<string>Oh sial...
+<string>Ayo...bermaain.
 <string>Grace?
-<string>Grace, are you OK?
-<string>Yeah.
-<string>How about you?
-<string>You OK?
-<string>Here, I...I kept this safe for you.
-<string>Thank you.
+<string>Grace, kau baik-baik saja?
+<string>Ya.
+<string>Bagaimana denganmu?
+<string>Kau baik-baik saja?
+<string>Ini, aku...menyimpan ini untukmu.
+<string>Terima kasih.
 <string>OK.
-<string>Let's go.
+<string>Ayo pergi.
 <string>
-<string>Nnnooow?
+<string>Sekaraaang?
 <string>
-<string>Under...s-stood...
+<string>Meng...m-mengerti...
 <string>
-<string>Understood...
+<string>Mengerti...
 <string>
-<string>Nooow?
+<string>Sekaraang?
 <string>
-<string>Yesss...yes...
+<string>Yaaa...ya...
 <string>
-<string>I'm...doing it...
+<string>Aku...melakukannya...
 <string>
-<string>Riiight...
+<string>Baaik...
 <string>
-<string>Right, right...
+<string>Baik, baik...
 <string>
-<string>Riiight...
+<string>Baaik...
 <string>
-<string>Nooow?
+<string>Sekaraang?
 <string>
-<string>Why's...happening?
+<string>Kenapa...terjadi?
 <string>
-<string>Can't...see.
+<string>Tidak bisa...melihat.
 <string>
-<string>Wh-Whyyy...
+<string>Ke-Kenapaaa...
 <string>
-<string>So...dark.
+<string>Sangat...gelap.
 <string>
-<string>Whyyy is this...
+<string>Kenapaaa ini...
 <string>
-<string>Whyyy, whyyy?
+<string>Kenapaaa, kenapaaa?
 <string>
-<string>Can't see...
+<string>Tidak bisa melihat...
 <string>
-<string>Run...away...
+<string>Lari...pergi...
 <string>
-<string>Shit. Ssshit.
+<string>Sial. Sssial.
 <string>
-<string>Get out! Get out.
+<string>Keluar! Keluar.
 <string>
-<string>Wherrre am III?
+<string>Di manaaa akuuu?
 <string>
-<string>Get awaaay...
+<string>Menjaaauh...
 <string>
-<string>Why me!?
+<string>Kenapa aku!?
 <string>
-<string>Let's go...
+<string>Ayo pergi...
 <string>
-<string>Together...
+<string>Bersama...
 <string>
-<string>Let's...go...
+<string>Ayo...pergi...
 <string>
-<string>Don't...leave...
+<string>Jangan...tinggalkan...
 <string>
-<string>You...don't...get it...
+<string>Kau...tidak...mengerti...
 <string>
-<string>Together...
+<string>Bersama...
 <string>
-<string>L-Let's...gooo...
+<string>A-Ayo...pergiii...
 <string>
-<string>Don't go... Don't—
+<string>Jangan pergi... Jangan—
 <string>
-<string>Let's...gooo.
+<string>Ayo...pergiii.
 <string>
-<string>Forgive meee...
+<string>Ampuni akuu...
 <string>
-<string>Punish. Punish.
+<string>Hukum. Hukum.
 <string>
-<string>Bastards...
+<string>Bajingan...
 <string>
-<string>That's bullshiiit...
+<string>Omong kosooong...
 <string>
-<string>Grifteeers...
+<string>Penipuuu...
 <string>
-<string>Baaassstards...
+<string>Baaajingaaan...
 <string>
-<string>Baaack alley shitstaaains...
+<string>Sampah gang belakang...
 <string>
-<string>The hell!?
+<string>Apa-apaan!?
 <string>
-<string>Damn it...
+<string>Sialan...
 <string>
-<string>Where you looking!?
+<string>Kau lihat ke mana!?
 <string>
-<string>Garbaaage.
+<string>Saaampah.
 <string>
-<string>Fuckin' hell...
+<string>Sialan...
 <string>
-<string>All bullshit!
+<string>Semua omong kosong!
 <string>
-<string>Bullllshit...
+<string>Omong kosooong...
 <string>
-<string>That's bullshit...
+<string>Itu omong kosong...
 <string>
-<string>Back-alley shitstain...
+<string>Sampah gang belakang...
 <string>
-<string>Garbaaage.
+<string>Saaampah.
 <string>
-<string>Wait, dooon...
+<string>Tunggu, jaaang...
 <string>
-<string>Thaaat way...
+<string>Ke saaana...
 <string>
-<string>Follow...
+<string>Ikuti...
 <string>
-<string>That way...
+<string>Ke sana...
 <string>
-<string>Wai...Waaait...
+<string>Tung...Tunggu...
 <string>
-<string>Waaait...
+<string>Tunggu...
 <string>
-<string>Fooollow.
+<string>Iiiikuti.
 <string>
-<string>Follooow.
+<string>Iiiikuti.
 <string>
-<string>Heeelp!! Meee!!
+<string>Toolong!! Akuu!!
 <string>
-<string>P-Pleeease, help meee...
+<string>T-Toolong, bantu akuu...
 <string>
-<string>R-R...un...
+<string>L-L...ari...
 <string>
-<string>Go... Get ooout.
+<string>Pergi... Keluaaar.
 <string>
