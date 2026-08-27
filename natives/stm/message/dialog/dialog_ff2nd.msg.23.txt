@@ -52,7 +52,6 @@
 <string>
 <string>
 <string>
-<string>
 <string>Dia tidak...bergerak.
 <string>
 <string>
