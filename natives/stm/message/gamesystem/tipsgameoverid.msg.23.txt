@@ -1,34 +1,34 @@
-<string>Avoid the shotgun and free yourself.<lf>(Hold <ICON INTERACT>)
+<string>Hindari shotgun dan bebaskan dirimu.<lf>(Tahan <ICON INTERACT>)
 <string><REF TutorialList_045_Description>
-<string>The lighter helps you see, but will also<lf>make it easier for the Girl to spot you.
-<string>Stop the bulldozer driver before<lf>you become a pancake.
-<string>Destroy the bulldozer fan before<lf>you get run over.
-<string>If zombies are putting Emily in danger, set<lf>her down safely on the sofa in the guard<lf>office while you go and clear them out.
-<string>You may not be able to take down the Girl,<lf>but a good shot with a Molotov Cocktail<lf>or Requiem will briefly stagger her.
-<string>You can force enemies into the crusher<lf>by staggering and pushing them.
-<string>Make good use of the disposal tanks<lf>on the walls. They are highly effective<lf>against zombies.
-<string>Running is a good strategy if you're being<lf>overwhelmed by sheer numbers.
-<string>You may not be able to take down the Girl,<lf>but a good shot with a Molotov Cocktail<lf>or Requiem will briefly stagger her.<lf>Don't be afraid to use them when needed.
+<string>Korek membantumu melihat, tetapi juga akan<lf>memudahkan Gadis Itu melihatmu.
+<string>Hentikan pengemudi buldoser sebelum<lf>kamu menjadi gepeng.
+<string>Hancurkan kipas buldoser sebelum<lf>kamu terlindas.
+<string>Jika zombie membahayakan Emily, turunkan<lf>dia dengan aman di sofa di kantor<lf>penjaga selagi kamu membersihkan mereka.
+<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau Requiem akan membuatnya terhuyung sesaat.
+<string>Kamu dapat memaksa musuh ke dalam penghancur<lf>dengan membuat mereka terhuyung dan mendorongnya.
+<string>Manfaatkan tangki pembuangan<lf>di dinding. Sangat efektif<lf>melawan zombie.
+<string>Berlari adalah strategi yang baik jika kamu<lf>kewalahan oleh jumlah yang banyak.
+<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau Requiem akan membuatnya terhuyung sesaat.<lf>Jangan ragu menggunakannya saat diperlukan.
 <string><REF TutorialList_034_Description>
-<string>Acid is highly effective against the exposed<lf>tissue of a Licker β2.
-<string>Try to find a place to climb up so you can<lf>unleash a one-sided attack on the Chunk<lf>from an elevated position.
+<string>Asam sangat efektif melawan jaringan<lf>yang terbuka dari Licker β2.
+<string>Coba cari tempat untuk memanjat sehingga kamu dapat<lf>melancarkan serangan sepihak pada Chunk<lf>dari posisi yang lebih tinggi.
 <string><REF TutorialList_031_Description_00>
-<string>Try fighting a chainsaw with a chainsaw.
+<string>Coba lawan gergaji mesin dengan gergaji mesin.
 <string><REF TutorialList_056_Description>
-<string>Shooting the glass out from under an enemy<lf>will cause them to fall.
+<string>Menembak kaca di bawah musuh<lf>akan membuat mereka jatuh.
 <string><REF TutorialList_058_Description>
 <string><REF TutorialList_032_Description>
 <string><REF TutorialList_033_Description>
-<string>You can make an opening by parrying an<lf>enemy's attack. Use this opening to take<lf>another shot.
-<string>Victor's attacks are devastating<lf>at full force. Use parries to deflect<lf>his tentacle arm.
+<string>Kamu dapat membuat celah dengan menangkis<lf>serangan musuh. Gunakan celah ini untuk<lf>melepaskan tembakan lain.
+<string>Serangan Victor sangat menghancurkan<lf>dengan kekuatan penuh. Gunakan tangkisan untuk menangkis<lf>lengan tentakelnya.
 <string><REF TutorialList_061_Description>
 <string><REF TutorialList_062_Description>
-<string>If you get too close to the Titan Spinner,<lf>you'll take some serious damage. Keep as<lf>much distance as possible when attacking.
+<string>Jika kamu terlalu dekat dengan Titan Spinner,<lf>kamu akan menerima kerusakan serius. Jaga<lf>jarak sebisa mungkin saat menyerang.
 <string><REF TutorialList_060_Description>
 <string><REF TutorialList_024_Description>
 <string><REF TutorialList_052_Description>
 <string><REF TutorialList_069_Description>
-<string>Shoot the glass of the glowing red pod<lf>to release the bioweapon within.<lf>Use it to disrupt the elite guards,<lf>giving you the chance to attack.
+<string>Tembak kaca pod merah yang menyala<lf>untuk melepaskan senjata bio di dalamnya.<lf>Gunakan itu untuk mengganggu penjaga elit,<lf>memberimu kesempatan untuk menyerang.
 <string><REF TutorialList_031_Description_01>
-<string>Shoot gas canisters to destroy obstacles<lf>and clear the path ahead.
+<string>Tembak tabung gas untuk menghancurkan rintangan<lf>dan membuka jalan di depan.
 <string><REF TutorialList_061_Description>

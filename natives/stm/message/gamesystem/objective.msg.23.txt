@@ -1,69 +1,69 @@
-<string>Head to the Wrenwood Hotel
-<string>Investigate the crime scene
-<string>Head to room 204
-<string>Escape from the hotel
-<string>Find what Alyssa hid
-<string>Escape from the police officer
-<string>Go after Victor
-<string>Escape
-<string>Get the fuse
-<string>Investigate the care center
-<string>Eliminate the infected
-<string>Get out of the room
-<string>Escape the care center
-<string>Unlock the door in the central hall
-<string>Find and place the quartz ({0}/{1})
-<string>Destroy the padlock
-<string>Take the child to the puzzle box
-<string>Analyze the blood specimen
-<string>Get Emily back
-<string>Find Victor's office
-<string>Search Victor's office
-<string>Rescue Emily
-<string>Unlock the cells
-<string>Find the joint plugs ({0}/{1})
-<string>Escape via the elevator
-<string>Escape via the courtyard
-<string>Find the helicopter key
-<string>Return to the helicopter
-<string>Escape the research facility
-<string>Rescue Grace
-<string>Help Grace
-<string>Head to the chapel
-<string>Fight off the infected
-<string>Get to the surface
-<string>Open the hatch on the Girl
-<string>Restart the power distribution units ({0}/{1})
-<string>Open the roof hatch
-<string>Return to Emily
-<string>A Harsh Reality
-<string>Head to Raccoon City Center
-<string>Find a way out
-<string>Defeat the giant spider
-<string>Examine the gate
-<string>Search the camp ({0}/{1})
-<string>Collect the detonator parts ({0}/{1})
-<string>Get some fuel
-<string>Get the batteries ({0}/{1})
-<string>Eliminate the infected
-<string>Search for a repair kit
-<string>Destroy the gate
-<string>Search for Grace
-<string>Head to the east office
-<string>Head after Grace
-<string>Escape R.P.D.
-<string>Head to the orphanage
-<string>Look around the orphanage
-<string>Hide from the children
-<string>Defeat the giant plant
-<string>Eliminate the elite guards
-<string>Eliminate the commander
-<string>Destroy Elpis
-<string>Find a way out of the dump
-<string>Help Leon escape
-<string>Search for the override key
-<string>Head to the central refining system
-<string>Find a way to open the door
-<string>Open the door to the central refining system
-<string>Go to Leon
-<string>Defeat Victor
+<string>Pergilah ke Wrenwood Hotel
+<string>Selidiki TKP
+<string>Pergilah ke kamar 204
+<string>Melarikan diri dari hotel
+<string>Temukan apa yang Alyssa sembunyikan
+<string>Melarikan diri dari polisi
+<string>Kejar Victor
+<string>Melarikan diri
+<string>Ambil sekring
+<string>Selidiki pusat perawatan
+<string>Musnahkan yang terinfeksi
+<string>Keluar dari ruangan
+<string>Melarikan diri dari pusat perawatan
+<string>Buka kunci pintu di aula tengah
+<string>Temukan dan tempatkan kuarsa ({0}/{1})
+<string>Hancurkan gembok
+<string>Bawa anak itu ke kotak teka-teki
+<string>Analisis spesimen darah
+<string>Dapatkan Emily kembali
+<string>Temukan kantor Victor
+<string>Geledah kantor Victor
+<string>Selamatkan Emily
+<string>Buka kunci sel
+<string>Temukan steker sambungan ({0}/{1})
+<string>Melarikan diri lewat lift
+<string>Melarikan diri lewat halaman
+<string>Temukan kunci helikopter
+<string>Kembali ke helikopter
+<string>Melarikan diri dari fasilitas riset
+<string>Selamatkan Grace
+<string>Tolong Grace
+<string>Pergilah ke kapel
+<string>Lawan yang terinfeksi
+<string>Naiklah ke permukaan
+<string>Buka palka pada Gadis Itu
+<string>Nyalakan ulang unit distribusi daya ({0}/{1})
+<string>Buka palka atap
+<string>Kembali ke Emily
+<string>Realitas yang Kejam
+<string>Pergilah ke Pusat Raccoon City
+<string>Cari jalan keluar
+<string>Kalahkan laba-laba raksasa
+<string>Periksa gerbang
+<string>Geledah kamp ({0}/{1})
+<string>Kumpulkan bagian-bagian detonator ({0}/{1})
+<string>Ambil bahan bakar
+<string>Ambil baterainya ({0}/{1})
+<string>Musnahkan yang terinfeksi
+<string>Cari kit perbaikan
+<string>Hancurkan gerbang
+<string>Cari Grace
+<string>Pergilah ke kantor timur
+<string>Kejar Grace
+<string>Melarikan diri dari R.P.D.
+<string>Pergilah ke panti asuhan
+<string>Lihat-lihat panti asuhan
+<string>Bersembunyi dari anak-anak
+<string>Kalahkan tanaman raksasa
+<string>Musnahkan penjaga elit
+<string>Musnahkan komandan
+<string>Hancurkan Elpis
+<string>Cari jalan keluar dari tempat pembuangan
+<string>Bantu Leon melarikan diri
+<string>Cari kunci override
+<string>Pergilah ke sistem pemurnian sentral
+<string>Cari cara untuk membuka pintu
+<string>Buka pintu ke sistem pemurnian sentral
+<string>Pergilah ke Leon
+<string>Kalahkan Victor

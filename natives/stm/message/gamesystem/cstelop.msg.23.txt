@@ -1,53 +1,53 @@
 <string>FBI
-<string>MIDWEST<lf>FIELD OFFICE
+<string>KANTOR WILAYAH<lf>MIDWEST
 <string>
 <string>GRACE
 <string>WRENWOOD
 <string>
-<string>8 Years Ago
+<string>8 Tahun yang Lalu
 <string>
 <string>ELBRIDGE
-<string>A FEW MINUTES EARLIER
+<string>BEBERAPA MENIT SEBELUMNYA
 <string>
 <string>LEON
 <string>RHODES HILL
 <string>
 <string>LEON S. KENNEDY
-<string>October 9, 4:41 a.m.
+<string>9 Oktober, 04.41
 <string>
-<string>Present Day
-<string>
-<string>GRACE ASHCROFT
-<string>October 8, 11:42 p.m.
+<string>Hari Ini
 <string>
 <string>GRACE ASHCROFT
-<string>October 9, 3:32 a.m.
+<string>8 Oktober, 23.42
+<string>
+<string>GRACE ASHCROFT
+<string>9 Oktober, 03.32
 <string>
 <string>LEON S. KENNEDY
-<string>October 9, 6:03 a.m.
+<string>9 Oktober, 06.03
 <string>
 <string>GRACE ASHCROFT
-<string>October 9, 6:20 a.m.
+<string>9 Oktober, 06.20
 <string>
 <string>LEON
 <string>RACCOON CITY
 <string>
-<string>RACCOON CITY OUTSKIRTS
-<string>October 9, 10:50 a.m.
+<string>PINGGIRAN RACCOON CITY
+<string>9 Oktober, 10.50
 <string>
-<string>RACCOON CITY CENTER
-<string>October 9, 1:57 p.m.
+<string>PUSAT RACCOON CITY
+<string>9 Oktober, 13.57
 <string>
-<string>RACCOON CITY ORPHANAGE
-<string>February 1990
+<string>PANTI ASUHAN RACCOON CITY
+<string>Februari 1990
 <string>
-<string>Present Day
+<string>Hari Ini
 <string>
-<string>October 9, 4:53 p.m.
+<string>9 Oktober, 16.53
 <string>
 <string>LEON S. KENNEDY
-<string>A Few Minutes Earlier
+<string>Beberapa Menit Sebelumnya
 <string>
 <string>GRACE ASHCROFT
-<string>Meanwhile
+<string>Sementara Itu
 <string>

@@ -1,245 +1,245 @@
-<string>Scenario Jump Menu
-<string>Chapter Jump Menu
-<string>Guide
-<string><ICON TAB_LEFT> / <ICON TAB_RIGHT> Change Page
-<string><ICON POV> Select
-<string><ICON DECIDE> Decide
-<string><ICON CANCEL> Close Menu
-<string><ICON R_U> Change Language
-<string>Unable to execute because the player character is occupied.
-<string>Main
+<string>Menu Lompat Skenario
+<string>Menu Lompat Bab
+<string>Panduan
+<string><ICON TAB_LEFT> / <ICON TAB_RIGHT> Ganti Halaman
+<string><ICON POV> Pilih
+<string><ICON DECIDE> Putuskan
+<string><ICON CANCEL> Tutup Menu
+<string><ICON R_U> Ganti Bahasa
+<string>Tidak dapat dieksekusi karena karakter pemain sedang sibuk.
+<string>Utama
 <string>Cutscene
-<string>Chapter Start
-<string>c110s000: FBI Analyst Grace
-<string>c111s000: Grace Arrives in Town
-<string>c111s100: Officer Cole	
-<string>c111s210: Site of the Hotel Fire
-<string>c111s301: Photo from 8 Years Ago
-<string>c111s900: Victor Appears
-<string>c111s610: Get Mom's Leather Case
-<string>c111s620: Infected Cole
-<string>c111s220: Victor's Invitation
-<string>c111s510: Find What Mom Hid
-<string>Back alley
-<string>Hotel back entrance
-<string>Hotel lounge (Site of Fire)
-<string>Before the flashback
-<string>After the flashback
-<string>Before get mom's case
-<string>Hotel main hall
-<string>c111s310: Flee With Mom
-<string>c111s410: The Manager Murdered
-<string>c111s500: Mom Dies
-<string>c112s000: Body of Raccoon City Survivor
-<string>c112s100: Mayhem on the Main Street
-<string>c112s150: 1st Main Street Zombie
-<string>c112s900: Mayhem Ends
-<string>Before the street corner
-<string>Before the cross roads
-<string>Before the end of 1-10
-<string>c311s101: Grace Wakes to Blood Being Taken
-<string>c311s251: First Run into The Girl
-<string>c311s510: Girl Comes Down from the Ceiling
-<string>c311s610: Open the Main Hall Shutter
-<string>Before unlocking Cherub Door
-<string>After getting the lighter
-<string>Before running into The Girl
-<string>Before getting the screwdriver
-<string>After getting the screwdriver
-<string>After getting the screwdriver (door broken)
-<string>Before entering typewriter room
-<string>c312s101: Leon Arrives at the Sanatorium
-<string>c312s210: Fight in the Sanatorium Starts
-<string>c312s700: Leon and Grace Meet
-<string>Before fight starts
-<string>After fight, bottom of the stairs
-<string>Before entering the main hall
-<string>c321s010: After Separated from Leon
-<string>c321s020: Meet The Trapped Girl Emily
-<string>c321s200: The Mysterious Girl
-<string>c321s500: Victor's Goal
-<string>c321s700: Braille Box
-<string>c321s800: Take Emily
-<string>c321s850: Ask Emily to Unlock the Safe
-<string>c321s900: The Girl Takes Emily
-<string>c321s950: Hole to the Basement
-<string>After meeting Emily
-<string>Before the kitchen
-<string>After the dining hall
-<string>After getting the Moon Quartz
-<string>Before the surgery
-<string>After getting the wrist tag
-<string>Before Grace meets Victor
-<string>After getting the Sun  Quartz
-<string>Before the garage
-<string>Before the office
-<string>After getting the wrist tag Lv2
-<string>Before the isolation ward
-<string>Before getting Emily
-<string>Before the isolation ward fight
-<string>After Emily is taken
-<string>c322s000: Leon Fights Back
+<string>Awal Bab
+<string>c110s000: Analis FBI Grace
+<string>c111s000: Grace Tiba di Kota
+<string>c111s100: Polisi Cole
+<string>c111s210: Lokasi Kebakaran Hotel
+<string>c111s301: Foto dari 8 Tahun yang Lalu
+<string>c111s900: Victor Muncul
+<string>c111s610: Ambil Tas Kulit Ibu
+<string>c111s620: Cole yang Terinfeksi
+<string>c111s220: Undangan Victor
+<string>c111s510: Temukan Apa yang Ibu Sembunyikan
+<string>Gang belakang
+<string>Pintu belakang hotel
+<string>Lounge hotel (Lokasi Kebakaran)
+<string>Sebelum kilas balik
+<string>Setelah kilas balik
+<string>Sebelum mengambil tas Ibu
+<string>Aula utama hotel
+<string>c111s310: Melarikan Diri Bersama Ibu
+<string>c111s410: Manajer Dibunuh
+<string>c111s500: Ibu Meninggal
+<string>c112s000: Jasad Korban Raccoon City
+<string>c112s100: Kekacauan di Jalan Utama
+<string>c112s150: Zombie Jalan Utama Pertama
+<string>c112s900: Kekacauan Berakhir
+<string>Sebelum tikungan jalan
+<string>Sebelum persimpangan
+<string>Sebelum akhir 1-10
+<string>c311s101: Grace Terbangun dengan Darah Diambil
+<string>c311s251: Pertama Kali Bertemu Gadis Itu
+<string>c311s510: Gadis Turun dari Langit-langit
+<string>c311s610: Buka Penutup Aula Utama
+<string>Sebelum membuka Pintu Cherub
+<string>Setelah mendapatkan korek
+<string>Sebelum bertemu Gadis Itu
+<string>Sebelum mendapatkan obeng
+<string>Setelah mendapatkan obeng
+<string>Setelah mendapatkan obeng (pintu rusak)
+<string>Sebelum memasuki ruang mesin ketik
+<string>c312s101: Leon Tiba di Sanatorium
+<string>c312s210: Pertarungan di Sanatorium Dimulai
+<string>c312s700: Leon dan Grace Bertemu
+<string>Sebelum pertarungan dimulai
+<string>Setelah pertarungan, di bawah tangga
+<string>Sebelum memasuki aula utama
+<string>c321s010: Setelah Terpisah dari Leon
+<string>c321s020: Bertemu Gadis Terjebak Emily
+<string>c321s200: Gadis Misterius
+<string>c321s500: Tujuan Victor
+<string>c321s700: Kotak Braille
+<string>c321s800: Bawa Emily
+<string>c321s850: Minta Emily Membuka Brankas
+<string>c321s900: Gadis Itu Membawa Emily
+<string>c321s950: Lubang ke Ruang Bawah Tanah
+<string>Setelah bertemu Emily
+<string>Sebelum dapur
+<string>Setelah ruang makan
+<string>Setelah mendapatkan Kuarsa Bulan
+<string>Sebelum operasi
+<string>Setelah mendapatkan gelang identitas
+<string>Sebelum Grace bertemu Victor
+<string>Setelah mendapatkan Kuarsa Matahari
+<string>Sebelum garasi
+<string>Sebelum kantor
+<string>Setelah mendapatkan gelang identitas Lv2
+<string>Sebelum bangsal isolasi
+<string>Sebelum mendapatkan Emily
+<string>Sebelum pertarungan bangsal isolasi
+<string>Setelah Emily dibawa pergi
+<string>c322s000: Leon Melawan
 <string>c322s900: Elpis
-<string>Before the giant zombie fight
-<string>After the giant zombie fight
-<string>Explore the West Ward 2nd floor
-<string>Before the West Ward 3rd floor office
-<string>Victor's private office
-<string>c331s000: Chase after Emily
-<string>c331s110: Emily and The Girl in the Cells
-<string>c331s700: Take Emily Away from the Cells
-<string>c331s900: Close Escape from the Elevator
-<string>After getting joint plug 1
-<string>After getting the fork lift key
-<string>In the blood pool room
-<string>In the inspection room
-<string>After getting out of the processing tank
-<string>Before opening the cells
-<string>In the elevator
-<string>c341s050: Helicopter and Pilot
-<string>The garden
-<string>Before the elevator room
-<string>Before activating the elevator room
-<string>c341s300: Unlock the Control Room
-<string>c341s400: Victor's Presentation
-<string>c341s900: Escape in the Helicopter
-<string>Laboratory
-<string>Start of poison hose fight
-<string>End of poison hose fight
-<string>Before the blood tank is destroyed
-<string>At the bottom of the stairs out
-<string>Before going outside
-<string>c342s000: Watch The Helicopter Crash
-<string>c342s800: Reunite with Grace
-<string>c342s900: Chapel Fight Ends
-<string>Sniper rifle segment start
-<string>Drop down from roof
-<string>Before the chapel
-<string>c351s000: Hold Dying Emily
-<string>c351s200: The Girl Closes In
-<string>c351s210: The Girl Fight Starts
-<string>c351s300: Roof Hatch Won't Open
-<string>c351s700: The Girl Dies
-<string>c351s800: Emily Transforms
-<string>c351s910: From Rhodes Hill to Raccoon City
-<string>Before blackout: outside the safe room
-<string>After blackout: before dropping down
-<string>[Do not use - will crash game]
-<string>B1F: After restoring power
-<string>After restoring power: before safe room
-<string>c410s200: Leon Heads to Raccoon City Part 1
-<string>c410s201: Leon Heads to Raccoon City Part 2
-<string>c410s300: Meet the Giant Spider
-<string>c410s900: Defeat the Giant Spider
-<string>Giant spider segment starts
-<string>Giant spider fight 3F
-<string>c420s200: The Locked Gate
-<string>c420s300: BSAA Camp: RC Incident Mystery
-<string>c420s301: BSAA Camp: RC Incident Mystery
-<string>c420s500: BSAA Agent Body Camera
-<string>c420s501: BSAA Agent Body Camera Part 2
-<string>c420s502: BSAA Agent Body Camera Part 3
-<string>c420s800: Gondola Falls
-<string>c420s850: Destroy the Blockade Gate
-<string>The BSAA Camp
-<string>Logistics warehouse
-<string>Underground carpark
-<string>Sewage Treatment Plant
-<string>Gas Station
-<string>Cedarbrook Apartments
-<string>Cedarbrook Apartments (2nd half)
-<string>Main Street
-<string>Collapsed building
-<string>Collapsed building (2nd half)
-<string>Rooftops
-<string>Rooftops (2nd half)
-<string>Rooftops (lift)
-<string>Leon blows up the gate
-<string>c420s910: Motorbike to Raccoon City
-<string>c430s100: Victor on His Motorbike
-<string>c430s800: Final Battle on the Motorbike Starts
-<string>c430s950: Motorbike Battle Ends
-<string>Motorbike sequence start
-<string>First beast fight
-<string>When beasts destroy sign
-<string>Rooftop area
-<string>Inside the building area
-<string>Alleyway stop
-<string>Battle on the main road
-<string>Large jump off a building
-<string>Final fight with Victor
-<string>c440s000: Stand in Raccoon City
-<string>c440s200: Enter the R.P.D.
-<string>c440s300: Find Grace on the Security Camera
-<string>c440s900: Zeno Talks to Grace
-<string>c442s100: Zeno Tells the Truth
-<string>c442s300: Run from the Tyrant
+<string>Sebelum pertarungan zombie raksasa
+<string>Setelah pertarungan zombie raksasa
+<string>Jelajahi Sayap Barat Lantai 2
+<string>Sebelum kantor Sayap Barat Lantai 3
+<string>Kantor pribadi Victor
+<string>c331s000: Kejar Emily
+<string>c331s110: Emily dan Gadis Itu di Dalam Sel
+<string>c331s700: Bawa Emily Pergi dari Sel
+<string>c331s900: Melarikan Diri dari Lift
+<string>Setelah mendapatkan steker sambungan 1
+<string>Setelah mendapatkan kunci forklift
+<string>Di ruang kolam darah
+<string>Di ruang inspeksi
+<string>Setelah keluar dari tangki pemrosesan
+<string>Sebelum membuka sel
+<string>Di dalam lift
+<string>c341s050: Helikopter dan Pilot
+<string>Taman
+<string>Sebelum ruang lift
+<string>Sebelum mengaktifkan ruang lift
+<string>c341s300: Buka Ruang Kontrol
+<string>c341s400: Presentasi Victor
+<string>c341s900: Melarikan Diri dengan Helikopter
+<string>Laboratorium
+<string>Mulai pertarungan selang racun
+<string>Akhir pertarungan selang racun
+<string>Sebelum tangki darah dihancurkan
+<string>Di bawah tangga keluar
+<string>Sebelum keluar
+<string>c342s000: Saksikan Helikopter Jatuh
+<string>c342s800: Bertemu Kembali dengan Grace
+<string>c342s900: Pertarungan Kapel Berakhir
+<string>Segmen senapan sniper dimulai
+<string>Turun dari atap
+<string>Sebelum kapel
+<string>c351s000: Menggendong Emily yang Sekarat
+<string>c351s200: Gadis Itu Mendekat
+<string>c351s210: Pertarungan Gadis Itu Dimulai
+<string>c351s300: Palka Atap Tidak Mau Terbuka
+<string>c351s700: Gadis Itu Meninggal
+<string>c351s800: Emily Bertransformasi
+<string>c351s910: Dari Rhodes Hill ke Raccoon City
+<string>Sebelum pemadaman: di luar ruang aman
+<string>Setelah pemadaman: sebelum turun
+<string>[Jangan digunakan - akan membuat game crash]
+<string>B1F: Setelah memulihkan daya
+<string>Setelah memulihkan daya: sebelum ruang aman
+<string>c410s200: Leon Menuju Raccoon City Bagian 1
+<string>c410s201: Leon Menuju Raccoon City Bagian 2
+<string>c410s300: Bertemu Laba-laba Raksasa
+<string>c410s900: Kalahkan Laba-laba Raksasa
+<string>Segmen laba-laba raksasa dimulai
+<string>Pertarungan laba-laba raksasa Lt. 3
+<string>c420s200: Gerbang Terkunci
+<string>c420s300: Kamp BSAA: Misteri Insiden RC
+<string>c420s301: Kamp BSAA: Misteri Insiden RC
+<string>c420s500: Kamera Tubuh Agen BSAA
+<string>c420s501: Kamera Tubuh Agen BSAA Bagian 2
+<string>c420s502: Kamera Tubuh Agen BSAA Bagian 3
+<string>c420s800: Gondola Jatuh
+<string>c420s850: Hancurkan Gerbang Blokade
+<string>Kamp BSAA
+<string>Gudang logistik
+<string>Parkir bawah tanah
+<string>Pabrik Pengolahan Limbah
+<string>Pom Bensin
+<string>Apartemen Cedarbrook
+<string>Apartemen Cedarbrook (paruh kedua)
+<string>Jalan Utama
+<string>Gedung runtuh
+<string>Gedung runtuh (paruh kedua)
+<string>Atap-atap
+<string>Atap-atap (paruh kedua)
+<string>Atap-atap (lift)
+<string>Leon meledakkan gerbang
+<string>c420s910: Sepeda Motor ke Raccoon City
+<string>c430s100: Victor di Atas Sepeda Motornya
+<string>c430s800: Pertarungan Terakhir di Atas Sepeda Motor Dimulai
+<string>c430s950: Pertarungan Sepeda Motor Berakhir
+<string>Sekuens sepeda motor dimulai
+<string>Pertarungan monster pertama
+<string>Saat monster menghancurkan papan tanda
+<string>Area atap
+<string>Area dalam gedung
+<string>Berhenti di gang
+<string>Pertarungan di jalan utama
+<string>Lompatan besar dari gedung
+<string>Pertarungan terakhir dengan Victor
+<string>c440s000: Berdiri di Raccoon City
+<string>c440s200: Masuk ke R.P.D.
+<string>c440s300: Temukan Grace di Kamera Keamanan
+<string>c440s900: Zeno Berbicara pada Grace
+<string>c442s100: Zeno Mengatakan Kebenaran
+<string>c442s300: Berlari dari Tyrant
 <string>c442s500: Robert Kendo
-<string>c442s600: Tyrant's Reappearance
-<string>c442s700: Tyrant Attacks
-<string>In front of the R.P.D.
-<string>The library
-<string>Before the flashback (FF2)
-<string>Escaping the tyrant
-<string>Behind the R.P.D.
-<string>Super tyrant fight
-<string>The Orphanage
-<string>c441s000: Start of the Orphanage
-<string>c441s200: Children Kill the Researcher
-<string>c441s600: Children Emerge from Coffins
-<string>c441s700: Climb Up the Chapel Ladder
-<string>c441s800: Disposed Girl
-<string>Main hall
-<string>Manager's office
-<string>Underground
-<string>Before the chapel
-<string>Before getting the poker
-<string>Labratories
-<string>Before watching the slideshow
-<string>c450s200: The Train Bridge Collapses
-<string>c450s800: Plant 43 Boss Defeated
-<string>c450s900: Into The Underground Lab
-<string>Before the train bridge
-<string>After plant attack on train
-<string>Before rappelling down
-<string>After rappelling down
-<string>Ravine: Where path splits
-<string>Open area before boss
-<string>Before plant boss fight
-<string>After plant boss fight
-<string>After Plant Boss fight - before ARK gate
-<string>c510s200: Hunk's Troops Close In
-<string>c510s400: Stand Off Against Hunk
-<string>c510s900: Zeno Defeats Leon
-<string>Fight with Hunk's troops (start)
-<string>Fight with Hunk's troops
-<string>Fight with Hunk
-<string>The gene vault
-<string>c520s100: Grace and Leon Encouraged
-<string>c520s200: Start Working Together
-<string>c520s300: Crane System Rebooted
-<string>c520s400: Arrival at the Records Office
-<string>c520s700: Requiem and Hope
-<string>c520s920: Face Zeno Again
-<string>Grace Part: Before entering East lab
-<string>Grace Part: Before getting activation key
-<string>Grace Part: Before moving the crane
-<string>Grace Part: Before getting red crest
-<string>Grace Part: Before getting white crest
-<string>Grace Part: Before Record Room puzzle
-<string>Leon Part: Start
-<string>Leon Part: Before bioweapon repository
-<string>Leon Part: Before fight waiting for lift
-<string>Leon Part: After fight waiting for lift
-<string>Leon part: before Central Portal
-<string>Before the end (Gene Vault)
-<string>c530s100: To The Final Fight
-<string>c530s600: Victor Mutates
-<string>c530s800: After the Fight
-<string>Victor's Final Form
-<string>c531s100: To The Bad Ending
-<string>c531s900: Ending (Bad End)
-<string>c530s900: Ending
-<string>c540s000: Ending Credits
-<string>c540s200: Epilogue: At the FBI
-<string>c540s400: Epilogue: Connection in the Shadows
+<string>c442s600: Kemunculan Kembali Tyrant
+<string>c442s700: Tyrant Menyerang
+<string>Di depan R.P.D.
+<string>Perpustakaan
+<string>Sebelum kilas balik (FF2)
+<string>Melarikan diri dari tyrant
+<string>Di belakang R.P.D.
+<string>Pertarungan super tyrant
+<string>Panti Asuhan
+<string>c441s000: Awal Panti Asuhan
+<string>c441s200: Anak-anak Membunuh Peneliti
+<string>c441s600: Anak-anak Muncul dari Peti Mati
+<string>c441s700: Naik Tangga Kapel
+<string>c441s800: Gadis yang Dibuang
+<string>Aula utama
+<string>Kantor manajer
+<string>Bawah tanah
+<string>Sebelum kapel
+<string>Sebelum mendapatkan poker
+<string>Laboratorium
+<string>Sebelum menonton slideshow
+<string>c450s200: Jembatan Kereta Runtuh
+<string>c450s800: Boss Plant 43 Dikalahkan
+<string>c450s900: Menuju Lab Bawah Tanah
+<string>Sebelum jembatan kereta
+<string>Setelah serangan tanaman di kereta
+<string>Sebelum rappelling turun
+<string>Setelah rappelling turun
+<string>Jurang: Tempat jalur bercabang
+<string>Area terbuka sebelum boss
+<string>Sebelum pertarungan boss tanaman
+<string>Setelah pertarungan boss tanaman
+<string>Setelah pertarungan Boss Tanaman - sebelum gerbang ARK
+<string>c510s200: Pasukan Hunk Mendekat
+<string>c510s400: Berhadapan dengan Hunk
+<string>c510s900: Zeno Mengalahkan Leon
+<string>Pertarungan dengan pasukan Hunk (mulai)
+<string>Pertarungan dengan pasukan Hunk
+<string>Pertarungan dengan Hunk
+<string>Kubah gen
+<string>c520s100: Grace dan Leon Diberi Semangat
+<string>c520s200: Mulai Bekerja Sama
+<string>c520s300: Sistem Derek Dinyalakan Ulang
+<string>c520s400: Tiba di Kantor Arsip
+<string>c520s700: Requiem dan Harapan
+<string>c520s920: Hadapi Zeno Lagi
+<string>Bagian Grace: Sebelum memasuki lab Timur
+<string>Bagian Grace: Sebelum mendapatkan kunci aktivasi
+<string>Bagian Grace: Sebelum menggerakkan derek
+<string>Bagian Grace: Sebelum mendapatkan lambang merah
+<string>Bagian Grace: Sebelum mendapatkan lambang putih
+<string>Bagian Grace: Sebelum teka-teki Ruang Arsip
+<string>Bagian Leon: Mulai
+<string>Bagian Leon: Sebelum repositori senjata bio
+<string>Bagian Leon: Sebelum pertarungan menunggu lift
+<string>Bagian Leon: Setelah pertarungan menunggu lift
+<string>Bagian Leon: sebelum Portal Tengah
+<string>Sebelum akhir (Kubah Gen)
+<string>c530s100: Menuju Pertarungan Terakhir
+<string>c530s600: Victor Bermutasi
+<string>c530s800: Setelah Pertarungan
+<string>Bentuk Terakhir Victor
+<string>c531s100: Menuju Akhiran Buruk
+<string>c531s900: Akhiran (Akhiran Buruk)
+<string>c530s900: Akhiran
+<string>c540s000: Kredit Penutup
+<string>c540s200: Epilog: Di FBI
+<string>c540s400: Epilog: Koneksi dalam Bayang-bayang

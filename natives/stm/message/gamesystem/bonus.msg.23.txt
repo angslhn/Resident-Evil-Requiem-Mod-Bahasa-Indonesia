@@ -1,106 +1,106 @@
 <string><REF Item_Name_it10_00_000> (Leon)
 <string><REF Item_Caption_it10_00_000>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_00_004> (Leon)
 <string><REF Item_Caption_it10_00_004>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_00_005> (Leon)
 <string><REF Item_Caption_it10_00_005>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_05_002> (Leon)
 <string><REF Item_Caption_it10_05_002>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_20_006> (Leon)
 <string><REF Item_Caption_it10_20_006>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_04_000> (Leon)
 <string><REF Item_Caption_it10_04_000>
-<string>This item can be collected from the supply box.
+<string>Item ini dapat diambil dari kotak perbekalan.
 <string>{0} CP
 <string><REF Item_Name_it10_03_003> (Grace)
 <string><REF Item_Caption_it10_03_003>
-<string>This item can be collected from the item box.
+<string>Item ini dapat diambil dari kotak item.
 <string>{0} CP
 <string><REF Item_Name_it30_00_701> (Leon)
 <string><REF Item_Caption_it30_00_701>
-<string>This item can be collected from the supply box.
-<string>Defeat {0} enemies
+<string>Item ini dapat diambil dari kotak perbekalan.
+<string>Kalahkan {0} musuh
 <string><REF Item_Name_it99_50_009> (Leon)
 <string><REF Item_Caption_it99_50_009>
-<string>The Tactical Tracker will upgrade after purchase.
+<string>Tactical Tracker akan meningkat setelah pembelian.
 <string>{0} CP
 <string><REF Item_Name_it99_07_002> (Grace)
 <string><REF Item_Caption_it99_07_002>
-<string>This item can be collected from the item box.
+<string>Item ini dapat diambil dari kotak item.
 <string>{0} CP
 <string><REF Item_Name_it99_50_010> (Grace)
 <string><REF Item_Caption_it99_50_010>
-<string>This item can be collected from the item box.
-<string>Complete the main story by releasing<lf>Elpis within {0} hours.
+<string>Item ini dapat diambil dari kotak item.
+<string>Selesaikan cerita utama dengan melepaskan<lf>Elpis dalam waktu {0} jam.
 <string><REF Item_Name_it10_20_008> (Grace)
 <string><REF Item_Caption_it10_20_008>
-<string>This item can be collected from the item box.
+<string>Item ini dapat diambil dari kotak item.
 <string>{0} CP
-<string>Matsuoka Master Manual (Grace)
-<string>A manual that allows you to permanently<lf>increase the capacity of the blood collector<lf>by 50.
-<string>Effects are automatically applied.
+<string>Manual Master Matsuoka (Grace)
+<string>Manual yang memungkinkanmu untuk secara permanen<lf>meningkatkan kapasitas pengumpul darah<lf>sebesar 50.
+<string>Efek diterapkan secara otomatis.
 <string>{0} CP
 <string><REF Item_Name_it99_00_008>
 <string><REF Item_Caption_it99_00_008>
-<string>Also obtainable in the main story.
+<string>Juga dapat diperoleh di cerita utama.
 <string>{0} CP
 <string><REF Item_Name_it99_00_009>
 <string><REF Item_Caption_it99_00_009>
 <string>{0} CP
-<string>Infinite Ammo (Guns)
-<string>Unlocks infinite ammo for guns.
-<string>You can turn this feature on/off via Options.
+<string>Amunisi Tak Terbatas (Senjata Api)
+<string>Membuka amunisi tak terbatas untuk senjata api.
+<string>Kamu dapat mengaktifkan/menonaktifkan fitur ini melalui Opsi.
 <string>{0} CP
-<string>Infinite Ammo (RPG-7)
-<string>Unlocks infinite ammo for the RPG-7.<lf>(<COLOR preset="TextColor3">Recommended to purchase <REF Item_Name_it10_04_000> (Leon) first</COLOR>.)
-<string>You can turn this feature on/off via Options.
+<string>Amunisi Tak Terbatas (RPG-7)
+<string>Membuka amunisi tak terbatas untuk RPG-7.<lf>(<COLOR preset="TextColor3">Disarankan untuk membeli <REF Item_Name_it10_04_000> (Leon) terlebih dahulu</COLOR>.)
+<string>Kamu dapat mengaktifkan/menonaktifkan fitur ini melalui Opsi.
 <string>{0} CP
-<string>Acquire Infinite Ammo (Guns).
-<string>Infinite Durability (Hatchets)
-<string>Unlocks infinite durability for hatchets.
-<string>You can turn this feature on/off via Options.
+<string>Dapatkan Amunisi Tak Terbatas (Senjata Api).
+<string>Ketahanan Tak Terbatas (Kapak)
+<string>Membuka ketahanan tak terbatas untuk kapak.
+<string>Kamu dapat mengaktifkan/menonaktifkan fitur ini melalui Opsi.
 <string>{0} CP
-<string>Advanced Tuning
-<string>Unlocks an extra level of tuning<lf>for weapon parts.
-<string>Destroy every Mr. Raccoon memoriam.
-<string>R.P.D. Uniform (Leon)
-<string>A costume for Leon.
-<string>You can change costumes via Bonus Settings.
+<string>Penyetelan Lanjutan
+<string>Membuka tingkat penyetelan ekstra<lf>untuk bagian senjata.
+<string>Hancurkan setiap memoriam Mr. Raccoon.
+<string>Seragam R.P.D. (Leon)
+<string>Kostum untuk Leon.
+<string>Kamu dapat mengubah kostum melalui Pengaturan Bonus.
 <string>{0} CP
-<string>FBI Attire (Grace)
-<string>A costume for Grace.
-<string>You can change costumes via Bonus Settings.
+<string>Pakaian FBI (Grace)
+<string>Kostum untuk Grace.
+<string>Kamu dapat mengubah kostum melalui Pengaturan Bonus.
 <string>{0} CP
 <string>{0} CP
-<string>Defeat {0} enemies
-<string>Complete the main story by releasing<lf>Elpis within {0} hours.
-<string>This item can be collected from the item box.
-<string>This item can be collected from the supply box.
-<string>Leon (Jacket)
+<string>Kalahkan {0} musuh
+<string>Selesaikan cerita utama dengan melepaskan<lf>Elpis dalam waktu {0} jam.
+<string>Item ini dapat diambil dari kotak item.
+<string>Item ini dapat diambil dari kotak perbekalan.
+<string>Leon (Jaket)
 <string>{0} CP
-<string>Leon (Harness)
+<string>Leon (Tali Pengaman)
 <string>{0} CP
 <string>Leon (R.P.D.)
 <string>{0} CP
 <string>Leon (Mechacop)
 <string>{0} CP
-<string>Leon's Wheels
+<string>Roda Leon
 <string>{0} CP
-<string>Grace (Jacket)
+<string>Grace (Jaket)
 <string>{0} CP
 <string>Grace (T-shirt)
 <string>{0} CP
-<string>Grace (Teenager)
+<string>Grace (Remaja)
 <string>{0} CP
 <string>Grace (FBI)
 <string>{0} CP
@@ -110,7 +110,7 @@
 <string>{0} CP
 <string>Alyssa Ashcroft
 <string>{0} CP
-<string>The Hooded Man
+<string>Pria Berkerudung
 <string>{0} CP
 <string>Sherry Birkin
 <string>{0} CP
@@ -118,37 +118,37 @@
 <string>{0} CP
 <string>Emily
 <string>{0} CP
-<string>Emily (Mutated)
+<string>Emily (Bermutasi)
 <string>{0} CP
 <string>Harry Reed
 <string>{0} CP
 <string>Zeno
 <string>{0} CP
-<string>Elite Guards
+<string>Penjaga Elit
 <string>{0} CP
-<string>The Commander
+<string>Komandan
 <string>{0} CP
-<string>Hound Wolf Squad
+<string>Pasukan Hound Wolf
 <string>{0} CP
 <string>Norman Cole
 <string>{0} CP
-<string>Wrenwood Zombies
+<string>Zombie Wrenwood
 <string>{0} CP
-<string>The Girl
+<string>Gadis Itu
 <string>{0} CP
-<string>Zombie Doctors
+<string>Zombie Dokter
 <string>{0} CP
-<string>Zombie Patients
+<string>Zombie Pasien
 <string>{0} CP
-<string>Zombie Staff
+<string>Zombie Staf
 <string>{0} CP
-<string>Zombie Cleaners
+<string>Zombie Pembersih
 <string>{0} CP
-<string>Zombie Chef
+<string>Zombie Koki
 <string>{0} CP
-<string>Zombie Singers
+<string>Zombie Penyanyi
 <string>{0} CP
-<string>Zombie Surgeon
+<string>Zombie Ahli Bedah
 <string>{0} CP
 <string>Chunk
 <string>{0} CP
@@ -158,13 +158,13 @@
 <string>{0} CP
 <string>Titan Spinner
 <string>{0} CP
-<string>Raccoon City Zombies
+<string>Zombie Raccoon City
 <string>{0} CP
 <string>Garmr
 <string>{0} CP
-<string>R.P.D. Zombie
+<string>Zombie R.P.D.
 <string>{0} CP
-<string>The Children
+<string>Anak-anak
 <string>{0} CP
 <string>Tyrant T-501
 <string>{0} CP
@@ -172,11 +172,11 @@
 <string>{0} CP
 <string>Plant 43
 <string>{0} CP
-<string>ARK Zombies
+<string>Zombie ARK
 <string>{0} CP
 <string>Licker β2
 <string>{0} CP
-<string>Victor (Mutated)
+<string>Victor (Bermutasi)
 <string>{0} CP
 <string><COLOR FF0000>#Rejected#</COLOR> bo20_00_052_Title
 <string><COLOR FF0000>#Rejected#</COLOR> bo20_00_052_Condition0
@@ -192,21 +192,21 @@
 <string>{0} CP
 <string>Zeno
 <string>{0} CP
-<string>Main Street
+<string>Jalan Utama
 <string>{0} CP
-<string>The Wrenwood Hotel
+<string>Hotel Wrenwood
 <string>{0} CP
 <string>Elbridge
 <string>{0} CP
-<string>Chaos on the Streets of Wrenwood
+<string>Kekacauan di Jalanan Wrenwood
 <string>{0} CP
-<string>Rhodes Hill Chronic Care Center
+<string>Pusat Perawatan Kronis Rhodes Hill
 <string>{0} CP
-<string>The Girl
+<string>Gadis Itu
 <string>{0} CP
-<string>A Child Named Emily
+<string>Anak Bernama Emily
 <string>{0} CP
-<string>Inside the Care Center
+<string>Di Dalam Pusat Perawatan
 <string>{0} CP
 <string>Blister Head
 <string>{0} CP
@@ -214,186 +214,186 @@
 <string>{0} CP
 <string>Blister Borne
 <string>{0} CP
-<string>Emily (Mutated) 1
+<string>Emily (Bermutasi) 1
 <string>{0} CP
-<string>Emily (Mutated) 2
+<string>Emily (Bermutasi) 2
 <string>{0} CP
 <string>Raccoon City
 <string>{0} CP
-<string>Titan Spinner Battle
+<string>Pertarungan Titan Spinner
 <string>{0} CP
-<string>East Raccoon City
+<string>Raccoon City Timur
 <string>{0} CP
-<string>Raccoon City Zombies
+<string>Zombie Raccoon City
 <string>{0} CP
-<string>BSAA Camps
+<string>Kamp BSAA
 <string>{0} CP
-<string>The Highway
+<string>Jalan Raya
 <string>{0} CP
-<string>Motorcycle Battle 1
+<string>Pertarungan Sepeda Motor 1
 <string>{0} CP
-<string>Motorcycle Battle 2
+<string>Pertarungan Sepeda Motor 2
 <string>{0} CP
 <string>Garmr
 <string>{0} CP
 <string>R.P.D.
 <string>{0} CP
-<string>R.P.D. and the Orphanage
+<string>R.P.D. dan Panti Asuhan
 <string>{0} CP
 <string>Tyrant T-501
 <string>{0} CP
-<string>Plant 43 Battle
+<string>Pertarungan Plant 43
 <string>{0} CP
-<string>Plant 43 (Adult)
+<string>Plant 43 (Dewasa)
 <string>{0} CP
-<string>ARK Service Entrance
+<string>Pintu Masuk Servis ARK
 <string>{0} CP
-<string>ARK Service Entrance Details
+<string>Detail Pintu Masuk Servis ARK
 <string>{0} CP
-<string>Inside ARK
+<string>Di Dalam ARK
 <string>{0} CP
-<string>ARK Entrance 1
+<string>Pintu Masuk ARK 1
 <string>{0} CP
-<string>ARK Entrance 2
+<string>Pintu Masuk ARK 2
 <string>{0} CP
-<string>ARK Entrance 3
+<string>Pintu Masuk ARK 3
 <string>{0} CP
-<string>ARK Staff Room
+<string>Ruang Staf ARK
 <string>{0} CP
-<string>Supply Box (ARK)
+<string>Kotak Perbekalan (ARK)
 <string>{0} CP
-<string>Bioweapon Pod
+<string>Pod Senjata Bio
 <string>{0} CP
-<string>Bioweapon Pod Details 1
+<string>Detail Pod Senjata Bio 1
 <string>{0} CP
-<string>Bioweapon Pod Details 2
+<string>Detail Pod Senjata Bio 2
 <string>{0} CP
-<string>Central Refining System: PANDORA
+<string>Sistem Pemurnian Sentral: PANDORA
 <string>{0} CP
-<string>Facing Zeno 1
+<string>Menghadapi Zeno 1
 <string>{0} CP
-<string>Facing Zeno 2
+<string>Menghadapi Zeno 2
 <string>{0} CP
-<string>ARK Lobby
+<string>Lobi ARK
 <string>{0} CP
-<string>ARK Lobby Details
+<string>Detail Lobi ARK
 <string>{0} CP
-<string>Archives
+<string>Arsip
 <string>{0} CP
-<string>Central Portal
+<string>Portal Tengah
 <string>{0} CP
-<string>Central Refining System: PANDORA Bottom Floor
-<string>{0} CP
-<string>Requiem
-<string>{0} CP
-<string>Weapon Designs 1
-<string>{0} CP
-<string>Weapon Designs 2
-<string>{0} CP
-<string>Item Designs
+<string>Sistem Pemurnian Sentral: PANDORA Lantai Bawah
 <string>{0} CP
 <string>Requiem
-<string>Obtain all Trophies.
-<string>Remarkable Agent
-<string>Complete the main story on Insanity difficulty.
-<string>Resolute Agent
-<string>Complete the main story on at least<lf>Standard (Classic) difficulty.
-<string>Rising Agent
-<string>Complete the main story on at least<lf>Standard (Modern) difficulty.
-<string>Rookie Agent
-<string>Complete the main story on at least<lf>Casual difficulty.
-<string>Never Touch the Stuff
-<string>Complete the main story without<lf>using herbs or med injectors.
-<string>Minimalist
-<string>Complete the main story without Grace<lf>using the blood collector.
-<string>Speed Demon
-<string>Complete the main story by releasing<lf>Elpis within four hours.
-<string>Credit Where Credit Is Due
-<string>Earn 200,000 credits.
-<string>Bloodlust
-<string>Collect 5000 microsamples of infected<lf>blood with the blood collector.
-<string>Model Mania
-<string>View all models.
-<string>Curator
-<string>View all concept art.
+<string>{0} CP
+<string>Desain Senjata 1
+<string>{0} CP
+<string>Desain Senjata 2
+<string>{0} CP
+<string>Desain Item
+<string>{0} CP
+<string>Requiem
+<string>Dapatkan semua Trofi.
+<string>Agen Luar Biasa
+<string>Selesaikan cerita utama pada kesulitan Insanity.
+<string>Agen Teguh
+<string>Selesaikan cerita utama setidaknya pada<lf>kesulitan Standar (Klasik).
+<string>Agen Naik Daun
+<string>Selesaikan cerita utama setidaknya pada<lf>kesulitan Standar (Modern).
+<string>Agen Pemula
+<string>Selesaikan cerita utama setidaknya pada<lf>kesulitan Santai.
+<string>Tidak Pernah Menyentuh Barang Itu
+<string>Selesaikan cerita utama tanpa<lf>menggunakan herbal atau injektor medis.
+<string>Minimalis
+<string>Selesaikan cerita utama tanpa Grace<lf>menggunakan pengumpul darah.
+<string>Setan Kecepatan
+<string>Selesaikan cerita utama dengan melepaskan<lf>Elpis dalam waktu empat jam.
+<string>Kredit yang Layak
+<string>Dapatkan 200.000 kredit.
+<string>Haus Darah
+<string>Kumpulkan 5000 mikrosampel darah terinfeksi<lf>dengan pengumpul darah.
+<string>Mania Model
+<string>Lihat semua model.
+<string>Kurator
+<string>Lihat semua seni konsep.
 <string>Déjà vu
-<string>Encounter an outbreak in Wrenwood.
-<string>Descent Into Darkness
-<string>Reach the basement of the care center.
-<string>It's Been a Long Night
-<string>Reach the courtyard of the care center.
-<string>A Harsh Reality
-<string>Escape the care center.
-<string>Going Down?
-<string>Reach the ground using the suspended platform.
-<string>The Hero Returns
-<string>Arrive at R.P.D.
-<string>I Remember That, Too
-<string>Defeat the Super Tyrant.
-<string>Umbrella's Legacy
-<string>Find ARK.
-<string>The Final Mission
-<string>Start exploring the lower levels of ARK.
-<string>The Ol' Fashioned Way
-<string>Use an ink ribbon to save at a typewriter.
-<string>Hope and Requiem
-<string>Complete the main story by releasing Elpis.
-<string>Case Closed
-<string>Read all the files in the main story.
-<string>The Power of Blood
-<string>Craft an item using the blood collector.
-<string>Blood! More Blood!
-<string>Use 300 microsamples of infected blood.
-<string>Fatal Dose
-<string>Defeat a zombie using the hemolytic injector.
-<string>Like Mother, Like Daughter
-<string>Unlock a drawer with a lockpick.
-<string>Out of Sight, Out of Mind
-<string>Store an item in the item box as Grace.
-<string>No Safe is Safe
-<string>Open every safe in the main story.
-<string>Science!
-<string>Unlock a crafting recipe using analysis.
-<string>Order Up!
-<string>Defeat the chef in the care center<lf>in the main story.
-<string>Deadly Duet
-<string>Defeat the two singers in the main story.
-<string>Grace and Goliath
-<string>Defeat a Chunk as Grace.
-<string>Internal Dispute
-<string>Make a zombie attack another zombie in the hospital wards.
-<string>Bring Out the Big Guns
-<string>Stun the Girl with Requiem.
-<string>Master Craftsman
-<string>Craft every possible item with Leon.
-<string>Bang For Your Buck
-<string>Defeat at least three enemies with a single Requiem shot.
-<string>Can I Borrow This?
-<string>Throw a weapon dropped by an enemy.
-<string>Untouchable
-<string>Parry an enemy attack.
-<string>Seasoned Pro
-<string>Defeat 300 enemies.
-<string>Chop Chop
-<string>Defeat three zombies with a hatchet<lf>finishing attack.
-<string>Retail Therapy
-<string>Purchase an item from the supply box.
-<string>Tailor Made
-<string>Upgrade a weapon.
-<string>Crate Expectations
-<string>Open all BSAA containers.
-<string>Road Rage
-<string>Stop one of Victor's attacks on the highway.
-<string>Not Today, Buds!
-<string>Defeat all the Plant 43 seedlings.
-<string>Cat Got Your Tongue?
-<string>Cut the tongue off a Licker β2 using the hatchet.
-<string>The Hunt Begins
-<string>Destroy one Mr. Raccoon memoriam.
-<string>You Little Rascal!
-<string>Destroy every Mr. Raccoon memoriam.
-<string>The Final Puzzle
-<string>Let the sweet pair hear the voice.
+<string>Temui wabah di Wrenwood.
+<string>Turun ke Kegelapan
+<string>Capai ruang bawah tanah pusat perawatan.
+<string>Malam yang Panjang
+<string>Capai halaman pusat perawatan.
+<string>Realitas yang Kejam
+<string>Melarikan diri dari pusat perawatan.
+<string>Mau Turun?
+<string>Capai tanah menggunakan platform gantung.
+<string>Sang Pahlawan Kembali
+<string>Tiba di R.P.D.
+<string>Aku Juga Ingat Itu
+<string>Kalahkan Super Tyrant.
+<string>Warisan Umbrella
+<string>Temukan ARK.
+<string>Misi Terakhir
+<string>Mulai menjelajahi tingkat bawah ARK.
+<string>Cara Lama
+<string>Gunakan pita tinta untuk menyimpan di mesin ketik.
+<string>Harapan dan Requiem
+<string>Selesaikan cerita utama dengan melepaskan Elpis.
+<string>Kasus Ditutup
+<string>Baca semua berkas di cerita utama.
+<string>Kekuatan Darah
+<string>Racik item menggunakan pengumpul darah.
+<string>Darah! Lebih Banyak Darah!
+<string>Gunakan 300 mikrosampel darah terinfeksi.
+<string>Dosis Fatal
+<string>Kalahkan zombie menggunakan injektor hemolitik.
+<string>Seperti Ibu, Seperti Anak
+<string>Buka laci dengan kunci picking.
+<string>Jauh dari Mata, Jauh dari Pikiran
+<string>Simpan item di kotak item sebagai Grace.
+<string>Tidak Ada Brankas yang Aman
+<string>Buka semua brankas di cerita utama.
+<string>Sains!
+<string>Buka resep racikan menggunakan analisis.
+<string>Pesanan Siap!
+<string>Kalahkan koki di pusat perawatan<lf>di cerita utama.
+<string>Duet Mematikan
+<string>Kalahkan dua penyanyi di cerita utama.
+<string>Grace dan Goliath
+<string>Kalahkan Chunk sebagai Grace.
+<string>Perselisihan Internal
+<string>Buat zombie menyerang zombie lain di bangsal rumah sakit.
+<string>Keluarkan Senjata Besar
+<string>Buat Gadis Itu terhuyung dengan Requiem.
+<string>Pengrajin Ahli
+<string>Racik semua item yang memungkinkan dengan Leon.
+<string>Daya Hancur Maksimal
+<string>Kalahkan setidaknya tiga musuh dengan satu tembakan Requiem.
+<string>Boleh Aku Pinjam Ini?
+<string>Lempar senjata yang dijatuhkan oleh musuh.
+<string>Tak Tersentuh
+<string>Tangkis serangan musuh.
+<string>Pro Berpengalaman
+<string>Kalahkan 300 musuh.
+<string>Potong Potong
+<string>Kalahkan tiga zombie dengan serangan akhir<lf>kapak.
+<string>Terapi Belanja
+<string>Beli item dari kotak perbekalan.
+<string>Buatan Khusus
+<string>Tingkatkan senjata.
+<string>Harapan Kotak
+<string>Buka semua kontainer BSAA.
+<string>Amarah di Jalan
+<string>Hentikan salah satu serangan Victor di jalan raya.
+<string>Tidak Hari Ini, Kawan!
+<string>Kalahkan semua bibit Plant 43.
+<string>Kucing Makan Lidahmu?
+<string>Potong lidah Licker β2 menggunakan kapak.
+<string>Perburuan Dimulai
+<string>Hancurkan satu memoriam Mr. Raccoon.
+<string>Dasar Nakal!
+<string>Hancurkan setiap memoriam Mr. Raccoon.
+<string>Teka-teki Terakhir
+<string>Biarkan pasangan manis itu mendengar suara.
 <string>
 <string>
 <string>
@@ -416,20 +416,20 @@
 <string>
 <string>
 <string>
-<string>Default
-<string>Jacket
+<string>Bawaan
+<string>Jaket
 <string>R.P.D.
 <string>Mechacop
-<string>Default
-<string>Jacket
+<string>Bawaan
+<string>Jaket
 <string>FBI
 <string>Grace Prime
-<string>Default
-<string>Tactical Light
-<string>None
-<string>Default
-<string>Default
-<string>Default
+<string>Bawaan
+<string>Senter Taktis
+<string>Tidak Ada
+<string>Bawaan
+<string>Bawaan
+<string>Bawaan
 <string>Neon
-<string>Default
+<string>Bawaan
 <string>Neon

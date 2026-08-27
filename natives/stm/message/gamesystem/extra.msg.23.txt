@@ -1,16 +1,16 @@
-<string>Grace's Costume: Apocalypse
-<string>Grace's Costume: Film Noir
-<string>Leon's Costume: Film Noir
-<string>Grace's Costume: Dimitrescu
-<string>Leon's Costume: RE4
-<string>Leon's Costume: Apocalypse
-<string>S&S M232 Weapon Skin: Film Noir
-<string>Requiem Weapon Skin: Film Noir
-<string>S&S M232 Weapon Skin: Apocalypse
-<string>Requiem Weapon Skin: Apocalypse
-<string>Mr. Raccoon Charm
-<string>DSO Emblem Charm
-<string>Audio Pack: Raccoon City Classic
-<string>Files: Letters from 1998
-<string>Screen Filter: Film Noir
-<string>Screen Filter: Apocalypse
+<string>Kostum Grace: Apocalypse
+<string>Kostum Grace: Film Noir
+<string>Kostum Leon: Film Noir
+<string>Kostum Grace: Dimitrescu
+<string>Kostum Leon: RE4
+<string>Kostum Leon: Apocalypse
+<string>Skin Senjata S&S M232: Film Noir
+<string>Skin Senjata Requiem: Film Noir
+<string>Skin Senjata S&S M232: Apocalypse
+<string>Skin Senjata Requiem: Apocalypse
+<string>Gantungan Mr. Raccoon
+<string>Gantungan Emblem DSO
+<string>Paket Audio: Raccoon City Classic
+<string>Berkas: Surat dari 1998
+<string>Filter Layar: Film Noir
+<string>Filter Layar: Apocalypse
