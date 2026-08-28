@@ -347,7 +347,7 @@
 <string>Dosis Fatal
 <string>Kalahkan zombie menggunakan injektor hemolitik.
 <string>Seperti Ibu, Seperti Anak
-<string>Buka laci dengan kunci picking.
+<string>Buka laci dengan pembuka kunci.
 <string>Jauh dari Mata, Jauh dari Pikiran
 <string>Simpan item di kotak item sebagai Grace.
 <string>Tidak Ada Brankas yang Aman

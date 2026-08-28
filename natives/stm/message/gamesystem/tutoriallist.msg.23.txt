@@ -80,9 +80,9 @@
 <string>Membersihkan Jalan
 <string>Kamu perlu menjatuhkan cukup banyak musuh<lf>untuk membersihkan jalur pelarian. Tentukan<lf>musuh mana yang paling banyak menimbulkan<lf>masalah.
 <string>Serangan Tertarget
-<string>Bidik kepala atau kaki untuk membuat musuh terhuyung.<lf>Setelah terhuyung, kamu dapat melontarkan mereka<lf>menggunakan serangan jarak dekat dengan <ICON INTERACT_MARTIAL_ARTS>.
+<string>Bidik kepala atau kaki untuk membuat musuh<lf>terhuyung. Setelah terhuyung, kamu dapat<lf>melontarkan mereka menggunakan serangan jarak<lf>dekat dengan <ICON INTERACT_MARTIAL_ARTS>.
 <string>Hasil Darah Lebih Tinggi
-<string>Kepala dan kaki musuh akan mengeluarkan lebih banyak darah<lf>daripada bagian lain setelah dihancurkan, jadi<lf>bidik area tersebut untuk mengumpulkan lebih banyak darah<lf>setelah menjatuhkan mereka.
+<string>Kepala dan kaki musuh akan mengeluarkan lebih banyak<lf>darah daripada bagian lain setelah dihancurkan, jadi<lf>bidik area tersebut untuk mengumpulkan lebih banyak<lf>darah setelah menjatuhkan mereka.
 <string>Zombie dan Senter
 <string>Zombie tidak akan mengubah perilaku mereka<lf>sebagai respons terhadap senter.
 <string>Requiem

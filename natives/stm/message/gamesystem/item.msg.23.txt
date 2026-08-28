@@ -95,7 +95,7 @@
 <string>Pisau Darurat
 <string>Pisau buatan tangan yang kasar cocok<lf>untuk pertarungan jarak dekat. Dapat<lf>digunakan untuk melawan musuh saat<lf>dicengkeram.
 <string>Pisau Berburu
-<string>Pisau yang sudah usang cocok untuk pertarungan<lf>jarak dekat. Dapat digunakan untuk melawan<lf>musuh saat dicengkeram.
+<string>Pisau yang sudah usang cocok untuk<lf>pertarungan jarak dekat. Dapat digunakan<lf>untuk melawan musuh saat dicengkeram.
 <string>Mortal Edge
 <string>Instrumen kematian yang tangguh.<lf>Telah merenggut banyak nyawa dan<lf>diselimuti sejarah berdarah yang panjang.<lf>Memiliki kemampuan tangkisan luar biasa.
 <string>Desain yang sederhana, tetapi saat<lf>berada di tangan pengguna yang terampil,<lf>menjadi senjata yang mematikan.
@@ -457,7 +457,7 @@
 <string>Kunci Pantri
 <string>Kunci dengan label bertuliskan "Pantri."<lf>Lengket saat disentuh.
 <string>Kotak Transport Organ
-<string>Kotak berpendingin untuk mengangkut organ.<lf>Berat dengan sampel yang siap dibawa.
+<string>Kotak berpendingin untuk mengangkut<lf>organ. Berat dengan sampel yang siap<lf>dibawa.
 <string>Kunci Pas
 <string>Alat untuk memutar mur dan baut<lf>berbentuk heksagonal. Bau oli.
 <string>Gelang ID (Level 3)
@@ -595,7 +595,7 @@
 <string>Pengumpul Darah
 <string>Perangkat analisis yang mengumpulkan<lf>darah yang dapat diubah untuk meracik<lf>item lainnya.
 <string>Gantungan Stakeout Takeout
-<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan kekuatan pisau<lf>dan ketahanannya</COLOR>.
+<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan<lf>kekuatan pisau dan ketahanannya</COLOR>.
 <string>Gantungan Rookie Tangguh
 <string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan daya tembak</COLOR>.
 <string>Gantungan Eye Spy
@@ -606,7 +606,7 @@
 <string>Pita tinta.<lf>Diperlukan saat menggunakan mesin ketik.
 <string>Koin Antik
 <string>Koin logam tua yang digunakan untuk<lf>permainan. Dapat ditukar dengan<lf>hadiah di ruang tamu.
-<string>Kunci Picking
+<string>Pembuka Kunci
 <string>Alat untuk membuka kunci sederhana.<lf>Masing-masing hanya dapat digunakan sekali.
 <string>Tactical Tracker
 <string>Perangkat yang merekam data<lf>pertarungan. Kredit yang diperoleh dari pembunuhan<lf>dapat digunakan di kotak perbekalan.

@@ -43,7 +43,7 @@
 <string>Subjek: Eileen Zimmerson<lf>Gejala: Vokalisasi persisten dan berkelana<lf><lf>Pengangkatan beberapa saraf kranial melalui pembedahan<lf>menghasilkan jenis gangguan kepribadian<lf>histrionik yang hanya bisa digambarkan sebagai<lf>"sindrom karakter utama." Pasien<lf>terus berkelana di sekitar pusat<lf>perawatan sambil bernyanyi.
 <string>Subjek: Selena Corey<lf>Gejala: Vokalisasi persisten dan berkelana<lf><lf>Gejalanya lebih jelas dibandingkan<lf>Zimmerson. Dia sering tampil<lf>di bar dan lounge sayap barat, seolah<lf>bersaing dengan saingannya.
 <string>Pemberitahuan Konstruksi
-<string>Karena infrastruktur yang menua, konstruksi<lf>pada garasi akan dilakukan selama<lf>tanggal berikut.<lf><lf>21-28 Oktober<lf><lf>Jangan memasuki area kerja kecuali diizinkan.
+<string>Karena infrastruktur yang menua, konstruksi<lf>pada garasi akan dilakukan selama tanggal<lf>berikut.<lf><lf>21-28 Oktober<lf><lf>Jangan memasuki area kerja kecuali diizinkan.
 <string>Catatan untuk Ketua
 <string>Aku menduga kita akan menerima kunjungan<lf>dari DSO dalam waktu dekat.<lf><lf>Aku ingin kamu memberlakukan Kode Enam<lf>pada pukul 23.30. Aku telah mencapai tujuanku<lf>dan tidak lagi membutuhkan tempat ini.<lf><lf>V
 <string>Catatan Ketua
@@ -123,8 +123,8 @@
 <string>Laporan Analisis Darah Grace Ashcroft
 <string>Berikut adalah hasil analisis darah komprehensif<lf>yang kamu minta. Informasi genetik<lf>cocok dengan data yang ditentukan dengan sempurna.<lf><lf>Analisis STR: Cocok<lf>Analisis SNP: Cocok<lf>Tipe HLA: Cocok<lf>Haplogroup mtDNA: Cocok<lf>SLC24A5: Cocok<lf>CYP2D6: Cocok<lf>ABCC11: Cocok<lf>TAS2R38: Cocok<lf>C = 4,2 ly
 <string>Pemeriksaan Latar Belakang
-<string>Subjek: Grace Ashcroft<lf>Periode Observasi: 9-16 September 2026<lf>Detektif: M. D. Birdie, RGT Detective Agency<lf><lf>Ringkasan Investigasi<lf>- Bekerja di FBI di Kantor Wilayah Midwest.<lf>- Tinggal sendirian, dekat dengan kantornya.<lf>- Pulang larut, sering setelah tengah malam.<lf>- Menghabiskan waktu luang di rumah.<lf>- Tidak ada kontak yang dikonfirmasi dengan orang lain.
-<string>Temuan<lf>Sulit untuk mendekat karena target jarang<lf>meninggalkan area Kantor Wilayah Midwest FBI.<lf>Jika kamu ingin melakukan kontak tanpa menimbulkan<lf>kecurigaan, sebaiknya lakukan saat<lf>dia jauh dari rumah.<lf><lf>Laporan yang lebih rinci dan beberapa foto<lf>akan dikirim di kemudian hari.
+<string>Subjek: Grace Ashcroft<lf>Periode Observasi: 9-16 September 2026<lf>Detektif: M. D. Birdie, RGT Detective Agency<lf><lf>Ringkasan Investigasi:<lf>- Bekerja di FBI di Kantor Wilayah Midwest.<lf>- Tinggal sendirian, dekat dengan kantornya.<lf>- Pulang larut, sering setelah tengah malam.<lf>- Menghabiskan waktu luang di rumah.<lf>- Tidak ada kontak yang dikonfirmasi dengan orang lain.
+<string>Temuan:<lf>Sulit untuk mendekat karena target jarang<lf>meninggalkan area Kantor Wilayah Midwest FBI.<lf>Jika kamu ingin melakukan kontak tanpa menimbulkan<lf>kecurigaan, sebaiknya lakukan saat<lf>dia jauh dari rumah.<lf><lf>Laporan yang lebih rinci dan beberapa foto<lf>akan dikirim di kemudian hari.
 <string>Entri Jurnal Victor
 <string>30 November 2004<lf><lf>Riset tuanku telah membuahkan hasil.<lf><lf>Dan anak itu. Dia pasti potongan terakhir<lf>dari teka-teki.<lf><lf>Aku harus mendapatkan data anak itu.<lf>Aku yakin ini akan membawaku lebih dekat pada visinya.
 <string>8 Desember 2004<lf><lf>Organisasi berhasil memberiku catatan<lf>medis anak itu.<lf><lf>Kurang di beberapa area, tapi memiliki<lf>informasi genetiknya. Aku bisa menggunakan ini.
