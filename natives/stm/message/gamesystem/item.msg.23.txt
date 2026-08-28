@@ -1,5 +1,5 @@
 <string>Herbal Hijau
-<string>Herbal hijau yang akan memulihkan<lf>sedikit kesehatan. Dapat<lf>digabungkan untuk meningkatkan<lf>efeknya.
+<string>Herbal hijau yang akan memulihkan<lf>sedikit kesehatan. Dapat digabung<lf>untuk meningkatkan efeknya.
 <string>Herbal Campuran (H+H)
 <string>Campuran dua herbal hijau ini akan<lf>memulihkan kesehatan dalam jumlah sedang.
 <string>Herbal Campuran (H+H+H)
@@ -93,7 +93,7 @@
 <string>Alat serbaguna yang hebat untuk<lf>pertarungan jarak dekat dan membuka<lf>paksa sesuatu. Telah diadopsi secara<lf>luas sebagai item utilitas sejak tahun<lf>2000-an, dengan pembaruan modern.
 <string>Kapak tumpul. Tidak dapat digunakan begitu saja.<lf>Gunakan <ICON SHARPEN> untuk mengasah.
 <string>Pisau Darurat
-<string>Pisau buatan tangan yang kasar cocok<lf>untuk pertarungan jarak dekat. Dapat digunakan untuk<lf>melawan musuh saat dicengkeram.
+<string>Pisau buatan tangan yang kasar cocok<lf>untuk pertarungan jarak dekat. Dapat<lf>digunakan untuk melawan musuh saat<lf>dicengkeram.
 <string>Pisau Berburu
 <string>Pisau yang sudah usang cocok untuk pertarungan<lf>jarak dekat. Dapat digunakan untuk melawan<lf>musuh saat dicengkeram.
 <string>Mortal Edge
@@ -399,7 +399,7 @@
 <string>Bubuk Mesiu (Kecil)
 <string>Bahan racikan. Dapat digunakan<lf>untuk membuat berbagai amunisi.
 <string>Rongsokan
-<string>Bahan racikan. Gabungkan untuk membuat<lf>berbagai item.
+<string>Bahan racikan. Gabungkan untuk<lf>membuat berbagai item.
 <string>Logam Langka
 <string>Setumpuk titanium dan zirkonium.<lf>Gabungkan dengan darah terinfeksi<lf>untuk membuat amunisi 12,7x55mm.
 <string>Kaleng Pita Tinta

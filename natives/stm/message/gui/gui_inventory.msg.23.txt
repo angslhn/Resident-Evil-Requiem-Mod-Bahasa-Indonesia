@@ -27,7 +27,7 @@
 <string>RESEP
 <string>Gunakan
 <string>Periksa
-<string>Daftarkan Shortcut
+<string>Pintasan
 <string>Lengkapi
 <string>Lepaskan
 <string>Pasang Bagian
@@ -42,7 +42,7 @@
 <string>Jual
 <string>Gunakan item.
 <string>Periksa item.
-<string>Daftarkan item ke shortcut.
+<string>Daftarkan item ke pintasan.
 <string>Pilih slot untuk mendaftarkan.
 <string>Lengkapi senjata.
 <string>Lepaskan item.

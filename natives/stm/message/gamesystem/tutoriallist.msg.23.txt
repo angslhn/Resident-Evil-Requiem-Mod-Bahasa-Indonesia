@@ -1,5 +1,5 @@
 <string>Pengumpul Darah
-<string>Gunakan pengumpul darah untuk mengumpulkan<lf><COLOR preset="TextColor0">darah terinfeksi</COLOR> yang dapat<lf>dimanfaatkan untuk meracik item berguna.
+<string>Gunakan pengumpul darah untuk mengumpulkan<lf><COLOR preset="TextColor0">darah terinfeksi</COLOR> yang dapat dimanfaatkan untuk<lf>meracik item berguna.
 <string>Kamu dapat meningkatkan kemampuan meracikmu<lf>dengan <COLOR preset="TextColor0">menganalisis spesimen darah<lf>menggunakan mikroskop laser</COLOR>.
 <string>Menggunakan Mesin Ketik
 <string>Saat bermain pada kesulitan Standar (Klasik)<lf>atau lebih tinggi, <COLOR preset="TextColor0">simpan otomatis selama cerita Grace<lf>akan dibatasi.</COLOR> Pita tinta diperlukan<lf>untuk menyimpan di mesin ketik.
@@ -29,7 +29,7 @@
 <string>Menyerang kepala atau kaki musuh akan membuat mereka<lf>terhuyung. Saat terhuyung, kamu dapat mendorong<lf>mereka dengan serangan jarak dekat menggunakan <ICON INTERACT_MARTIAL_ARTS>.<lf>Gunakan taktik ini untuk keuntunganmu untuk<lf>mendorong beberapa musuh di dekatnya.
 <string>Jatuhkan musuh ke tanah atau ke<lf>dinding dengan serangan jarak dekat, dan kamu akan<lf>memiliki waktu singkat untuk melakukan<lf>serangan akhir dengan <ICON INTERACT_MELEE_WEAPON>.
 <string>Mengelola Item
-<string>Manajemen item adalah kunci bertahan hidup. Hindari<lf>membuang item dengan menyimpannya di<lf>kotak item atau memanfaatkan kantong pinggul untuk<lf>meningkatkan kapasitas bawaanmu.
+<string>Manajemen item adalah kunci bertahan hidup.<lf>Hindari membuang item dengan menyimpannya<lf>di kotak item atau memanfaatkan kantong<lf>pinggul untuk meningkatkan kapasitas bawaanmu.
 <string>Menjual Senjata
 <string>Senjata yang tidak muat di tas itemmu<lf>dapat dijual di kotak perbekalan.<lf>Senjata itu dapat dibeli kembali dengan jumlah<lf>yang sama, jadi anggap saja dititipkan<lf>untuk diamankan.
 <string>Menu Item
