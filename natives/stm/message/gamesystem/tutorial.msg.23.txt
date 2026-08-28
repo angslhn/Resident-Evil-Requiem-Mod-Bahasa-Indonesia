@@ -97,7 +97,7 @@
 <string>Resep racikan yang diperoleh dapat dilihat<lf>di menu Meracik melalui <ICON INVENTORY>.
 <string>Kamu dapat membuat item baru di menu<lf>Meracik dengan menggabungkan item.<lf><lf>Dapatkan resep baru dengan menganalisis<lf>spesimen darah menggunakan mikroskop laser.
 <string>Resep dan Meracik
-<string>Beberapa aksi dan serangan tidak mungkin dilakukan<lf>saat kamu menggendong Emily. Kamu dapat menurunkannya<lf>di sofa di kantor penjaga, selagi<lf>kamu melakukan apa yang perlu.
+<string>Beberapa aksi dan serangan tidak mungkin<lf>dilakukan saat kamu menggendong Emily.<lf>Kamu dapat menurunkannya di sofa di kantor<lf>penjaga, selagi kamu melakukan apa yang<lf>perlu.
 <string>Menggendong Emily
 <string>Baca Laporan Investigasi
 <string><ICON INVENTORY>
