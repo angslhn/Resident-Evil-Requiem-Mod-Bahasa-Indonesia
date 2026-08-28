@@ -595,11 +595,11 @@
 <string>Pengumpul Darah
 <string>Perangkat analisis yang mengumpulkan<lf>darah yang dapat diubah untuk meracik<lf>item lainnya.
 <string>Gantungan Stakeout Takeout
-<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan<lf>kekuatan pisau dan ketahanannya</COLOR>.
+<string>Gantungan misterius yang bekerja<lf>hanya dengan memegangnya.<lf><COLOR preset="TextColor3">Meningkatkan kekuatan pisau dan<lf>ketahanannya</COLOR>.
 <string>Gantungan Rookie Tangguh
-<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan daya tembak</COLOR>.
+<string>Gantungan misterius yang bekerja<lf>hanya dengan memegangnya.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak</COLOR>.
 <string>Gantungan Eye Spy
-<string>Gantungan misterius yang bekerja hanya<lf>dengan memegangnya. <COLOR preset="TextColor3">Meningkatkan kemungkinan<lf>kamu selamat dari kerusakan fatal</COLOR>.
+<string>Gantungan misterius yang bekerja<lf>hanya dengan memegangnya.<lf><COLOR preset="TextColor3">Meningkatkan<lf>kemungkinan kamu selamat dari<lf>kerusakan fatal</COLOR>.
 <string>Injektor Hemolitik
 <string>Obat khusus yang menghancurkan sel<lf>darah terinfeksi. Mencegah mayat<lf>bermutasi dan dapat digunakan untuk<lf>menjatuhkan musuh secara diam-diam.
 <string>Pita Tinta
