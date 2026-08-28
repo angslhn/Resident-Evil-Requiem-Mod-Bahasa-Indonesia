@@ -9,7 +9,7 @@
 <string>Injektor Hemolitik
 <string>Jika kamu menyelinap ke musuh dari belakang,<lf>kamu dapat menggunakan injektor hemolitik untuk<lf>menjatuhkan mereka seketika—strategi yang sama<lf>dapat digunakan pada musuh yang terhuyung.
 <string>Bagian Kustom
-<string>Bagian kustom dapat digunakan untuk meningkatkan<lf>senjata tertentu.<lf><lf>Pilih bagian kustom melalui menu Item<lf>untuk memasangnya pada senjata yang kompatibel.
+<string>Bagian kustom dapat digunakan untuk meningkatkan<lf>senjata tertentu.<lf><lf>Pilih bagian kustom melalui menu Item untuk<lf>memasangnya pada senjata yang kompatibel.
 <string>Mengelola Kredit
 <string>Tactical Tracker mencatat data pertarunganmu<lf>secara real-time: semakin banyak musuh yang kamu<lf>kalahkan, semakin banyak kredit yang kamu peroleh.<lf><COLOR preset="TextColor0">Kredit dapat digunakan untuk membeli item,<lf>senjata, atau peningkatan di kotak perbekalan</COLOR>.
 <string>Putar Cepat
@@ -64,7 +64,7 @@
 <string>Batuk Leon
 <string>Leon mencapai batasnya. Serangan batuk<lf>mendadak dan penglihatan kabur akan menyebabkan<lf>dia terhuyung. Dia hanya bisa menunggu<lf>efek ini mereda.
 <string>Gantungan (Leon)
-<string>Kamu dapat memasang gantungan ke senjatamu<lf>untuk mengaktifkan efek. Pasang gantungan dengan<lf>memilih senjata melalui menu Item,<lf>lalu pilih gantungan yang ingin kamu pasang.
+<string>Kamu dapat memasang gantungan ke senjatamu<lf>untuk mengaktifkan efek. Pasang gantungan dengan<lf>memilih senjata melalui menu Item, lalu pilih<lf>gantungan yang ingin kamu pasang.
 <string>Permainan Kedua (Leon)
 <string>Dari permainan kedua dan seterusnya, Leon dapat<lf>memperoleh dan menyetel peralatan lebih awal.<lf>- Tactical Tracker mulai di inventori.<lf>- Kotak perbekalan tersedia di setiap area.<lf>- Peralatan yang diperoleh di permainan sebelumnya<lf>dapat diperoleh dari kotak perbekalan.
 <string>Pengaturan Goyangan Kamera

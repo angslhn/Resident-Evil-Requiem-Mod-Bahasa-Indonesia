@@ -30,8 +30,8 @@
 <string>
 <string>
 <string>MSBG 500
-<string>Shotgun pump-action yang ringkas.<lf>Menawarkan sebaran yang sangat baik, tetapi dengan<lf>kapasitas terbatas. Dapat dikustomisasi<lf>untuk ledakan yang lebih lebar.
-<string>Dilengkapi dengan rem moncong dan dirancang<lf>untuk kemampuan manuver, senjata ini ideal<lf>untuk tembakan presisi bahkan di ruang sempit.
+<string>Shotgun pump-action yang ringkas.<lf>Menawarkan sebaran yang sangat baik,<lf>tetapi dengan kapasitas terbatas. Dapat<lf>dikustomisasi untuk ledakan yang lebih<lf>lebar.
+<string>Dilengkapi dengan rem moncong dan<lf>dirancang untuk kemampuan manuver, senjata<lf>ini ideal untuk tembakan presisi bahkan<lf>di ruang sempit.
 <string>W870 Police
 <string>Shotgun pump-action dengan sebaran<lf>yang mengesankan. Memerlukan pegangan<lf>yang kuat untuk mengendalikan kekuatannya yang tinggi.
 <string>Sisa dari toko senjata Robert Kendo.<lf>Memiliki popor lipat bersama dengan<lf>peningkatan kustom lainnya.
