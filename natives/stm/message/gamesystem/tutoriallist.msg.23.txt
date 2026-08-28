@@ -1,13 +1,13 @@
 <string>Pengumpul Darah
 <string>Gunakan pengumpul darah untuk mengumpulkan<lf><COLOR preset="TextColor0">darah terinfeksi</COLOR> yang dapat dimanfaatkan untuk<lf>meracik item berguna.
-<string>Kamu dapat meningkatkan kemampuan meracikmu<lf>dengan <COLOR preset="TextColor0">menganalisis spesimen darah<lf>menggunakan mikroskop laser</COLOR>.
+<string>Kamu dapat meningkatkan kemampuan meracikmu<lf>dengan <COLOR preset="TextColor0">menganalisis spesimen darah</COLOR> menggunakan<lf><COLOR preset="TextColor0">mikroskop laser</COLOR>.
 <string>Menggunakan Mesin Ketik
 <string>Saat bermain pada kesulitan Standar (Klasik)<lf>atau lebih tinggi, <COLOR preset="TextColor0">simpan otomatis selama cerita Grace<lf>akan dibatasi.</COLOR> Pita tinta diperlukan<lf>untuk menyimpan di mesin ketik.
 <string><COLOR preset="TextColor0">Pita tinta</COLOR> langka, jadi pastikan<lf>untuk menggunakannya dengan bijak.
 <string>Shortcut Senjata
 <string>Senjata dapat ditetapkan ke shortcut<lf>melalui menu Item. Hingga enam senjata<lf>dapat ditetapkan sekaligus, dua senjata<lf>dalam tiga arah berbeda.
 <string>Injektor Hemolitik
-<string>Jika kamu menyelinap ke musuh dari belakang,<lf>kamu dapat menggunakan injektor hemolitik untuk menjatuhkan<lf>mereka seketika—strategi yang sama<lf>dapat digunakan pada musuh yang terhuyung.
+<string>Jika kamu menyelinap ke musuh dari belakang,<lf>kamu dapat menggunakan injektor hemolitik untuk<lf>menjatuhkan mereka seketika—strategi yang sama<lf>dapat digunakan pada musuh yang terhuyung.
 <string>Bagian Kustom
 <string>Bagian kustom dapat digunakan untuk meningkatkan<lf>senjata tertentu.<lf><lf>Pilih bagian kustom melalui menu Item<lf>untuk memasangnya pada senjata yang kompatibel.
 <string>Mengelola Kredit
