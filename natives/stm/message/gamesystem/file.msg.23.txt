@@ -22,13 +22,13 @@
 <string>Catatan di Kotak Karton
 <string>Kepada Staf,<lf><lf>Aku telah memindahkan beberapa item dari lemari.<lf><lf><COLOR preset="TextColor0">Obeng</COLOR> sekarang ada di <COLOR preset="TextColor0">kotak perkakas di pos<lf>perawat</COLOR>.<lf><lf>Kit jahit ada di [teks kabur dan tidak terbaca]
 <string>Coretan Papan Tulis
-<string>Ruang Obat<lf><lf>Personel yang tidak berwenang tidak diizinkan<lf>melewati titik ini.<lf><lf>Jika terjadi kejanggalan, hubungi<lf>peneliti utama segera.<lf><lf>Dalam keadaan darurat—
+<string>Ruang Obat<lf><lf>Personel yang tidak berwenang tidak diizinkan<lf>melewati titik ini.<lf><lf>Jika terjadi kejanggalan, hubungi peneliti<lf>utama segera.<lf><lf>Dalam keadaan darurat—
 <string>Pamflet Pusat Perawatan
 <string>Direktur: Victor Gideon<lf>"Mengubah hidup melalui pengobatan."<lf><lf>Ketua: Mitchell Bennett<lf>Peneliti Utama: Anthony Richardson<lf>Manajer Keamanan: Luke Clark<lf><lf>"Martabat bulan, kepercayaan matahari,<lf>ketenangan bintang. Kami adalah mitra."
 <string>Membuka Kotak Transport Organ
 <string>
 <string>Pesan Peneliti Utama
-<string>Untuk sekretarisku,<lf><lf>Aku salah menaruh kunci untuk gembok kotak<lf>teka-teki. Tidak ada eksekutif lain<lf>yang boleh tahu.<lf><lf>Aku perlu kamu menemukannya secara diam-diam sebelum<lf>rapat minggu depan. Jika kamu tidak bisa menemukannya,<lf>ambil botol <COLOR preset="TextColor0">korosif</COLOR> dari<lf><COLOR preset="TextColor0">ruang konferensi</COLOR> dan lelehkan gemboknya.
+<string>Untuk sekretarisku,<lf><lf>Aku salah menaruh kunci untuk gembok kotak<lf>teka-teki. Tidak ada eksekutif lain yang boleh<lf>tahu.<lf><lf>Aku perlu kamu menemukannya secara diam-diam<lf>sebelum rapat minggu depan. Jika kamu tidak<lf>bisa menemukannya, ambil botol <COLOR preset="TextColor0">korosif</COLOR> dari<lf><COLOR preset="TextColor0">ruang konferensi</COLOR> dan lelehkan gemboknya.
 <string>Catatan Terlipat
 <string>Aku harus segera pergi dari sini, tapi seluruh<lf>gedung dikunci. Aku harus meminta <COLOR preset="TextColor0">ketua</COLOR><lf>untuk mengambilkan <COLOR preset="TextColor0">kuarsanya</COLOR> untukku.<lf><lf>Aku baru saja mendengar teriakan lagi.<lf>Rekan-rekanku saling membunuh.<lf>Apa yang sedang terjadi?
 <string>Salinan Email ke Manajer
@@ -37,7 +37,7 @@
 <string>Kepada seluruh staf,<lf><lf>Kami akan memperbarui brankas-brankas berikut<lf>di fasilitas:<lf><lf><COLOR preset="TextColor0">- Sayap timur Lt. 1: Ruang Tunggu</COLOR><lf><COLOR preset="TextColor0">- Sayap barat Lt. 2: Bar & Lounge</COLOR><lf>- Sayap timur Lt. 1: [kabur dan tidak terbaca]<lf><lf>Brankas yang tersisa akan diganti di lain<lf>waktu.
 <string>Sintesis Senyawa Darah
 <string>Pengumpul darah kustom yang<lf>dipesan Dr. Richardson akhirnya<lf>tiba.<lf><lf>Sejujurnya, awalnya aku ragu,<lf>tapi aku benar-benar terkesan dengan<lf>efektivitasnya.
-<string>Menggabungkan darah terinfeksi dengan zat<lf>eksperimental kami sungguh merupakan<lf>tantangan bagi kami, tapi perangkat ini membuatnya<lf>begitu mudah!<lf><lf>Ini pasti akan meningkatkan efisiensi<lf>riset darah kami dan mempercepat analisis<lf>untuk pola mutasi lebih lanjut.
+<string>Menggabungkan darah terinfeksi dengan<lf>zat eksperimental kami sungguh merupakan<lf>tantangan bagi kami, tapi perangkat ini<lf>membuatnya begitu mudah!<lf><lf>Ini pasti akan meningkatkan efisiensi<lf>riset darah kami dan mempercepat analisis<lf>untuk pola mutasi lebih lanjut.
 <string>Catatan Medis Pasien
 <string>Subjek: Kasus Martin L.<lf>Gejala: Sensitivitas auditori<lf><lf>Setelah eksperimen dengan overdosis<lf>Zipreval, subjek mulai mengalami<lf>halusinasi auditori dan menjadi<lf>agresif serta sulit dikendalikan.<lf>Subjek menunjukkan perilaku tidak menentu<lf>saat terpapar <COLOR preset="TextColor0">suara keras</COLOR>.
 <string>Subjek: Eileen Zimmerson<lf>Gejala: Vokalisasi persisten dan berkelana<lf><lf>Pengangkatan beberapa saraf kranial melalui pembedahan<lf>menghasilkan jenis gangguan kepribadian<lf>histrionik yang hanya bisa digambarkan sebagai<lf>"sindrom karakter utama." Pasien<lf>terus berkelana di sekitar pusat<lf>perawatan sambil bernyanyi.
@@ -127,7 +127,7 @@
 <string>Temuan<lf>Sulit untuk mendekat karena target jarang<lf>meninggalkan area Kantor Wilayah Midwest FBI.<lf>Jika kamu ingin melakukan kontak tanpa menimbulkan<lf>kecurigaan, sebaiknya lakukan saat<lf>dia jauh dari rumah.<lf><lf>Laporan yang lebih rinci dan beberapa foto<lf>akan dikirim di kemudian hari.
 <string>Entri Jurnal Victor
 <string>30 November 2004<lf><lf>Riset tuanku telah membuahkan hasil.<lf><lf>Dan anak itu. Dia pasti potongan terakhir<lf>dari teka-teki.<lf><lf>Aku harus mendapatkan data anak itu.<lf>Aku yakin ini akan membawaku lebih dekat pada visinya.
-<string>8 Desember 2004<lf><lf>Organisasi berhasil memberiku<lf>catatan medis anak itu.<lf><lf>Kurang di beberapa area, tapi memiliki<lf>informasi genetiknya. Aku bisa menggunakan ini.
+<string>8 Desember 2004<lf><lf>Organisasi berhasil memberiku catatan<lf>medis anak itu.<lf><lf>Kurang di beberapa area, tapi memiliki<lf>informasi genetiknya. Aku bisa menggunakan ini.
 <string>Riset Spencer I
 <string>Riset Tuan Spencer<lf><lf>Victor Gideon
 <string>Strain T-Virus Bermutasi<lf><lf>Dengan ini mendokumentasikan teori yang menggunakan<lf>T-Virus untuk mengendalikan memori dan kehendak.<lf><lf>Riset ini akan berfungsi sebagai cahaya penuntun<lf>bagi seluruh umat manusia.

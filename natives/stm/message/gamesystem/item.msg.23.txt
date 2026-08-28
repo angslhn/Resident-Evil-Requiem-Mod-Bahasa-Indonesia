@@ -409,7 +409,7 @@
 <string>Pita Tinta Kosong
 <string>Kaleng pita tinta kosong.<lf>Tidak ada gunanya.
 <string>Injektor Kosong
-<string>Bahan racikan. Gunakan untuk membuat<lf>steroid atau stabilizer.
+<string>Bahan racikan. Gunakan untuk<lf>membuat steroid atau stabilizer.
 <string>Pemotong Baut
 <string>Alat untuk memotong rantai.
 <string>Pensil
@@ -447,11 +447,11 @@
 <string>Korosif
 <string>Botol kaca berisi asam kuat.<lf>Dapat langsung mengikis logam tertentu.
 <string>Spesimen Darah (Terdenaturasi)
-<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik amunisi pistol dan<lf>injektor hemolitik.
+<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik amunisi pistol<lf>dan injektor hemolitik.
 <string>Spesimen Darah (Konvergen)
-<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik injektor medis dan<lf>amunisi 12,7x55mm.
+<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik injektor medis<lf>dan amunisi 12,7x55mm.
 <string>Spesimen Darah (Reversibel)
-<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik steroid dan stabilizer.
+<string>Sampel darah yang bermutasi.<lf>Menganalisisnya dengan mikroskop laser<lf>memungkinkanmu meracik steroid dan<lf>stabilizer.
 <string>Gelang ID (Level 2)
 <string>Gelang ID yang digunakan di pusat<lf>perawatan. Memberikan izin hingga level 2.
 <string>Kunci Pantri
@@ -569,11 +569,11 @@
 <string>Peningkatan Tas (8x13)
 <string>Meningkatkan ukuran tas itemmu<lf>menjadi 8x13.
 <string>Steroid
-<string>Secara dramatis memperkuat otot<lf>dan <COLOR preset="TextColor3">meningkatkan kesehatan maksimal</COLOR>.<lf>Efeknya permanen.
+<string>Secara dramatis memperkuat otot<lf>dan <COLOR preset="TextColor3">meningkatkan kesehatan<lf>maksimal</COLOR>. Efeknya permanen.
 <string>
 <string>
 <string>Stabilizer
-<string><COLOR preset="TextColor3">Meningkatkan daya tembak dan stabilitas<lf>tembakan</COLOR> dengan meningkatkan fokus.<lf>Efeknya permanen.
+<string><COLOR preset="TextColor3">Meningkatkan daya tembak dan<lf>stabilitas tembakan</COLOR> dengan meningkatkan<lf>fokus. Efeknya permanen.
 <string>
 <string>
 <string>Korek
