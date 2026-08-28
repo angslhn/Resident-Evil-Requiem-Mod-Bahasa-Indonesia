@@ -73,7 +73,7 @@
 <string>
 <string>
 <string>
-<string>Item yang Dapat Diracik
+<string>Item Dapat Diracik
 <string>Urutan Resep
 <string>SPESIFIKASI
 <string>Kekuatan

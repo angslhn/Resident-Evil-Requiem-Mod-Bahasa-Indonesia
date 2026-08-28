@@ -573,7 +573,7 @@
 <string>
 <string>
 <string>Stabilizer
-<string><COLOR preset="TextColor3">Meningkatkan daya tembak dan<lf>stabilitas tembakan</COLOR> dengan meningkatkan<lf>fokus. Efeknya permanen.
+<string><COLOR preset="TextColor3">Meningkatkan daya tembak dan<lf>stabilitas tembakan</COLOR> dengan<lf>meningkatkan fokus. Efeknya permanen.
 <string>
 <string>
 <string>Korek
