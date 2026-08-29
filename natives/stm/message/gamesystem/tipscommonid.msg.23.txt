@@ -39,16 +39,16 @@
 <string><REF TutorialList_023_Description>
 <string>Tutup pintu untuk menghentikan musuh<lf>melihatmu dan mencegah deteksi.
 <string>Tabung gas dapat dilempar ke dekat musuh.<lf>Mereka akan meledak setelah beberapa saat,<lf>atau dapat ditembak untuk efek langsung.
-<string>Mengisi ulang peluru satu per satu bisa memakan<lf>waktu. Tekan <ICON HOLD> untuk membatalkan<lf>pengisian dengan cepat.
+<string>Mengisi ulang peluru satu per satu bisa memakan<lf>waktu. Tekan <ICON HOLD> untuk membatalkan pengisian<lf>dengan cepat.
 <string><REF TutorialList_068_Description>
 <string>Setelah permainan berakhir, kamu akan kembali ke<lf>lokasi simpanan terakhirmu. Sering-seringlah menyimpan<lf>di mesin ketik agar tidak kehilangan<lf>progresmu.
 <string>Mayat zombie yang terlalu lama dibiarkan<lf>akan bermutasi menjadi Blister Head. Berhadapan dengan<lf>musuh kuat ini, melarikan diri mungkin menjadi<lf>pilihan terbaikmu. Jika kamu memutuskan untuk bertahan,<lf>Requiem yang kuat mungkin menjadi sahabat terbaikmu.
-<string>Mayat zombie bermutasi menjadi Blister Head.<lf>Cara terbaik untuk menjatuhkan mereka adalah dengan mengarahkan<lf>serangan akhir ke kepala mereka. Kamu juga<lf>dapat memperlambat mereka dengan menargetkan kaki mereka.
+<string>Mayat zombie bermutasi menjadi Blister Head.<lf>Cara terbaik untuk menjatuhkan mereka adalah<lf>dengan mengarahkan serangan akhir ke kepala<lf>mereka. Kamu juga dapat memperlambat mereka<lf>dengan menargetkan kaki mereka.
 <string>Blister Head memiliki serangan kematian instan.<lf>Perhatikan gerakan dan suara mereka.
 <string>Jauhi zombie yang memegang granat<lf>jika kamu tidak ingin meledak tinggi-tinggi. Bergeraklah<lf>ke jarak aman dan tembak granatnya<lf>untuk menangani situasi.
 <string><REF TutorialList_054_Description>
 <string><REF TutorialList_055_Description>
-<string>Saat shotgun kehabisan amunisi, satu peluru<lf>dapat dimuat dan ditembakkan segera.<lf>Mengisi ulang penuh membutuhkan waktu, jadi putuskan apakah akan menembak<lf>sampai kosong atau mengisi ulang dengan amunisi tersisa.
+<string>Saat shotgun kehabisan amunisi, satu peluru<lf>dapat dimuat dan ditembakkan segera.<lf>Mengisi ulang penuh membutuhkan waktu, jadi<lf>putuskan apakah akan menembak sampai kosong<lf>atau mengisi ulang dengan amunisi tersisa.
 <string>Untuk bertahan di mode Insanity, pergilah ke Konten Spesial<lf>untuk memperoleh senjata baru dan membuka<lf>penyetelan lanjutan untuk bagian senjata.<lf>Completion Points (CP) yang diperlukan<lf>dapat diperoleh dengan menyelesaikan tantangan.
 <string>
 <string>

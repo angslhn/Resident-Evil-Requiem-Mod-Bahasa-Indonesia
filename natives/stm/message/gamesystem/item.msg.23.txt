@@ -417,7 +417,7 @@
 <string>Kunci Cherub
 <string>Kunci dengan motif cherub. Dingin<lf>saat disentuh dan lebih berat dari<lf>kelihatannya.
 <string>Steker Sambungan
-<string>Komponen yang digunakan untuk menghubungkan<lf>sirkuit listrik. Dapat memberikan daya saat<lf>dimasukkan ke soket listrik.
+<string>Komponen yang digunakan untuk<lf>menghubungkan sirkuit listrik. Dapat<lf>memberikan daya saat dimasukkan<lf>ke soket listrik.
 <string>Obeng
 <string>Berkarat dan gagangnya terlihat aus,<lf>tetapi seharusnya masih berfungsi.
 <string>Sekring
@@ -479,7 +479,7 @@
 <string>Jam Pasir
 <string>Jam pasir antik.<lf>Dirawat dengan baik.
 <string>Model Heliks Ganda
-<string>Model heliks ganda, mengingatkan<lf>pada DNA. Ada tonjolan di<lf>kedua ujungnya yang tampaknya<lf>dapat dimasukkan ke sesuatu.
+<string>Model heliks ganda, mengingatkan<lf>pada DNA. Ada tonjolan di kedua<lf>ujungnya yang tampaknya dapat<lf>dimasukkan ke sesuatu.
 <string>Kunci Palka
 <string>Kunci kuningan dengan kait berornamen.<lf>Berat di tangan anak-anak.
 <string>Poker Api

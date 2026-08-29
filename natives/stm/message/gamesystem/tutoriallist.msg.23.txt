@@ -26,8 +26,8 @@
 <string>Memulihkan Kesehatan
 <string>Gunakan herbal hijau atau injektor medis untuk memulihkan<lf>kesehatan. Herbal hijau tidak begitu ampuh<lf>sendirian, jadi coba gunakan dalam meracik<lf>untuk meningkatkan khasiat penyembuhannya.
 <string>Serangan Jarak Dekat
-<string>Menyerang kepala atau kaki musuh akan membuat mereka<lf>terhuyung. Saat terhuyung, kamu dapat mendorong<lf>mereka dengan serangan jarak dekat menggunakan <ICON INTERACT_MARTIAL_ARTS>.<lf>Gunakan taktik ini untuk keuntunganmu untuk<lf>mendorong beberapa musuh di dekatnya.
-<string>Jatuhkan musuh ke tanah atau ke<lf>dinding dengan serangan jarak dekat, dan kamu akan<lf>memiliki waktu singkat untuk melakukan<lf>serangan akhir dengan <ICON INTERACT_MELEE_WEAPON>.
+<string>Menyerang kepala atau kaki musuh akan membuat<lf>mereka terhuyung. Saat terhuyung, kamu dapat<lf>mendorong mereka dengan serangan jarak dekat<lf>menggunakan <ICON INTERACT_MARTIAL_ARTS>. Gunakan taktik ini untuk<lf>keuntunganmu untuk mendorong beberapa<lf>musuh di dekatnya.
+<string>Jatuhkan musuh ke tanah atau ke dinding dengan<lf>serangan jarak dekat, dan kamu akan memiliki<lf>waktu singkat untuk melakukan serangan akhir<lf>dengan <ICON INTERACT_MELEE_WEAPON>.
 <string>Mengelola Item
 <string>Manajemen item adalah kunci bertahan hidup.<lf>Hindari membuang item dengan menyimpannya<lf>di kotak item atau memanfaatkan kantong<lf>pinggul untuk meningkatkan kapasitas bawaanmu.
 <string>Menjual Senjata
@@ -44,7 +44,7 @@
 <string>Koin antik dapat ditukar<lf>dengan item langka di ruang tamu.
 <string>Pertarungan Pisau
 <string>Saat memegang pisau, kamu dapat menebas<lf>musuh dengan <ICON MELEE_WEAPON>, atau melakukan tusukan cepat<lf>dengan <ICON GUARD_ATTACK>.
-<string>Saat ragu, selalu baik untuk memiliki<lf>pisau di tangan. Pisau dapat digunakan<lf>untuk melarikan diri saat musuh menangkapmu<lf>dalam cengkeramannya—tetapi kamu tidak akan bisa<lf>mendapatkan pisaumu kembali sampai kamu mengalahkannya.
+<string>Saat ragu, selalu baik untuk memiliki pisau<lf>di tangan. Pisau dapat digunakan untuk melarikan<lf>diri saat musuh menangkapmu dalam cengkeramannya<lf>tetapi kamu tidak akan bisa mendapatkan pisaumu<lf>kembali sampai kamu mengalahkannya.
 <string>Pembunuhan Diam-diam
 <string>Gunakan kapak untuk mengeksekusi musuh yang<lf>tidak curiga dari belakang.
 <string>Mutasi Blister Head

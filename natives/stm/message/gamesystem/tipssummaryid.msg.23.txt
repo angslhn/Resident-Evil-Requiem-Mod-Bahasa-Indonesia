@@ -1,48 +1,48 @@
 <string>Menghadapi Masa Lalu
-<string>Analis intelijen FBI Grace Ashcroft<lf>pergi menyelidiki lokasi terbaru dari serangkaian<lf>kematian misterius, Wrenwood Hotel.<lf>Tempat yang sama di mana ibunya dibunuh<lf>delapan tahun sebelumnya.
+<string>Analis intelijen FBI Grace Ashcroft<lf>pergi menyelidiki lokasi terbaru dari serangkaian<lf>kematian misterius, Wrenwood Hotel. Tempat<lf>yang sama di mana ibunya dibunuh delapan<lf>tahun sebelumnya.
 <string>Menghadapi Masa Lalu
-<string>Analis intelijen FBI Grace Ashcroft<lf>pergi menyelidiki lokasi terbaru dari serangkaian<lf>kematian misterius, Wrenwood Hotel.<lf>Tempat yang sama di mana ibunya dibunuh<lf>delapan tahun sebelumnya.
+<string>Analis intelijen FBI Grace Ashcroft<lf>pergi menyelidiki lokasi terbaru dari serangkaian<lf>kematian misterius, Wrenwood Hotel. Tempat<lf>yang sama di mana ibunya dibunuh delapan<lf>tahun sebelumnya.
 <string>Hantu Umbrella
-<string>Agen DSO Leon S. Kennedy juga telah<lf>mengikuti serangkaian kematian misterius tersebut.<lf>Tersangka utamanya, Victor Gideon, menyadari<lf>pengejaran Leon dan menyebabkan wabah<lf>untuk melarikan diri.
+<string>Agen DSO Leon S. Kennedy juga telah mengikuti<lf>serangkaian kematian misterius tersebut.<lf>Tersangka utamanya, Victor Gideon, menyadari<lf>pengejaran Leon dan menyebabkan wabah<lf>untuk melarikan diri.
 <string>Kebingungan
-<string>Grace ditawan saat menyelidiki<lf>Wrenwood Hotel. Setelah berhasil melepaskan diri<lf>dari ikatannya, dia kini harus mencari jalan<lf>keluar dari bangunan yang menyeramkan itu.
+<string>Grace ditawan saat menyelidiki Wrenwood Hotel.<lf>Setelah berhasil melepaskan diri dari ikatannya,<lf>dia kini harus mencari jalan keluar dari bangunan<lf>yang menyeramkan itu.
 <string>Kembali ke Jejak
-<string>Leon menderita penyakit tak tersembuhkan yang sama<lf>dengan yang ditemukan pada mayat-mayat itu, dan dia nyaris<lf>kehilangan Victor di Wrenwood. Mencari<lf>jawaban, Leon menuju Pusat Perawatan Kronis<lf>Rhodes Hill.
+<string>Leon menderita penyakit tak tersembuhkan<lf>yang sama dengan yang ditemukan pada mayat-mayat<lf>itu, dan dia nyaris kehilangan Victor di Wrenwood.<lf>Mencari jawaban, Leon menuju Pusat Perawatan Kronis<lf>Rhodes Hill.
 <string>Terapi Mutakhir
-<string>Grace diserang oleh monster mengerikan,<lf>tetapi Leon menyelamatkannya tepat waktu.<lf>Keduanya dipisahkan oleh Victor, dan Grace<lf>berangkat sendirian untuk melarikan diri dari pusat perawatan.
+<string>Grace diserang oleh monster mengerikan,<lf>tetapi Leon menyelamatkannya tepat waktu.<lf>Keduanya dipisahkan oleh Victor, dan Grace<lf>berangkat sendirian untuk melarikan diri<lf>dari pusat perawatan.
 <string>Tendangan di Perut
-<string>Victor percaya bahwa Grace adalah kunci untuk<lf>membuka Elpis. Sementara itu, Leon berhasil<lf>melepaskan diri dan melawan Victor, lalu menuju<lf>kantornya untuk mencari kebenaran.
+<string>Victor percaya bahwa Grace adalah kunci<lf>untuk membuka Elpis. Sementara itu, Leon berhasil<lf>melepaskan diri dan melawan Victor, lalu menuju<lf>kantornya untuk mencari kebenaran.
 <string>Tanggung Jawab
-<string>Leon mengetahui penyakitnya disebabkan oleh<lf>T-Virus, dan bertanya-tanya bagaimana Grace terhubung<lf>dengan "Elpis." Sementara itu, Grace diliputi<lf>rasa bersalah saat dia terjun ke ruang bawah tanah yang<lf>gelap gulita untuk menyelamatkan Emily.
+<string>Leon mengetahui penyakitnya disebabkan oleh T-Virus,<lf>dan bertanya-tanya bagaimana Grace terhubung dengan<lf>"Elpis." Sementara itu, Grace diliputi rasa bersalah<lf>saat dia terjun ke ruang bawah tanah yang gelap<lf>gulita untuk menyelamatkan Emily.
 <string>Bangkit dari Kedalaman
-<string>Ruang bawah tanah pusat perawatan digunakan<lf>sebagai pabrik pemrosesan untuk mengumpulkan darah<lf>yang terinfeksi. Grace dan Emily berhasil mencapai<lf>permukaan dan, sekali lagi, menuju<lf>pintu keluar pusat perawatan.
+<string>Ruang bawah tanah pusat perawatan digunakan<lf>sebagai pabrik pemrosesan untuk mengumpulkan darah<lf>yang terinfeksi. Grace dan Emily berhasil mencapai<lf>permukaan dan, sekali lagi, menuju pintu keluar<lf>pusat perawatan.
 <string>Bangkit dari Kedalaman
-<string>Ruang bawah tanah pusat perawatan digunakan<lf>sebagai pabrik pemrosesan untuk mengumpulkan darah<lf>yang terinfeksi. Grace dan Emily berhasil mencapai<lf>permukaan dan, sekali lagi, menuju<lf>pintu keluar pusat perawatan.
+<string>Ruang bawah tanah pusat perawatan digunakan<lf>sebagai pabrik pemrosesan untuk mengumpulkan darah<lf>yang terinfeksi. Grace dan Emily berhasil mencapai<lf>permukaan dan, sekali lagi, menuju pintu keluar<lf>pusat perawatan.
 <string>Jangan Pernah Percaya Helikopter
-<string>Pusat perawatan penuh dengan yang terinfeksi, dan tangki<lf>darah raksasa... Entah bagaimana ini terhubung<lf>dengan perolehan Elpis. Rencana pelarian Grace<lf>hancur berantakan, meninggalkannya terkepung<lf>oleh gerombolan terinfeksi yang haus darah.
+<string>Pusat perawatan penuh dengan yang terinfeksi, dan<lf>tangki darah raksasa... Entah bagaimana ini terhubung<lf>dengan perolehan Elpis. Rencana pelarian Grace hancur<lf>berantakan, meninggalkannya terkepung oleh<lf>gerombolan terinfeksi yang haus darah.
 <string>Membawa Emily ke Tempat Aman
-<string>Leon melindungi Grace dan Emily dari<lf>kawanan terinfeksi, tetapi kecelakaan itu membuat Emily<lf>terluka kritis. Grace bergegas melewati<lf>pabrik pengolahan air dalam upaya<lf>membawanya ke tempat aman.
+<string>Leon melindungi Grace dan Emily dari kawanan<lf>terinfeksi, tetapi kecelakaan itu membuat Emily<lf>terluka kritis. Grace bergegas melewati pabrik<lf>pengolahan air dalam upaya membawanya ke<lf>tempat aman.
 <string>Melampaui Keputusasaan
-<string>Grace diliputi rasa bersalah saat berduka atas<lf>kematian Emily. Saat dia pergi, seorang pria misterius<lf>muncul dan menyinggung "tujuan sejatinya."<lf>Leon mengikutinya ke jantung Raccoon<lf>City, melanjutkan perburuannya akan jawaban.
+<string>Grace diliputi rasa bersalah saat berduka atas<lf>kematian Emily. Saat dia pergi, seorang pria misterius<lf>muncul dan menyinggung "tujuan sejatinya." Leon<lf>mengikutinya ke jantung Raccoon City,<lf>melanjutkan perburuannya akan jawaban.
 <string>Melampaui Keputusasaan
-<string>Grace diliputi rasa bersalah saat berduka atas<lf>kematian Emily. Saat dia pergi, seorang pria misterius<lf>muncul dan menyinggung "tujuan sejatinya."<lf>Leon mengikutinya ke jantung Raccoon<lf>City, melanjutkan perburuannya akan jawaban.
+<string>Grace diliputi rasa bersalah saat berduka atas<lf>kematian Emily. Saat dia pergi, seorang pria misterius<lf>muncul dan menyinggung "tujuan sejatinya." Leon<lf>mengikutinya ke jantung Raccoon City,<lf>melanjutkan perburuannya akan jawaban.
 <string>Teori Konspirasi
-<string>Unit BSAA aktif dan yang terinfeksi berkeliaran<lf>di pinggiran Raccoon City. Apakah<lf>misil itu benar-benar digunakan untuk menghentikan penyebaran<lf>infeksi? Leon merenungkan ini saat dia menuju<lf>ke lokasi Grace jauh di dalam kota.
+<string>Unit BSAA aktif dan yang terinfeksi berkeliaran<lf>di pinggiran Raccoon City. Apakah misil itu<lf>benar-benar digunakan untuk menghentikan<lf>penyebaran infeksi? Leon merenungkan ini saat<lf>dia menuju ke lokasi Grace jauh di dalam kota.
 <string>Teori Konspirasi
-<string>Unit BSAA aktif dan yang terinfeksi berkeliaran<lf>di pinggiran Raccoon City. Apakah<lf>misil itu benar-benar digunakan untuk menghentikan penyebaran<lf>infeksi? Leon merenungkan ini saat dia menuju<lf>ke lokasi Grace jauh di dalam kota.
+<string>Unit BSAA aktif dan yang terinfeksi berkeliaran<lf>di pinggiran Raccoon City. Apakah misil itu<lf>benar-benar digunakan untuk menghentikan<lf>penyebaran infeksi? Leon merenungkan ini saat<lf>dia menuju ke lokasi Grace jauh di dalam kota.
 <string>Sambutan Hangat Raccoon City
-<string>Setelah mengalahkan Victor, Leon akhirnya tiba<lf>di pusat Raccoon City. Di reruntuhan<lf>tempat semuanya dimulai, dia melanjutkan<lf>pencariannya akan Grace.
+<string>Setelah mengalahkan Victor, Leon akhirnya tiba di<lf>pusat Raccoon City. Di reruntuhan tempat semuanya<lf>dimulai, dia melanjutkan pencariannya akan Grace.
 <string>Kunci Elpis
-<string>Elpis adalah virus yang diciptakan oleh Spencer, virus<lf>dengan kemampuan untuk mengendalikan pikiran manusia,<lf>dan Grace adalah kuncinya. Zeno menunjukkan kepada Grace<lf>rekaman yang menghantui tentang seorang gadis dengan kemiripan<lf>yang mengejutkan dengan Emily.
+<string>Elpis adalah virus yang diciptakan oleh Spencer,<lf>virus dengan kemampuan untuk mengendalikan pikiran<lf>manusia, dan Grace adalah kuncinya. Zeno menunjukkan<lf>kepada Grace rekaman yang menghantui tentang<lf>seorang gadis dengan kemiripan yang mengejutkan<lf>dengan Emily.
 <string>Kebenaran
-<string>Grace, ciptaan Spencer, adalah satu-satunya<lf>yang bisa mengambil Elpis. Banyak gadis<lf>diciptakan untuk menirunya,<lf>tetapi semuanya gagal. Leon menghadapi lebih banyak<lf>rintangan saat dia mencoba menyusul.
+<string>Grace, ciptaan Spencer, adalah satu-satunya<lf>yang bisa mengambil Elpis. Banyak gadis diciptakan<lf>untuk menirunya, tetapi semuanya gagal. Leon<lf>menghadapi lebih banyak rintangan saat dia<lf>mencoba menyusul.
 <string>Pintu Masuk ke ARK
-<string>Setelah menjatuhkan Tyrant, Leon tiba<lf>di panti asuhan dan mendapati dirinya berada di<lf>puncak jurang raksasa. Leon turun untuk<lf>menemukan ARK, tempat di mana Grace dan<lf>Elpis ditahan.
+<string>Setelah menjatuhkan Tyrant, Leon tiba di panti<lf>asuhan dan mendapati dirinya berada di puncak<lf>jurang raksasa. Leon turun untuk menemukan ARK,<lf>tempat di mana Grace dan Elpis ditahan.
 <string>Warisan Umbrella
-<string>Jauh di bawah reruntuhan Raccoon City,<lf>fasilitas besar bernama "ARK" berdengung<lf>dengan aktivitas. Leon berhasil menyusup<lf>untuk mengejar Grace. Saatnya untuk akhirnya<lf>mengungkap rahasia yang telah berusia puluhan tahun.
+<string>Jauh di bawah reruntuhan Raccoon City,<lf>fasilitas besar bernama "ARK" berdengung dengan<lf>aktivitas. Leon berhasil menyusup untuk mengejar<lf>Grace. Saatnya untuk akhirnya mengungkap rahasia<lf>yang telah berusia puluhan tahun.
 <string>Comeback
-<string>Leon dikalahkan oleh kemampuan spesial<lf>Zeno, tetapi pemikiran cepat Grace memungkinkan<lf>mereka melarikan diri. Saat kondisi Leon memburuk,<lf>dia menyampaikan tekadnya yang tak tergoyahkan kepada Grace.<lf>Bersama-sama mereka bertekad untuk menghancurkan Elpis.
+<string>Leon dikalahkan oleh kemampuan spesial Zeno,<lf>tetapi pemikiran cepat Grace memungkinkan mereka<lf>melarikan diri. Saat kondisi Leon memburuk, dia<lf>menyampaikan tekadnya yang tak tergoyahkan<lf>kepada Grace. Bersama-sama mereka bertekad<lf>untuk menghancurkan Elpis.
 <string>Pertempuran Terakhir
-<string>Sifat sejati Elpis terungkap sebagai<lf>obat antivirus yang kuat. Victor membunuh Zeno<lf>karena menghina tuannya, dan ARK runtuh<lf>saat kebenaran terungkap. Tubuh Victor<lf>bermutasi dengan hebat saat pertempuran terakhir dimulai.
+<string>Sifat sejati Elpis terungkap sebagai obat<lf>antivirus yang kuat. Victor membunuh Zeno karena<lf>menghina tuannya, dan ARK runtuh saat kebenaran<lf>terungkap. Tubuh Victor bermutasi dengan hebat<lf>saat pertempuran terakhir dimulai.
 <string>Comeback
-<string>Leon dikalahkan oleh kemampuan spesial<lf>Zeno, tetapi pemikiran cepat Grace memungkinkan<lf>mereka melarikan diri. Saat kondisi Leon memburuk,<lf>dia menyampaikan tekadnya yang tak tergoyahkan kepada Grace.<lf>Bersama-sama mereka bertekad untuk menghancurkan Elpis.
+<string>Leon dikalahkan oleh kemampuan spesial Zeno,<lf>tetapi pemikiran cepat Grace memungkinkan mereka<lf>melarikan diri. Saat kondisi Leon memburuk, dia<lf>menyampaikan tekadnya yang tak tergoyahkan<lf>kepada Grace. Bersama-sama mereka bertekad<lf>untuk menghancurkan Elpis.
