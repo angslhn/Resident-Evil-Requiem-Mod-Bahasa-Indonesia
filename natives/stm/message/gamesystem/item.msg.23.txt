@@ -42,8 +42,8 @@
 <string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan daya tinggi,<lf>senjata yang dapat kamu andalkan.
 <string>Peluru ditembakkan dari ruang paling<lf>bawah untuk mengurangi angkatan<lf>moncong. Meskipun frame dirancang<lf>untuk mengurangi hentakan, tetap<lf>membutuhkan tangan yang kuat.
 <string>Gal
-<string>Senapan mesin ringan yang dikembangkan pada<lf>tahun 1950-an. Kurang akurat tetapi memiliki<lf>kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
-<string>Struktur sederhana membuatnya lebih kecil<lf>kemungkinannya macet di pasir atau lumpur.<lf>Beberapa komponen kunci distempel<lf>untuk memfasilitasi produksi massal dan<lf>sangat tahan lama.
+<string>Senapan mesin ringan yang dikembangkan<lf>pada tahun 1950-an. Kurang akurat tetapi<lf>memiliki kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
+<string>Struktur sederhana membuatnya lebih<lf>kecil kemungkinannya macet di pasir<lf>atau lumpur. Beberapa komponen kunci<lf>distempel untuk memfasilitasi produksi<lf>massal dan sangat tahan lama.
 <string>Stiri REVO3 A1
 <string>Senapan mesin ringan polimer frame yang ringan<lf>dan ringkas. Memiliki laju tembakan tinggi<lf>dan menghasilkan kerusakan yang cukup besar.<lf>Tambahkan popor untuk meningkatkan akurasi.
 <string>Karena portabilitas dan kemudahan penggunaannya,<lf>telah diadopsi secara luas oleh keamanan<lf>VIP. Sakelarnya dirancang untuk<lf>penggunaan dua tangan.
@@ -387,9 +387,9 @@
 <string>Amunisi 12,7x55mm
 <string>Peluru kaliber besar yang kuat.<lf>Kekuatan penghancur dan benturan<lf>dari massa peluru yang besar<lf>memberikan kerusakan yang luar biasa.
 <string>Amunisi Senapan Mesin
-<string>Amunisi senapan mesin yang ringkas dan<lf>sangat portabel. Hentakannya yang relatif rendah<lf>menghasilkan akurasi tinggi. Bagus<lf>untuk taktik tembakan penekan.
+<string>Amunisi senapan mesin yang ringkas<lf>dan sangat portabel. Hentakannya yang<lf>relatif rendah menghasilkan akurasi tinggi.<lf>Bagus untuk taktik tembakan penekan.
 <string>Amunisi Senapan
-<string>Peluru senapan penetrasi tinggi.<lf>Dirancang untuk memungkinkan lintasan datar<lf>dan tembakan akurat.
+<string>Peluru senapan penetrasi tinggi.<lf>Dirancang untuk memungkinkan<lf>lintasan datar dan tembakan akurat.
 <string>Ketahanan Senjata Jarak Dekat
 <string>
 <string>
@@ -398,7 +398,7 @@
 <string>
 <string>Bubuk Mesiu (Kecil)
 <string>Bahan racikan. Dapat digunakan<lf>untuk membuat berbagai amunisi.
-<string>Rongsokan
+<string>Material
 <string>Bahan racikan. Gabungkan untuk<lf>membuat berbagai item.
 <string>Logam Langka
 <string>Setumpuk titanium dan zirkonium.<lf>Gabungkan dengan darah terinfeksi<lf>untuk membuat amunisi 12,7x55mm.
@@ -489,23 +489,23 @@
 <string>Dongkrak Mekanik
 <string>Perangkat untuk mengangkat benda berat.<lf>Gagangnya terpasang kuat.
 <string>Kunci Kontainer BSAA
-<string>Dapat membuka kontainer perbekalan BSAA<lf>yang ditemukan di sekitar area.
+<string>Dapat membuka kontainer perbekalan<lf>BSAA yang ditemukan di sekitar area.
 <string>Baterai
 <string>Baterai tua berkapasitas tinggi.<lf>Semoga masih ada dayanya.
-<string>Kaleng Bensin
+<string>Jerigen Bensin
 <string>Wadah bahan bakar plastik tua.<lf>Kosong.
 <string>Kunci Apartemen Cedarbrook
 <string>Kunci gerbang belakang.<lf>Kondisinya sangat buruk.
-<string>Kaleng Bensin dengan Bahan Bakar
-<string>Wadah plastik berisi bahan bakar.
+<string>Jerigen Bensin
+<string>Wadah bahan bakar plastik tua.<lf>Terisi penuh bahan bakar.
 <string>Penerima Sinyal
 <string>Bagian untuk detonator. Memantau<lf>dan menganalisis sinyal input untuk<lf>detonasi.
 <string>Distributor
-<string>Bagian untuk detonator. Mendistribusikan<lf>sinyal dan daya dengan tepat<lf>ke detonator dan booster.
+<string>Bagian untuk detonator.<lf>Mendistribusikan sinyal dan daya<lf>dengan tepat ke detonator dan booster.
 <string>Relai
 <string>Bagian untuk detonator. Mengalihkan<lf>arus listrik hidup/mati dan meningkatkan<lf>keamanan sirkuit detonasi.
 <string>Engkol Berkarat
-<string>Sangat berkarat karena terbengkalai<lf>bertahun-tahun. Seharusnya masih berfungsi<lf>dalam keadaan darurat.
+<string>Sangat berkarat karena terbengkalai<lf>bertahun-tahun. Seharusnya masih<lf>berfungsi dalam keadaan darurat.
 <string>Roda Tangan Katup
 <string>Roda tangan yang digunakan untuk memutar katup.
 <string>Bola Animus
@@ -565,7 +565,7 @@
 <string>Peta Raccoon Roundup (ARK)
 <string>Peta ARK yang menandai lokasi<lf>si nakal yang menggemaskan.
 <string>Kantong Pinggul
-<string>Kantong kecil yang menambah<lf>dua slot ke inventori.
+<string>Kantong kecil yang menambah<lf>dua slot ke penyimpanan.
 <string>Peningkatan Tas (8x13)
 <string>Meningkatkan ukuran tas itemmu<lf>menjadi 8x13.
 <string>Steroid
@@ -609,7 +609,7 @@
 <string>Pembuka Kunci
 <string>Alat untuk membuka kunci sederhana.<lf>Masing-masing hanya dapat digunakan sekali.
 <string>Tactical Tracker
-<string>Perangkat yang merekam data<lf>pertarungan. Kredit yang diperoleh dari pembunuhan<lf>dapat digunakan di kotak perbekalan.
+<string>Perangkat yang merekam data<lf>pertarungan. Kredit yang diperoleh dari<lf>pembunuhan dapat digunakan di kotak<lf>perbekalan.
 <string>Modul Pelacak (Umum)
 <string>Perangkat dengan data pertarungan<lf>yang tersimpan. Dapat ditukar dengan<lf>kredit di kotak perbekalan.
 <string>Modul Pelacak (Langka)

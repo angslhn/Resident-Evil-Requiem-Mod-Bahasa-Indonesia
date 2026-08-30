@@ -26,13 +26,13 @@
 <string>Apakah kamu ingin mempertahankan resolusi ini?<lf>(Kembali ke resolusi sebelumnya dalam 10 detik.)
 <string>Item yang dibuang tidak dapat dipulihkan.<lf><lf>Buang item?
 <string>Kembalikan item ke tempat semula sebelum dipindahkan?
-<string>Tinggalkan item dan tutup inventori?
-<string>Ada item yang tidak dapat dibuang<lf>di area pembuangan.<lf>Kembalikan ke inventori-mu.
-<string>Tutup inventori tanpa mengambil item?
-<string>Tutup inventori?<lf>Semua item yang tidak berada di inventori akan dibuang.
+<string>Tinggalkan item dan tutup penyimpanan?
+<string>Ada item yang tidak dapat dibuang<lf>di area pembuangan.<lf>Kembalikan ke penyimpanan-mu.
+<string>Tutup penyimpanan tanpa mengambil item?
+<string>Tutup penyimpanan?<lf>Semua item yang tidak berada di penyimpanan akan dibuang.
 <string>Buang item-item ini?
 <string>Item ini sedang digunakan dan tidak dapat dibuang.
-<string>Tidak dapat meracik item lagi karena inventori penuh.
+<string>Tidak dapat meracik item lagi karena penyimpanan penuh.
 <string>Gabungkan item yang dipilih?
 <string>
 <string>
@@ -44,11 +44,11 @@
 <string>Jual untuk kredit?
 <string>Kamu tidak memiliki item yang dapat dijual.
 <string>Kamu tidak dapat menjual semua senjata jarak jauhmu.<lf>Kamu harus memiliki setidaknya satu.
-<string>Jual semua item yang tidak berada di inventori?
+<string>Jual semua item yang tidak berada di penyimpanan?
 <string>Ada item yang tidak dapat dijual di item sementaramu.<lf>Batalkan transaksi?
-<string>Ada item yang tidak dapat kamu jual.<lf>Mohon kembalikan ke inventori-mu.
+<string>Ada item yang tidak dapat kamu jual.<lf>Mohon kembalikan ke penyimpanan-mu.
 <string>Jual untuk kredit?
-<string>Batalkan pembelian?<lf>Semua item yang tidak berada di inventori akan dijual.
+<string>Batalkan pembelian?<lf>Semua item yang tidak berada di penyimpanan akan dijual.
 <string>Gantungan ini saat ini terpasang pada senjata berikut.<lf><lf>{0}<lf><lf>Lanjutkan saja?
 <string>Gantungan yang terpasang telah dilepas dan sekarang dapat<lf>dipasang ke senjata lain.
 <string>Kamu sekarang dapat meracik:<lf>- <REF Item_Name_it40_00_000><lf>- <REF Item_Name_it99_50_001>
@@ -167,7 +167,7 @@
 <string>Konten berikut telah ditambahkan.
 <string>Kamu dapat mengubah kostum melalui Pengaturan Bonus.
 <string>Kamu dapat mengubah skin senjata melalui Pengaturan Bonus.
-<string>Di atas akan muncul di inventori-mu dalam cerita utama<lf>atau di kotak item/kotak perbekalan jika inventori-mu penuh.
+<string>Di atas akan muncul di penyimpanan-mu dalam cerita utama<lf>atau di kotak item/kotak perbekalan jika penyimpanan-mu penuh.
 <string>Kamu dapat mengubah konten ini melalui Pengaturan Bonus.
 <string>Kamu dapat mengakses konten ini setelah<lf>maju melewati titik tertentu.
 <string>Tidak dapat menemukan data berikut:

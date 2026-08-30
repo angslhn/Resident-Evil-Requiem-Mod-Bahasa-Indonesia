@@ -3,7 +3,7 @@
 <string>OK
 <string>Batal
 <string>Konfirmasi
-<string>Berikutnya
+<string>Lanjutkan
 <string>Kembali
 <string>Tutup
 <string>Racik
@@ -27,8 +27,8 @@
 <string>Sembunyi
 <string>Masuk
 <string>Baca
-<string>Ayunkan
-<string>Ayunkan
+<string>Lemparkan
+<string>Lemparkan
 <string>Lempar
 <string>Turunkan Emily
 <string>Angkat Emily
@@ -91,7 +91,7 @@
 <string><ICON CANCEL_ACTION> Tutup
 <string><ICON INVENTORY> Tutup
 <string><ICON CANCEL> Batal
-<string><ICON DECIDE> Berikutnya
+<string><ICON DECIDE> Lanjutkan
 <string><ICON DECIDE> Lewati
 <string><ICON USE_HOLD> Lewati (Tahan)
 <string><ICON PAGE_UDRS> Gulir Cepat
@@ -104,7 +104,7 @@
 <string><ICON CURSOR> Pindahkan
 <string><ICON DEFAULT> Lokasi Saat Ini
 <string><ICON CURSOR_LRPV> Ganti Halaman
-<string><ICON DECIDE> Berikutnya
+<string><ICON DECIDE> Lanjutkan
 <string><ICON SORT> Urutkan
 <string><ICON SORT> Urutkan:
 <string><ICON AREA_LRPV> Ganti Area
@@ -148,7 +148,7 @@
 <string><ICON DECIDE> Lepaskan
 <string><ICON DEFAULT> 
 <string><ICON DECIDE> Murnikan (Tahan)
-<string><ICON OPTION_RESET> Periksa Inventori
+<string><ICON OPTION_RESET> Periksa Penyimpanan
 <string><ICON SCROLL_UDRS>Gulir
 <string><ICON CANCEL> Batal
 <string><ICON CANCEL_ACTION> Batal

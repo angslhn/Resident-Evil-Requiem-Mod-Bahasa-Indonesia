@@ -53,7 +53,7 @@
 <string>Pilih item untuk disimpan.
 <string>Simpan di kotak item.
 <string>Pilih item untuk dikeluarkan.
-<string>Pindahkan ke inventori.
+<string>Pindahkan ke penyimpanan.
 <string>Pilih item.
 <string>Pilih area untuk menempatkan item ini.
 <string>Pilih item untuk diracik.

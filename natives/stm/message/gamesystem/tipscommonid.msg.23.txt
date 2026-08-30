@@ -45,7 +45,7 @@
 <string>Mayat zombie yang terlalu lama dibiarkan<lf>akan bermutasi menjadi Blister Head. Berhadapan dengan<lf>musuh kuat ini, melarikan diri mungkin menjadi<lf>pilihan terbaikmu. Jika kamu memutuskan untuk bertahan,<lf>Requiem yang kuat mungkin menjadi sahabat terbaikmu.
 <string>Mayat zombie bermutasi menjadi Blister Head.<lf>Cara terbaik untuk menjatuhkan mereka adalah<lf>dengan mengarahkan serangan akhir ke kepala<lf>mereka. Kamu juga dapat memperlambat mereka<lf>dengan menargetkan kaki mereka.
 <string>Blister Head memiliki serangan kematian instan.<lf>Perhatikan gerakan dan suara mereka.
-<string>Jauhi zombie yang memegang granat<lf>jika kamu tidak ingin meledak tinggi-tinggi. Bergeraklah<lf>ke jarak aman dan tembak granatnya<lf>untuk menangani situasi.
+<string>Jauhi zombie yang memegang granat<lf>jika kamu tidak ingin meledak tinggi-tinggi.<lf>Bergeraklah ke jarak aman dan tembak<lf>granatnya untuk menangani situasi.
 <string><REF TutorialList_054_Description>
 <string><REF TutorialList_055_Description>
 <string>Saat shotgun kehabisan amunisi, satu peluru<lf>dapat dimuat dan ditembakkan segera.<lf>Mengisi ulang penuh membutuhkan waktu, jadi<lf>putuskan apakah akan menembak sampai kosong<lf>atau mengisi ulang dengan amunisi tersisa.

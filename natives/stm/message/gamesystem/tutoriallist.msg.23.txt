@@ -51,7 +51,7 @@
 <string>Musuh terinfeksi yang telah dijatuhkan sekali<lf>dapat bermutasi dan bangkit kembali. Mutasi ini<lf>menyebabkan pertumbuhan abnormal, dimulai dari kepala.<lf>Karena itu, mereka diberi nama<lf>"Blister Head."
 <string>Ada dua cara yang pasti untuk mencegah<lf>infeksi bermutasi menjadi Blister<lf>Head: hancurkan kepala mereka dalam pertarungan atau<lf>gunakan injektor hemolitik untuk menghancurkan<lf>sisa-sisa mereka.
 <string>Tanda Centang Item
-<string>Item dengan tanda centang telah memenuhi<lf>tujuannya. Kamu dapat membuangnya<lf>untuk mengosongkan ruang di inventori.
+<string>Item dengan tanda centang telah memenuhi<lf>tujuannya. Kamu dapat membuangnya<lf>untuk mengosongkan ruang di penyimpanan.
 <string>Blister Borne
 <string>Satu-satunya cara untuk mengalahkan Blister Borne<lf>yang besar dan bermutasi adalah dengan menghancurkan tumor<lf>yang menutupi tubuhnya.
 <string>Saat tumor pecah, itu akan menyebabkan semua<lf>zombie di sekitarnya bermutasi.<lf>Pecahkan tumor di tempat yang tidak ada<lf>zombie lain, atau hancurkan kepala<lf>zombie sebelum mereka berubah.
@@ -66,7 +66,7 @@
 <string>Gantungan (Leon)
 <string>Kamu dapat memasang gantungan ke senjatamu<lf>untuk mengaktifkan efek. Pasang gantungan dengan<lf>memilih senjata melalui menu Item, lalu pilih<lf>gantungan yang ingin kamu pasang.
 <string>Permainan Kedua (Leon)
-<string>Dari permainan kedua dan seterusnya, Leon dapat<lf>memperoleh dan menyetel peralatan lebih awal.<lf>- Tactical Tracker mulai di inventori.<lf>- Kotak perbekalan tersedia di setiap area.<lf>- Peralatan yang diperoleh di permainan sebelumnya<lf>dapat diperoleh dari kotak perbekalan.
+<string>Dari permainan kedua dan seterusnya, Leon dapat<lf>memperoleh dan menyetel peralatan lebih awal.<lf>- Tactical Tracker mulai di penyimpanan.<lf>- Kotak perbekalan tersedia di setiap area.<lf>- Peralatan yang diperoleh di permainan sebelumnya<lf>dapat diperoleh dari kotak perbekalan.
 <string>Pengaturan Goyangan Kamera
 <string>Intensitas goyangan kamera dapat disesuaikan<lf>melalui Opsi.
 <string>Tips Eksplorasi

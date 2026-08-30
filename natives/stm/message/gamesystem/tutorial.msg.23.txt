@@ -177,6 +177,6 @@
 <string>
 <string><REF TutorialList_083_Description>
 <string><REF TutorialList_083_Title>
-<string>Ruang inventori diperlukan untuk pembelian.
+<string>Ruang penyimpanan diperlukan untuk pembelian.
 <string>Lari
 <string><ICON RUN> saat bergerak
