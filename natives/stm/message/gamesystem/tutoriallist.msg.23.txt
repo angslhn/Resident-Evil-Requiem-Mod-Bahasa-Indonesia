@@ -100,9 +100,9 @@
 <string>Mortir
 <string>Berlindunglah saat mortir mulai<lf>menembak. Kamu harus menjatuhkan zombie<lf>yang mengendalikan senjata itu untuk menghentikannya.
 <string>Memecahkan Kaca
-<string>Permukaan kaca sangat rapuh dan<lf>memerlukan kehati-hatian ekstra. Namun, menembak<lf>kaca di bawah musuh akan<lf>menyebabkan mereka jatuh.
+<string>Permukaan kaca sangat rapuh dan memerlukan<lf>kehati-hatian ekstra. Namun, menembak<lf>kaca di bawah musuh akan menyebabkan<lf>mereka jatuh.
 <string>Tyrant T-501
-<string>Kamu tidak dapat melawan Tyrant dengan benar di ruang<lf>sempit. Satu-satunya pilihanmu adalah berlari.
+<string>Kamu tidak dapat melawan Tyrant dengan benar<lf>di ruang sempit. Satu-satunya pilihanmu<lf>adalah berlari.
 <string>Plant 43
 <string>Menembak Plant 43 saat bunganya tertutup<lf>tidak akan terlalu efektif, jadi tunggu sampai terbuka<lf>untuk melancarkan seranganmu.
 <string>Victor (Bermutasi)

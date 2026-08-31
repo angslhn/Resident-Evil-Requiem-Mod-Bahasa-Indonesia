@@ -85,7 +85,7 @@
 <string>Radius
 <string>Amunisi
 <string>Tidak ada bagian
-<string>MAKSIMAL
+<string>MAKS
 <string>
 <string>
 <string>

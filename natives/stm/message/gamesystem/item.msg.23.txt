@@ -36,7 +36,7 @@
 <string>Shotgun pump-action dengan sebaran<lf>yang mengesankan. Memerlukan pegangan<lf>yang kuat untuk mengendalikan kekuatannya yang tinggi.
 <string>Sisa dari toko senjata Robert Kendo.<lf>Memiliki popor lipat bersama dengan<lf>peningkatan kustom lainnya.
 <string>990-TAC
-<string>Shotgun semi-otomatis modern.<lf>Dengan pengelompokan yang sangat baik, ideal<lf>untuk tembakan presisi. Dot sight<lf>dapat dipasang.
+<string>Shotgun semi-otomatis modern.<lf>Dengan pengelompokan yang sangat baik,<lf>ideal untuk tembakan presisi. Dot sight<lf>dapat dipasang.
 <string>Senjata yang mudah digunakan dengan laju<lf>tembakan tinggi. Dilengkapi dengan komponen<lf>internal karbon krom untuk pengoperasian<lf>yang mulus dan performa tahan lama.
 <string>Requiem
 <string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan daya tinggi,<lf>senjata yang dapat kamu andalkan.
@@ -45,7 +45,7 @@
 <string>Senapan mesin ringan yang dikembangkan<lf>pada tahun 1950-an. Kurang akurat tetapi<lf>memiliki kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
 <string>Struktur sederhana membuatnya lebih<lf>kecil kemungkinannya macet di pasir<lf>atau lumpur. Beberapa komponen kunci<lf>distempel untuk memfasilitasi produksi<lf>massal dan sangat tahan lama.
 <string>Stiri REVO3 A1
-<string>Senapan mesin ringan polimer frame yang ringan<lf>dan ringkas. Memiliki laju tembakan tinggi<lf>dan menghasilkan kerusakan yang cukup besar.<lf>Tambahkan popor untuk meningkatkan akurasi.
+<string>Senapan mesin ringan polimer frame<lf>yang ringan dan ringkas. Memiliki laju<lf>tembakan tinggi dan menghasilkan kerusakan<lf>yang cukup besar. Tambahkan popor untuk<lf>meningkatkan akurasi.
 <string>Karena portabilitas dan kemudahan penggunaannya,<lf>telah diadopsi secara luas oleh keamanan<lf>VIP. Sakelarnya dirancang untuk<lf>penggunaan dua tangan.
 <string>
 <string>
@@ -195,7 +195,7 @@
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti<lf>lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Matilda IMP.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Perpanjangan Tabung Perak
 <string>Perpanjangan Tabung Perak +
 <string>Perpanjangan Tabung Perak <FONT 4>★</FONT>
@@ -203,11 +203,11 @@
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti<lf>lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti<lf>lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Silencer 9.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Perpanjangan Tabung Karbon
 <string>Perpanjangan Tabung Karbon +
 <string>Perpanjangan Tabung Karbon <FONT 4>★</FONT>
@@ -215,27 +215,27 @@
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Marksman 1A.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti lebih<lf>jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Marksman 1A.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Gal.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti lebih<lf>jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Gal.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Pengait Magazen Titanium
 <string>Pengait Magazen Titanium +
 <string>Pengait Magazen Titanium <FONT 4>★</FONT>
-<string>Bagian kustom untuk Gal.<lf>Dirancang untuk pengoperasian yang mulus,<lf>memungkinkan <COLOR preset="TextColor3">pergantian magazen yang cepat</COLOR>.
+<string>Bagian kustom untuk Gal.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator Snapper.<lf>Kapasitas lebih tinggi dibandingkan magazen<lf>biasa. <COLOR preset="TextColor3">Lebih banyak amunisi berarti<lf>lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Alligator Snapper.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Pengait Magazen Licin
 <string>Pengait Magazen Licin +
 <string>Pengait Magazen Licin <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator Snapper.<lf>Dirancang untuk pengoperasian yang mulus,<lf>memungkinkan <COLOR preset="TextColor3">pergantian magazen yang cepat</COLOR>.
+<string>Bagian kustom untuk Alligator Snapper.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
 <string>Popor Burst
 <string>Popor Burst +
 <string>Popor Burst <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf><COLOR preset="TextColor3">Meningkatkan stabilitas</COLOR> saat menembak<lf>dan memungkinkan <COLOR preset="TextColor3">burst tiga peluru</COLOR>.
+<string>Bagian kustom untuk Matilda IMP.<lf><COLOR preset="TextColor3">Meningkatkan stabilitas</COLOR> saat<lf>menembak dan memungkinkan<lf><COLOR preset="TextColor3">burst tiga peluru</COLOR>.
 <string>Popor Chrome
 <string>Popor Chrome +
 <string>Popor Chrome <FONT 4>★</FONT>
@@ -271,7 +271,7 @@
 <string>Batang Aksi Duralumin
 <string>Batang Aksi Duralumin +
 <string>Batang Aksi Duralumin <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Batang aksi ringan yang memungkinkan<lf><COLOR preset="TextColor3">pump action yang cepat</COLOR>.
+<string>Bagian kustom untuk MSBG 500.<lf>Batang aksi ringan yang<lf>memungkinkan <COLOR preset="TextColor3">pump action<lf>yang cepat</COLOR>.
 <string>Choke Duckbill
 <string>Choke Duckbill +
 <string>Choke Duckbill <FONT 4>★</FONT>
@@ -287,23 +287,23 @@
 <string>Jaket Laras
 <string>Jaket Laras +
 <string>Jaket Laras <FONT 4>★</FONT>
-<string>Bagian kustom untuk Requiem.<lf>Jembatan atas yang kokoh namun ringan<lf>mengintegrasikan bidikan depan dan belakang<lf>menjadi satu struktur, <COLOR preset="TextColor3">meningkatkan keseimbangan</COLOR>.
+<string>Bagian kustom untuk Requiem.<lf>Jembatan atas yang kokoh namun<lf>ringan mengintegrasikan bidikan<lf>depan dan belakang menjadi satu<lf>struktur, <COLOR preset="TextColor3">meningkatkan keseimbangan</COLOR>.
 <string>Bilah yang Ditempa
 <string>Bilah yang Ditempa +
 <string>Bilah yang Ditempa <FONT 4>★</FONT>
-<string>Bagian kustom untuk kapak.<lf>Terbuat dari baja yang diperkuat nitrogen.<lf>Sangat tahan lama, tahan karat,<lf>dan <COLOR preset="TextColor3">tajam setajam silet</COLOR>.
+<string>Bagian kustom untuk kapak.<lf>Terbuat dari baja yang diperkuat<lf>nitrogen. Sangat tahan lama,<lf>tahan karat, dan <COLOR preset="TextColor3">tajam setajam<lf>silet</COLOR>.
 <string>Gagang yang Ditingkatkan
 <string>Gagang yang Ditingkatkan +
 <string>Gagang yang Ditingkatkan <FONT 4>★</FONT>
-<string>Bagian kustom untuk kapak.<lf>Terbuat dari plastik yang diperkuat<lf><COLOR preset="TextColor3">sangat tahan lama</COLOR>, bobot yang berkurang<lf>meningkatkan keseimbangan keseluruhan.
+<string>Bagian kustom untuk kapak.<lf>Terbuat dari plastik yang diperkuat<lf><COLOR preset="TextColor3">sangat tahan lama</COLOR>, bobot yang<lf>berkurang meningkatkan keseimbangan<lf>keseluruhan.
 <string>Pegas Seimbang
 <string>Pegas Seimbang +
 <string>Pegas Seimbang <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Pegas presisi ini menyeimbangkan operasi<lf>umpan dan muat, memungkinkan <COLOR preset="TextColor3">pengoperasian<lf>yang sangat mulus</COLOR>.
+<string>Bagian kustom untuk MSBG 500.<lf>Pegas presisi ini menyeimbangkan<lf>operasi umpan dan muat,<lf>memungkinkan <COLOR preset="TextColor3">pengoperasian<lf>yang sangat mulus</COLOR>.
 <string>Pegas Daun yang Ditingkatkan
 <string>Pegas Daun yang Ditingkatkan +
 <string>Pegas Daun yang Ditingkatkan <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Pegas ini membantu memasukkan peluru<lf>dari magazen untuk <COLOR preset="TextColor3">pemuatan<lf>yang lebih mulus</COLOR>.
+<string>Bagian kustom untuk Classic 70.<lf>Pegas ini membantu memasukkan<lf>peluru dari magazen untuk<lf><COLOR preset="TextColor3">pemuatan yang lebih mulus</COLOR>.
 <string>Scope Standar
 <string>Scope Standar +
 <string>Scope Standar <FONT 4>★</FONT>
@@ -315,27 +315,27 @@
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih cepat</COLOR> dan<lf><COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk Matilda IMP.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih cepat</COLOR> dan<lf><COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk 990-TAC.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih cepat</COLOR> dan<lf><COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk 990-TAC.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Scope Semi-otomatis
 <string>Scope Semi-otomatis +
 <string>Scope Semi-otomatis <FONT 4>★</FONT>
-<string>Bagian kustom untuk Marksman 1A.<lf>Cocok untuk senapan semi-otomatis.<lf>Dirancang untuk menahan<lf>tekanan tembakan berkelanjutan.
+<string>Bagian kustom untuk Marksman 1A.<lf>Cocok untuk senapan semi-otomatis.<lf>Dirancang untuk menahan tekanan<lf>tembakan berkelanjutan.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator<lf>Snapper. Memungkinkan <COLOR preset="TextColor3">pembidikan lebih cepat</COLOR><lf>dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk Alligator<lf>Snapper. Memungkinkan <COLOR preset="TextColor3">pembidikan<lf>lebih cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih cepat</COLOR> dan<lf><COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk Silencer 9.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Kompensator Panjang
 <string>Kompensator Panjang +
 <string>Kompensator Panjang <FONT 4>★</FONT>
@@ -343,7 +343,7 @@
 <string>Laras Chrome
 <string>Laras Chrome +
 <string>Laras Chrome <FONT 4>★</FONT>
-<string>Bagian kustom untuk W870 Police.<lf>Lapisan chrome yang tahan lama dan tahan aus<lf>melapisi bagian dalam laras.
+<string>Bagian kustom untuk W870 Police.<lf>Lapisan chrome yang tahan lama dan<lf>tahan aus melapisi bagian dalam<lf>laras.
 <string>Laras PVD
 <string>Laras PVD +
 <string>Laras PVD <FONT 4>★</FONT>
@@ -351,7 +351,7 @@
 <string>Pelindung Kilat Panjang
 <string>Pelindung Kilat Panjang +
 <string>Pelindung Kilat Panjang <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Mengurangi hentakan dengan membuang gas<lf>ke samping, <COLOR preset="TextColor3">meningkatkan stabilitas</COLOR><lf>selama tembakan cepat.
+<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Mengurangi hentakan dengan<lf>membuang gas ke samping,<lf><COLOR preset="TextColor3">meningkatkan stabilitas</COLOR> selama<lf>tembakan cepat.
 <string>Peredam Tambahan
 <string>Peredam Tambahan +
 <string>Peredam Tambahan <FONT 4>★</FONT>
@@ -363,11 +363,11 @@
 <string>Laras Ported
 <string>Laras Ported +
 <string>Laras Ported <FONT 4>★</FONT>
-<string>Bagian kustom untuk Requiem.<lf>Larasnya dilengkapi dengan port gas,<lf>mengeluarkan gas ke atas untuk <COLOR preset="TextColor3">mengurangi<lf>angkatan moncong</COLOR>.
+<string>Bagian kustom untuk Requiem.<lf>Larasnya dilengkapi dengan port gas,<lf>mengeluarkan gas ke atas untuk<lf><COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR>.
 <string>Kompensator
 <string>Kompensator +
 <string>Kompensator <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator<lf>Snapper. <COLOR preset="TextColor3">Mengurangi angkatan moncong</COLOR>.<lf>Saat dimiringkan, larasnya terlihat seperti<lf>mulut terbuka dengan taring yang terbuka.
+<string>Bagian kustom untuk Alligator<lf>Snapper. <COLOR preset="TextColor3">Mengurangi angkatan<lf>moncong</COLOR>. Saat dimiringkan,<lf>larasnya terlihat seperti mulut<lf>terbuka dengan taring yang terbuka.
 <string>Gantungan Sahabat Terpercaya
 <string>Gantungan untuk pistol.<lf><COLOR preset="TextColor3">Meningkatkan penetrasi peluru</COLOR>.
 <string>Gantungan Pecinta Seni
@@ -377,7 +377,7 @@
 <string>Gantungan Emblem BSAA
 <string>Gantungan untuk senapan sniper.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak hanya saat<lf>scope tidak dipasang</COLOR>.
 <string>Gantungan Emblem S.T.A.R.S.
-<string>Gantungan untuk senjata otomatis.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak dengan biaya<lf>lebih banyak goyangan saat membidik</COLOR>.
+<string>Gantungan untuk senjata otomatis.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak dengan<lf>biaya lebih banyak goyangan saat<lf>membidik</COLOR>.
 <string>Gantungan Kacamata Kekuatan
 <string>Gantungan untuk Requiem.<lf>Menawarkan <COLOR preset="TextColor3">penetrasi peluru tanpa batas<lf>dan meningkatkan daya tembak<lf>peluru terakhir di dalam silinder</COLOR>.
 <string>Amunisi Pistol
@@ -481,13 +481,13 @@
 <string>Model Heliks Ganda
 <string>Model heliks ganda, mengingatkan<lf>pada DNA. Ada tonjolan di kedua<lf>ujungnya yang tampaknya dapat<lf>dimasukkan ke sesuatu.
 <string>Kunci Palka
-<string>Kunci kuningan dengan kait berornamen.<lf>Berat di tangan anak-anak.
+<string>Kunci kuningan dengan kait<lf>berornamen. Berat di tangan<lf>anak-anak.
 <string>Poker Api
-<string>Alat yang digunakan untuk mengurus api.<lf>Ujungnya berbentuk cakar.
+<string>Alat yang digunakan untuk mengurus<lf>api. Ujungnya berbentuk cakar.
 <string>Kunci Tua
 <string>Ditemukan menempel di belakang<lf>foto Grace.
 <string>Dongkrak Mekanik
-<string>Perangkat untuk mengangkat benda berat.<lf>Gagangnya terpasang kuat.
+<string>Perangkat untuk mengangkat benda<lf>berat. Gagangnya terpasang kuat.
 <string>Kunci Kontainer BSAA
 <string>Dapat membuka kontainer perbekalan<lf>BSAA yang ditemukan di sekitar area.
 <string>Baterai
@@ -503,7 +503,7 @@
 <string>Distributor
 <string>Bagian untuk detonator.<lf>Mendistribusikan sinyal dan daya<lf>dengan tepat ke detonator dan booster.
 <string>Relai
-<string>Bagian untuk detonator. Mengalihkan<lf>arus listrik hidup/mati dan meningkatkan<lf>keamanan sirkuit detonasi.
+<string>Bagian untuk detonator.<lf>Mengalihkan arus listrik<lf>hidup/mati dan meningkatkan<lf>keamanan sirkuit detonasi.
 <string>Engkol Berkarat
 <string>Sangat berkarat karena terbengkalai<lf>bertahun-tahun. Seharusnya masih<lf>berfungsi dalam keadaan darurat.
 <string>Roda Tangan Katup
@@ -527,15 +527,15 @@
 <string>Kunci Override (Repositori Senjata Bio 11)
 <string>Kunci aktivasi daya. Seharusnya<lf>memulihkan listrik di Repositori Senjata<lf>Bio 11.
 <string>Distributor & Penerima Sinyal Rusak
-<string>Dua bagian untuk detonator. Tinggal satu<lf>lagi. Bagian yang rusak dapat diperbaiki<lf>dengan kit perbaikan.
+<string>Dua bagian untuk detonator.<lf>Tinggal satu lagi. Bagian<lf>yang rusak dapat diperbaiki<lf>dengan kit perbaikan.
 <string>Detonator Rusak
-<string>Detonator yang sudah lengkap. Sayangnya,<lf>bagian yang rusak perlu waktu dengan<lf>kit perbaikan sebelum dapat digunakan.
+<string>Detonator yang sudah lengkap.<lf>Sayangnya, bagian yang rusak<lf>perlu waktu dengan kit perbaikan<lf>sebelum dapat digunakan.
 <string>Distributor & Penerima Sinyal
 <string>Dua bagian untuk detonator.<lf>Tinggal satu lagi.
 <string>Distributor & Relai
 <string>Dua bagian untuk detonator.<lf>Tinggal satu lagi.
 <string>Detonator
-<string>Perangkat untuk memicu ledakan.<lf>Pasang ke bahan peledak di<lf>gerbang untuk membuatnya meledak.
+<string>Perangkat untuk memicu ledakan.<lf>Pasang ke bahan peledak di<lf>gerbang untuk membuatnya<lf>meledak.
 <string>Spesimen Darah (Terpolimerisasi)
 <string>Sampel darah yang bermutasi. Menganalisisnya<lf>dengan mikroskop laser memungkinkanmu<lf>meracik Pisau R.I.P. dan amunisi pistol<lf>dalam jumlah besar.
 <string>Boneka Marie
@@ -545,7 +545,7 @@
 <string>Darah Terinfeksi
 <string>Darah yang terinfeksi virus. Kumpulkan dengan<lf>pengumpul darah dan gabungkan dengan<lf>bahan racikan lainnya untuk membuat<lf>berbagai item.
 <string>Perbaikan Pelindung Tubuh
-<string>Memulihkan ketahanan pelindung tubuh<lf>yang rusak.
+<string>Memulihkan ketahanan pelindung<lf>tubuh yang rusak.
 <string>
 <string>
 <string>Peta Sayap Barat (Kantor Admin)

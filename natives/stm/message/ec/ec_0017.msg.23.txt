@@ -6,9 +6,9 @@
 <string>Mama,<lf><lf>Jika kau membaca ini, tolong kembali<lf>ke hotel.<lf><lf>Ada banyak orang menyeramkan di sekitar.<lf>Mereka membuat suara aneh. Ada kebakaran.<lf><lf>Mama, ini sangat menakutkan.
 <string>Aku baik-baik saja.<lf>Aku bertemu teman Ayah, Tuan George.<lf>Ingat dia? Dia akan mengungsikan<lf>aku ke kantor polisi dengan mobil polisinya.<lf>Aku yakin Ayah akan ada di sana!<lf><lf>Sayang Mama!
 <string>Dari Meryl untuk Mama 3
-<string>Mama,<lf>Apakah aku melakukan kesalahan? Ayah marah padaku.<lf><lf>Dia berteriak KENAPA KAU DI SINI? sangat sangat keras.<lf>Dia tidak membiarkanku masuk ke kantor polisi.
+<string>Mama,<lf>Apakah aku melakukan kesalahan? Ayah marah padaku.<lf><lf>Dia berteriak "Kenapa Kau di Sini"? sangat sangat<lf>keras. Dia tidak membiarkanku masuk ke kantor<lf>polisi.
 <string>Aku bersembunyi dengan Tuan George sekarang.<lf>Dia bilang kita bisa masuk lewat <COLOR preset="TextColor0">garasi parkir</COLOR>.<lf>Tapi pertama kita istirahat.
-<string>Dia sangat baik, Mama.<lf>Aku akan memberinya satu plester kucingku<lf>untuk menutupi luka di tangannya.<lf><lf>Sayang Mama banyak,<lf>Meryl
+<string>Dia sangat baik, Mama.<lf>Aku akan memberinya satu plester kucingku<lf>untuk menutupi luka di tangannya.<lf><lf>Sayang Mama selalu, Meryl!
 <string>Dari Meryl untuk Mama 4
 <string>Mama,<lf><lf>Apa yang harus kulakukan? Tolong aku, Mama!<lf>Tuan George terluka sangat parah.<lf>Dia berdarah banyak dan semua plester<lf>terlalu kecil. Tidak mau berhenti.
 <string>Ada begitu banyak orang menakutkan di sini sekarang.<lf>Aku akan lari ke <COLOR preset="TextColor0">toko Tuan Kendo</COLOR>.<lf><lf>Jika ada yang membaca ini, tolong bantu.<lf>Namaku Meryl Branagh.
