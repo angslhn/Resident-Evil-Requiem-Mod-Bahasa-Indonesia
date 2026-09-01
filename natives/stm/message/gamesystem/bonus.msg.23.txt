@@ -246,9 +246,9 @@
 <string>{0} CP
 <string>Plant 43 (Dewasa)
 <string>{0} CP
-<string>Pintu Masuk Servis ARK
+<string>Pintu Masuk Layanan ARK
 <string>{0} CP
-<string>Detail Pintu Masuk Servis ARK
+<string>Detail Pintu Masuk Layanan ARK
 <string>{0} CP
 <string>Di Dalam ARK
 <string>{0} CP

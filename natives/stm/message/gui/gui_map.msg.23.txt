@@ -242,7 +242,7 @@
 <string>Lapangan Basket
 <string>Stasiun Blackthorn
 <string>Peron<lf>Stasiun Blackthorn
-<string>Pintu Masuk Servis
+<string>Pintu Masuk Layanan
 <string>Terowongan
 <string>ARK
 <string>Dermaga Muat

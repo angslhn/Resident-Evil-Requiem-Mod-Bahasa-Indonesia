@@ -84,13 +84,13 @@
 <string>Lab Riset
 <string>Stasiun Blackthorn
 <string>Peron Stasiun Blackthorn
-<string>Pintu Masuk Servis
+<string>Pintu Masuk Layanan
 <string>Terowongan
 <string>Terowongan
 <string>Dermaga Muat
 <string>Ruang Staf
 <string>Ruang Server
-<string>Koridor Servis
+<string>Koridor Layanan
 <string>Pintu Masuk
 <string>Arsip
 <string>Lobi
