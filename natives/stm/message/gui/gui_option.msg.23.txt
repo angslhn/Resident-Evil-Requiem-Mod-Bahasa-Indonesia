@@ -185,9 +185,9 @@
 <string>HUD
 <string>HUD
 <string>Ukuran HUD
-<string>Ubah ukuran HUD saat mengendalikan<lf>karakter.<lf><lf>(Bawaan: Standar)
+<string>Ubah ukuran HUD saat mengendalikan karakter.<lf><lf>(Bawaan: Standar)
 <string>Ukuran Teks Menu
-<string>Ubah ukuran teks dan ikon yang ditemukan<lf>pada layar menu.<lf><lf>(Bawaan: Standar)
+<string>Ubah ukuran teks dan ikon yang ditemukan pada<lf>layar menu.<lf><lf>(Bawaan: Standar)
 <string>Pengukur Kesehatan
 <string>Aktifkan/nonaktifkan tampilan pengukur kesehatan.<lf><lf>(Bawaan: Hidup)
 <string>Tampilan Notifikasi
@@ -199,7 +199,7 @@
 <string>Semua Item
 <string>Hanya Item Penting
 <string>Aktifkan/nonaktifkan tampilan reticle.<lf><lf>(Bawaan: Hidup)
-<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(Tersembunyi selama cutscene dan saat membidik.)<lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
+<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(*Tersembunyi selama cutscene dan saat membidik.)<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
 <string>Warna Reticle/Titik Tengah
 <string>Ubah warna reticle dan titik tengah.<lf><lf>(Bawaan: Putih)
 <string>Warna Tengah Teropong/Dot Sight
