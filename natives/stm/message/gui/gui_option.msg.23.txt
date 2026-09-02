@@ -144,7 +144,7 @@
 <string>Orang pertama
 <string>Orang ketiga
 <string>Goyangan Kamera
-<string>Sesuaikan intensitas goyangan kamera (jumlah<lf>layar berguncang).<lf><lf>Menyesuaikan pengaturan ini dapat membantu mengurangi mabuk gerakan.<lf><lf>Catatan: Pengaturan ini hanya berlaku untuk perspektif orang pertama.<lf><lf>(Bawaan: 10)
+<string>Sesuaikan intensitas goyangan kamera (jumlah<lf>layar berguncang).<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>Catatan: Pengaturan ini hanya berlaku untuk perspektif<lf>orang pertama.<lf><lf>(Bawaan: 10)
 <string>Pergerakan Kamera
 <string>Gameplay Normal
 <string>Saat Membidik
@@ -199,7 +199,7 @@
 <string>Semua Item
 <string>Hanya Item Penting
 <string>Aktifkan/nonaktifkan tampilan reticle.<lf><lf>(Bawaan: Hidup)
-<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(*Tersembunyi selama cutscene dan saat membidik.)<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
+<string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(Tersembunyi selama cutscene dan saat membidik.)<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
 <string>Warna Reticle/Titik Tengah
 <string>Ubah warna reticle dan titik tengah.<lf><lf>(Bawaan: Putih)
 <string>Warna Tengah Teropong/Dot Sight
