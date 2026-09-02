@@ -4,7 +4,7 @@
 <string>Resolusi Layar
 <string>Ubah resolusi tampilan.<lf><lf>Kamu dapat menerapkan perubahan resolusi dengan cara berikut:<lf> - Konfirmasi pilihan<lf> - Pindahkan kursor ke pengaturan lain<lf><lf>Jika kamu meningkatkan resolusi, disarankan agar<lf>kamu memilih Konfigurasi Otomatis Pengaturan Grafis lagi.
 <string>Frame Rate
-<string>Sesuaikan jumlah maksimum frame<lf>yang dirender per detik (FPS).
+<string>Sesuaikan jumlah maksimum frame yang dirender<lf>per detik (FPS).
 <string>Hingga 120 FPS
 <string>Hingga 60 FPS
 <string>Hingga 30 FPS
@@ -15,7 +15,7 @@
 <string>TAA
 <string>FXAA+TAA
 <string>Kualitas Filter Tekstur
-<string>Sesuaikan kualitas visual tekstur<lf>saat diskalakan atau dideformasi.
+<string>Sesuaikan kualitas visual tekstur saat diskalakan<lf>atau dideformasi.
 <string>Sedang (Trilinear)
 <string>Tinggi (ANISO x2)
 <string>Tinggi (ANISO x4)
@@ -74,11 +74,11 @@
 <string>Sesuaikan kualitas upscaling secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
 <string>Sesuaikan kualitas upscaling secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini tidak dapat diubah saat<lf>ray tracing diatur ke path tracing.
 <string>Kualitas Pencahayaan dan Bayangan
-<string>Sesuaikan kualitas efek pencahayaan dan bayangan secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.
-<string>Sesuaikan kualitas efek pencahayaan dan bayangan secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
+<string>Sesuaikan kualitas efek pencahayaan dan bayangan<lf>secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.
+<string>Sesuaikan kualitas efek pencahayaan dan bayangan<lf>secara keseluruhan.<lf><lf>Custom: Atur nilai khusus untuk setiap opsi.<lf>Terendah: Grafis kualitas minimum.<lf>Rendah: Prioritaskan performa.<lf>Normal: Prioritaskan grafis.<lf>Tinggi: Grafis kualitas tinggi.<lf>Maksimal: Grafis kualitas tertinggi.<lf><lf>Opsi ini hanya dapat diubah dari menu utama.
 <string>Pengaturan Kualitas Lanjutan
 <string>Pengaturan Lanjutan
-<string>Memilih opsi ini akan memperluas kategori<lf>preset berikut, memungkinkanmu untuk menyesuaikan<lf>setiap pengaturan secara individual:<lf><lf> - Kualitas Grafis<lf> - Kualitas Upscaling<lf> - Kualitas Pencahayaan dan Bayangan
+<string>Memilih opsi ini akan memperluas kategori preset<lf>berikut, memungkinkanmu untuk menyesuaikan<lf>setiap pengaturan secara individual:<lf><lf> - Kualitas Grafis<lf> - Kualitas Upscaling<lf> - Kualitas Pencahayaan dan Bayangan
 <string>Rendah
 <string>Tinggi
 <string>Sesuaikan level simulasi untuk<lf>refleksi dan refraksi cahaya.
