@@ -157,9 +157,9 @@
 <string>Gagal mengirim data permainan.
 <string>Gagal mengirim data permainan.<lf>Pengiriman data permainan akan ditangguhkan sementara.<lf><lf>Pengiriman data permainan akan dilanjutkan saat kamu<lf>pergi ke menu utama atau opsi.
 <string>Data permainan tidak dapat dikirim tanpa koneksi jaringan.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
-<string>Memeriksa add-on.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa konten tambahan.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa konten tambahan.<lf>Mohon jangan matikan permainan-mu.
+<string>Memeriksa konten tambahan.<lf>Mohon jangan matikan permainan-mu.
 <string>Memeriksa konten unduhan.<lf>Mohon jangan matikan permainan-mu.
 <string>Kostum berikut telah ditambahkan.
 <string>Skin senjata berikut telah ditambahkan.
@@ -172,7 +172,7 @@
 <string>Kamu dapat mengakses konten ini setelah<lf>maju melewati titik tertentu.
 <string>Tidak dapat menemukan data berikut:
 <string>Mohon unduh ulang datanya.
-<string>Add-on dari wilayah lain tidak dapat<lf>digunakan karena berbeda dari versi<lf>permainan ini.
+<string>Konten tambahan dari wilayah lain tidak dapat<lf>digunakan karena berbeda dari versi<lf>permainan ini.
 <string>Gagal masuk ke Epic Games Launcher.<lf>Permainan akan segera ditutup.
 <string>Koneksi ke Epic Games Launcher terputus.<lf>Permainan akan segera ditutup.
 <string>Permainan ini memerlukan koneksi online untuk dimainkan.<lf>Karena kamu offline, permainan akan segera ditutup.
