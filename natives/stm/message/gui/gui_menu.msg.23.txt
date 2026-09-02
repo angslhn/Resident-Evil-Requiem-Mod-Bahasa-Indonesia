@@ -108,8 +108,8 @@
 <string>Standar (Klasik)
 <string>Gila-gilaan
 <string>Bersantailah sambil menikmati cerita dan teka-teki.
-<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan BIOHAZARD modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan over.</COLOR>
-<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan Resident Evil modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan over.</COLOR>
+<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan BIOHAZARD modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan berakhir.</COLOR>
+<string>Pengalaman seimbang antara ketegangan dan pencapaian pada<lf>tingkat kesulitan standar yang ditemukan di permainan-permainan Resident Evil modern.<lf><lf><COLOR preset="TextColor2">Mode permainan ini dapat diubah ke Santai di layar permainan berakhir.</COLOR>
 <string>Pengalaman tradisional dengan kesulitan yang mirip dengan permainan<lf>BIOHAZARD klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
 <string>Pengalaman tradisional dengan kesulitan yang mirip dengan permainan<lf>Resident Evil klasik. Direkomendasikan untuk penggemar lama<lf>seri ini.<lf><lf><COLOR preset="TextColor2">Simpan otomatis selama gameplay Grace terbatas dan pita tinta<lf>diperlukan untuk menyimpan.</COLOR>
 <string>Pengalaman gameplay intens hanya untuk mereka yang berani.<lf><lf><COLOR preset="TextColor2">Main dengan risiko sendiri.</COLOR>
