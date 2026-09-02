@@ -509,9 +509,9 @@
 <string>Roda Tangan Katup
 <string>Roda tangan yang digunakan untuk memutar katup.
 <string>Bola Animus
-<string>Bola merah tua yang indah.<lf>Salah satu objek yang diperlukan untuk masuk<lf>ke area administrasi di dalam ARK.
+<string>Bola merah tua yang indah.<lf>Salah satu objek yang diperlukan<lf>untuk masuk ke area administrasi<lf>di dalam ARK.
 <string>Bola Noblesse
-<string>Bola putih yang indah.<lf>Salah satu objek yang diperlukan untuk masuk<lf>ke area administrasi di dalam ARK.
+<string>Bola putih yang indah.<lf>Salah satu objek yang diperlukan<lf>untuk masuk ke area administrasi<lf>di dalam ARK.
 <string>Penerima Sinyal Rusak
 <string>Komponen yang memantau dan<lf>menganalisis sinyal input untuk detonasi.<lf>Terlalu rusak untuk digunakan tanpa perbaikan.
 <string>Kit Perbaikan
@@ -522,9 +522,9 @@
 <string>Engkol tangan yang dapat digunakan<lf>untuk mengoperasikan berbagai perangkat.
 <string>Kunci Magnetik
 <string>Kunci magnetik yang diprogram<lf>untuk membuka pintu tertentu.
-<string>Kunci Override (Ruang Kontrol Pembuangan)
+<string>Kunci Override
 <string>Kunci aktivasi daya. Seharusnya<lf>memulihkan listrik ke Ruang Kontrol<lf>Pembuangan.
-<string>Kunci Override (Repositori Senjata Bio 11)
+<string>Kunci Override
 <string>Kunci aktivasi daya. Seharusnya<lf>memulihkan listrik di Repositori Senjata<lf>Bio 11.
 <string>Distributor & Penerima Sinyal Rusak
 <string>Dua bagian untuk detonator.<lf>Tinggal satu lagi. Bagian<lf>yang rusak dapat diperbaiki<lf>dengan kit perbaikan.

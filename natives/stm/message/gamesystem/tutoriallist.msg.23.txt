@@ -110,7 +110,7 @@
 <string>Victor (Mengamuk)
 <string>Titik lemah Victor akan terlihat saat<lf>dia mulai meronta-ronta. Bidik titik itu<lf>untuk mengakhiri pertarungan.
 <string>Botol Asam
-<string>Jika kamu memecahkan botol asam, isinya<lf>akan menyebar ke area sekitar.<lf>Strategi yang sangat efektif melawan<lf>Licker β2.
+<string>Jika kamu memecahkan botol asam,<lf>isinya akan menyebar ke area sekitar.<lf>Strategi yang sangat efektif melawan<lf>Licker β2.
 <string>Menyimpan
 <string>Gunakan mesin ketik untuk menyimpan progresmu.
 <string>Kotak Item
