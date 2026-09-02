@@ -63,12 +63,12 @@
 <string>Mereset pengaturan di layar tertentu dan memindahkan item<lf>saat mengakses kotak item dan menu Item.
 <string>Senter
 <string>Menyalakan/mematikan senter.
-<string>Shortcut (Kanan)
-<string>Memilih senjata yang terdaftar<lf>di shortcut kanan.
-<string>Shortcut (Kiri)
-<string>Memilih senjata yang terdaftar<lf>di shortcut kiri.
-<string>Shortcut (Bawah)
-<string>Memilih senjata yang terdaftar<lf>di shortcut bawah.
+<string>Pintasan (Kanan)
+<string>Memilih senjata yang terdaftar<lf>di pintasan kanan.
+<string>Pintasan (Kiri)
+<string>Memilih senjata yang terdaftar<lf>di pintasan kiri.
+<string>Pintasan (Bawah)
+<string>Memilih senjata yang terdaftar<lf>di pintasan bawah.
 <string>Konfirmasi
 <string>Mengonfirmasi pilihanmu.
 <string>Batal
@@ -99,17 +99,17 @@
 <string>Asah
 <string>Mengasah kapakmu.
 <string>Pilihan Senjata 1
-<string>Memilih senjata di slot shortcut 1.
+<string>Memilih senjata di slot pintasan 1.
 <string>Pilihan Senjata 2
-<string>Memilih senjata di slot shortcut 2.
+<string>Memilih senjata di slot pintasan 2.
 <string>Pilihan Senjata 3
-<string>Memilih senjata di slot shortcut 3.
+<string>Memilih senjata di slot pintasan 3.
 <string>Pilihan Senjata 4
-<string>Memilih senjata di slot shortcut 4.
+<string>Memilih senjata di slot pintasan 4.
 <string>Pilihan Senjata 5
-<string>Memilih senjata di slot shortcut 5.
+<string>Memilih senjata di slot pintasan 5.
 <string>Pilihan Senjata 6
-<string>Memilih senjata di slot shortcut 6.
+<string>Memilih senjata di slot pintasan 6.
 <string>Gerakkan Kursor (Atas)
 <string>Menggerakkan kursor ke atas di layar tertentu.
 <string>Gerakkan Kursor (Bawah)

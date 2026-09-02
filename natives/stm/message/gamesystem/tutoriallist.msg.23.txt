@@ -4,8 +4,8 @@
 <string>Menggunakan Mesin Ketik
 <string>Saat bermain pada kesulitan Standar (Klasik)<lf>atau lebih tinggi, <COLOR preset="TextColor0">simpan otomatis selama cerita Grace<lf>akan dibatasi.</COLOR> Pita tinta diperlukan<lf>untuk menyimpan di mesin ketik.
 <string><COLOR preset="TextColor0">Pita tinta</COLOR> langka, jadi pastikan<lf>untuk menggunakannya dengan bijak.
-<string>Shortcut Senjata
-<string>Senjata dapat ditetapkan ke shortcut<lf>melalui menu Item. Hingga enam senjata<lf>dapat ditetapkan sekaligus, dua senjata<lf>dalam tiga arah berbeda.
+<string>Pintasan Senjata
+<string>Senjata dapat ditetapkan ke pintasan<lf>melalui menu Item. Hingga enam senjata<lf>dapat ditetapkan sekaligus, dua senjata<lf>dalam tiga arah berbeda.
 <string>Injektor Hemolitik
 <string>Jika kamu menyelinap ke musuh dari belakang,<lf>kamu dapat menggunakan injektor hemolitik untuk<lf>menjatuhkan mereka seketika—strategi yang sama<lf>dapat digunakan pada musuh yang terhuyung.
 <string>Bagian Kustom
@@ -143,5 +143,5 @@
 <string>
 <string>
 <string>
-<string>Shortcut Senjata
-<string>Senjata dapat ditetapkan ke shortcut<lf>melalui menu Item.
+<string>Pintasan Senjata
+<string>Senjata dapat ditetapkan ke pintasan<lf>melalui menu Item.
