@@ -9,7 +9,7 @@
 <string>Hingga 60 FPS
 <string>Hingga 30 FPS
 <string>Sinkronisasi Vertikal
-<string>Aktifkan/nonaktifkan sinkronisasi antara frame rate<lf>dan refresh rate monitor untuk mencegah<lf>stutter layar.
+<string>Aktifkan/nonaktifkan sinkronisasi antara frame rate<lf>dan refresh rate monitor untuk mencegah stutter layar.
 <string>Anti-aliasing
 <string>Aktifkan anti-aliasing untuk membuat tepi<lf>objek tampak lebih halus.
 <string>TAA
@@ -37,7 +37,7 @@
 <string>Kualitas Pencahayaan Volumetrik
 <string>Sesuaikan kualitas efek pencahayaan atmosferik<lf>untuk visual yang lebih realistis.
 <string>Kotoran Lensa
-<string>Aktifkan/nonaktifkan kotoran lensa kamera yang disebabkan oleh<lf>sumber cahaya terang.
+<string>Aktifkan/nonaktifkan kotoran lensa kamera yang<lf>disebabkan oleh sumber cahaya terang.
 <string>Refleksi Screen Space
 <string>Aktifkan/nonaktifkan efek yang meningkatkan<lf>refleksi permukaan.
 <string>Subsurface Scattering

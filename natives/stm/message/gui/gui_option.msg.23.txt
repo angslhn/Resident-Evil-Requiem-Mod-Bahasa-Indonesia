@@ -30,7 +30,7 @@
 <string>Level Bantuan
 <string>Sesuaikan level bantuan bidikan.
 <string>Atur ulang Perbesaran Teropong
-<string>Aktifkan/nonaktifkan atur ulang perbesaran teropong setelah<lf>membidik.<lf><lf>(Bawaan: Mati)
+<string>Aktifkan/nonaktifkan atur ulang perbesaran teropong<lf>setelah membidik.<lf><lf>(Bawaan: Mati)
 <string>Perspektif Dot Sight
 <string>Aktifkan/nonaktifkan fungsi yang beralih dari perspektif<lf>orang ketiga ke orang pertama saat membidik senjata<lf>dengan dot sight terpasang.<lf><lf>(Bawaan: Hidup)
 <string>Senjata Tak Terbatas
@@ -64,15 +64,15 @@
 <string>Aktifkan/nonaktifkan fungsi efek pemicu saat menyerang.<lf><lf>(Bawaan: Hidup)<lf>
 <string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS>
 <string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW>
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>permainan tergantung pada pengaturan kontroler Steam-mu.
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>permainan tergantung pada pengaturan kontroler Steam-mu.
-<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan dalam<lf>permainan tergantung pada pengaturan kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R><ICON R_D><ICON R_U><ICON R_L><ICON POV><ICON LS><ICON RS><ICON C_R><ICON C_L><ICON LT_T><ICON RT_T><ICON LT_B><ICON RT_B><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan<lf>dalam permainan tergantung pada pengaturan<lf>kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_PS><ICON R_D_PS><ICON R_U_PS><ICON R_L_PS><ICON POV_PS><ICON LS_PS><ICON RS_PS><ICON C_R_PS><ICON C_L2_PS><ICON LT_T_PS><ICON RT_T_PS><ICON LT_B_PS><ICON RT_B_PS><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan<lf>dalam permainan tergantung pada pengaturan<lf>kontroler Steam-mu.
+<string>Ikon tombol akan diubah menjadi berikut:<lf><lf><ICON R_R_NSW><ICON R_D_NSW><ICON R_U_NSW><ICON R_L_NSW><ICON POV_NSW><ICON LS_NSW><ICON RS_NSW><ICON C_R_NSW><ICON C_L_NSW><ICON LT_T_NSW><ICON RT_T_NSW><ICON LT_B_NSW><ICON RT_B_NSW><lf><lf>Ikon-ikon ini mungkin berbeda dari yang ditampilkan<lf>dalam permainan tergantung pada pengaturan<lf>kontroler Steam-mu.
 <string>Input Stik
 <string>Input Stik
 <string>Input Stik
 <string>Deadzone dan Sensitivitas
-<string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik dan kecepatan reaksi dari<lf>kemiringan (kurva sensitivitas).
-<string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik dan kecepatan reaksi dari<lf>kemiringan (kurva sensitivitas).
+<string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik dan kecepatan reaksi dari kemiringan (kurva<lf>sensitivitas).
+<string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik dan kecepatan reaksi dari kemiringan (kurva<lf>sensitivitas).
 <string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik kontrol dan kecepatan reaksi<lf>dari kemiringan (kurva sensitivitas).
 <string><ICON LS_FIX> Deadzone
 <string>Atur rentang kemiringan (deadzone) yang menonaktifkan<lf>operasi stik kiri.<lf><lf>Semakin besar nilainya, semakin banyak stik harus<lf>dimiringkan untuk bereaksi. Semakin kecil nilainya,<lf>semakin sedikit kemiringan yang dibutuhkan agar stik bereaksi.<lf><lf>Periksa sensitivitas input menggunakan gambar<lf>di sebelah kanan.
@@ -99,7 +99,7 @@
 <string>Konfigurasi Tombol
 <string>Ubah penetapan tombol keyboard dan mouse.<lf>Layar khusus akan terbuka saat dipilih.
 <string>Tipe Keyboard
-<string>Atur tipe keyboard yang akan tercermin<lf>dalam panduan operasi dan tampilan lainnya. Pilih<lf>yang sesuai dengan keyboard-mu, atau<lf>opsi terdekat.
+<string>Atur tipe keyboard yang akan tercermin<lf>dalam panduan operasi dan tampilan lainnya.<lf>Pilih yang sesuai dengan keyboard-mu, atau<lf>opsi terdekat.
 <string>JIS (Jepang)
 <string>QWERTY (Inggris)
 <string>AZERTY (Prancis)
@@ -149,8 +149,8 @@
 <string>Gameplay Normal
 <string>Saat Membidik
 <string>Pembalikan Kamera
-<string>Ubah arah kamera bergerak<lf>dalam gameplay normal.<lf><lf>Tidak Ada: Gerakkan kamera ke arah input-mu.<lf>Balik Sumbu Y: Hanya gerakan vertikal yang dibalik.<lf>Balik Sumbu X: Hanya gerakan horizontal yang dibalik.<lf>Balik Sumbu X dan Y: Semua gerakan dibalik.<lf><lf>(Bawaan: Tidak Ada)
-<string>Ubah arah kamera bergerak<lf>saat membidik.<lf><lf>Tidak Ada: Gerakkan kamera ke arah input-mu.<lf>Balik Sumbu Y: Hanya gerakan vertikal yang dibalik.<lf>Balik Sumbu X: Hanya gerakan horizontal yang dibalik.<lf>Balik Sumbu X dan Y: Semua gerakan dibalik.<lf><lf>(Bawaan: Tidak Ada)
+<string>Ubah arah kamera bergerak dalam gameplay normal.<lf><lf>Tidak Ada: Gerakkan kamera ke arah input-mu.<lf>Balik Sumbu Y: Hanya gerakan vertikal yang dibalik.<lf>Balik Sumbu X: Hanya gerakan horizontal yang dibalik.<lf>Balik Sumbu X dan Y: Semua gerakan dibalik.<lf><lf>(Bawaan: Tidak Ada)
+<string>Ubah arah kamera bergerak saat membidik.<lf><lf>Tidak Ada: Gerakkan kamera ke arah input-mu.<lf>Balik Sumbu Y: Hanya gerakan vertikal yang dibalik.<lf>Balik Sumbu X: Hanya gerakan horizontal yang dibalik.<lf>Balik Sumbu X dan Y: Semua gerakan dibalik.<lf><lf>(Bawaan: Tidak Ada)
 <string>Tidak Ada
 <string>Kecepatan Kamera Sumbu Y
 <string>Sesuaikan kecepatan kamera vertikal untuk gameplay<lf>normal. Semakin tinggi nilainya, semakin cepat<lf>bergerak.<lf><lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.
@@ -243,7 +243,7 @@
 <string>Sesuaikan volume suara.<lf><lf>(Bawaan: 10)
 <string>Output
 <string>Perangkat Audio
-<string>Sesuaikan kombinasi rentang dinamis<lf>dan sudut speaker agar sesuai dengan perangkat audio-mu.<lf>Kamu juga dapat mengubah setiap item secara individual.
+<string>Sesuaikan kombinasi rentang dinamis dan sudut speaker<lf>agar sesuai dengan perangkat audio-mu.<lf><lf>Kamu juga dapat mengubah setiap item secara individual.
 <string>Headphone Suara Surround
 <string>Rentang Dinamis
 <string>Ubah rentang dinamis (perbedaan antara volume minimum<lf>dan maksimum). Rentang sempit memudahkan untuk<lf>mendengar semua suara (bahkan yang pelan), sementara<lf>rentang lebar menawarkan penggambaran yang lebih<lf>akurat dari semua suara.<lf><lf>Mode Malam → Sempit → Normal → Lebar
@@ -259,9 +259,9 @@
 <string>Surround Belakang (SBL/SBR)
 <string>Sesuaikan orientasi speaker surround belakang.
 <string>Audio 3D
-<string>Menunjukkan apakah audio 3D diaktifkan/dinonaktifkan.<lf><lf>Pengaturan ini berubah secara otomatis<lf>tergantung pada lingkunganmu.
+<string>Menunjukkan apakah audio 3D diaktifkan/dinonaktifkan.<lf><lf>Pengaturan ini berubah secara otomatis tergantung<lf>pada lingkunganmu.
 <string>Audio Berbasis Objek
-<string>Menunjukkan apakah audio berbasis objek diaktifkan/dinonaktifkan.<lf>Pengaturan ini berubah secara otomatis<lf>tergantung pada lingkunganmu.
+<string>Menunjukkan apakah audio berbasis objek diaktifkan/dinonaktifkan.<lf><lf>Pengaturan ini berubah secara otomatis tergantung<lf>pada lingkunganmu.
 <string>Gema Suara
 <string>Aktifkan/nonaktifkan gema suara.<lf><lf>Catatan: Mengaktifkan pengaturan ini dapat memudahkan<lf>untuk merasakan jarak dan ruang.<lf><lf>(Nonaktifkan pengaturan ini jika kamu mengalami masalah<lf>seperti statis atau suara terputus.)<lf><lf>(Bawaan: Mati)
 <string>Speaker Kontroler
