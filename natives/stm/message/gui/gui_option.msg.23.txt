@@ -29,8 +29,8 @@
 <string>Sesuaikan seberapa banyak reticle melambat<lf>saat berada di atas target.
 <string>Level Bantuan
 <string>Sesuaikan level bantuan bidikan.
-<string>Reset Perbesaran Scope
-<string>Aktifkan/nonaktifkan reset perbesaran scope setelah<lf>membidik.<lf><lf>(Bawaan: Mati)
+<string>Atur ulang Perbesaran Teropong
+<string>Aktifkan/nonaktifkan atur ulang perbesaran teropong setelah<lf>membidik.<lf><lf>(Bawaan: Mati)
 <string>Perspektif Dot Sight
 <string>Aktifkan/nonaktifkan fungsi yang beralih dari perspektif<lf>orang ketiga ke orang pertama saat membidik senjata<lf>dengan dot sight terpasang.<lf><lf>(Bawaan: Hidup)
 <string>Senjata Tak Terbatas
@@ -202,8 +202,8 @@
 <string>Aktifkan/nonaktifkan titik di tengah layar.<lf>(Tersembunyi selama cutscene dan saat membidik.)<lf>Catatan: Menyesuaikan pengaturan ini dapat membantu<lf>mengurangi mabuk gerakan.<lf><lf>(Bawaan: Mati)
 <string>Warna Reticle/Titik Tengah
 <string>Ubah warna reticle dan titik tengah.<lf><lf>(Bawaan: Putih)
-<string>Warna Tengah Scope/Dot Sight
-<string>Ubah warna tengah scope atau dot sight.<lf><lf>(Bawaan: Merah)
+<string>Warna Tengah Teropong/Dot Sight
+<string>Ubah warna tengah teropong atau dot sight.<lf><lf>(Bawaan: Merah)
 <string>Atur filter layar.<lf><lf>(Bawaan: Tanpa Filter)
 <string>Tanpa Filter
 <string>Film Noir
@@ -280,11 +280,11 @@
 <string>Ubah warna nama pembicara.<lf><lf>(Bawaan: Putih)
 <string>Preset
 <string>Aksesibilitas Visual
-<string>Memilih preset aksesibilitas visual<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>HUD</BOLD><lf>- Ukuran HUD: Besar<lf>- Ukuran Teks Menu: Besar<lf><lf><BOLD>Bahasa</BOLD><lf>- Ukuran Subtitle: Besar<lf>- Latar Belakang Subtitle: Hidup<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>HUD</BOLD><lf>- Tampilan Titik<lf>- Warna Reticle/Titik Tengah<lf>- Warna Tengah Scope/Dot Sight
+<string>Memilih preset aksesibilitas visual<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>HUD</BOLD><lf>- Ukuran HUD: Besar<lf>- Ukuran Teks Menu: Besar<lf><lf><BOLD>Bahasa</BOLD><lf>- Ukuran Subtitle: Besar<lf>- Latar Belakang Subtitle: Hidup<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>HUD</BOLD><lf>- Tampilan Titik<lf>- Warna Reticle/Titik Tengah<lf>- Warna Tengah Teropong/Dot Sight
 <string>Aksesibilitas Auditori
 <string>Memilih preset aksesibilitas auditori<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>Bahasa</BOLD><lf>- Subtitle: Hidup<lf>- Closed Caption: Hidup<lf>- Tampilan Nama Pembicara: Hidup<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>Bahasa</BOLD><lf>- Ukuran Subtitle<lf>- Warna Subtitle Closed Caption<lf>- Latar Belakang Subtitle<lf><lf><BOLD>Audio</BOLD><lf>- Pengaturan Volume
 <string>Mabuk Gerakan
-<string>Memilih preset mabuk gerakan<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>HUD</BOLD><lf>- Tampilan Titik: Hidup<lf><lf><BOLD>Kamera</BOLD><lf>- Goyangan Kamera: 0<lf><lf><BOLD>Grafis</BOLD><lf>- Motion Blur: Mati<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>Kamera</BOLD><lf>- Berbagai pengaturan yang dapat disesuaikan<lf><lf><BOLD>HUD</BOLD><lf>- Warna Reticle/Titik Tengah<lf>- Warna Tengah Scope/Dot Sight
+<string>Memilih preset mabuk gerakan<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>HUD</BOLD><lf>- Tampilan Titik: Hidup<lf><lf><BOLD>Kamera</BOLD><lf>- Goyangan Kamera: 0<lf><lf><BOLD>Grafis</BOLD><lf>- Motion Blur: Mati<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>Kamera</BOLD><lf>- Berbagai pengaturan yang dapat disesuaikan<lf><lf><BOLD>HUD</BOLD><lf>- Warna Reticle/Titik Tengah<lf>- Warna Tengah Teropong/Dot Sight
 <string>Aksesibilitas Fisik
 <string>Sesuaikan pengaturan dengan yang direkomendasikan untuk<lf>pemain yang memerlukan bantuan fisik.
 <string>Memilih preset aksesibilitas fisik<lf>akan mengubah pengaturan berikut:<lf><lf><BOLD>Kontrol</BOLD><lf>- Tipe Input Berulang: Tahan<lf>- Perlambatan Reticle: 10<lf>- Getaran Kontroler: Mati<lf>- Trigger Adaptif: Mati<lf><lf>Opsi berikut juga tersedia:<lf><lf><BOLD>Kontrol</BOLD><lf>- Konfigurasi Tombol<lf>- Deadzone dan Sensitivitas<lf><lf><BOLD>Kamera</BOLD><lf>- Fungsi Sensor Gerak

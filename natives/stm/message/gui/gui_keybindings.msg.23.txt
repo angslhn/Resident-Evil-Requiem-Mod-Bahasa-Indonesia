@@ -15,7 +15,7 @@
 <string>Peta
 <string>Layar Pemeriksaan Item
 <string>Tipe Kontrol
-<string>Atur Tipe Kontrol ke default atau pilih tata letak khusus.
+<string>Atur Tipe Kontrol ke bawaan atau pilih tata letak khusus.
 <string>Atur tipe kontrol.
 <string>Custom A
 <string>Custom B
@@ -55,11 +55,11 @@
 <string>Menggilir ke kanan melalui kategori<lf>di berbagai layar.
 <string>Ganti Subkategori (Kanan)
 <string>Menggilir ke kanan melalui subkategori<lf>di berbagai layar.
-<string>Reset Semua
-<string>Mereset semua pengaturan ke default.
+<string>Atur ulang Semua
+<string>Mereset semua pengaturan ke bawaan.
 <string>Lewati
 <string>Melewati cutscene.
-<string>Reset/Pindahkan Item
+<string>Atur ulang/Pindahkan Item
 <string>Mereset pengaturan di layar tertentu dan memindahkan item<lf>saat mengakses kotak item dan menu Item.
 <string>Senter
 <string>Menyalakan/mematikan senter.

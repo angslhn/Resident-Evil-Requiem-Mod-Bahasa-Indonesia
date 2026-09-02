@@ -115,8 +115,8 @@
 <string>Pengalaman gameplay intens hanya untuk mereka yang berani.<lf><lf><COLOR preset="TextColor2">Main dengan risiko sendiri.</COLOR>
 <string>BIOHAZARD requiem menawarkan kemampuan untuk mengubah perspektif kamera.<lf><lf>Direkomendasikan menggunakan perspektif orang pertama saat bermain sebagai Grace untuk meningkatkan elemen horor dan menggunakan perspektif orang ketiga saat bermain sebagai Leon untuk meningkatkan elemen aksi.<lf><lf>Apakah kamu ingin mengubah perspektif?
 <string>Resident Evil Requiem menawarkan kemampuan untuk mengubah perspektif kamera.<lf><lf>Direkomendasikan menggunakan perspektif orang pertama saat bermain sebagai Grace untuk meningkatkan elemen horor dan menggunakan perspektif orang ketiga saat bermain sebagai Leon untuk meningkatkan elemen aksi.<lf><lf>Apakah kamu ingin mengubah perspektif?
-<string>BIOHAZARD requiem menawarkan kemampuan untuk mengubah<lf>perspektif kamera.<lf><lf>Untuk meningkatkan elemen horor dari adegan ini, pengaturan<lf>kamera default adalah orang pertama.<lf><lf>Apakah kamu ingin mengubah perspektif?
-<string>Resident Evil Requiem menawarkan kemampuan untuk mengubah<lf>perspektif kamera.<lf><lf>Untuk meningkatkan elemen horor dari adegan ini, pengaturan<lf>kamera default adalah orang pertama.<lf><lf>Apakah kamu ingin mengubah perspektif?
+<string>BIOHAZARD requiem menawarkan kemampuan untuk mengubah<lf>perspektif kamera.<lf><lf>Untuk meningkatkan elemen horor dari adegan ini, pengaturan<lf>kamera bawaan adalah orang pertama.<lf><lf>Apakah kamu ingin mengubah perspektif?
+<string>Resident Evil Requiem menawarkan kemampuan untuk mengubah<lf>perspektif kamera.<lf><lf>Untuk meningkatkan elemen horor dari adegan ini, pengaturan<lf>kamera bawaan adalah orang pertama.<lf><lf>Apakah kamu ingin mengubah perspektif?
 <string>Catatan: Kamu dapat mengubah pengaturan ini melalui Kamera di menu Opsi.
 <string>Ubah perspektif Leon.
 <string>Ubah perspektif Grace.

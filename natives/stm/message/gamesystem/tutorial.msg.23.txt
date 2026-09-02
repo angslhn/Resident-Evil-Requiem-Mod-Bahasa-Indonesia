@@ -68,7 +68,7 @@
 <string><REF TutorialList_005_Title>
 <string>Bidik + Semprot
 <string><ICON HOLD> + <ICON ATTACK>
-<string>Gunakan Scope + Tembak
+<string>Gunakan Teropong + Tembak
 <string><ICON HOLD> + <ICON ATTACK>
 <string><REF TutorialList_008_Description_00>
 <string><REF TutorialList_008_Title>

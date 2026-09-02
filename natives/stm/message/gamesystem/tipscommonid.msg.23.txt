@@ -27,7 +27,7 @@
 <string>Kamu dapat menangkis serangan musuh tertentu<lf>dengan <ICON GUARD>. Namun hati-hati, kamu tidak dapat menangkis<lf>dengan kapak tumpul. Atur waktunya dengan<lf>tepat, dan kamu dapat melakukan tangkisan sempurna<lf>yang akan membuat musuh terhuyung.
 <string><REF TutorialList_027_Description>
 <string>Jika tas item penuh, kamu dapat menjual<lf>senjata untuk memberi ruang, atau membeli<lf>peningkatan tas dari kotak perbekalan.
-<string>Scope dapat dilepas. Dapat<lf>dipasang atau dilepas sesuai kebutuhan.
+<string>Teropong dapat dilepas. Dapat<lf>dipasang atau dilepas sesuai kebutuhan.
 <string><REF TutorialList_043_Description>
 <string><REF TutorialList_053_Description>
 <string>Jika kamu kesulitan dengan musuh yang<lf>sangat tangguh, coba tingkatkan senjatamu<lf>dan beli pelindung tubuh.<lf><lf>Kalahkan musuh dan ambil modul pelacak<lf>untuk mengumpulkan kredit untuk kotak perbekalan.

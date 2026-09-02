@@ -56,7 +56,7 @@
 <string>Peluncur roket yang dikembangkan untuk<lf>penggunaan anti-tank. Desain sederhana<lf>memiliki kekuatan yang menghancurkan. Sama<lf>efektifnya melawan musuh non-tank.
 <string>Menggabungkan desain recoilless yang<lf>menghasilkan backblast yang berpotensi<lf>berbahaya saat ditembakkan.
 <string>Classic 70
-<string>Senapan bolt-action standar.<lf>Dapat menghasilkan daya tembak serius<lf>di tangan yang terampil. Scope dapat<lf>ditukar atau dilepas.
+<string>Senapan bolt-action standar.<lf>Dapat menghasilkan daya tembak serius<lf>di tangan yang terampil. Teropong dapat<lf>ditukar atau dilepas.
 <string>Dikembangkan untuk berburu dan kemudian<lf>diadopsi oleh Korps Marinir AS.<lf>Iterasi modern ini adalah reproduksi<lf>akurat dari model berkualitas tinggi<lf>yang dibuat sebelum tahun 1964.
 <string>Marksman 1A
 <string>Senapan marksman semi-otomatis.<lf>Kerusakan per tembakan terbatas,<lf>tetapi memiliki laju tembakan tinggi<lf>dan kecepatan isi ulang yang cepat.
@@ -304,14 +304,14 @@
 <string>Pegas Daun yang Ditingkatkan +
 <string>Pegas Daun yang Ditingkatkan <FONT 4>★</FONT>
 <string>Bagian kustom untuk Classic 70.<lf>Pegas ini membantu memasukkan<lf>peluru dari magazen untuk<lf><COLOR preset="TextColor3">pemuatan yang lebih mulus</COLOR>.
-<string>Scope Standar
-<string>Scope Standar +
-<string>Scope Standar <FONT 4>★</FONT>
+<string>Teropong Standar
+<string>Teropong Standar +
+<string>Teropong Standar <FONT 4>★</FONT>
 <string>Bagian kustom untuk Classic 70.<lf>Memungkinkan <COLOR preset="TextColor3">pembesaran target</COLOR>.<lf>Wajib untuk <COLOR preset="TextColor3">tembakan presisi<lf>jarak jauh</COLOR>.
-<string>Scope Finishing Perak
-<string>Scope Finishing Perak +
-<string>Scope Finishing Perak <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Scope ini memiliki performa optik<lf>tinggi, membuatnya ideal untuk<lf>mengenai target <COLOR preset="TextColor3">jarak jauh</COLOR>.
+<string>Teropong Finishing Perak
+<string>Teropong Finishing Perak +
+<string>Teropong Finishing Perak <FONT 4>★</FONT>
+<string>Bagian kustom untuk Classic 70.<lf>Teropong ini memiliki performa optik<lf>tinggi, membuatnya ideal untuk<lf>mengenai target <COLOR preset="TextColor3">jarak jauh</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
@@ -324,9 +324,9 @@
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
 <string>Bagian kustom untuk 990-TAC.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
-<string>Scope Semi-otomatis
-<string>Scope Semi-otomatis +
-<string>Scope Semi-otomatis <FONT 4>★</FONT>
+<string>Teropong Semi-otomatis
+<string>Teropong Semi-otomatis +
+<string>Teropong Semi-otomatis <FONT 4>★</FONT>
 <string>Bagian kustom untuk Marksman 1A.<lf>Cocok untuk senapan semi-otomatis.<lf>Dirancang untuk menahan tekanan<lf>tembakan berkelanjutan.
 <string>Dot Sight
 <string>Dot Sight +
@@ -375,7 +375,7 @@
 <string>Gantungan Beruang Lucu
 <string>Gantungan untuk shotgun.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak jarak menengah,<lf>mengorbankan kekuatan jarak dekat</COLOR>.
 <string>Gantungan Emblem BSAA
-<string>Gantungan untuk senapan sniper.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak hanya saat<lf>scope tidak dipasang</COLOR>.
+<string>Gantungan untuk senapan sniper.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak hanya saat<lf>teropong tidak dipasang</COLOR>.
 <string>Gantungan Emblem S.T.A.R.S.
 <string>Gantungan untuk senjata otomatis.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak dengan<lf>biaya lebih banyak goyangan saat<lf>membidik</COLOR>.
 <string>Gantungan Kacamata Kekuatan

@@ -109,16 +109,16 @@
 <string><ICON SORT> Urutkan:
 <string><ICON AREA_LRPV> Ganti Area
 <string><ICON FLOOR_UDPV> Ganti Lantai
-<string><ICON DEFAULT> Reset
+<string><ICON DEFAULT> Atur ulang
 <string>Lewati (Tahan) <ICON PAUSE> Jeda
 <string>Lewati <ICON PAUSE> Jeda
 <string><ICON EVENT_SKIP> Lewati <ICON PAUSE> Menu Jeda
-<string><ICON OPTION_RESET> Reset Semua
-<string><ICON DEFAULT> Reset Kategori
-<string><ICON DEFAULT> Reset Subkategori
+<string><ICON OPTION_RESET> Atur ulang Semua
+<string><ICON DEFAULT> Atur ulang Kategori
+<string><ICON DEFAULT> Atur ulang Subkategori
 <string><ICON CURSOR_UDPV> Pilih
 <string><ICON CURSOR_LRPV> Ubah Nilai
-<string><ICON DEFAULT> Reset
+<string><ICON DEFAULT> Atur ulang
 <string><ICON INVENTORY> Sub-menu
 <string><ICON AREA_LEFT> / <ICON AREA_RIGHT> Ganti
 <string><ICON DECIDE> Simpan
@@ -201,7 +201,7 @@
 <string><ICON REFINE_RIGHT> Lepaskan Elpis
 <string><ICON BLANK> Konfirmasi
 <string><ICON CANCEL> Batal
-<string><ICON DEFAULT> Reset
+<string><ICON DEFAULT> Atur ulang
 <string><ICON CURSOR_LRLS> Pilih Dial
 <string><ICON DECIDE> Ganti Tampilan
 <string>Ledakkan

@@ -37,7 +37,7 @@
 <string>Keluarkan
 <string>
 <string>
-<string>Bidikan / Scope
+<string>Bidikan / Teropong
 <string>Gantungan
 <string>Jual
 <string>Gunakan item.
@@ -60,7 +60,7 @@
 <string>Kamu tidak dapat menggabungkan ini karena tidak ada cukup ruang.
 <string>
 <string>
-<string>Pasang atau lepaskan bidikan/scope.
+<string>Pasang atau lepaskan bidikan/teropong.
 <string>Pasang atau lepaskan gantungan.
 <string>Jual item.
 <string>Ruang tidak cukup.

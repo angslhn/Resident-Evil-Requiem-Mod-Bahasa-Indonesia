@@ -4,14 +4,14 @@
 <string>Tutup permainan?
 <string>Hubungkan ke Nintendo eShop?
 <string>Apakah kamu ingin menyimpan progresmu?
-<string>Reset semua opsi ke pengaturan default?
-<string>Reset semua opsi ke pengaturan default?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
-<string>Reset semua opsi ke pengaturan default?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
-<string>Reset semua opsi dalam kategori ini ke pengaturan default?
-<string>Reset semua opsi dalam subkategori ini ke pengaturan default?
-<string>Reset semua opsi dalam subkategori ini ke<lf>pengaturan default?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
-<string>Reset semua opsi dalam subkategori ini ke<lf>pengaturan default?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
-<string>Reset semua opsi ke pengaturan default?
+<string>Atur ulang semua opsi ke pengaturan bawaan?
+<string>Atur ulang semua opsi ke pengaturan bawaan?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Atur ulang semua opsi ke pengaturan bawaan?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Atur ulang semua opsi dalam kategori ini ke pengaturan bawaan?
+<string>Atur ulang semua opsi dalam subkategori ini ke pengaturan bawaan?
+<string>Atur ulang semua opsi dalam subkategori ini ke<lf>pengaturan bawaan?<lf><lf>Mohon konfigurasi ulang pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Atur ulang semua opsi dalam subkategori ini ke<lf>pengaturan bawaan?<lf><lf>Mohon kembali ke menu utama dan konfigurasi ulang<lf>pengaturan grafis setelah mereset:<lf>Opsi → Grafis → Gambar → Konfigurasi Otomatis<lf>Pengaturan Grafis.
+<string>Atur ulang semua opsi ke pengaturan bawaan?
 <string>Lingkunganmu saat ini tidak mendukung output HDR,<lf>mengubah pengaturan tampilan ke SDR. Untuk mengonfigurasi ulang<lf>pengaturan Kecerahan, sesuaikan melalui Opsi → Grafis → Tampilan.
 <string>Aktifkan HDR?
 <string>Beralih ke Mode HDR.<lf>Kecerahan dapat dikonfigurasi ulang melalui<lf>Opsi → Grafis → Tampilan → Kecerahan.
@@ -146,9 +146,9 @@
 <string>Data permainan belum selesai diunduh.<lf>Mohon tunggu hingga unduhan selesai.<lf><lf>Setelah diunduh, mohon pilih Lanjutkan di<lf>menu utama jika kamu ingin bermain dari simpan otomatis.
 <string>Mohon perhatikan bahwa data simpan otomatis<lf>akan ditimpa saat kamu<lf>memulai Permainan Baru atau Memuat data simpanan.
 <string>Unduhan masih berlangsung.<lf>Mohon tunggu hingga unduhan selesai.
-<string>Tipe Kontrol diatur ke Default.<lf>Atur Tipe Kontrol ke Custom A<lf>atau Custom B untuk mengubah konfigurasi.
-<string><COLOR preset="TextColor1">Ada <PLURAL {0} "aksi yang belum diatur" "{0} aksi yang belum diatur">.</COLOR><lf>Atur sisa <PLURAL {0} "aksi" "aksi"> atau pulihkan <PLURAL {0} "ke pengaturan default" "ke pengaturan default">.<lf><lf>Pulihkan ke default dan kembali ke permainan?
-<string>Reset semua konfigurasi ke pengaturan default?
+<string>Tipe Kontrol diatur ke Bawaan.<lf>Atur Tipe Kontrol ke Custom A<lf>atau Custom B untuk mengubah konfigurasi.
+<string><COLOR preset="TextColor1">Ada <PLURAL {0} "aksi yang belum diatur" "{0} aksi yang belum diatur">.</COLOR><lf>Atur sisa <PLURAL {0} "aksi" "aksi"> atau pulihkan <PLURAL {0} "ke pengaturan bawaan" "ke pengaturan bawaan">.<lf><lf>Pulihkan ke bawaan dan kembali ke permainan?
+<string>Atur ulang semua konfigurasi ke pengaturan bawaan?
 <string>Apakah kamu ingin menyimpan perubahanmu?
 <string><COLOR preset="TextColor1">Ada <PLURAL {0} "penetapan duplikat" "{0} penetapan duplikat">.</COLOR><lf>Beberapa perintah tidak dapat ditetapkan ke tombol yang sama.<lf><lf>Kembali ke permainan tanpa menyimpan?
 <string>Kamu keluar dari jaringan Xbox.
