@@ -47,7 +47,7 @@
 <string>Item ini dapat diambil dari kotak item.
 <string>{0} CP
 <string>Manual Master Matsuoka (Grace)
-<string>Manual yang memungkinkanmu untuk secara permanen<lf>meningkatkan kapasitas pengumpul darah<lf>sebesar 50.
+<string>Manual yang memungkinkanmu untuk secara<lf>permanen meningkatkan kapasitas pengumpul<lf>darah sebesar 50.
 <string>Efek diterapkan secara otomatis.
 <string>{0} CP
 <string><REF Item_Name_it99_00_008>
@@ -284,7 +284,7 @@
 <string>{0} CP
 <string>Sistem Pemurnian Sentral: PANDORA Lantai Bawah
 <string>{0} CP
-<string>Requiem
+<string>RSh-12
 <string>{0} CP
 <string>Desain Senjata 1
 <string>{0} CP

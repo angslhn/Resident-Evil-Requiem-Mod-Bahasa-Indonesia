@@ -49,7 +49,7 @@
 <string>Tonton video di balik layar.
 <string>Kostum Leon
 <string>Kostum Grace
-<string>Requiem
+<string>RSh-12
 <string>SIG-Sauer P232 (Grace)
 <string>SIG-Sauer P320 (Leon)
 <string>Filter Layar
