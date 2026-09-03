@@ -10,7 +10,7 @@
 <string><ICON HOLD> + <ICON ATTACK>
 <string>Isi Ulang
 <string><ICON RELOAD>
-<string>Lengkapi Requiem
+<string>Lengkapi RSh-12
 <string><ICON EQUIP_RIGHT>
 <string>Periksa item lebih detail dan<lf>kamu mungkin menemukan petunjuk baru.
 <string>Jongkok
@@ -82,9 +82,9 @@
 <string><ICON SHARPEN>
 <string>Jongkok
 <string><ICON CROUCH>
-<string>Lengkapi Requiem
+<string>Lengkapi RSh-12
 <string><ICON EQUIP_DOWN>
-<string>Lengkapi Requiem
+<string>Lengkapi RSh-12
 <string><ICON EQUIP_LEFT>
 <string>Buka Peta
 <string><ICON SUBMENU>

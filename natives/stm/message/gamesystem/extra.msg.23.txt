@@ -4,10 +4,10 @@
 <string>Kostum Grace: Dimitrescu
 <string>Kostum Leon: RE4
 <string>Kostum Leon: Apocalypse
-<string>Skin Senjata S&S M232: Film Noir
-<string>Skin Senjata Requiem: Film Noir
-<string>Skin Senjata S&S M232: Apocalypse
-<string>Skin Senjata Requiem: Apocalypse
+<string>Skin Senjata SIG-Sauer P232: Film Noir
+<string>Skin Senjata RSh-12: Film Noir
+<string>Skin Senjata SIG-Sauer P232: Apocalypse
+<string>Skin Senjata RSh-12: Apocalypse
 <string>Gantungan Mr. Raccoon
 <string>Gantungan Emblem DSO
 <string>Paket Audio: Raccoon City Classic

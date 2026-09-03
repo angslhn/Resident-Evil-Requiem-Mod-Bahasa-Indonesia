@@ -4,11 +4,11 @@
 <string>Hentikan pengemudi buldoser sebelum<lf>kamu menjadi gepeng.
 <string>Hancurkan kipas buldoser sebelum<lf>kamu terlindas.
 <string>Jika zombie membahayakan Emily, turunkan<lf>dia dengan aman di sofa di kantor<lf>penjaga selagi kamu membersihkan mereka.
-<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau Requiem akan membuatnya terhuyung sesaat.
+<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau RSh-12 akan membuatnya terhuyung sesaat.
 <string>Kamu dapat memaksa musuh ke dalam penghancur<lf>dengan membuat mereka terhuyung dan mendorongnya.
 <string>Manfaatkan tangki pembuangan<lf>di dinding. Sangat efektif<lf>melawan zombie.
 <string>Berlari adalah strategi yang baik jika kamu<lf>kewalahan oleh jumlah yang banyak.
-<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau Requiem akan membuatnya terhuyung sesaat.<lf>Jangan ragu menggunakannya saat diperlukan.
+<string>Kamu mungkin tidak dapat menjatuhkan Gadis Itu,<lf>tetapi tembakan yang baik dengan Koktail Molotov<lf>atau RSh-12 akan membuatnya terhuyung sesaat.<lf>Jangan ragu menggunakannya saat diperlukan.
 <string><REF TutorialList_034_Description>
 <string>Asam sangat efektif melawan jaringan<lf>yang terbuka dari Licker β2.
 <string>Coba cari tempat untuk memanjat sehingga kamu dapat<lf>melancarkan serangan sepihak pada Chunk<lf>dari posisi yang lebih tinggi.

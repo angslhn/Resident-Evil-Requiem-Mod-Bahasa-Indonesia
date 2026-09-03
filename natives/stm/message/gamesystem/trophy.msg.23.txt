@@ -69,11 +69,11 @@
 <string>Perselisihan Internal
 <string>Buat zombie menyerang zombie lain di bangsal rumah sakit.
 <string>Keluarkan Senjata Besar
-<string>Buat Gadis Itu terhuyung dengan Requiem.
+<string>Buat Gadis Itu terhuyung dengan RSh-12.
 <string>Pengrajin Ahli
 <string>Racik semua item yang memungkinkan dengan Leon.
 <string>Daya Hancur Maksimal
-<string>Kalahkan setidaknya tiga musuh dengan satu tembakan Requiem.
+<string>Kalahkan setidaknya tiga musuh dengan satu tembakan RSh-12.
 <string>Boleh Aku Pinjam Ini?
 <string>Lempar senjata yang dijatuhkan oleh musuh.
 <string>Tak Tersentuh

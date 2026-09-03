@@ -6,62 +6,62 @@
 <string>Campuran tiga herbal hijau ini<lf>akan memulihkan kesehatanmu sepenuhnya.
 <string>Injektor Medis
 <string>Perangkat yang digunakan untuk<lf>memberikan obat dalam keadaan<lf>darurat. Memulihkan kesehatanmu<lf>sepenuhnya.
-<string>Matilda IMP
+<string>H&K VP70M
 <string>Pistol polimer frame pertama.<lf>Mengustomisasinya untuk burst tiga peluru<lf>memungkinkan operasi seperti senapan mesin ringan.
 <string>Menampilkan basis klasik dengan komponen internal<lf>yang diperbarui, memastikan performa<lf>modern. Kompensator tetap dan sistem<lf>laras berputar meningkatkan ketahanan.
-<string>S&S M232
+<string>SIG-Sauer P232
 <string>Pistol yang sangat andal.<lf>Grace membelinya untuk pertahanan<lf>diri dengan gaji pertamanya.
 <string>Dikembangkan pada tahun 1977<lf>sebagai pistol dinas dan diperbarui<lf>pada tahun 1996. Meskipun bukan<lf>perlengkapan standar FBI, Grace mengadopsinya<lf>untuk penggunaan pribadi karena desainnya<lf>yang ringkas.
-<string>Silencer 9
+<string>SilencerCo Maxim 9
 <string>Pistol yang kuat dan presisi.<lf>Peredam bawaan secara efektif<lf>meredam suara semua tembakan.
 <string>Mengustomisasi jumlah sekat<lf>menyesuaikan seberapa senyap tembakannya.
-<string>B934
+<string>Beretta M1934
 <string>Pistol straight blowback.<lf>Desain dasar antarperang ini<lf>memprioritaskan ketahanan<lf>daripada daya tembak.
 <string>Pistol Italia ini awalnya adalah senjata api<lf>militer kelas atas. Versi Amerika juga dirilis<lf>dan tampaknya telah menjadi senjata pertahanan<lf>diri utama pusat perawatan.
-<string>Redemption
+<string>Thompson Center Arms Encore
 <string>Pistol break-action tembakan tunggal.<lf>Versi kustom dari model pertengahan abad<lf>ke-20 ini memberikan daya tembak<lf>yang luar biasa. Menggunakan amunisi senapan.
 <string>Dirancang untuk tembakan presisi.<lf>Pistol ini memerlukan pengisian ulang<lf>setelah setiap tembakan.
-<string>Ghost Grudge
+<string>Taurus Judge
 <string>Revolver besar dengan simbol iblis<lf>terukir di gagangnya.<lf>Menggunakan peluru 12,7x55mm.
 <string>Kustomisasi Victor memungkinkannya<lf>menembakkan amunisi kaliber besar tetapi dengan<lf>akurasi rendah. Memuat lima peluru.
-<string>Alligator Snapper
+<string>SIG-Sauer P320
 <string>Pistol semi-otomatis yang andal.<lf>Model kustom ini dikeluarkan untuk<lf>personel DSO.
 <string>Frame ukuran penuh dan slide ringkas<lf>meningkatkan kesesuaian keseluruhan<lf>kompensator. Build kustom Joe Kendo.
 <string>
 <string>
-<string>MSBG 500
+<string>Serbu Super Shorty
 <string>Shotgun pump-action yang ringkas.<lf>Menawarkan sebaran yang sangat baik,<lf>tetapi dengan kapasitas terbatas. Dapat<lf>dikustomisasi untuk ledakan yang lebih<lf>lebar.
 <string>Dilengkapi dengan rem moncong dan<lf>dirancang untuk kemampuan manuver, senjata<lf>ini ideal untuk tembakan presisi bahkan<lf>di ruang sempit.
-<string>W870 Police
+<string>Remington 870 PM
 <string>Shotgun pump-action dengan sebaran<lf>yang mengesankan. Memerlukan pegangan<lf>yang kuat untuk mengendalikan kekuatannya yang tinggi.
 <string>Sisa dari toko senjata Robert Kendo.<lf>Memiliki popor lipat bersama dengan<lf>peningkatan kustom lainnya.
-<string>990-TAC
+<string>Mossberg 990 SPX
 <string>Shotgun semi-otomatis modern.<lf>Dengan pengelompokan yang sangat baik,<lf>ideal untuk tembakan presisi. Dot sight<lf>dapat dipasang.
 <string>Senjata yang mudah digunakan dengan laju<lf>tembakan tinggi. Dilengkapi dengan komponen<lf>internal karbon krom untuk pengoperasian<lf>yang mulus dan performa tahan lama.
-<string>Requiem
+<string>RSh-12
 <string>Revolver serbu besar yang dikeluarkan<lf>DSO menggunakan peluru 12,7x55mm.<lf>Menawarkan kemampuan daya tinggi,<lf>senjata yang dapat kamu andalkan.
 <string>Peluru ditembakkan dari ruang paling<lf>bawah untuk mengurangi angkatan<lf>moncong. Meskipun frame dirancang<lf>untuk mengurangi hentakan, tetap<lf>membutuhkan tangan yang kuat.
-<string>Gal
+<string>IMI Uzi
 <string>Senapan mesin ringan yang dikembangkan<lf>pada tahun 1950-an. Kurang akurat tetapi<lf>memiliki kapasitas amunisi besar, cocok<lf>untuk semburan tembakan berkelanjutan.
 <string>Struktur sederhana membuatnya lebih<lf>kecil kemungkinannya macet di pasir<lf>atau lumpur. Beberapa komponen kunci<lf>distempel untuk memfasilitasi produksi<lf>massal dan sangat tahan lama.
-<string>Stiri REVO3 A1
+<string>CZ Scorpion Evo 3 A1
 <string>Senapan mesin ringan polimer frame<lf>yang ringan dan ringkas. Memiliki laju<lf>tembakan tinggi dan menghasilkan kerusakan<lf>yang cukup besar. Tambahkan popor untuk<lf>meningkatkan akurasi.
 <string>Karena portabilitas dan kemudahan penggunaannya,<lf>telah diadopsi secara luas oleh keamanan<lf>VIP. Sakelarnya dirancang untuk<lf>penggunaan dua tangan.
 <string>
 <string>
-<string>Freya's Needle
+<string>Masterpiece Arms MPA30DMG
 <string>Pistol mesin ringan yang dapat dibawa<lf>dengan satu tangan. Memprioritaskan<lf>laju tembakan daripada presisi. Menggunakan<lf>amunisi pistol.
 <string>Dirancang untuk penggunaan sepeda motor militer,<lf>memungkinkan pengoperasian satu tangan saat<lf>berkendara. Pelindung tangan yang dikeluarkan BSAA<lf>memungkinkan kustomisasi.
-<string>RPG-7
+<string>Airtronic RPG-7
 <string>Peluncur roket yang dikembangkan untuk<lf>penggunaan anti-tank. Desain sederhana<lf>memiliki kekuatan yang menghancurkan. Sama<lf>efektifnya melawan musuh non-tank.
 <string>Menggabungkan desain recoilless yang<lf>menghasilkan backblast yang berpotensi<lf>berbahaya saat ditembakkan.
-<string>Classic 70
+<string>Winchester Model 70
 <string>Senapan bolt-action standar.<lf>Dapat menghasilkan daya tembak serius<lf>di tangan yang terampil. Teropong dapat<lf>ditukar atau dilepas.
 <string>Dikembangkan untuk berburu dan kemudian<lf>diadopsi oleh Korps Marinir AS.<lf>Iterasi modern ini adalah reproduksi<lf>akurat dari model berkualitas tinggi<lf>yang dibuat sebelum tahun 1964.
-<string>Marksman 1A
+<string>Springfield M1A
 <string>Senapan marksman semi-otomatis.<lf>Kerusakan per tembakan terbatas,<lf>tetapi memiliki laju tembakan tinggi<lf>dan kecepatan isi ulang yang cepat.
 <string>Model karabin ini adalah varian sipil<lf>berdasarkan senapan militer.<lf>Dilengkapi dengan sistem sasis<lf>yang kokoh.
-<string>Clatter Carbine
+<string>SIG-Sauer MCX VIRTUS
 <string>Senapan serbu yang dilengkapi dengan peredam<lf>besar. Memiliki laju tembakan sedang,<lf>tetapi setiap tembakan cukup kuat.<lf>Menggunakan amunisi senapan mesin.
 <string>Dikembangkan atas permintaan unit operasi<lf>khusus elit, Delta Force.<lf>Peredam besar membuatnya<lf>senjata ideal untuk stealth.
 <string>Gergaji Mesin
@@ -182,112 +182,112 @@
 <string>
 <string>
 <string>
-<string>Granat Tangan
+<string>Nammo SOHG
 <string>Granat tangan yang menyebarkan<lf>gelombang kejut yang kuat saat<lf>meledak.
 <string>Koktail Molotov
 <string>Botol berisi cairan mudah terbakar.<lf>Saat terkena benturan, akan melanda<lf>area sekitar dengan api.
 <string>Botol Kosong
 <string>Botol kaca kosong dengan bau obat<lf>yang samar. Akan pecah dan menarik<lf>perhatian orang di sekitar saat<lf>dilempar.
-<string>Granat Tangan Ganda
+<string>Nammo SOHG (Stacked)
 <string>Granat tangan dengan satu lagi<lf>terpasang di dasarnya. Granat ganda,<lf>ledakan ganda.
 <string>Botol Asam
 <string>Botol berisi asam sulfat pekat<lf>yang sangat efektif melawan<lf>musuh dengan jaringan terbuka.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk H&K VP70M.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Perpanjangan Tabung Perak
 <string>Perpanjangan Tabung Perak +
 <string>Perpanjangan Tabung Perak <FONT 4>★</FONT>
-<string>Bagian kustom untuk W870 Police.<lf>Memperpanjang tabung magazen biasa<lf>untuk <COLOR preset="TextColor3">meningkatkan kapasitas amunisi</COLOR>.
+<string>Bagian kustom untuk Remington 870 PM.<lf>Memperpanjang tabung magazen biasa<lf>untuk <COLOR preset="TextColor3">meningkatkan kapasitas amunisi</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk CZ Scorpion Evo 3 A1.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk SilencerCo Maxim 9.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Perpanjangan Tabung Karbon
 <string>Perpanjangan Tabung Karbon +
 <string>Perpanjangan Tabung Karbon <FONT 4>★</FONT>
-<string>Bagian kustom untuk 990-TAC.<lf>Memperpanjang tabung magazen biasa<lf>untuk <COLOR preset="TextColor3">meningkatkan kapasitas amunisi</COLOR>.
+<string>Bagian kustom untuk Mossberg 990 SPX.<lf>Memperpanjang tabung magazen biasa<lf>untuk <COLOR preset="TextColor3">meningkatkan kapasitas amunisi</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Marksman 1A.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk Springfield M1A.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Gal.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk IMI Uzi.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Pengait Magazen Titanium
 <string>Pengait Magazen Titanium +
 <string>Pengait Magazen Titanium <FONT 4>★</FONT>
-<string>Bagian kustom untuk Gal.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
+<string>Bagian kustom untuk IMI Uzi.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
 <string>Magazen Kapasitas Tinggi
 <string>Magazen Kapasitas Tinggi +
 <string>Magazen Kapasitas Tinggi <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator Snapper.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
+<string>Bagian kustom untuk SIG-Sauer P320.<lf>Kapasitas lebih tinggi dibandingkan<lf>magazen biasa. <COLOR preset="TextColor3">Lebih banyak amunisi<lf>berarti lebih jarang mengisi ulang</COLOR>.
 <string>Pengait Magazen Licin
 <string>Pengait Magazen Licin +
 <string>Pengait Magazen Licin <FONT 4>★</FONT>
-<string>Bagian kustom untuk Alligator Snapper.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
+<string>Bagian kustom untuk SIG-Sauer P320.<lf>Dirancang untuk pengoperasian yang<lf>mulus, memungkinkan <COLOR preset="TextColor3">pergantian<lf>magazen yang cepat</COLOR>.
 <string>Popor Burst
 <string>Popor Burst +
 <string>Popor Burst <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf><COLOR preset="TextColor3">Meningkatkan stabilitas</COLOR> saat<lf>menembak dan memungkinkan<lf><COLOR preset="TextColor3">burst tiga peluru</COLOR>.
+<string>Bagian kustom untuk H&K VP70M.<lf><COLOR preset="TextColor3">Meningkatkan stabilitas</COLOR> saat<lf>menembak dan memungkinkan<lf><COLOR preset="TextColor3">burst tiga peluru</COLOR>.
 <string>Popor Chrome
 <string>Popor Chrome +
 <string>Popor Chrome <FONT 4>★</FONT>
-<string>Bagian kustom untuk W870 Police.<lf>Popor lipat yang sangat kokoh dengan<lf>lapisan chrome.
+<string>Bagian kustom untuk Remington 870 PM.<lf>Popor lipat yang sangat kokoh dengan<lf>lapisan chrome.
 <string>Popor Premier
 <string>Popor Premier +
 <string>Popor Premier <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Popor rumit yang terbuat dari kayu<lf>berkualitas tinggi. Berat yang sempurna<lf>untuk <COLOR preset="TextColor3">tembakan yang stabil</COLOR>.
+<string>Bagian kustom untuk Winchester Model 70.<lf>Popor rumit yang terbuat dari kayu<lf>berkualitas tinggi. Berat yang sempurna<lf>untuk <COLOR preset="TextColor3">tembakan yang stabil</COLOR>.
 <string>Popor Lipat
 <string>Popor Lipat +
 <string>Popor Lipat <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Popor lipat samping yang ringan.
+<string>Bagian kustom untuk CZ Scorpion Evo 3 A1.<lf>Popor lipat samping yang ringan.
 <string>Popor
 <string>Popor +
 <string>Popor <FONT 4>★</FONT>
-<string>Bagian kustom untuk 990-TAC.<lf>Bantalan pipi penyerap kejut<lf>memberikan <COLOR preset="TextColor3">stabilitas ekstra</COLOR> saat menembak.
+<string>Bagian kustom untuk Mossberg 990 SPX.<lf>Bantalan pipi penyerap kejut<lf>memberikan <COLOR preset="TextColor3">stabilitas ekstra</COLOR> saat menembak.
 <string>Gagang Berbobot
 <string>Gagang Berbobot +
 <string>Gagang Berbobot <FONT 4>★</FONT>
-<string>Bagian kustom untuk Requiem.<lf>Berfungsi sebagai penyeimbang untuk<lf><COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR> saat menembak.
+<string>Bagian kustom untuk RSh-12.<lf>Berfungsi sebagai penyeimbang untuk<lf><COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR> saat menembak.
 <string>Trigger Ringan
 <string>Trigger Ringan +
 <string>Trigger Ringan <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf><COLOR preset="TextColor3">Trigger membutuhkan sedikit tenaga</COLOR>,<lf>membuatnya lebih mudah untuk menembak.
+<string>Bagian kustom untuk Winchester Model 70.<lf><COLOR preset="TextColor3">Trigger membutuhkan sedikit tenaga</COLOR>,<lf>membuatnya lebih mudah untuk menembak.
 <string>Trigger Aluminium
 <string>Trigger Aluminium +
 <string>Trigger Aluminium <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Difinishing laser, <COLOR preset="TextColor3">desain ringan<lf>menawarkan pengendalian yang mudah</COLOR>.
+<string>Bagian kustom untuk SilencerCo Maxim 9.<lf>Difinishing laser, <COLOR preset="TextColor3">desain ringan<lf>menawarkan pengendalian yang mudah</COLOR>.
 <string>Baut Duralumin
 <string>Baut Duralumin +
 <string>Baut Duralumin <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Terbuat dari paduan duralumin ringan<lf>jika memungkinkan.
+<string>Bagian kustom untuk Serbu Super Shorty.<lf>Terbuat dari paduan duralumin ringan<lf>jika memungkinkan.
 <string>Batang Aksi Duralumin
 <string>Batang Aksi Duralumin +
 <string>Batang Aksi Duralumin <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Batang aksi ringan yang<lf>memungkinkan <COLOR preset="TextColor3">pump action<lf>yang cepat</COLOR>.
+<string>Bagian kustom untuk Serbu Super Shorty.<lf>Batang aksi ringan yang<lf>memungkinkan <COLOR preset="TextColor3">pump action<lf>yang cepat</COLOR>.
 <string>Choke Duckbill
 <string>Choke Duckbill +
 <string>Choke Duckbill <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Pelat yang menonjol di bagian atas<lf>dan bawah memungkinkan <COLOR preset="TextColor3">tembakan<lf>menyebar secara horizontal</COLOR>.
+<string>Bagian kustom untuk Serbu Super Shorty.<lf>Pelat yang menonjol di bagian atas<lf>dan bawah memungkinkan <COLOR preset="TextColor3">tembakan<lf>menyebar secara horizontal</COLOR>.
 <string>Baut Diperkuat
 <string>Baut Diperkuat +
 <string>Baut Diperkuat <FONT 4>★</FONT>
-<string>Bagian kustom untuk Marksman 1A.<lf>Baut yang diperkeras ini terbuat dari<lf>bahan tahan benturan. Dipoles<lf>untuk pengoperasian yang mulus.
+<string>Bagian kustom untuk Springfield M1A.<lf>Baut yang diperkeras ini terbuat dari<lf>bahan tahan benturan. Dipoles<lf>untuk pengoperasian yang mulus.
 <string>Baut Titanium
 <string>Baut Titanium +
 <string>Baut Titanium <FONT 4>★</FONT>
-<string>Bagian kustom untuk Gal.<lf>Baut kokoh ini dibuat untuk menahan<lf>hentakan dari tembakan cepat. Terbuat<lf>dari titanium tetapi sangat ringan.
+<string>Bagian kustom untuk IMI Uzi.<lf>Baut kokoh ini dibuat untuk menahan<lf>hentakan dari tembakan cepat. Terbuat<lf>dari titanium tetapi sangat ringan.
 <string>Jaket Laras
 <string>Jaket Laras +
 <string>Jaket Laras <FONT 4>★</FONT>
-<string>Bagian kustom untuk Requiem.<lf>Jembatan atas yang kokoh namun<lf>ringan mengintegrasikan bidikan<lf>depan dan belakang menjadi satu<lf>struktur, <COLOR preset="TextColor3">meningkatkan keseimbangan</COLOR>.
+<string>Bagian kustom untuk RSh-12.<lf>Jembatan atas yang kokoh namun<lf>ringan mengintegrasikan bidikan<lf>depan dan belakang menjadi satu<lf>struktur, <COLOR preset="TextColor3">meningkatkan keseimbangan</COLOR>.
 <string>Bilah yang Ditempa
 <string>Bilah yang Ditempa +
 <string>Bilah yang Ditempa <FONT 4>★</FONT>
@@ -299,35 +299,35 @@
 <string>Pegas Seimbang
 <string>Pegas Seimbang +
 <string>Pegas Seimbang <FONT 4>★</FONT>
-<string>Bagian kustom untuk MSBG 500.<lf>Pegas presisi ini menyeimbangkan<lf>operasi umpan dan muat,<lf>memungkinkan <COLOR preset="TextColor3">pengoperasian<lf>yang sangat mulus</COLOR>.
+<string>Bagian kustom untuk Serbu Super Shorty.<lf>Pegas presisi ini menyeimbangkan<lf>operasi umpan dan muat,<lf>memungkinkan <COLOR preset="TextColor3">pengoperasian<lf>yang sangat mulus</COLOR>.
 <string>Pegas Daun yang Ditingkatkan
 <string>Pegas Daun yang Ditingkatkan +
 <string>Pegas Daun yang Ditingkatkan <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Pegas ini membantu memasukkan<lf>peluru dari magazen untuk<lf><COLOR preset="TextColor3">pemuatan yang lebih mulus</COLOR>.
+<string>Bagian kustom untuk Winchester Model 70.<lf>Pegas ini membantu memasukkan<lf>peluru dari magazen untuk<lf><COLOR preset="TextColor3">pemuatan yang lebih mulus</COLOR>.
 <string>Teropong Standar
 <string>Teropong Standar +
 <string>Teropong Standar <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Memungkinkan <COLOR preset="TextColor3">pembesaran target</COLOR>.<lf>Wajib untuk <COLOR preset="TextColor3">tembakan presisi<lf>jarak jauh</COLOR>.
+<string>Bagian kustom untuk Winchester Model 70.<lf>Memungkinkan <COLOR preset="TextColor3">pembesaran target</COLOR>.<lf>Wajib untuk <COLOR preset="TextColor3">tembakan presisi<lf>jarak jauh</COLOR>.
 <string>Teropong Finishing Perak
 <string>Teropong Finishing Perak +
 <string>Teropong Finishing Perak <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Teropong ini memiliki performa optik<lf>tinggi, membuatnya ideal untuk<lf>mengenai target <COLOR preset="TextColor3">jarak jauh</COLOR>.
+<string>Bagian kustom untuk Winchester Model 70.<lf>Teropong ini memiliki performa optik<lf>tinggi, membuatnya ideal untuk<lf>mengenai target <COLOR preset="TextColor3">jarak jauh</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk H&K VP70M.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk CZ Scorpion Evo 3 A1.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk 990-TAC.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk Mossberg 990 SPX.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Teropong Semi-otomatis
 <string>Teropong Semi-otomatis +
 <string>Teropong Semi-otomatis <FONT 4>★</FONT>
-<string>Bagian kustom untuk Marksman 1A.<lf>Cocok untuk senapan semi-otomatis.<lf>Dirancang untuk menahan tekanan<lf>tembakan berkelanjutan.
+<string>Bagian kustom untuk Springfield M1A.<lf>Cocok untuk senapan semi-otomatis.<lf>Dirancang untuk menahan tekanan<lf>tembakan berkelanjutan.
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
@@ -335,35 +335,35 @@
 <string>Dot Sight
 <string>Dot Sight +
 <string>Dot Sight <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
+<string>Bagian kustom untuk SilencerCo Maxim 9.<lf>Memungkinkan <COLOR preset="TextColor3">pembidikan lebih<lf>cepat</COLOR> dan <COLOR preset="TextColor3">tembakan lebih presisi</COLOR>.
 <string>Kompensator Panjang
 <string>Kompensator Panjang +
 <string>Kompensator Panjang <FONT 4>★</FONT>
-<string>Bagian kustom untuk Matilda IMP.<lf>Mengalihkan pengeluaran gas<lf>ke atas, <COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR>.
+<string>Bagian kustom untuk H&K VP70M.<lf>Mengalihkan pengeluaran gas<lf>ke atas, <COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR>.
 <string>Laras Chrome
 <string>Laras Chrome +
 <string>Laras Chrome <FONT 4>★</FONT>
-<string>Bagian kustom untuk W870 Police.<lf>Lapisan chrome yang tahan lama dan<lf>tahan aus melapisi bagian dalam<lf>laras.
+<string>Bagian kustom untuk Remington 870 PM.<lf>Lapisan chrome yang tahan lama dan<lf>tahan aus melapisi bagian dalam<lf>laras.
 <string>Laras PVD
 <string>Laras PVD +
 <string>Laras PVD <FONT 4>★</FONT>
-<string>Bagian kustom untuk Classic 70.<lf>Lapisan PVD meningkatkan ketahanan<lf>dan meminimalkan gesekan, menjamin<lf>performa yang tahan lama.
+<string>Bagian kustom untuk Winchester Model 70.<lf>Lapisan PVD meningkatkan ketahanan<lf>dan meminimalkan gesekan, menjamin<lf>performa yang tahan lama.
 <string>Pelindung Kilat Panjang
 <string>Pelindung Kilat Panjang +
 <string>Pelindung Kilat Panjang <FONT 4>★</FONT>
-<string>Bagian kustom untuk Stiri REVO3 A1.<lf>Mengurangi hentakan dengan<lf>membuang gas ke samping,<lf><COLOR preset="TextColor3">meningkatkan stabilitas</COLOR> selama<lf>tembakan cepat.
+<string>Bagian kustom untuk CZ Scorpion Evo 3 A1.<lf>Mengurangi hentakan dengan<lf>membuang gas ke samping,<lf><COLOR preset="TextColor3">meningkatkan stabilitas</COLOR> selama<lf>tembakan cepat.
 <string>Peredam Tambahan
 <string>Peredam Tambahan +
 <string>Peredam Tambahan <FONT 4>★</FONT>
-<string>Bagian kustom untuk Silencer 9.<lf>Peredam suara tambahan membuat<lf><COLOR preset="TextColor3">tembakan hampir senyap</COLOR>.
+<string>Bagian kustom untuk SilencerCo Maxim 9.<lf>Peredam suara tambahan membuat<lf><COLOR preset="TextColor3">tembakan hampir senyap</COLOR>.
 <string>Laras Lapisan Keramik
 <string>Laras Lapisan Keramik +
 <string>Laras Lapisan Keramik <FONT 4>★</FONT>
-<string>Bagian kustom untuk 990-TAC.<lf>Lapisan keramiknya meningkatkan<lf>ketahanan dan menjaga semuanya<lf>tetap bersih.
+<string>Bagian kustom untuk Mossberg 990 SPX.<lf>Lapisan keramiknya meningkatkan<lf>ketahanan dan menjaga semuanya<lf>tetap bersih.
 <string>Laras Ported
 <string>Laras Ported +
 <string>Laras Ported <FONT 4>★</FONT>
-<string>Bagian kustom untuk Requiem.<lf>Larasnya dilengkapi dengan port gas,<lf>mengeluarkan gas ke atas untuk<lf><COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR>.
+<string>Bagian kustom untuk RSh-12.<lf>Larasnya dilengkapi dengan port gas,<lf>mengeluarkan gas ke atas untuk<lf><COLOR preset="TextColor3">mengurangi angkatan moncong</COLOR>.
 <string>Kompensator
 <string>Kompensator +
 <string>Kompensator <FONT 4>★</FONT>
@@ -379,7 +379,7 @@
 <string>Gantungan Emblem S.T.A.R.S.
 <string>Gantungan untuk senjata otomatis.<lf><COLOR preset="TextColor3">Meningkatkan daya tembak dengan<lf>biaya lebih banyak goyangan saat<lf>membidik</COLOR>.
 <string>Gantungan Kacamata Kekuatan
-<string>Gantungan untuk Requiem.<lf>Menawarkan <COLOR preset="TextColor3">penetrasi peluru tanpa batas<lf>dan meningkatkan daya tembak<lf>peluru terakhir di dalam silinder</COLOR>.
+<string>Gantungan untuk RSh-12.<lf>Menawarkan <COLOR preset="TextColor3">penetrasi peluru tanpa batas<lf>dan meningkatkan daya tembak<lf>peluru terakhir di dalam silinder</COLOR>.
 <string>Amunisi Pistol
 <string>Peluru pistol yang cocok untuk<lf>pengisian otomatis. Disukai karena<lf>lintasan datar dan hentakan sedang.
 <string>Peluru Shotgun

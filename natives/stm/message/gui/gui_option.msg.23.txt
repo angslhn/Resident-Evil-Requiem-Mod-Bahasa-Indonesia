@@ -38,8 +38,8 @@
 <string>Atur ketahanan kapak menjadi tak terbatas.<lf><lf>(Bawaan: Mati)
 <string>Amunisi Senjata Tak Terbatas
 <string>Atur amunisi senjata menjadi tak terbatas.<lf><lf>(Bawaan: Mati)
-<string>Amunisi RPG-7 Tak Terbatas
-<string>Atur amunisi RPG-7 menjadi tak terbatas.<lf><lf>(Bawaan: Mati)
+<string>Amunisi Airtronic RPG-7 Tak Terbatas
+<string>Atur amunisi Airtronic RPG-7 menjadi tak terbatas.<lf><lf>(Bawaan: Mati)
 <string>Kontroler
 <string>Kontroler
 <string>Kontroler

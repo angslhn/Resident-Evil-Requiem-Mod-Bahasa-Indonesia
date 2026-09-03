@@ -80,7 +80,7 @@
 <string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Laporan Grace
 <string>Konten berikut telah ditambahkan ke Bonus:<lf><lf>- Video di Balik Layar<lf>- Laporan Grace
 <string>Berikut sekarang tersedia di Bonus:<lf><lf>- Konten Spesial<lf>- Model<lf>- Seni Konsep
-<string>Kostum dan skin senjata berikut ditambahkan:<lf><lf>- Jaket (Leon)<lf>- Jaket (Grace)<lf>- Senter Taktis (Alligator Snapper)<lf><lf>Catatan: Kamu dapat mengubah kostum dari Pengaturan Bonus.
+<string>Kostum dan skin senjata berikut ditambahkan:<lf><lf>- Jaket (Leon)<lf>- Jaket (Grace)<lf>- Senter Taktis (SIG-Sauer P320)<lf><lf>Catatan: Kamu dapat mengubah kostum dari Pengaturan Bonus.
 <string>
 <string>Total CP: <FONT 3>{0}</FONT>
 <string>Cerita utama selesai.<lf>Detail tantangan telah terbuka.

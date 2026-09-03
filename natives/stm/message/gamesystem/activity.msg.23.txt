@@ -147,7 +147,7 @@
 <string>Tumor pada Blister Borne adalah titik lemahnya, tapi saat meledak akan menyebabkan yang terinfeksi di sekitarnya bermutasi. Atur waktu seranganmu pada tumor dengan hati-hati.
 <string>Cari jalan ke atas permukaan
 <string>Buka palka pada Si Gadis
-<string>Senjata biasa tidak akan berpengaruh pada Si Gadis. Hantam dia dengan cahaya atau buat dia terhuyung dengan tembakan dari Requiem saat kamu mengaktifkan kembali tiga unit daya.
+<string>Senjata biasa tidak akan berpengaruh pada Si Gadis. Hantam dia dengan cahaya atau buat dia terhuyung dengan tembakan dari RSh-12 saat kamu mengaktifkan kembali tiga unit daya.
 <string>Kembali ke Emily
 <string>Jelajahi Raccoon City
 <string>Jelajahi area ini dan cari cara untuk sampai ke Pusat Raccoon City.

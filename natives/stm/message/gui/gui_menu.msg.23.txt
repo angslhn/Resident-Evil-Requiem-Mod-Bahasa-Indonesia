@@ -50,8 +50,8 @@
 <string>Kostum Leon
 <string>Kostum Grace
 <string>Requiem
-<string>S&S M232 (Grace)
-<string>Alligator Snapper (Leon)
+<string>SIG-Sauer P232 (Grace)
+<string>SIG-Sauer P320 (Leon)
 <string>Filter Layar
 <string>BGM
 <string>SFX Menu

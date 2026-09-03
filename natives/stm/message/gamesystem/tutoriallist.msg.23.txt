@@ -85,8 +85,8 @@
 <string>Kepala dan kaki musuh akan mengeluarkan lebih banyak<lf>darah daripada bagian lain setelah dihancurkan, jadi<lf>bidik area tersebut untuk mengumpulkan lebih banyak<lf>darah setelah menjatuhkan mereka.
 <string>Zombie dan Senter
 <string>Zombie tidak akan mengubah perilaku mereka<lf>sebagai respons terhadap senter.
-<string>Requiem
-<string>Gunakan Requiem jika kamu dalam kesulitan.
+<string>RSh-12
+<string>Gunakan RSh-12 jika kamu dalam kesulitan.
 <string>Memilih Senjata
 <string>Gunakan senjata yang tepat untuk situasinya.<lf>Shotgun sangat bagus untuk serangan jarak dekat<lf>dengan daya tembak tinggi.
 <string>Chunk
